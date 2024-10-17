@@ -113,6 +113,51 @@ Here, I_(integration)(t) quantifies the degree of information integration at tim
        - The difference between the prediction and the actual sensory input is called a prediction error.
        - Prediction errors are used to update internal models through learning and adaptation processes.
 
+   - Bayesian Update:
+
+P(θ | D) = P(D | θ) P(θ) / P(D)
+
+P(θ | D) — the posterior probability of hypothesis θ after receiving data D .
+
+> This approach models how the brain updates its predictions based on new data.
+
+
+
+#### 4. The Role of Attention and Working Memory
+##### Attention:
+
+   - Selection Mechanisms: Attention allows for the selection of relevant information from a stream of sensory data for further processing.
+   - Activity Modulation: Attention amplifies signals in relevant neural networks, increasing their contribution to conscious perception.
+
+##### Working Memory:
+
+   - Short-Term Information Retention: Working memory allows for the active maintenance of information for processing and decision-making.
+   - Interaction with Recurrent Networks: Recurrent connections contribute to the sustained activity necessary for working memory.
+
+#### 5. Dynamic Hierarchy of Neural Processes
+##### Multi-level Processing:
+
+   - The brain is organized hierarchically, from lower sensory areas to higher association regions.
+   - Information is processed at different levels of complexity, from simple features to complex concepts.
+
+##### Ascending and Descending Signals:
+
+   - Ascending Pathways: Convey sensory information from receptors to higher areas.
+   - Descending Pathways: Transmit predictions and modulate the activity of lower areas based on contextual information.
+
+##### Role of Recurrence in the Hierarchy:
+
+   - Recurrent connections link different levels, facilitating a continuous exchange of information and updating of predictions.
+
+
+### Neurobiological Foundations of the Theory
+
+The EIRM theory is supported by extensive neurobiological research data demonstrating the key role of information integration, recurrent connections, and predictive coding in brain function and consciousness.
+
+![Neurobiological Foundations of the Theory](/1.jpg "Neurobiological Foundations of the Theory")
+
+
+
 
 
 
