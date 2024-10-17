@@ -112,6 +112,11 @@
 
 • Показывают, что прерывание рекуррентной обработки препятствует осознанию стимула, несмотря на его начальную регистрацию сенсорными областями.
 
+[The distinct modes of vision offered by feedforward and recurrent processing.](https://pubmed.ncbi.nlm.nih.gov/11074267/)
+
+[Conscious, preconscious, and subliminal processing: a testable taxonomy.](https://www.unicog.org/publications/Dehaene%202006%20Conscious,%20preconscious%20Trends%20in%20Cognitive%20Neuroscience.pdf)
+
+
 ### Сравнение с существующими теориями
 
 #### Глобальное рабочее пространство (GWT)
