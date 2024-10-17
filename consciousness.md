@@ -25,3 +25,24 @@ The EIRM theory aims to integrate existing models and data from neurobiological 
 
 Consciousness is a central object of study in neuroscience, psychology, philosophy of mind, and related disciplines. Despite extensive research, the question of how physical processes in the brain give rise to subjective experience remains unanswered. This problem, known as the “hard problem of consciousness” in the words of philosopher David Chalmers, generates numerous discussions and controversies.
 
+
+1.1. Existing Approaches to Studying Consciousness
+
+   - Global Workspace Theory (GWT):
+       - Proposes a model where consciousness arises when information becomes globally available to different cognitive systems.
+       - Highlights the role of information dissemination throughout the brain.
+
+   - Integrated Information Theory (IIT):
+       - Argues that consciousness is linked to a quantifiable measure of integrated information in a system, denoted as Phi (Φ).
+       - Focuses on the structure and complexity of informational connections in neural networks.
+
+   - Predictive Coding:
+       - Views the brain as a hierarchical system constantly predicting sensory inputs and updating its models based on prediction errors.
+       - Emphasizes the role of learning and adaptation in perception.
+
+   - Recurrent Processing:
+       - Points to the importance of feedback loops and recurrent connections in the brain for maintaining and processing information.
+       - Links consciousness to cyclical information processing.
+
+
+
