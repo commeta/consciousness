@@ -98,8 +98,15 @@
 
 • Пациенты с нарушениями сознания: Наблюдалось снижение рекуррентной активности и интеграции информации при коме и вегетативных состояниях.
 
+[Preserved feedforward but impaired top-down processes in the vegetative state.](https://pubmed.ncbi.nlm.nih.gov/21566197/)
+
+[Willful Modulation of Brain Activity in Disorders of Consciousness.](https://pubmed.ncbi.nlm.nih.gov/20130250/)
+
 • Влияние анестезии: Под наркозом снижены показатели интеграции и рекуррентной обработки, что подтверждается измерениями Φₑ.
 
+[A theoretically based index of consciousness independent of sensory processing and behavior.](https://pubmed.ncbi.nlm.nih.gov/23946194/)
+
+[The neural correlates of consciousness: an update.](https://pubmed.ncbi.nlm.nih.gov/18400934/)
 
 #### Эксперименты с визуальной маскировкой
 
