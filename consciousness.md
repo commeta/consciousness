@@ -1,5 +1,7 @@
-
 # Emergent Integration and Recurrent Mapping Theory (EIRM)
+
+[ReadMe на русском](/README.md)
+
 
 | Abstract
 
