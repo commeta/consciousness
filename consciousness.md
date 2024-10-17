@@ -157,6 +157,59 @@ The EIRM theory is supported by extensive neurobiological research data demonstr
 ![Neurobiological Foundations of the Theory](/1.jpg "Neurobiological Foundations of the Theory")
 
 
+#### Integrative Neural Networks
+
+   - Canonical Cortical Microcircuits:
+       - The cerebral cortex contains repeating structures of neural circuitry that integrate inputs from various sources.
+       - Pyramidal neurons: The primary excitatory cells of the cortex with extensive dendritic trees capable of combining numerous synaptic inputs.
+
+   - Long-term and Short-term Connections:
+       - Long-term associative connections: Link distant brain areas, such as the connection between the visual and auditory cortex.
+       - Short-term local connections: Allow neurons within a single area to efficiently exchange information.
+
+
+
+   - Functional Connectivity:
+       - Neuroimaging studies show that conscious states are associated with increased functional connectivity between different brain regions.
+
+#### Recurrent Connections and Loops
+
+   - Thalamocortical Loops:
+       - Thalamus: A central relay station for sensory information to the cortex.
+       - Recurrent connections between the thalamus and cortex provide processing cycles that contribute to the awareness of sensory stimuli.
+
+   - Corticocortical Feedback Loops:
+
+   - Feedback from higher cognitive areas to sensory regions modulates the processing of incoming information.
+       - This allows context and prior experience to influence perception.
+
+   - Recurrent Networks in Visual Cortex:
+       - V1 and higher visual areas: Recurrent connections between primary visual cortex (V1) and higher visual areas contribute to the processing of complex visual stimuli.
+
+#### Predictive Coding
+
+![Predictive Coding](/2.jpg "Predictive Coding")
+
+
+   - Hierarchical Organization of the Brain:
+       - Higher areas generate predictions about sensory inputs, which are passed down the hierarchy.
+       - Lower areas compare these predictions to the actual input and transmit prediction errors upwards.
+
+   - Neural Correlates of Prediction:
+       - Neurophysiological studies show that the activity of some neurons corresponds to predictions, while others encode prediction errors.
+
+   - Examples in Sensory Systems:
+
+       - Visual System:
+           - Illusions distort the brain’s predictions, demonstrating the role of predictive coding in perception.
+           - Activity in visual cortex reflects expectations about visual stimuli.
+
+       - Auditory System:
+           - Predictions about sounds allow for faster and more accurate processing of speech and music.
+
+
+
+
 
 
 
