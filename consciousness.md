@@ -298,17 +298,383 @@ Methods of Calculation:
 
 1. Entropic Approach:
 
-       - Uses mutual information between different components of the system.
+- Uses mutual information between different components of the system.
 
-       - Formula:
+- Formula:
 
-        I₍integration₎(t) = ∑₍i,j₎ [ H(Xᵢ(t)) + H(Xⱼ(t)) - H(Xᵢ(t), Xⱼ(t)) ]
+I₍integration₎(t) = ∑₍i,j₎ [ H(Xᵢ(t)) + H(Xⱼ(t)) - H(Xᵢ(t), Xⱼ(t)) ]
 
-        where:
+where:
+- H(Xᵢ(t)) — entropy of component i.
 
-           - H(Xᵢ(t)) — entropy of component i.
+- H(Xᵢ(t), Xⱼ(t)) — joint entropy of components i and j.
 
-           - H(Xᵢ(t), Xⱼ(t)) — joint entropy of components i and j.
+
+
+
+2. Graph-based methods:
+
+- Analyze connections between neurons or groups of neurons.
+
+- Metrics such as clustering, centrality, and information transmission efficiency are used.
+
+▎Degree of Recurrent Processing (R₍recurrence₎(t))
+
+
+
+
+Definition:
+
+- R₍recurrence₎(t) assesses the quantity and quality of feedback loops within the system.
+
+- Recurrent connections allow the system to incorporate past experience when processing current information.
+
+Methods of Calculation:
+
+1. Density of recurrent connections:
+
+- Formula:
+
+- R₍recurrence₎(t) = (Number of recurrent connections at time t) / (Total possible recurrent connections)
+
+2. Strength of recurrent connections:
+
+- Considers the weight or effectiveness of each recurrent connection.
+
+- Formula:
+
+- R₍recurrence₎(t) = ∑₍i₎ ∑₍j₎ wᵢⱼ(t)
+
+- where wᵢⱼ(t) is the weight of the recurrent connection between neurons i and j at time t.
+
+3. Spectral analysis:
+
+- Examines the dynamic properties of the network.
+
+- Analyzing the eigenvalues and eigenvectors of the recurrent connection matrix to evaluate the system’s stability and dynamics.
+
+▎Justification of the Φₑ Metric
+
+   - Integration over time:
+
+       - Allows for consideration of the dynamics of integration and recurrence processes.
+
+       - Reflects the cumulative effect of interactions among system components.
+
+   - Product of I₍integration₎(t) and R₍recurrence₎(t):
+
+       - Indicates that a high level of consciousness is associated not only with information integration but also with active recurrent processing.
+
+       - These two components mutually reinforce each other’s influence on the overall level of consciousness.
+
+
+
+
+▎Advantages of the Φₑ Metric
+
+   - Integrativeness:
+
+       - Combines different aspects of neural dynamics.
+
+       - Provides a more complete picture of the processes leading to consciousness.
+
+   - Dynamism:
+       - Accounts for changes over time, which is crucial for understanding consciousness as a process rather than a static state.
+
+   - Quantitative assessment:
+
+       - Enables comparisons between different states of the system.
+
+       - Can be used for experiments and modeling.
+
+
+▎Applications of the Φₑ Metric in Research
+
+   - Comparing levels of consciousness:
+
+       - Assessing Φₑ in different states (e.g., wakefulness, sleep, anesthesia).
+
+       - Relating the metric to subjective reports of conscious experience.
+
+   - Modeling pathologies:
+
+       - Investigating impairments in integration or recurrence in various disorders (schizophrenia, dementia).
+
+       - Developing diagnostic criteria based on Φₑ.
+
+   - Artificial intelligence development:
+
+       - Using the metric to evaluate the “consciousness” of artificial systems.
+
+       - Optimizing the architecture of neural networks to increase Φₑ.
+
+#### Recurrent Dynamical Systems
+
+▎Neural Network State Equations
+
+▎Introduction
+
+Recurrent neural networks (RNNs) are a powerful tool for modeling systems where current outputs depend not only on current inputs but also on previous states. This reflects the brain’s characteristic ability to take past experience into account when processing new information.
+
+▎Mathematical Model
+
+The fundamental state equation is:
+
+d𝐱/dt = 𝐟(𝐱(t), 𝐮(t), 𝑊)
+
+where:
+
+   - d𝐱/dt is the derivative of the network’s state with respect to time (rate of state change).
+
+   - 𝐱(t) is the network’s state vector at time t.
+
+   - 𝐮(t) is the vector of external input signals at time t.
+
+   - 𝑊 is the weight matrix of connections within the network.
+
+   - 𝐟 is a non-linear activation function (e.g., sigmoid, ReLU, hyperbolic tangent).
+
+▎Model Components
+
+▎Network State (𝐱(t))
+
+   - Represents the activation values of all neurons in the network at time t.
+
+   - Incorporates information from previous activations due to recurrent connections.
+
+▎Input Signals (𝐮(t))
+
+   - External stimuli entering the network.
+
+   - Can be sensory data or signals from other parts of the system.
+
+
+
+▎Weight Matrix (𝑊)
+
+   - Contains:
+
+       - 𝑊₍input₎ – weights of input connections (from inputs to hidden neurons).
+
+       - 𝑊₍recurrence₎ – weights of recurrent connections (from neurons to themselves or other neurons within the network).
+
+       - 𝑊₍output₎ – weights of output connections (from hidden neurons to network outputs).
+
+   - Recurrent connections provide the system with memory and context.
+
+
+
+▎Example: A Simple Recurrent Network
+
+Neuron state update:
+
+h(t) = ϕ(𝑊hh ⋅ h(t-1) + 𝑊hx ⋅ x(t) + bh)
+
+where:
+
+   - h(t) is the hidden layer state at time t.
+
+   - h(t-1) is the hidden layer state at the previous time step.
+
+   - x(t) is the input signal.
+
+   - 𝑊hh is the recurrent weight matrix.
+
+   - 𝑊hx is the input weight matrix.
+
+   - bh is the bias vector.
+
+   - ϕ is the activation function.
+
+Network output:
+
+y(t) = ψ(𝑊ho ⋅ h(t) + bo)
+
+where:
+
+   - y(t) is the network output.
+
+   - 𝑊ho is the weight matrix from the hidden layer to the output.
+
+   - bo is the bias vector.
+
+   - ψ is the activation function (can vary depending on the task).
+
+
+
+▎Advantages of Recurrent Systems
+
+   - Handling temporal sequences:
+
+       - Can process sequential data such as speech, text, and video.
+
+       - Maintain internal memory of previous inputs.
+
+   - Modeling non-linear dynamics:
+
+       - Capable of representing complex dependencies in data.
+
+       - Reflect the non-linear nature of neural processes in the brain.
+
+▎Limitations and Problem Solving
+
+   - Exploding and vanishing gradients:
+
+       - When training long sequences, gradients can become too large or too small.
+
+       - Solution: using advanced architectures such as LSTM or GRU.
+
+  - Computational resource demands:
+
+       - Modeling recurrent connections requires more computational power.
+
+       - Optimization of algorithms and resource utilization.
+
+
+▎Applications in Integrated Information Theory (IIT)
+
+   - Modeling conscious processes:
+
+       - Recurrent networks reflect the brain’s ability to integrate information over time.
+
+       - Allow investigation into the dynamics of interactions between neuronal ensembles.
+
+   - Analyzing activity patterns:
+
+       - Investigating how specific activation patterns relate to subjective experience.
+
+       - Potential for modeling different states of consciousness.
+
+
+#### Predictive Updating of Models
+
+▎Bayesian Updating
+
+▎Introduction
+
+In the context of Integrated Information Theory (IIT), predictive coding plays a crucial role. The brain continuously builds models of the surrounding world and updates them based on new data. Bayesian statistics provides a mathematical framework for such an updating process.
+
+
+
+▎The Basic Bayesian Formula P(θ | D) = [ P(D | θ) × P(θ) ] / P(D)
+
+where:
+
+   - P(θ | D) is the posterior probability of model parameters θ after considering data D.
+
+   - P(D | θ) is the likelihood of data D given parameters θ (how likely is it to obtain data D if the model with parameters θ is correct).
+
+   - P(θ) is the prior probability of parameters θ before considering data D (our initial estimate of the parameters).
+
+   - P(D) is the marginal likelihood of data D (a normalizing factor ensuring the sum of probabilities equals 1).
+
+▎Components of Bayesian Updating
+
+   - Prior distribution P(θ):
+
+       - Represents initial beliefs about model parameters.
+
+       - In the brain, it may correspond to previously acquired knowledge or intuition.
+
+   - Likelihood P(D | θ):
+
+       - Evaluates how well the current model explains new data.
+
+       - Reflects the brain’s expectations regarding sensory inputs.
+
+   - Posterior distribution P(θ | D):
+
+       - Updated beliefs after considering new data.
+
+       - Allows for adjusting the model for more accurate prediction of future events.
+
+   - Marginal likelihood P(D):
+
+       - Calculated as an integral over all possible values of θ.
+
+       - Often difficult to compute, but a constant when updating parameters.
+
+
+
+
+▎Application in Predictive Coding
+
+   - Prediction error:
+
+       - The brain compares expected sensory signals with actual ones.
+
+       - The difference between them is used to update the model.
+
+   - Updating model parameters:
+
+       - Parameter adjustments are made in the direction of reducing prediction error.
+
+       - The greater the mismatch, the more significant the parameter change.
+
+
+▎Mathematical Representation of Updating
+
+   - Parameter update:
+
+   - θn+1 = θn + η × ∇θ L(θn, Dn)
+
+   - where:
+
+       - θn is the current model parameters at step n.
+
+       - η is the learning rate.
+
+       - ∇θ L(θn, Dn) is the gradient of the loss function L with respect to parameters θ on data Dn.
+
+   - The loss function L can be defined as the negative log-likelihood:
+
+   - L(θ, D) = -ln P(D | θ)
+
+
+
+
+▎Applications in the Brain
+
+   - Sensory systems:
+
+       - Predicting sensory inputs based on context and past experience.
+
+       - For example, anticipating a certain visual stimulus in a familiar setting.
+
+   - Attention and learning:
+
+       - Increased attention to stimuli that do not match expectations.
+
+       - Accelerated learning on anomalous or novel data.
+
+▎Example
+
+Imagine a person expecting to see a green traffic light when approaching an intersection (prior knowledge). However, the light turns out to be red (new data). The prediction error leads to a model update – the person now adjusts their expectations and stops.
+
+▎Significance in IIT
+
+   - Adaptability:
+
+       - Ability to respond quickly to changes in the environment.
+
+       - Constant updating of internal models for more accurate interaction with the world.
+
+   - Emergence of consciousness:
+
+       - Predictive coding and Bayesian updating contribute to the formation of subjective experience.
+
+       - Allow integration of past experience with current stimuli, creating a continuous stream of consciousness.
+
+#### Conclusion
+
+The detailed aspects of the integrated information metric, recurrent dynamical systems, and predictive updating of models highlight the complexity and multi-faceted nature of the processes underlying consciousness. The Φe metric integrates quantitative measurements of integration and recurrence, providing a tool for assessing the level of consciousness. Recurrent neural networks model the dynamics of neuronal interactions, reflecting the brain’s ability to account for past experience. Bayesian updating describes how the brain updates its internal models based on new data, which is crucial for adaptability and learning.
+
+IIT, by combining these components, offers a comprehensive view of the mechanisms of consciousness, opening new avenues for research in neuroscience and related fields.
+
+---
+
+
+
 
 
 
