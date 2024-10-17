@@ -675,6 +675,29 @@ IIT, by combining these components, offers a comprehensive view of the mechanism
 
 ---
 
+### Supporting Research and Data
+#### Neuroimaging Studies
+
+   - Functional MRI and PET scans: Demonstrated increased connectivity and activity in recurrent circuits during conscious states.
+
+   > Research shows differences in brain activity between conscious and unconscious states, demonstrating decreased functional connectivity in coma and vegetative states. 
+[Laureys, S., Owen, A. M.,  Schiff, N. D.(2004. Brain function in coma, vegetative state, and related disorders.](https://pubmed.ncbi.nlm.nih.gov/15324722/)
+
+
+   > The article discusses the neurobiological mechanisms of consciousness, highlighting the role of recurrent neural networks and the global neuronal workspace in conscious perception. [Dehaene, S.,  Changeux, J. P. 2011. Experimental and theoretical approaches to conscious processing.](https://pubmed.ncbi.nlm.nih.gov/21521609/)
+
+
+   - EEG and MEG: Recorded synchronization of neuronal activity in the gamma band, associated with conscious perception.
+
+   > Research demonstrates how gamma band synchronization contributes to information integration and is associated with conscious perception.
+[Engel, A. K., Fries, P.,  Singer, W. 2001. Dynamic predictions: oscillations and synchrony in top–down processing.](https://pubmed.ncbi.nlm.nih.gov/11584308/)
+
+   > The article shows a correlation between inter-regional neural activity synchronization and conscious perception of stimuli.
+[Synchronization of neural activity across cortical areas correlates with conscious perception.](https://www.jneurosci.org/content/27/11/2858)
+
+
+
+
 
 
 
