@@ -83,14 +83,19 @@
 #### Нейровизуализационные исследования
 
 • Функциональная МРТ и ПЭТ-сканирование: Показали увеличение связности и активности в рекуррентных контурах во время сознательных состояний.
+[Laureys, S., Owen, A. M.,  Schiff, N. D. (2004). Brain function in coma, vegetative state, and related disorders.](https://pubmed.ncbi.nlm.nih.gov/15324722/)
+[Dehaene, S.,  Changeux, J. P. (2011). Experimental and theoretical approaches to conscious processing.](https://pubmed.ncbi.nlm.nih.gov/21521609/)
 
 • ЭЭГ и МЭГ: Зарегистрировали синхронизацию нейронной активности в гамма-диапазоне, связанного с осознанным восприятием.
+[https://pubmed.ncbi.nlm.nih.gov/11584308/](Engel, A. K., Fries, P.,  Singer, W. (2001). Dynamic predictions: oscillations and synchrony in top–down processing.)
+[https://www.jneurosci.org/content/27/11/2858](Synchronization of neural activity across cortical areas correlates with conscious perception.)
 
 #### Клинические наблюдения
 
 • Пациенты с нарушениями сознания: Наблюдалось снижение рекуррентной активности и интеграции информации при коме и вегетативных состояниях.
 
 • Влияние анестезии: Под наркозом снижены показатели интеграции и рекуррентной обработки, что подтверждается измерениями Φₑ.
+
 
 #### Эксперименты с визуальной маскировкой
 
