@@ -207,6 +207,112 @@ The EIRM theory is supported by extensive neurobiological research data demonstr
        - Auditory System:
            - Predictions about sounds allow for faster and more accurate processing of speech and music.
 
+#### The Role of Attention and Working Memory
+
+   - Neural Mechanisms of Attention:
+       - Pulvinar of the thalamus and frontal areas: Involved in attentional modulation by influencing the activity of sensory areas.
+       - Neuromodulators: Such as acetylcholine and norepinephrine, regulate attentional levels and enhance the synchronization of neural networks.
+
+   - Working Memory and Prefrontal Cortex:
+       - The prefrontal cortex is responsible for maintaining information in working memory.
+       - Recurrent connections within the prefrontal cortex and with other areas allow for the retention and manipulation of information.
+
+   - Interaction with Other Systems:
+       - Hippocampus: Interacts with working memory, contributing to consolidated memory and learning.
+       - Striatum: Involved in action selection based on the stored information.
+
+#### Evidence from Neuroimaging Studies
+
+   - Functional MRI:
+       - Conscious states show enhanced activity and connectivity in recurrent networks.
+       - Performing tasks requiring attention and working memory is associated with increased activation of prefrontal and parietal areas.
+
+   - EEG and MEG:
+       - Synchronization of neuronal activity in the gamma range correlates with conscious perception and attention.
+       - These oscillations reflect recurrent interactions between neural networks.
+
+#### Clinical Observations and Pathologies
+
+   - Disorders of Consciousness:
+       - Patients with disorders of consciousness exhibit impaired functional connectivity and information integration.
+       - Damage to areas responsible for recurrent connections results in diminished awareness.
+
+   - Psychiatric Disorders:
+       - Schizophrenia and other disorders may be associated with impairments in predictive coding and recurrent processing.
+       - This leads to distorted perceptions and cognitive dysfunction.
+
+   - Neurodegenerative Diseases:
+       - Alzheimer’s disease and other dementias are characterized by impaired information integration and reduced functional connectivity.
+
+
+#### Mathematical Modeling and Simulations
+
+   - Models of Recurrent Neural Networks:
+       - Computer models demonstrate how recurrent connections and predictive coding can give rise to complex cognitive phenomena.
+       - These models help to understand the dynamics of neural networks and the mechanisms of emergence.
+
+   - Learning and Adaptation:
+       - The use of learning algorithms, such as Backpropagation Through Time, reflects the processes of updating internal models based on prediction errors.
+
+The EIRM theory offers a holistic view of how consciousness might arise from complex neural processes of information integration, recurrent processing, and predictive coding. It integrates data from diverse areas of neuroscience, psychology, and computational neurobiology, offering a coherent and well-grounded model of consciousness.
+
+---
+
+### Mathematical Formalization
+
+![Mathematical Formalization](/3.jpg "Mathematical Formalization")
+
+#### Emergent Integrated Information (Φₑ)
+
+▎Introduction
+
+Emergent Integrated Information (Φₑ) is a central metric in the Emergent Integration and Recurrent Mapping Theory (EIRM). It is designed to quantify the level of consciousness in a system, considering both the amount of integrated information and the quality of its processing within the context of recurrent connections.
+
+
+▎Metric Formula
+
+Φₑ = ∫₍t₀₎^(t₁) [ I₍integration₎(t) × R₍recurrence₎(t) ] dt
+
+where:
+
+   - I₍integration₎(t) — the degree of information integration at time t.
+
+   - R₍recurrence₎(t) — the degree of recurrent processing at time t.
+
+   - The integral is calculated over the time interval from t₀ to t₁.
+
+
+
+
+▎Metric Components
+
+▎Degree of Information Integration (I₍integration₎(t))
+
+Definition:
+
+   - I₍integration₎(t) measures how interconnected and integrated information is across different parts of the system at time t.
+
+   - A high degree of integration indicates that different components of the system exchange information effectively, creating a unified representation.
+
+Methods of Calculation:
+
+1. Entropic Approach:
+
+       - Uses mutual information between different components of the system.
+
+       - Formula:
+
+        I₍integration₎(t) = ∑₍i,j₎ [ H(Xᵢ(t)) + H(Xⱼ(t)) - H(Xᵢ(t), Xⱼ(t)) ]
+
+        where:
+
+           - H(Xᵢ(t)) — entropy of component i.
+
+           - H(Xᵢ(t), Xⱼ(t)) — joint entropy of components i and j.
+
+
+
+
 
 
 
