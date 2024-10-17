@@ -84,36 +84,46 @@
 
 • Функциональная МРТ и ПЭТ-сканирование: Показали увеличение связности и активности в рекуррентных контурах во время сознательных состояний.
 
+| Исследование показывает различия в мозговой активности между сознательными и бессознательными состояниями, демонстрируя снижение функциональной связности при коме и вегетативных состояниях.
 [Laureys, S., Owen, A. M.,  Schiff, N. D.(2004. Brain function in coma, vegetative state, and related disorders.](https://pubmed.ncbi.nlm.nih.gov/15324722/)
 
+| Статья обсуждает нейробиологические механизмы сознания, указывая на роль рекуррентных нейронных сетей и глобальной нейрональной рабочей области в сознательном восприятии.
 [Dehaene, S.,  Changeux, J. P. 2011. Experimental and theoretical approaches to conscious processing.](https://pubmed.ncbi.nlm.nih.gov/21521609/)
 
 • ЭЭГ и МЭГ: Зарегистрировали синхронизацию нейронной активности в гамма-диапазоне, связанного с осознанным восприятием.
 
+| Исследование демонстрирует, как синхронизация в гамма-диапазоне способствует интеграции информации и связана с осознанным восприятием.
 [Engel, A. K., Fries, P.,  Singer, W. 2001. Dynamic predictions: oscillations and synchrony in top–down processing.](https://pubmed.ncbi.nlm.nih.gov/11584308/)
 
+| Статья показывает корреляцию между межобластной синхронизацией нейронной активности и осознанным восприятием стимулов.
 [Synchronization of neural activity across cortical areas correlates with conscious perception.](https://www.jneurosci.org/content/27/11/2858)
 
 #### Клинические наблюдения
 
 • Пациенты с нарушениями сознания: Наблюдалось снижение рекуррентной активности и интеграции информации при коме и вегетативных состояниях.
 
+| Исследование выявило, что у пациентов в вегетативном состоянии сохранены нисходящие связи, но нарушены восходящие рекуррентные процессы, что препятствует интеграции информации.
 [Preserved feedforward but impaired top-down processes in the vegetative state.](https://pubmed.ncbi.nlm.nih.gov/21566197/)
 
+| Статья демонстрирует возможность выявления скрытого сознания у пациентов с минимальным сознанием посредством функциональной МРТ, показывая изменения в мозговой активности.
 [Willful Modulation of Brain Activity in Disorders of Consciousness.](https://pubmed.ncbi.nlm.nih.gov/20130250/)
 
 • Влияние анестезии: Под наркозом снижены показатели интеграции и рекуррентной обработки, что подтверждается измерениями Φₑ.
 
+| Исследование вводит индекс Φ_complexity для оценки уровня сознания, показывая его снижение под действием анестезии.
 [A theoretically based index of consciousness independent of sensory processing and behavior.](https://pubmed.ncbi.nlm.nih.gov/23946194/)
 
+| Обзор теорий сознания, включая обсуждение интегрированной информации и влияния анестезии на показатели интеграции.
 [The neural correlates of consciousness: an update.](https://pubmed.ncbi.nlm.nih.gov/18400934/)
 
 #### Эксперименты с визуальной маскировкой
 
 • Показывают, что прерывание рекуррентной обработки препятствует осознанию стимула, несмотря на его начальную регистрацию сенсорными областями.
 
+| Исследование различает прямую и рекуррентную обработку в зрительной системе, показывая роль рекуррентных связей в осознании визуальных стимулов.
 [The distinct modes of vision offered by feedforward and recurrent processing.](https://pubmed.ncbi.nlm.nih.gov/11074267/)
 
+| Статья предлагает таксономию различных уровней сознательной обработки и обсуждает влияние визуальной маскировки на осознание стимулов.
 [Conscious, preconscious, and subliminal processing: a testable taxonomy.](https://www.unicog.org/publications/Dehaene%202006%20Conscious,%20preconscious%20Trends%20in%20Cognitive%20Neuroscience.pdf)
 
 
