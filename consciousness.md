@@ -44,5 +44,31 @@ Consciousness is a central object of study in neuroscience, psychology, philosop
        - Points to the importance of feedback loops and recurrent connections in the brain for maintaining and processing information.
        - Links consciousness to cyclical information processing.
 
+1.2. The Need for an Integrative Theory
+
+Existing models offer valuable insights into consciousness, but often consider it from a single perspective, overlooking the complexity of interactions within the brain. For example:
+
+   - GWT emphasizes information dissemination but doesn’t sufficiently explain how this information is integrated and experienced consciously.
+   - IIT provides a quantitative measure of consciousness but struggles to explain dynamic processes and the role of recurrence.
+   - Predictive coding focuses on sensory processing and learning, but doesn’t encompass all aspects of subjective experience.
+
+Therefore, there is a need for an integrative theory that combines key elements of these approaches, creating a holistic understanding of the mechanisms of consciousness.
+
+## Core Principles of the EIRM Theory
+### 1. Emergence of Consciousness
+
+Definition of Emergence: Emergence is the appearance of new properties or qualities in a complex system that cannot be predicted or explained solely based on the properties of individual components.
+
+#### Consciousness as an Emergent Property:
+
+   - Consciousness is not the result of the activity of individual neurons or even individual brain areas.
+   - It arises from the complex dynamics of interactions between different neural networks and systems.
+   - The collective activity of neurons, their synchronization, and coordination lead to the emergence of subjective experience.
+
+#### Examples of Emergence in Neural Networks:
+
+   - Synchronization of neuronal oscillations: Collective waves of activity, such as gamma rhythms, are not inherent to individual neurons, but arise from their interactions.
+   - Processing of images and concepts: High-level representations, such as concepts or abstract ideas, emerge from the interaction of multiple neural circuits.
+
 
 
