@@ -70,5 +70,50 @@ Definition of Emergence: Emergence is the appearance of new properties or qualit
    - Synchronization of neuronal oscillations: Collective waves of activity, such as gamma rhythms, are not inherent to individual neurons, but arise from their interactions.
    - Processing of images and concepts: High-level representations, such as concepts or abstract ideas, emerge from the interaction of multiple neural circuits.
 
+### 2. Information Integration
+#### The Necessity of Integration:
+
+   - For a unified perception of the world, the brain must integrate information from various sensory channels and cognitive processes.
+   - Integration allows disparate information to be connected, creating a comprehensive and coherent experience.
+
+#### Integration Mechanisms
+
+Functional connections between brain areas: Neural pathways connecting different regions, such as visual, auditory, and somatosensory cortices.
+
+##### Global Workspace:
+
+
+   - The concept of a global workspace suggests that consciousness arises when information becomes accessible to multiple cognitive processes through a widely distributed network.
+   - Integrated information is broadcast throughout this network, allowing various cognitive systems to utilize it simultaneously.
+
+#### Metric of Integrated Information:
+
+Phi (Φ): A measure of the amount of integrated information in a system.
+
+Phi-emergence (Φₑ):
+
+Φₑ = ∫[](t₀)^(t₁) (( I_(integration)(t) × R_(recurrence)(t) )) dt
+
+Here, I_(integration)(t) quantifies the degree of information integration at time t .
+
+
+### 3. Recurrent Processing and Prediction
+#### Role of Recurrent Connections:
+
+   - Recurrent Networks: Networks where the output signals of neurons influence their own inputs or the inputs of previous layers.
+   - Maintaining Activity: Recurrent connections allow information to be maintained in an active state, which is crucial for conscious perception and working memory.
+
+#### Predictive Coding:
+
+   - The Brain as a Predictor:
+       - The brain continuously generates predictions about sensory inputs based on past experiences and internal models of the world.
+       - Predictions allow for rapid and efficient processing of information by focusing on crucial changes.
+
+   - Prediction Errors:
+       - The difference between the prediction and the actual sensory input is called a prediction error.
+       - Prediction errors are used to update internal models through learning and adaptation processes.
+
+
+
 
 
