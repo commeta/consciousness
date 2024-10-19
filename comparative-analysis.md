@@ -177,3 +177,6 @@ HOT предполагают, что сознание требует не тол
 
 25. Rao, R. P.,  Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. *Nature Neuroscience*, 2(1), 79–87.
 
+---
+
+Оглавление: [Теория Эмергентной Интеграции и Рекуррентного Отображения](/README.md)
