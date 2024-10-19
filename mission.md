@@ -1,5 +1,8 @@
 # ЭИРО: От нейронов к звездам
 
+Оглавление: [Теория Эмергентной Интеграции и Рекуррентного Отображения](/README.md)
+
+---
 
 ![Теория Эмергентной Интеграции и Рекуррентного Отображения](https://sun9-75.userapi.com/impg/hop0dMVJdTWLd7oZyI-23aTeMM8vvSjRBseMgg/p_Cb5ZwVmT4.jpg?size=700x700&quality=96&sign=f080637c78f657330d61bc9345745ec2&type=album)
 
