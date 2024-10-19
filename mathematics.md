@@ -244,3 +244,7 @@ I(Xᵢ(t + Δ t); Xⱼ(t)) = H(Xᵢ(t + Δ t)) - H(Xᵢ(t + Δ t) | Xⱼ(t)),
 
 6. Lizier, J. T., Heinzle, J., Horstmann, A., Haynes, J. D.,  Prokopenko, M. (2011). Multivariate information-theoretic measures reveal directed information structure and task relevant changes in fMRI connectivity. *Journal of Computational Neuroscience*, 30(1), 85–107. DOI: 10.1007/s10827-010-0271-2 (https://doi.org/10.1007/s10827-010-0271-2)
 
+
+---
+
+Оглавление: [Теория Эмергентной Интеграции и Рекуррентного Отображения](/README.md)
