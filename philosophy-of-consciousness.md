@@ -219,3 +219,7 @@ GNWT, разработанная Бернардом Баарсом и подде
 14. Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5(1), 42.
 
 15. Tononi, G.,  Edelman, G. M. (1998). Consciousness and complexity. *Science*, 282(5395), 1846–1851.
+
+---
+
+Оглавление: [Теория Эмергентной Интеграции и Рекуррентного Отображения](/README.md)
