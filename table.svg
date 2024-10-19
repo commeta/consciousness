@@ -1,0 +1,30 @@
+<svg width="700" height="650" xmlns="http://www.w3.org/2000/svg">
+  <!-- Определение стилей -->
+  <defs>
+    <style type="text/css">
+      .circle1 { fill: rgba(255, 99, 71, 0.6); }
+      .circle2 { fill: rgba(60, 179, 113, 0.6); }
+      .circle3 { fill: rgba(65, 105, 225, 0.6); }
+      .label { font-size: 18px; text-anchor: middle; font-family: Arial, sans-serif; }
+      .title { font-size: 22px; font-weight: bold; }
+    </style>
+  </defs>
+  <!-- Рисование кругов -->
+  <circle cx="350" cy="250" r="200" class="circle1"/>
+  <circle cx="200" cy="400" r="200" class="circle2"/>
+  <circle cx="500" cy="400" r="200" class="circle3"/>
+  <!-- Метки кругов -->
+  <text x="350" y="70" class="label title">IIT</text>
+  <text x="350" y="100" class="label">Интегрированная</text>
+  <text x="350" y="125" class="label">Информация</text>
+  
+  <text x="200" y="620" class="label title">GWT</text>
+  <text x="200" y="650" class="label">Глобальная Рабочая</text>
+  <text x="200" y="675" class="label">Теория</text>
+  
+  <text x="500" y="620" class="label title">Предсказательное</text>
+  <text x="500" y="650" class="label">Кодирование</text>
+  
+  <!-- Метка в центре пересечения -->
+  <text x="350" y="400" class="label title" font-size="26px">ЭИРО</text>
+</svg>
