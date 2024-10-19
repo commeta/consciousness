@@ -147,3 +147,6 @@ P(θ | D) = P(D | θ) ⋅ P(θ) / P(D),
 
 • Summerfield, C.,  Egner, T. (2009). Expectation (and attention) in visual cognition. *Trends in Cognitive Sciences*, 13(9), 403–409.
 
+---
+
+Оглавление: [Теория Эмергентной Интеграции и Рекуррентного Отображения](/README.md)
