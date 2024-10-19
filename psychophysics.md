@@ -186,3 +186,7 @@ d𝐱 / dt = 𝐟(𝐱(t), 𝐮(t), W),
 11. Levitt, H. (1971). Transformed up‐down methods in psychoacoustics. *The Journal of the Acoustical Society of America*, 49(2B), 467–477.
 
 12. Maruya, K., Watanabe, H.,  Watanabe, M. (2008). Adaptation to invisible motion results in low-level but not high-level aftereffects. *Journal of Vision*, 8(11), 7.
+
+---
+
+Оглавление: [Теория Эмергентной Интеграции и Рекуррентного Отображения](/README.md)
