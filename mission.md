@@ -62,4 +62,4 @@
 
 Оглавление: [Теория Эмергентной Интеграции и Рекуррентного Отображения](/README.md)
 
-Copyright 2024 commeta <dcs-spb@ya.ru>
+2024 commeta <dcs-spb@ya.ru>
