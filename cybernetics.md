@@ -272,3 +272,8 @@ P(θ | D) = P(D | θ) ⋅ P(θ) / P(D),
 12. Tononi, G. (2008). Consciousness as integrated information: a provisional manifesto. *Biological Bulletin*, 215(3), 216–242.
 
 13. Wiener, N. (1948). Cybernetics: or Control and Communication in the Animal and the Machine. MIT Press.
+
+
+---
+
+Оглавление: [Теория Эмергентной Интеграции и Рекуррентного Отображения](/README.md)
