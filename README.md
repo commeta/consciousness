@@ -937,5 +937,4 @@ P(θ | D) = [ P(D | θ) × P(θ) ] / P(D)
 5. Dehaene, S.,  Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
 
 
-Copyright 2024 commeta <dcs-spb@ya.ru>
 
