@@ -935,3 +935,7 @@ P(θ | D) = [ P(D | θ) × P(θ) ] / P(D)
 4. Lamme, V. A. F. (2006). Towards a true neural stance on consciousness. *Trends in Cognitive Sciences*, 10(11), 494-501.
 
 5. Dehaene, S.,  Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
+
+
+Copyright 2024 commeta <dcs-spb@ya.ru>
+
