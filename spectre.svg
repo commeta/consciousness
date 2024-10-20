@@ -1,0 +1,116 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Определение стилей -->
+  <style>
+    .axis {
+      stroke: #000;
+      stroke-width: 1;
+    }
+    .grid {
+      stroke: #ccc;
+      stroke-width: 0.5;
+    }
+    .theory-line {
+      stroke: red;
+      stroke-width: 2;
+      fill: none;
+    }
+    .data-point {
+      fill: black;
+    }
+    .error-bar {
+      stroke: black;
+      stroke-width: 1;
+    }
+    .label {
+      font-size: 14px;
+      text-anchor: middle;
+    }
+  </style>
+
+  <!-- Фон -->
+  <rect x="0" y="0" width="600" height="400" fill="white"/>
+
+  <!-- Сетка по оси X -->
+  <g>
+    <!-- Линии сетки -->
+    <g>
+      <line x1="50" y1="350" x2="550" y2="350" class="grid"/>
+      <line x1="50" y1="300" x2="550" y2="300" class="grid"/>
+      <line x1="50" y1="250" x2="550" y2="250" class="grid"/>
+      <line x1="50" y1="200" x2="550" y2="200" class="grid"/>
+      <line x1="50" y1="150" x2="550" y2="150" class="grid"/>
+      <line x1="50" y1="100" x2="550" y2="100" class="grid"/>
+      <line x1="50" y1="50" x2="550" y2="50" class="grid"/>
+    </g>
+    <!-- Подписи по оси Y -->
+    <g>
+      <text x="30" y="355" class="label">0</text>
+      <text x="30" y="305" class="label">500</text>
+      <text x="30" y="255" class="label">1000</text>
+      <text x="30" y="205" class="label">1500</text>
+      <text x="30" y="155" class="label">2000</text>
+      <text x="30" y="105" class="label">2500</text>
+      <text x="30" y="55" class="label">3000</text>
+    </g>
+  </g>
+
+  <!-- Ось X -->
+  <line x1="50" y1="350" x2="550" y2="350" class="axis" />
+  <!-- Ось Y -->
+  <line x1="50" y1="50" x2="50" y2="350" class="axis" />
+
+  <!-- Подписи по оси X -->
+  <g>
+    <text x="100" y="370" class="label">500</text>
+    <text x="200" y="370" class="label">1000</text>
+    <text x="300" y="370" class="label">1500</text>
+    <text x="400" y="370" class="label">2000</text>
+    <text x="500" y="370" class="label">2500</text>
+  </g>
+
+  <!-- Названия осей -->
+  <text x="300" y="395" class="label">Мультипольный момент ℓ</text>
+  <text x="15" y="200" class="label" transform="rotate(-90 15,200)">ℓ(ℓ+1)Cℓ/2π [μK²]</text>
+
+  <!-- Теоретическая кривая -->
+  <path class="theory-line" d="
+    M50,350
+    C100,300 150,200 200,150
+    C250,100 300,80 350,90
+    C400,100 450,150 500,250
+  "/>
+
+  <!-- Данные Planck -->
+  <g>
+    <!-- Точки с погрешностями -->
+    <g class="data-point">
+      <!-- Точка 1 -->
+      <line x1="100" y1="310" x2="100" y2="290" class="error-bar"/>
+      <circle cx="100" cy="300" r="3"/>
+      <!-- Точка 2 -->
+      <line x1="150" y1="210" x2="150" y2="190" class="error-bar"/>
+      <circle cx="150" cy="200" r="3"/>
+      <!-- Точка 3 -->
+      <line x1="200" y1="160" x2="200" y2="140" class="error-bar"/>
+      <circle cx="200" cy="150" r="3"/>
+      <!-- Точка 4 -->
+      <line x1="250" y1="110" x2="250" y2="90" class="error-bar"/>
+      <circle cx="250" cy="100" r="3"/>
+      <!-- Точка 5 -->
+      <line x1="300" y1="90" x2="300" y2="70" class="error-bar"/>
+      <circle cx="300" cy="80" r="3"/>
+      <!-- Точка 6 -->
+      <line x1="350" y1="100" x2="350" y2="80" class="error-bar"/>
+      <circle cx="350" cy="90" r="3"/>
+      <!-- Точка 7 -->
+      <line x1="400" y1="110" x2="400" y2="90" class="error-bar"/>
+      <circle cx="400" cy="100" r="3"/>
+      <!-- Точка 8 -->
+      <line x1="450" y1="160" x2="450" y2="140" class="error-bar"/>
+      <circle cx="450" cy="150" r="3"/>
+      <!-- Точка 9 -->
+      <line x1="500" y1="260" x2="500" y2="240" class="error-bar"/>
+      <circle cx="500" cy="250" r="3"/>
+    </g>
+  </g>
+</svg>
