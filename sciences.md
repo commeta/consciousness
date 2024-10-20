@@ -208,9 +208,13 @@
    - [Рекуррентная интеграция в распространении заболеваний](/recurrent-integration-in-the-spread-of-diseases.md)
 
 
-36. Эпидемиология:
+36. Экология:
 
-   - [Экология: Эмерджентные экосистемы через рекуррентные взаимодействия видов](/emergent-ecosystems-through-recurrent-interactions-of-species.md)
+   - [Эмерджентные экосистемы через рекуррентные взаимодействия видов](/emergent-ecosystems-through-recurrent-interactions-of-species.md)
+
+37. Образование:
+
+   - [Усиление обучения через рекуррентную интеграцию знаний](/strengthening-learning-through-the-recurrent-integration-of-knowledge.md)
 
 
 ---
