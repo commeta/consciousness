@@ -194,6 +194,12 @@
 
    - [Рекуррентная интеграция в физиологических системах организма](/recurrent-integration-in-the-physiological-systems-of-the-body.md)
 
+34. Эпидемиология:
+
+   - [Рекуррентная интеграция в распространении заболеваний](/recurrent-integration-in-the-spread-of-diseases.md)
+
+
+
 ---
 
 Оглавление: [Теория Эмергентной Интеграции и Рекуррентного Отображения](/README.md)
