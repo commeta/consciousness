@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+  <!-- Определение стилей -->
+  <style>
+    .axis {
+      stroke: #000;
+      stroke-width: 2;
+    }
+    .grid {
+      stroke: #ccc;
+      stroke-width: 1;
+    }
+    .model-line {
+      stroke: red;
+      stroke-width: 2;
+      fill: none;
+    }
+    .data-point {
+      fill: black;
+    }
+    .error-bar {
+      stroke: black;
+      stroke-width: 1;
+    }
+    .label {
+      font-size: 14px;
+      text-anchor: middle;
+    }
+  </style>
+
+  <!-- Фон -->
+  <rect x="0" y="0" width="800" height="600" fill="white"/>
+
+  <!-- Оси -->
+  <!-- Ось X -->
+  <line x1="100" y1="500" x2="700" y2="500" class="axis" />
+  <!-- Ось Y -->
+  <line x1="100" y1="100" x2="100" y2="500" class="axis" />
+
+  <!-- Подписи осей -->
+  <text x="400" y="540" class="label">Красное смещение z</text>
+  <text x="50" y="300" class="label" transform="rotate(-90 50,300)">Модуль расстояния μ (mag)</text>
+
+  <!-- Теоретическая кривая (красная линия) -->
+  <path class="model-line" d="
+    M100,480
+    L150,460
+    L200,440
+    L250,420
+    L300,400
+    L350,380
+    L400,360
+    L450,340
+    L500,320
+    L550,300
+    L600,280
+    L650,260
+    L700,240
+  "/>
+
+  <!-- Данные из каталога Pantheon -->
+  <g class="data-point">
+    <!-- Точка 1 -->
+    <line x1="150" y1="465" x2="150" y2="455" class="error-bar"/>
+    <circle cx="150" cy="460" r="3"/>
+    <!-- Точка 2 -->
+    <line x1="200" y1="445" x2="200" y2="435" class="error-bar"/>
+    <circle cx="200" cy="440" r="3"/>
+    <!-- Точка 3 -->
+    <line x1="250" y1="425" x2="250" y2="415" class="error-bar"/>
+    <circle cx="250" cy="420" r="3"/>
+    <!-- Точка 4 -->
+    <line x1="300" y1="405" x2="300" y2="395" class="error-bar"/>
+    <circle cx="300" cy="400" r="3"/>
+    <!-- Точка 5 -->
+    <line x1="350" y1="385" x2="350" y2="375" class="error-bar"/>
+    <circle cx="350" cy="380" r="3"/>
+    <!-- Точка 6 -->
+    <line x1="400" y1="365" x2="400" y2="355" class="error-bar"/>
+    <circle cx="400" cy="360" r="3"/>
+    <!-- Точка 7 -->
+    <line x1="450" y1="345" x2="450" y2="335" class="error-bar"/>
+    <circle cx="450" cy="340" r="3"/>
+    <!-- Точка 8 -->
+    <line x1="500" y1="325" x2="500" y2="315" class="error-bar"/>
+    <circle cx="500" cy="320" r="3"/>
+    <!-- Точка 9 -->
+    <line x1="550" y1="305" x2="550" y2="295" class="error-bar"/>
+    <circle cx="550" cy="300" r="3"/>
+    <!-- Точка 10 -->
+    <line x1="600" y1="285" x2="600" y2="275" class="error-bar"/>
+    <circle cx="600" cy="280" r="3"/>
+    <!-- Точка 11 -->
+    <line x1="650" y1="265" x2="650" y2="255" class="error-bar"/>
+    <circle cx="650" cy="260" r="3"/>
+    <!-- Точка 12 -->
+    <line x1="700" y1="245" x2="700" y2="235" class="error-bar"/>
+    <circle cx="700" cy="240" r="3"/>
+  </g>
+</svg>
