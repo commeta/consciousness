@@ -200,10 +200,14 @@
 
    - [Рекуррентная интеграция в физиологических системах организма](/recurrent-integration-in-the-physiological-systems-of-the-body.md)
 
-34. Эпидемиология:
+35. Эпидемиология:
 
    - [Рекуррентная интеграция в распространении заболеваний](/recurrent-integration-in-the-spread-of-diseases.md)
 
+
+36. Эпидемиология:
+
+   - [Экология: Эмерджентные экосистемы через рекуррентные взаимодействия видов](/emergent-ecosystems-through-recurrent-interactions-of-species.md)
 
 
 ---
