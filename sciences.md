@@ -38,6 +38,8 @@
 
    - [Эмерджентное обучение через рекуррентные нейронные сети: Улучшение машинного обучения через усиленную рекуррентную интеграцию информации](/emergent-learning-through-recurrent-neural-networks.md)
 
+   - [Развитие сложных программных систем через рекуррентную интеграцию модулей](/development-of-complex-software-systems-through-the-recurrent-integration-of-modules.md)
+
 
 8. Теория информации:
 
