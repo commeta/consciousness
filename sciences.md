@@ -40,6 +40,7 @@
 
    - [Развитие сложных программных систем через рекуррентную интеграцию модулей](/development-of-complex-software-systems-through-the-recurrent-integration-of-modules.md)
 
+   - [Искусственный интеллект с повышенной эмергентностью как инструмент для прогнозирования: роль агрегата эмергентного предиката](/the-role-of-the-emergent-predicate-aggregate.md)
 
 8. Теория информации:
 
