@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+  <!-- Определение стрелки -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" 
+            refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#000" />
+    </marker>
+  </defs>
+  
+  <!-- Входной слой -->
+  <rect x="50" y="250" width="100" height="50" fill="#A0D1F5" stroke="#000" />
+  <text x="100" y="280" font-size="14" text-anchor="middle" fill="#000">Входной слой</text>
+  
+  <!-- Стрелка к рекуррентным слоям -->
+  <line x1="150" y1="275" x2="200" y2="275" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)" />
+  
+  <!-- Рекуррентные слои -->
+  <rect x="200" y="200" width="100" height="150" fill="#90EE90" stroke="#000" />
+  <text x="250" y="275" font-size="14" text-anchor="middle" fill="#000">Рекуррентные слои (LSTM)</text>
+  
+  <!-- Стрелка к интеграционному слою -->
+  <line x1="300" y1="275" x2="400" y2="275" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)" />
+  
+  <!-- Эпигенетические данные -->
+  <rect x="200" y="100" width="100" height="50" fill="#FFD700" stroke="#000" />
+  <text x="250" y="130" font-size="14" text-anchor="middle" fill="#000">Эпигенетические данные</text>
+  
+  <!-- Стрелка к интеграционному слою от эпигенетики -->
+  <line x1="250" y1="150" x2="400" y2="225" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)" />
+  
+  <!-- Транскриптомические данные -->
+  <rect x="200" y="400" width="100" height="50" fill="#FFA07A" stroke="#000" />
+  <text x="250" y="430" font-size="14" text-anchor="middle" fill="#000">Транскриптомические данные</text>
+  
+  <!-- Стрелка к интеграционному слою от транскриптомики -->
+  <line x1="250" y1="400" x2="400" y2="325" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)" />
+  
+  <!-- Интеграционный слой -->
+  <rect x="400" y="225" width="100" height="100" fill="#D3D3D3" stroke="#000" />
+  <text x="450" y="275" font-size="14" text-anchor="middle" fill="#000">Интеграционный слой</text>
+  
+  <!-- Стрелка к выходному слою -->
+  <line x1="500" y1="275" x2="550" y2="275" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)" />
+  
+  <!-- Выходной слой -->
+  <rect x="550" y="250" width="100" height="50" fill="#FFB6C1" stroke="#000" />
+  <text x="600" y="280" font-size="14" text-anchor="middle" fill="#000">Выходной слой</text>
+</svg>
