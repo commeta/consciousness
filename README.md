@@ -104,7 +104,7 @@
 
 - [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
 
-
+- [Прогноз о существовании внеземной жизни через призму теории ЭИРО и новой модели вселенной](/prediction-of-the-existence-of-extraterrestrial-life.md)
 
 ---
 
