@@ -111,6 +111,10 @@
 ](/the-complete-cycle-of-the-recurrent-universe.md)
 
 
+- [Поиск новых теорий в химии](/new-theories-in-chemistry.md)
+
+
+
 ---
 
 ## Основные положения теории ЭИРО
