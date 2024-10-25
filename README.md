@@ -113,6 +113,7 @@
 
 - [Поиск новых теорий в химии](/new-theories-in-chemistry.md)
 
+- [Поиск новых теорий в экономике](/The-search-for-new-theories-in-economics.md)
 
 
 ---
