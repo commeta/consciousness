@@ -114,6 +114,7 @@
 - [Поиск новых теорий в химии](/new-theories-in-chemistry.md)
 
 - [Поиск новых теорий в экономике](/The-search-for-new-theories-in-economics.md)
+- [Новая модель вселенной в современной физике](/A-new-model-of-the-universe-in-modern-physics.md)
 
 
 ---
