@@ -8,24 +8,24 @@
 ### Analytics:
 - [Theory of Consciousness](/README.md)
 - [Integrated Information Metric](/Integrated-Information-Metric.md)
-- [Mathematical Formalization of Predictive Coding within the EIRO Theory Framework](/predictive-coding.md)
+- [Mathematical Formalization of Predictive Coding within the EIRM Theory Framework](/predictive-coding.md)
 - [Related Disciplines](/sciences.md)
 #### Neurophysiology
-- [Neurophysiological Mechanisms of Recurrent Signal Processing and Integration in Consciousness: Analysis of the EIRO Theory](/neurophysiology.md)
-- [Role of Microglia in the EIRO Theory](/microglia.md)
+- [Neurophysiological Mechanisms of Recurrent Signal Processing and Integration in Consciousness: Analysis of the EIRM Theory](/neurophysiology.md)
+- [Role of Microglia in the EIRM Theory](/microglia.md)
 #### Neurobiology
-- [Neurobiological Foundations of the EIRO Theory](/neuroscience.md)
+- [Neurobiological Foundations of the EIRM Theory](/neuroscience.md)
 #### Cognitive Science
-- [Cognitive Foundations of the EIRO Theory](/cognitive-science.md)
+- [Cognitive Foundations of the EIRM Theory](/cognitive-science.md)
 #### Psychology
-- [EIRO Theory in the Context of Psychology](/psychology.md)
+- [EIRM Theory in the Context of Psychology](/psychology.md)
 - [The Role of Recurrent Integration in Memory Formation and Learning](/the-role-of-recurrent-integration-in-memory-formation-and-learning.md)
 #### Computer Science and Artificial Intelligence
-- [EIRO Theory in the Context of Computer Science and AI](/computer-science.md)
+- [EIRM Theory in the Context of Computer Science and AI](/computer-science.md)
 - [Emergent Learning through Recurrent Neural Networks: Enhancing Machine Learning through Augmented Recurrent Information Integration](/emergent-learning-through-recurrent-neural-networks.md)
 - [Development of Complex Software Systems through the Recurrent Integration of Modules](/development-of-complex-software-systems-through-the-recurrent-integration-of-modules.md)
 - [Artificial Intelligence with Increased Emergence as a Tool for Prediction: The Role of the Emergent Predicate Aggregate](/the-role-of-the-emergent-predicate-aggregate.md)
-- [Dissertation: EIRO Theory in the Creation of an Intelligent Being Meta Commander](/Meta-Commander.md)
+- [Dissertation: EIRM Theory in the Creation of an Intelligent Being Meta Commander](/Meta-Commander.md)
 - [Recurrent Dynamic Systems](/Recurrent-dynamic-systems.md)
 #### Chemistry
 - [Search for New Theories in Chemistry](/new-theories-in-chemistry.md)
@@ -33,10 +33,10 @@
   - [Mechanisms of Information Transfer in Biochemical Systems](/Mechanisms-of-information-transfer-in-biochemical-systems.md)
 #### Physics
 - [Modeling of Recurrent Neuronal Networks](/physics.md)
-- [EIRO Theory in the Context of Quantum Physics](/quantum-physics.md)
-- [New Theory of Recurrent Cosmology: Linking Quantum Processes, Dark Energy, Dark Matter, and EIRO Theory](/recurrent-cosmology.md)
+- [EIRM Theory in the Context of Quantum Physics](/quantum-physics.md)
+- [New Theory of Recurrent Cosmology: Linking Quantum Processes, Dark Energy, Dark Matter, and EIRM Theory](/recurrent-cosmology.md)
 - [Brief History of the Universe: Emergence, Integration, and Recurrence](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
-- [Complete Cycle of the Recurrent Universe: Integrating EIRO into Cosmology](/the-complete-cycle-of-the-recurrent-universe.md)
+- [Complete Cycle of the Recurrent Universe: Integrating EIRM into Cosmology](/the-complete-cycle-of-the-recurrent-universe.md)
   - [Primary Information Field](/The-primary-information-field.md)
 - [Great Unification of Theoretical Models in Particle Physics](/The-Great-Union.md)
   - [Developing a Model that Links Density of Integrated Quantum Information to Space-Time Geometry](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md)
@@ -44,51 +44,64 @@
   - [Development of a Microscopic Theory](/development-of-microscopic-theory.md)
 - [Role of Emergent Integration in the Big Bang](/the-role-of-emergent-integration-in-the-Big-Bang.md)
   - [Models of Potential V(φ) Consistent with Observational Data](/models-of-potential-v-f.md)
+- [A New Model of the Universe in Modern Physics](/A-new-model-of-the-universe-in-modern-physics.md)
+  - [Rethinking the Uncertainty Principle within the Framework of EIRM Theory](/Rethinking-the-uncertainty-principle-within-the-framework-of-the-theory.md)
+  - [Entropy and Coherence in the Context of EIRM Theory: New Perspectives on Quantum Physics](/Entropy-and-coherence.md)
+  - [Recurrent Processes in Chemical Reactions: Analysis through the Prism of EIRM Theory](/Recurrence-in-chemical-reactions.md)
+  - [Molecular Orbitals and Energy Levels: Analysis Through the Prism of EIRM Theory and Its Impact on the Modern Model of the Universe](/Molecular-orbitals-and-energy-levels.md)
+  - [Topological Quantum Field Theory and its Connection with EIRM Theory](/Topological-quantum-field-theory.md)
+  - [Fractal and Infinitesimal Structures: Their Role in Physics and Mathematical Models](/Fractal-and-infinitesimal-structures.md)
+  - [Category Theory and Functors in the Context of EIRM and the New Model of the Universe](/Category-theory-and-functors.md)
+  - [Information-Theoretic Measures in the New Model of the Universe for Modern Physics](/Information-and-theoretical-measures.md)
+  - [Measuring Anomalies in Galactic Motion through the Lens of EIRM and the New Model of the Universe](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
+  - [Cosmic Microwave Background through the Prism of EIRM and the New Model of the Universe](/Cosmic-microwave-background.md)
+  - [Quantum Experiments: Decoherence Tests through the Lens of EIRM and the New Model of the Universe](/Decoherence-tests.md)
+  - [Quantum Experiments: Measuring Deviations from Standard Quantum Mechanics through the Lens of EIRM and the New Model of the Universe](/Measuring-deviations-from-standard-quantum-mechanics.md)
 #### Information Theory
 - [Similar Concepts from Information Theory and Neuroscience](/information-theory.md)
 #### Mathematics
-- [Mathematical Analysis of the EIRO Theory](/mathematics.md)
+- [Mathematical Analysis of the EIRM Theory](/mathematics.md)
 #### Philosophy of Consciousness
-- [Philosophical Foundation of Consciousness According to the EIRO Theory](/philosophy-of-consciousness.md)
+- [Philosophical Foundation of Consciousness According to the EIRM Theory](/philosophy-of-consciousness.md)
 - [Emergence of Consciousness and Being Through Recurrent Interrelation](/the-emergence-of-consciousness-and-being-through-a-recurrent-relationship.md)
 #### Neuropsychology
-- [Neuropsychological Foundations of the EIRO Theory](/neuropsychology.md)
+- [Neuropsychological Foundations of the EIRM Theory](/neuropsychology.md)
 #### Neuroimaging
-- [Neuroimaging in the Context of the EIRO Theory: Exploring Consciousness by Studying Brain Processes](/neuroimaging.md)
+- [Neuroimaging in the Context of the EIRM Theory: Exploring Consciousness by Studying Brain Processes](/neuroimaging.md)
 #### Biology of Systems
-- [EIRO in the Context of Systems Biology](/biology-of-systems.md)
+- [EIRM in the Context of Systems Biology](/biology-of-systems.md)
 - [Recurrent Integration in the Physiological Systems of the Body](/recurrent-integration-in-the-physiological-systems-of-the-body.md)
 #### Psychiatry
-- [EIRO in the Context of Psychiatry](/psychiatry.md)
+- [EIRM in the Context of Psychiatry](/psychiatry.md)
 #### Ethology and Neuroethology
-- [EIRO in Ethology and Neuroethology: Evolutionary Aspects of Consciousness and Information Integration in Behavior](/ethology-and-neuroethology.md)
+- [EIRM in Ethology and Neuroethology: Evolutionary Aspects of Consciousness and Information Integration in Behavior](/ethology-and-neuroethology.md)
 #### Linguistics
-- [EIRO Theory in Linguistics: Neural Mechanisms of Language Processing and Information Integration](/linguistics.md)
+- [EIRM Theory in Linguistics: Neural Mechanisms of Language Processing and Information Integration](/linguistics.md)
 - [Linguistics: Emergence of Language through Recurrent Communication](/the-emergence-of-language-through-recurrent-communication.md)
 #### Sociology and Group Psychology
-- [EIRO in Sociology and Group Psychology: Extending the Theory to Collective Consciousness](/sociology-and-psychology-of-the-group.md)
+- [EIRM in Sociology and Group Psychology: Extending the Theory to Collective Consciousness](/sociology-and-psychology-of-the-group.md)
 - [Emergent Social Structures through Recurrent Interaction](/emergent-social-structures-through-recurrent-interaction.md)
 - [Social Networks: Emergence of Influence through Recurrent Interaction in Networks](/emergence-of-influence-through-recurrent-interaction-in-networks.md)
 #### Evolutionary Biology
-- [Evolution of Consciousness: EIRO Theory in the Context of Evolutionary Biology](/evolution.md)
+- [Evolution of Consciousness: EIRM Theory in the Context of Evolutionary Biology](/evolution.md)
 #### Cybernetics
-- [EIRO Theory from the Perspective of Cybernetics](/cybernetics.md)
+- [EIRM Theory from the Perspective of Cybernetics](/cybernetics.md)
 #### Theory of Complex Systems
-- [EIRO Theory from the Perspective of the Theory of Complex Systems](/theory-of-complex-systems.md)
+- [EIRM Theory from the Perspective of the Theory of Complex Systems](/theory-of-complex-systems.md)
 #### Bioinformatics
-- [EIRO in Bioinformatics: Analyzing Large Neural Datasets](/bioinformatics.md)
+- [EIRM in Bioinformatics: Analyzing Large Neural Datasets](/bioinformatics.md)
 #### Genetics and Molecular Biology
-- [Genetic and Molecular Foundations of the EIRO Theory](/genetics-and-molecular-biology.md)
+- [Genetic and Molecular Foundations of the EIRM Theory](/genetics-and-molecular-biology.md)
 - [Emergent Properties of Organisms through Recurrent Genetic Integration](/recurrent-integration-in-genetic-networks.md)
 - [Integrative-Recurrent Genome Analysis](/integrative-recurrent-genome-analysis.md)
 #### Pharmacology
-- [Pharmacological Aspects of the EIRO Theory](/pharmacology.md)
+- [Pharmacological Aspects of the EIRM Theory](/pharmacology.md)
 #### Anthropology
-- [Anthropological Aspects of the EIRO Theory: Consciousness in Cultural and Evolutionary Contexts](/anthropology.md)
+- [Anthropological Aspects of the EIRM Theory: Consciousness in Cultural and Evolutionary Contexts](/anthropology.md)
 #### Psychophysics
-- [EIRO Theory from the Perspective of Psychophysics](/psychophysics.md)
+- [EIRM Theory from the Perspective of Psychophysics](/psychophysics.md)
 #### Ergonomics and Interface Design
-- [Application of the EIRO Theory in Ergonomics and Interface Design: Optimizing User Experience through Information Integration](/ergonomics-and-interface-design.md)
+- [Application of the EIRM Theory in Ergonomics and Interface Design: Optimizing User Experience through Information Integration](/ergonomics-and-interface-design.md)
 #### Ecology
 - [Ecology: Emergent Ecosystems through Recurrent Interactions of Species](/emergent-ecosystems-through-recurrent-interactions-of-species.md)
 #### Education
@@ -99,9 +112,9 @@
 - [Recurrent Interactions in Economic Systems and the Emergence of Markets](/recurrent-interactions-in-economic-systems-and-the-emergence-of-markets.md)
 - [The Search for New Theories in Economics](/The-search-for-new-theories-in-economics.md)
 #### Miscellaneous
-- [Comparative Analysis of Leading Theories of Consciousness in the Context of EIRO](/comparative-analysis.md)
-- [Prediction of the Existence of Extraterrestrial Life through the Lens of EIRO and the New Universe Model](/prediction-of-the-existence-of-extraterrestrial-life.md)
-- [EIRO: From Neurons to Stars](/mission.md)
+- [Comparative Analysis of Leading Theories of Consciousness in the Context of EIRM](/comparative-analysis.md)
+- [Prediction of the Existence of Extraterrestrial Life through the Lens of EIRM and the New Universe Model](/prediction-of-the-existence-of-extraterrestrial-life.md)
+- [EIRM: From Neurons to Stars](/mission.md)
 
 
 
