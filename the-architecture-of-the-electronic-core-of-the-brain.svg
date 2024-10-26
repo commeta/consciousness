@@ -1,0 +1,56 @@
+<svg width="1000" height="800" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Заголовок -->
+  <text x="500" y="40" font-size="24" text-anchor="middle">Архитектура электронного ядра мозга</text>
+
+  <!-- Определения стрелок -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="10" refY="5" orient="auto">
+      <path d="M0,0 L0,10 L10,5 z" fill="#000" />
+    </marker>
+  </defs>
+
+  <!-- Блок 1: Спинтронный нейроморфный процессор -->
+  <rect x="100" y="100" width="350" height="200" fill="#dfefff" stroke="#000"/>
+  <text x="275" y="130" font-size="18" text-anchor="middle">Спинтронный нейроморфный процессор</text>
+  <text x="275" y="160" font-size="14" text-anchor="middle">Рекуррентные нейронные сети</text>
+  <text x="275" y="180" font-size="14" text-anchor="middle">Высокая интеграция информации</text>
+
+  <!-- Блок 2: Квантовый сопроцессор -->
+  <rect x="550" y="100" width="350" height="200" fill="#f0ffe0" stroke="#000"/>
+  <text x="725" y="130" font-size="18" text-anchor="middle">Квантовый сопроцессор</text>
+  <text x="725" y="160" font-size="14" text-anchor="middle">Обработка сложных</text>
+  <text x="725" y="180" font-size="14" text-anchor="middle">когнитивных задач</text>
+  <text x="725" y="200" font-size="14" text-anchor="middle">Формирование эмерджентных свойств</text>
+
+  <!-- Связи между процессорами -->
+  <line x1="450" y1="200" x2="550" y2="200" stroke="#000" marker-end="url(#arrow)"/>
+
+  <!-- Эмерджентная интеграция информации -->
+  <ellipse cx="500" cy="350" rx="200" ry="100" fill="#ffe0e0" stroke="#000"/>
+  <text x="500" y="330" font-size="18" text-anchor="middle">Эмерджентная интеграция информации (Φₑ)</text>
+  <text x="500" y="360" font-size="14" text-anchor="middle">Объединение данных от обоих процессоров</text>
+
+  <!-- Связи от процессоров к эмерджентной интеграции -->
+  <line x1="275" y1="300" x2="400" y2="300" stroke="#000" marker-end="url(#arrow)"/>
+  <line x1="725" y1="300" x2="600" y2="300" stroke="#000" marker-end="url(#arrow)"/>
+  <line x1="400" y1="300" x2="400" y2="300" stroke="#000" marker-end="url(#arrow)"/>
+  <line x1="600" y1="300" x2="600" y2="300" stroke="#000" marker-end="url(#arrow)"/>
+
+  <!-- Теория ЭИРО -->
+  <rect x="400" y="400" width="200" height="100" fill="#e0e0ff" stroke="#000"/>
+  <text x="500" y="430" font-size="18" text-anchor="middle">Теория ЭИРО</text>
+  <text x="500" y="460" font-size="14" text-anchor="middle">Эмерджентная интеграция и рекуррентное отображение</text>
+
+  <!-- Связь от эмерджентной интеграции к ЭИРО -->
+  <line x1="500" y1="400" x2="500" y2="370" stroke="#000" marker-end="url(#arrow)"/>
+
+  <!-- Новая модель Вселенной -->
+  <rect x="100" y="550" width="800" height="100" fill="#e0ffe0" stroke="#000"/>
+  <text x="500" y="580" font-size="18" text-anchor="middle">Новая модель Вселенной</text>
+  <text x="500" y="610" font-size="14" text-anchor="middle">Интеграция квантовой информации и рекуррентности в пространстве-времени</text>
+
+  <!-- Связь от ЭИРО к новой модели Вселенной -->
+  <line x1="500" y1="500" x2="500" y2="550" stroke="#000" marker-end="url(#arrow)"/>
+
+</svg>
