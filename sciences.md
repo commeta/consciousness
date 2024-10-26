@@ -50,6 +50,8 @@
 
 - [Принципы работы электронного ядра искусственного интеллекта и современные электронные компоненты](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
 
+  - [Архитектура электронного ядра мозга](/The-architecture-of-the-electronic-core-of-the-brain.md)
+
 
 #### Химия
 
