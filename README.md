@@ -62,6 +62,8 @@
 
   - [Архитектура спинтронного нейроморфного процессора ИИ](/Architecture-of-a-spintronic-neuromorphic-processor.md)
 
+  - [Архитектура Квантового Сопроцессора для Спинтронного Нейроморфного Процессора ИИ](/Architecture-of-A-Quantum-Coprocessor.md)
+
 
 #### Химия
 
