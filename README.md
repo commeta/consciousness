@@ -8,17 +8,20 @@
 
 ## Оглавление:
 
-
-
 ### Аналитика:
+
 - [Теория Сознания](/README.md)
+  
 - [Метрика интегрированной информации](/Integrated-Information-Metric.md)
+  
 - [Математическая формализация предиктивного кодирования в рамках теории ЭИРО](/predictive-coding.md)
+  
 - [Смежные дисциплины](/sciences.md)
 
 #### Нейрофизиология
 
 - [Нейрофизиологические механизмы рекуррентной обработки и интеграции сигналов в сознании: анализ теории ЭИРО](/neurophysiology.md)
+  
 - [Роль Микроглии в Теории ЭИРО](/microglia.md)
 
 #### Нейробиология
@@ -32,38 +35,85 @@
 #### Психология
 
 - [Теория ЭИРО в контексте психологии](/psychology.md)
+  
 - [Роль рекуррентной интеграции в формировании памяти и обучения](/the-role-of-recurrent-integration-in-memory-formation-and-learning.md)
 
 #### Информатика и Искусственный интеллект
 
 - [Теория ЭИРО в контексте Информатики и Искусственного Интеллекта](/computer-science.md)
+  
 - [Эмерджентное обучение через рекуррентные нейронные сети: Улучшение машинного обучения через усиленную рекуррентную интеграцию информации](/emergent-learning-through-recurrent-neural-networks.md)
+  
 - [Развитие сложных программных систем через рекуррентную интеграцию модулей](/development-of-complex-software-systems-through-the-recurrent-integration-of-modules.md)
+  
 - [Искусственный интеллект с повышенной эмергентностью как инструмент для прогнозирования: роль агрегата эмергентного предиката](/the-role-of-the-emergent-predicate-aggregate.md)
+  
 - [Диссертация: Теория ЭИРО в контексте создания разумного существа Meta Commander](/Meta-Commander.md)
+  
 - [Рекуррентные динамические системы](/Recurrent-dynamic-systems.md)
 
 
 #### Химия
 
 - [Поиск новых теорий в химии](/new-theories-in-chemistry.md)
+  
   - [Происхождение хиральности в биологических системах](/The-origin-of-chirality-in-biological-systems.md)
+    
   - [Механизмы передачи информации в биохимических системах](/Mechanisms-of-information-transfer-in-biochemical-systems.md)
 
 #### Физика
 
 - [Моделирование рекуррентных нейронных сетей](/physics.md)
+  
 - [Теория ЭИРО в контексте квантовой физики](/quantum-physics.md)
+  
 - [Новая теория рекуррентной космологии: связь квантовых процессов, тёмной энергии, тёмной материи и теории ЭИРО](/recurrent-cosmology.md)
+  
 - [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+  
 - [Полный цикл рекуррентной вселенной: интеграция теории ЭИРО в космологию](/the-complete-cycle-of-the-recurrent-universe.md)
+  
   - [Первичное информационное поле](/The-primary-information-field.md)
+    
 - [Великое объединение теоретических моделей в физике элементарных частиц](/The-Great-Union.md)
+  
   - [Разработка модели, связывающей плотность интегрированной квантовой информации с геометрией пространства-времени](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md)
+    
 - [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+  
   - [Разработка микроскопической теории](/development-of-microscopic-theory.md)
+    
 - [Роль эмергентной интеграции в Большом взрыве](/the-role-of-emergent-integration-in-the-Big-Bang.md)
+  
   - [Разработка конкретных моделей потенциала V(φ), согласующихся с наблюдательными данными](/models-of-potential-v-f.md)
+
+- [Новая модель вселенной в современной физике](/A-new-model-of-the-universe-in-modern-physics.md)
+
+  - [Переосмысление принципа неопределённости в рамках теории ЭИРО](/Rethinking-the-uncertainty-principle-within-the-framework-of-the-theory.md)
+
+  - [Энтропия и когерентность в контексте теории ЭИРО: новые перспективы квантовой физики](/Entropy-and-coherence.md)
+
+  - [Рекуррентные процессы в химических реакциях: анализ через призму теории ЭИРО](/Recurrence-in-chemical-reactions.md)
+
+  - [Молекулярные орбитали и энергетические уровни: анализ через призму теории ЭИРО и ее влияние на современную модель Вселенной](/Molecular-orbitals-and-energy-levels.md)
+
+  - [Топологическая квантовая теория поля и её связь с теорией ЭИРО](/Topological-quantum-field-theory.md)
+
+  - [Фрактальные и бесконечно-дробные структуры: роль в физике и математических моделях](/Fractal-and-infinitesimal-structures.md)
+
+  - [Теория категорий и функторы в контексте ЭИРО и новой модели Вселенной](/Category-theory-and-functors.md)
+
+  - [Информационно-теоретические меры в новой модели Вселенной для современной физики](/Information-and-theoretical-measures.md)
+
+  - [Измерение аномалий в движении галактик через призму ЭИРО и новой модели Вселенной](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
+
+  - [Космический микроволновый фон через призму ЭИРО и новой модели Вселенной](/Cosmic-microwave-background.md)
+
+  - [Квантовые эксперименты: тесты на декогеренцию через призму ЭИРО и новой модели Вселенной](/Decoherence-tests.md)
+
+  - [Квантовые эксперименты: Измерение отклонений от стандартной квантовой механики через призму ЭИРО и новой модели Вселенной](/Measuring-deviations-from-standard-quantum-mechanics.md)
+
+
 
 #### Теория информации
 
@@ -76,6 +126,7 @@
 #### Философия сознания
 
 - [Теория ЭИРО: Философское обоснование сознания](/philosophy-of-consciousness.md)
+  
 - [Эмерджентность сознания и бытия через рекуррентную взаимосвязь](/the-emergence-of-consciousness-and-being-through-a-recurrent-relationship.md)
 
 #### Нейропсихология
@@ -89,6 +140,7 @@
 #### Биология систем
 
 - [ЭИРО в контексте системной биологии](/biology-of-systems.md)
+  
 - [Рекуррентная интеграция в физиологических системах организма](/recurrent-integration-in-the-physiological-systems-of-the-body.md)
 
 
@@ -103,12 +155,15 @@
 #### Лингвистика
 
 - [Теория ЭИРО в лингвистике: нейронные механизмы обработки языка и информационная интеграция](/linguistics.md)
+  
 - [Лингвистика: эмерджентность языка через рекуррентные коммуникации](/the-emergence-of-language-through-recurrent-communication.md)
 
 #### Социология и психология группы
 
 - [ЭИРО в социологии и психологии групп: расширение теории на коллективное сознание](/sociology-and-psychology-of-the-group.md)
+  
 - [Эмерджентные социальные структуры через рекуррентное взаимодействие](/emergent-social-structures-through-recurrent-interaction.md)
+  
 - [Социальные сети: эмерджентность влияния через рекуррентное взаимодействие в сетях](/emergence-of-influence-through-recurrent-interaction-in-networks.md)
 
 #### Эволюционная биология
@@ -130,7 +185,9 @@
 #### Генетика и молекулярная биология
 
 - [Генетические и молекулярные основы теории ЭИРО](/genetics-and-molecular-biology.md)
+  
 - [Эмерджентные свойства организмов через рекуррентную генетическую интеграцию](/recurrent-integration-in-genetic-networks.md)
+  
 - [Интегративно-рекуррентный анализ генома](/integrative-recurrent-genome-analysis.md)
 
 #### Фармакология
@@ -164,14 +221,16 @@
 #### Экономика
 
 - [Рекуррентные взаимодействия в экономических системах и эмерджентность рынков](/recurrent-interactions-in-economic-systems-and-the-emergence-of-markets.md)
+  
 - [Поиск новых теорий в экономике](/The-search-for-new-theories-in-economics.md)
 
 #### Прочее
 
 - [Сравнительный анализ ведущих теорий сознания в контексте ЭИРО](/comparative-analysis.md)
+  
 - [Прогноз о существовании внеземной жизни через призму теории ЭИРО и новой модели вселенной](/prediction-of-the-existence-of-extraterrestrial-life.md)
+  
 - [ЭИРО: От нейронов к звездам](/mission.md)
-
 
 
 
