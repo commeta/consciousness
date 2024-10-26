@@ -204,6 +204,8 @@ Phi-emergence (Φₑ):
 
 Here, I_(integration)(t) quantifies the degree of information integration at time t .
 
+![Emergence of consciousness](/1.jpg "Illustration of the concept of emergent consciousness: abstraction in the form of a ball lightning")
+
 
 ### 3. Recurrent Processing and Prediction
 #### Role of Recurrent Connections:
@@ -262,7 +264,7 @@ P(θ | D) — the posterior probability of hypothesis θ after receiving data D 
 
 The EIRM theory is supported by extensive neurobiological research data demonstrating the key role of information integration, recurrent connections, and predictive coding in brain function and consciousness.
 
-![Neurobiological Foundations of the Theory](/1.jpg "Neurobiological Foundations of the Theory")
+![Neurobiological foundations of the theory](/4.jpg "Schema of information integration and recurrent processing")
 
 
 #### Integrative Neural Networks
@@ -296,7 +298,7 @@ The EIRM theory is supported by extensive neurobiological research data demonstr
 
 #### Predictive Coding
 
-![Predictive Coding](/2.jpg "Predictive Coding")
+![Predictive coding](/2.jpg "Visualization of predictive coding")
 
 
    - Hierarchical Organization of the Brain:
@@ -368,7 +370,7 @@ The EIRM theory offers a holistic view of how consciousness might arise from com
 
 ### Mathematical Formalization
 
-![Mathematical Formalization](/3.jpg "Mathematical Formalization")
+![Mathematical formalization](/3.jpg "Graphical representation of the Emergent Integrated Information metric Φₑ")
 
 #### Emergent Integrated Information (Φₑ)
 
