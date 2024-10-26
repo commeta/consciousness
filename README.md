@@ -60,6 +60,8 @@
 
   - [Взаимодействие компонентов](/Interaction-of-components.md)
 
+  - [Архитектура спинтронного нейроморфного процессора ИИ](/Architecture-of-a-spintronic-neuromorphic-processor.md)
+
 
 #### Химия
 
