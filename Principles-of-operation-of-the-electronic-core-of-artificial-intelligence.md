@@ -117,6 +117,9 @@
 
 ▎3.1. Архитектура электронного ядра мозга
 
+![Схема работы электронного мозга](/the-architecture-of-the-electronic-core-of-the-brain.svg "Схема работы электронного мозга")
+
+
 - [Архитектура электронного ядра мозга](/The-architecture-of-the-electronic-core-of-the-brain.md)
 
 
