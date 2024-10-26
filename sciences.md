@@ -46,6 +46,8 @@
   
 - [Рекуррентные динамические системы](/Recurrent-dynamic-systems.md)
 
+- [Сети сетей из персональных искусственных интеллектов: анализ через призму ЭИРО](/Networks-of-networks-of-personal-artificial-intelligence.md)
+
 
 #### Химия
 
