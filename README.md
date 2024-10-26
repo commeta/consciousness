@@ -54,6 +54,9 @@
 
 - [Сети сетей из персональных искусственных интеллектов: анализ через призму ЭИРО](/Networks-of-networks-of-personal-artificial-intelligence.md)
 
+- [Принципы работы электронного ядра искусственного интеллекта и современные электронные компоненты](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
+
+
 
 #### Химия
 
