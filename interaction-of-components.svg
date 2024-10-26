@@ -1,0 +1,86 @@
+<svg width="1000" height="800" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Определения стрелок -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="10" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#000" />
+    </marker>
+  </defs>
+
+  <!-- Блок 1: Рекуррентность через спинтронные элементы -->
+  <rect x="50" y="50" width="280" height="200" fill="#dfefff" stroke="#000" />
+  <text x="190" y="80" font-size="16" text-anchor="middle" fill="#000">Рекуррентность через</text>
+  <text x="190" y="100" font-size="16" text-anchor="middle" fill="#000">спинтронные элементы</text>
+
+  <!-- Подблоки внутри Блока 1 -->
+  <!-- Кратковременная память -->
+  <rect x="70" y="120" width="120" height="80" fill="#fff" stroke="#000" />
+  <text x="130" y="150" font-size="14" text-anchor="middle" fill="#000">Кратковременная</text>
+  <text x="130" y="170" font-size="14" text-anchor="middle" fill="#000">память</text>
+
+  <!-- Долговременная память -->
+  <rect x="210" y="120" width="120" height="80" fill="#fff" stroke="#000" />
+  <text x="270" y="150" font-size="14" text-anchor="middle" fill="#000">Долговременная</text>
+  <text x="270" y="170" font-size="14" text-anchor="middle" fill="#000">память</text>
+
+  <!-- Связи внутри Блока 1 -->
+  <line x1="190" y1="120" x2="190" y2="100" stroke="#000" marker-end="url(#arrow)" />
+
+  <!-- Блок 2: Интеграция информации в квантовом сопроцессоре -->
+  <rect x="350" y="50" width="300" height="200" fill="#f0ffe0" stroke="#000" />
+  <text x="500" y="80" font-size="16" text-anchor="middle" fill="#000">Интеграция информации</text>
+  <text x="500" y="100" font-size="16" text-anchor="middle" fill="#000">в квантовом сопроцессоре</text>
+
+  <!-- Подблоки внутри Блока 2 -->
+  <!-- Суперпозиция состояний -->
+  <rect x="370" y="120" width="120" height="80" fill="#fff" stroke="#000" />
+  <text x="430" y="150" font-size="14" text-anchor="middle" fill="#000">Суперпозиция</text>
+  <text x="430" y="170" font-size="14" text-anchor="middle" fill="#000">состояний</text>
+
+  <!-- Квантовая запутанность -->
+  <rect x="510" y="120" width="120" height="80" fill="#fff" stroke="#000" />
+  <text x="570" y="150" font-size="14" text-anchor="middle" fill="#000">Квантовая</text>
+  <text x="570" y="170" font-size="14" text-anchor="middle" fill="#000">запутанность</text>
+
+  <!-- Связи внутри Блока 2 -->
+  <line x1="500" y1="120" x2="500" y2="100" stroke="#000" marker-end="url(#arrow)" />
+
+  <!-- Блок 3: Интерфейс и обмен информацией -->
+  <rect x="50" y="300" width="600" height="200" fill="#ffe0e0" stroke="#000" />
+  <text x="350" y="330" font-size="16" text-anchor="middle" fill="#000">Интерфейс и обмен информацией</text>
+
+  <!-- Подблоки внутри Блока 3 -->
+  <!-- Конвертация спиновых состояний -->
+  <rect x="70" y="370" width="180" height="80" fill="#fff" stroke="#000" />
+  <text x="160" y="400" font-size="14" text-anchor="middle" fill="#000">Конвертация спиновых</text>
+  <text x="160" y="420" font-size="14" text-anchor="middle" fill="#000">состояний в квантовые</text>
+
+  <!-- Обратная связь -->
+  <rect x="270" y="370" width="160" height="80" fill="#fff" stroke="#000" />
+  <text x="350" y="400" font-size="14" text-anchor="middle" fill="#000">Обратная связь от</text>
+  <text x="350" y="420" font-size="14" text-anchor="middle" fill="#000">сопроцессора</text>
+
+  <!-- Эмерджентные механизмы -->
+  <rect x="450" y="370" width="180" height="80" fill="#fff" stroke="#000" />
+  <text x="540" y="400" font-size="14" text-anchor="middle" fill="#000">Эмерджентные механизмы</text>
+  <text x="540" y="420" font-size="14" text-anchor="middle" fill="#000">обмена информацией</text>
+
+  <!-- Связи внутри Блока 3 -->
+  <line x1="350" y1="370" x2="350" y2="350" stroke="#000" marker-end="url(#arrow)" />
+
+  <!-- Связи между блоками -->
+  <!-- От Блока 1 к Блоку 3 -->
+  <line x1="190" y1="250" x2="190" y2="300" stroke="#000" marker-end="url(#arrow)" />
+  <!-- От Блока 2 к Блоку 3 -->
+  <line x1="500" y1="250" x2="500" y2="300" stroke="#000" marker-end="url(#arrow)" />
+  <!-- Обратная связь от Блока 3 к Блоку 1 -->
+  <line x1="350" y1="500" x2="190" y2="500" stroke="#000" marker-end="url(#arrow)" />
+  <line x1="190" y1="500" x2="190" y2="250" stroke="#000" stroke-dasharray="5,5" marker-end="url(#arrow)" />
+  <!-- Обратная связь от Блока 3 к Блоку 2 -->
+  <line x1="350" y1="500" x2="500" y2="500" stroke="#000" marker-end="url(#arrow)" />
+  <line x1="500" y1="500" x2="500" y2="250" stroke="#000" stroke-dasharray="5,5" marker-end="url(#arrow)" />
+
+  <!-- Общий заголовок -->
+  <text x="500" y="30" font-size="20" text-anchor="middle" fill="#000">Механизмы взаимодействия системы</text>
+
+</svg>
