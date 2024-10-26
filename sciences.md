@@ -52,6 +52,8 @@
 
   - [Архитектура электронного ядра мозга](/The-architecture-of-the-electronic-core-of-the-brain.md)
 
+  - [Взаимодействие компонентов](/Interaction-of-components.md)
+
 
 #### Химия
 
