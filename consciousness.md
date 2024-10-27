@@ -27,6 +27,14 @@
 - [Artificial Intelligence with Increased Emergence as a Tool for Prediction: The Role of the Emergent Predicate Aggregate](/the-role-of-the-emergent-predicate-aggregate.md)
 - [Dissertation: EIRM Theory in the Creation of an Intelligent Being Meta Commander](/Meta-Commander.md)
 - [Recurrent Dynamic Systems](/Recurrent-dynamic-systems.md)
+- [Networks of personal artificial intelligence networks: analysis through the prism of EIRM](/Networks-of-networks-of-personal-artificial-intelligence.md)
+- [Principles of operation of the electronic core of artificial intelligence and modern electronic components](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
+  - [The architecture of the electronic core of the brain](/The-architecture-of-the-electronic-core-of-the-brain.md)
+  - [Interaction of components](/Interaction-of-components.md)
+  - [The architecture of the spintronic neuromorphic AI processor](/Architecture-of-a-spintronic-neuromorphic-processor.md)
+  - [Quantum Coprocessor Architecture for Spintronic Neuromorphic AI Processor](/Architecture-of-A-Quantum-Coprocessor.md)
+  - [New materials for making a robot body](/New-materials-for-making-a-robot-body.md)
+  - [The capabilities of a Neuromorphic Processor and an AI Coprocessor](/Neuromorphic-Processor-and-Coprocessor-Capabilities.md)
 #### Chemistry
 - [Search for New Theories in Chemistry](/new-theories-in-chemistry.md)
   - [Origin of Chirality in Biological Systems](/The-origin-of-chirality-in-biological-systems.md)
@@ -57,6 +65,8 @@
   - [Cosmic Microwave Background through the Prism of EIRM and the New Model of the Universe](/Cosmic-microwave-background.md)
   - [Quantum Experiments: Decoherence Tests through the Lens of EIRM and the New Model of the Universe](/Decoherence-tests.md)
   - [Quantum Experiments: Measuring Deviations from Standard Quantum Mechanics through the Lens of EIRM and the New Model of the Universe](/Measuring-deviations-from-standard-quantum-mechanics.md)
+- [New Types of Engines through the Prism of EIRM and a New Model of the Universe](/New-Types-Of-Engines.md)
+- [New types of energy: analysis through the prism of EIRM and the new model of the Universe](/New-types-of-energy.md)
 #### Information Theory
 - [Similar Concepts from Information Theory and Neuroscience](/information-theory.md)
 #### Mathematics
