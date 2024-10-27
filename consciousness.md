@@ -1,6 +1,9 @@
 # Emergent Integration and Recurrent Mapping Theory (EIRM)
 ![Emergent Integration and Recurrent Mapping Theory](/consciousness.jpg "Emergent Integration and Recurrent Mapping Theory")
 
+
+[Review](/review.md)
+
 [ReadMe на русском](/README.md)
 
 
