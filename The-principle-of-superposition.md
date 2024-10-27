@@ -146,6 +146,20 @@ G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^(IQI) )),
 
 2. Dirac, P. A. M. (1981). *The Principles of Quantum Mechanics*. Oxford University Press.
 
+3. Barrett, A. B.,  Seth, A. K. (2011). *Practical measures of integrated information for time-series data*. PLoS Computational Biology, 7(1), e1001052. DOI:10.1371/journal.pcbi.1001052 (https://doi.org/10.1371/journal.pcbi.1001052)
+
+4. Wang, X.-J. (2010). *Neurophysiological and computational principles of cortical rhythms in cognition*. Physiological Reviews, 90(3), 1195–1268. DOI:10.1152/physrev.00035.2008 (https://doi.org/10.1152/physrev.00035.2008)
+
+5. Bassi, A., Lochan, K., Satin, S., Singh, T. P.,  Ulbricht, H. (2013). *Models of wave-function collapse, underlying theories, and experimental tests*. Reviews of Modern Physics, 85(2), 471–527. DOI:10.1103/RevModPhys.85.471 (https://doi.org/10.1103/RevModPhys.85.471)
+
+6. Boyd, R. W. (2008). *Nonlinear Optics*. Academic Press.
+
+7. Dehaene, S.,  Changeux, J.-P. (2011). *Experimental and theoretical approaches to conscious processing*. Neuron, 70(2), 200–227. DOI:10.1016/j.neuron.2011.03.018 (https://doi.org/10.1016/j.neuron.2011.03.018)
+
+8. Verlinde, E. (2011). *On the origin of gravity and the laws of Newton*. Journal of High Energy Physics, 2011(4), 29. DOI:10.1007/JHEP04(2011)029 (https://doi.org/10.1007/JHEP04(2011)029)
+
+9. Nielsen, M. A.,  Chuang, I. L. (2010). *Quantum Computation and Quantum Information*. Cambridge University Press.
+
 ---
 
 
