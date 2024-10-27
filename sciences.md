@@ -60,6 +60,8 @@
 
   - [Новые материалы для изготовления тела робота](/New-materials-for-making-a-robot-body.md)
 
+  - [Возможности Нейроморфного Процессора и Сопроцессора ИИ](/Neuromorphic-Processor-and-Coprocessor-Capabilities.md)
+
 
 #### Химия
 
