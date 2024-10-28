@@ -1,14 +1,9 @@
 # Emergent Integration and Recurrent Mapping Theory (EIRM)
 ![Emergent Integration and Recurrent Mapping Theory](/consciousness.jpg "Emergent Integration and Recurrent Mapping Theory")
 
-
-
-
-
-
 ## Table of Contents:
-[ReadMe на русском](/README.md)
-[Review](/review.md)
+- [ReadMe на русском](/README.md)
+- [Review](/review.md)
 ### Analytics:
 - [Theory of Consciousness](/README.md)
 - [Integrated Information Metric](/Integrated-Information-Metric.md)
