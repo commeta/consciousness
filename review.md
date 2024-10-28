@@ -9,7 +9,7 @@ dcs-spb@ya.ru
 
 ### Abstract
 
-This paper presents the Emergent Integration and Recurrent Mapping (EIRM) Theory, proposing that consciousness arises from processes that integrate information through recurrent neural networks. A new key parameter—Emergent Integrated Information ( Φₑ )—is introduced, accounting for the quantity and quality of integrated information within the context of recurrent processing. The theory is supported by neuroimaging data and experimental studies involving visual masking. Additionally, new physical quantities are introduced to describe the degree of integration of quantum information and recurrence in spacetime, potentially impacting modern cosmological models.
+We propose a unified theoretical framework — the Theory of Emergent Integration and Recurrent Mapping (EIRM) — which posits that consciousness arises from processes that integrate information through recurrent neural networks, and extend these principles to cosmology. By introducing new physical quantities such as the Density of Integrated Quantum Information (ρ<sub>IQI</sub>), we modify Einstein's equations to incorporate the effects of integrated quantum information and recurrent interactions on the fabric of spacetime. This approach offers novel insights into the nature of dark matter and dark energy as emergent phenomena resulting from informational processes on cosmic scales. We present the mathematical formulations underpinning EIRM, discuss its implications for neuroscience and cosmology, and suggest experimental approaches for validation.
 
 ### Keywords
 
@@ -19,9 +19,9 @@ Emergent integration, recurrent mapping, consciousness, neural networks, quantum
 
 ### 1. Introduction
 
-Consciousness remains one of the most enigmatic and challenging phenomena to study in science. Existing theories attempt to explain its nature, yet no unified approach has been established. This work proposes the Emergent Integration and Recurrent Mapping (EIRM) Theory, asserting that consciousness emerges from processes that integrate information through recurrent neural networks.
+Understanding the nature of consciousness and the fundamental properties of the Universe are among the most profound challenges in science. Traditionally, these domains have been treated separately; however, recent advances suggest that information processing plays a critical role in both neural and cosmic systems. In this paper, we introduce the Theory of Emergent Integration and Recurrent Mapping (EIRM), which unifies concepts from neuroscience and cosmology through the lens of information theory and quantum mechanics.
 
-EIRM bridges neurobiological and physical aspects, offering a novel perspective on the nature of consciousness and its connection to fundamental processes in cosmology. This opens opportunities for interdisciplinary research at the intersection of neurobiology, quantum physics, and cosmology.
+EIRM asserts that consciousness emerges from the integration of information via recurrent neural networks in the brain. Extending this concept to cosmology, we propose that spacetime itself exhibits recurrent informational interactions at the quantum level, which influence its geometry and dynamics. By introducing new physical quantities and modifying the Einstein field equations, we aim to provide a coherent framework that accounts for dark matter and dark energy as emergent properties of integrated quantum information.
 
 ### 2. Emergent Integration and Recurrent Mapping Theory (EIRM)
 
@@ -35,9 +35,9 @@ The key parameter of EIRM is the Emergent Integrated Information ( Φₑ ), whic
 
 where:
 
-- I_(integration)(t)  is the degree of information unification at time  t .
+- `I_(integration)(t)`  is the degree of information unification at time  t .
 
-- R_(recurrence)(t)  is the degree of recurrent processing at time  t .
+- `R_(recurrence)(t)`  is the degree of recurrent processing at time  t .
 
 This formulation emphasizes that both the integration of information and its recurrent processing are essential for the emergence of consciousness.
 
@@ -51,11 +51,11 @@ d𝐱 / dt = 𝐟(𝐱(t), 𝐮(t), W),
 
 where:
 
-- 𝐱(t)  is the vector of the network's state at time  t .
+- `𝐱(t)`  is the vector of the network's state at time  t .
 
-- 𝐮(t)  represents input signals.
+- `𝐮(t)`  represents input signals.
 
-- W  is the weight matrix, including recurrent connections.
+- `W`  is the weight matrix, including recurrent connections.
 
 These equations capture the dynamic evolution of neuronal states influenced by inputs and the network's inherent structure, highlighting the role of recurrent connections in information processing.
 
@@ -69,11 +69,11 @@ P(θ | D) = P(D | θ) ⋅ P(θ) / P(D),
 
 where:
 
-- θ  represents the model parameters.
+- `θ`  represents the model parameters.
 
-- D  denotes observed data.
+- `D`  denotes observed data.
 
-- P(θ | D)  is the posterior probability of the parameters given the data.
+- `P(θ | D)`  is the posterior probability of the parameters given the data.
 
 This mechanism allows the brain to continually refine its internal models based on new information, a process integral to perception and consciousness.
 
@@ -93,7 +93,7 @@ In visual masking experiments, interrupting recurrent processing prevents the co
 
 To describe the integration of quantum information and recurrence in cosmology, new physical quantities are introduced:
 
-- Density of Integrated Quantum Information ( ρ_(IQI) ):
+- Density of Integrated Quantum Information `( ρ_(IQI) )`:
 
 This quantity characterizes the amount of quantum information integrated per unit volume of spacetime:
   
@@ -101,7 +101,7 @@ This quantity characterizes the amount of quantum information integrated per uni
 ρ_(IQI) = lim(Δ V → 0) Δ I / Δ V,
 `
 
-where  Δ I  is the change in integrated information within the volume  Δ V .
+where  `Δ I`  is the change in integrated information within the volume  `Δ V` .
 
 - Recurrence Parameter ( R ):
 
@@ -119,7 +119,7 @@ where:
 
 - w₀  and  w₁  are constants of the model.
 
-- f(ρ_(IQI), R)  is a function describing the influence of integrated information and recurrence on cosmological dynamics.
+- `f(ρ_(IQI), R)`  is a function describing the influence of integrated information and recurrence on cosmological dynamics.
 
 This approach suggests that the emergence of consciousness and integration of information could have macroscopic effects on the universe's expansion.
 
@@ -133,15 +133,46 @@ G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^(IQI) )),
 
 where:
 
-- G_(μν)  is the Einstein tensor.
+- `G_(μν)`  is the Einstein tensor.
 
-- Λ  is the cosmological constant.
+- `Λ`  is the cosmological constant.
 
-- T_(μν)  is the stress-energy tensor of ordinary matter.
+- `T_(μν)`  is the stress-energy tensor of ordinary matter.
 
-- T_(μν)^(IQI)  is the stress-energy tensor associated with integrated quantum information and recurrent effects.
+- `T_(μν)^(IQI)`  is the stress-energy tensor associated with integrated quantum information and recurrent effects.
 
 This modification implies that information integration processes could contribute to the overall energy content influencing spacetime curvature.
+
+
+#### 4.4. Operators of Integration and Recurrence
+
+We describe the state of the Universe using operators representing information integration ( ^I ) and recurrent mapping ( ^R ):
+
+`Ψ = ^I ^R 𝓘,`
+
+
+where:
+
+- `Ψ`  is the state vector of the Universe in spacetime.
+
+- `𝓘`  is the initial informational state.
+
+- `^I`  is the operator of information integration.
+
+- `^R`  is the operator of recurrent transformations between quantum states.
+
+#### 4.5. Integration into Quantum Field Theory
+
+The scalar field  `Φ_q(x)`  can be incorporated into the Lagrangian density of the quantum field theory governing spacetime:
+
+`𝓛 = 𝓛_(GR) + 𝓛_Φ,`
+
+
+where:
+
+- `𝓛_(GR)`  is the standard Lagrangian density for general relativity.
+
+- `𝓛Φ`  includes terms involving  Φq(x)  and its interactions.
 
 ### 5. Discussion
 
