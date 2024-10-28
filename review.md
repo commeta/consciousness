@@ -2,8 +2,10 @@
 
 ## Author
 
-Morozov Evgeniy Mikhailovich
-dcs-spb@ya.ru
+- Morozov Evgeniy Mikhailovich
+- dcs-spb@ya.ru
+- Russian Federation, Saint Petersburg
+- 17.10.2024
 
 ---
 
