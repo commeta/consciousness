@@ -231,3 +231,7 @@ The concept of  Φₑ  is related to measures of neural complexity, such as Tono
 
 ---
 
+
+
+[Emergent Integration and Recurrent Mapping](/)
+
