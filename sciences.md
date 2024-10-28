@@ -19,62 +19,6 @@
 
 - [Смежные дисциплины](/sciences.md)
 
-#### Нейрофизиология
-
-- [Нейрофизиологические механизмы рекуррентной обработки и интеграции сигналов в сознании: анализ теории ЭИРО](/neurophysiology.md)
-  
-- [Роль Микроглии в Теории ЭИРО](/microglia.md)
-
-#### Нейробиология
-
-- [Нейробиологические основы теории ЭИРО](/neuroscience.md)
-
-#### Когнитивная наука
-
-- [Когнитивные основы Теории ЭИРО](/cognitive-science.md)
-
-#### Психология
-
-- [Теория ЭИРО в контексте психологии](/psychology.md)
-  
-- [Роль рекуррентной интеграции в формировании памяти и обучения](/the-role-of-recurrent-integration-in-memory-formation-and-learning.md)
-
-#### Информатика и Искусственный интеллект
-
-- [Теория ЭИРО в контексте Информатики и Искусственного Интеллекта](/computer-science.md)
-  
-- [Эмерджентное обучение через рекуррентные нейронные сети: Улучшение машинного обучения через усиленную рекуррентную интеграцию информации](/emergent-learning-through-recurrent-neural-networks.md)
-  
-- [Развитие сложных программных систем через рекуррентную интеграцию модулей](/development-of-complex-software-systems-through-the-recurrent-integration-of-modules.md)
-  
-- [Искусственный интеллект с повышенной эмергентностью как инструмент для прогнозирования: роль агрегата эмергентного предиката](/the-role-of-the-emergent-predicate-aggregate.md)
-  
-- [Диссертация: Теория ЭИРО в контексте создания разумного существа Meta Commander](/Meta-Commander.md)
-  
-- [Сети сетей из персональных искусственных интеллектов: анализ через призму ЭИРО](/Networks-of-networks-of-personal-artificial-intelligence.md)
-
-- [Принципы работы электронного ядра искусственного интеллекта и современные электронные компоненты](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
-
-  - [Архитектура электронного ядра мозга](/The-architecture-of-the-electronic-core-of-the-brain.md)
-
-  - [Взаимодействие компонентов](/Interaction-of-components.md)
-
-  - [Архитектура спинтронного нейроморфного процессора ИИ](/Architecture-of-a-spintronic-neuromorphic-processor.md)
-
-  - [Архитектура Квантового Сопроцессора для Спинтронного Нейроморфного Процессора ИИ](/Architecture-of-A-Quantum-Coprocessor.md)
-
-  - [Новые материалы для изготовления тела робота](/New-materials-for-making-a-robot-body.md)
-
-  - [Возможности Нейроморфного Процессора и Сопроцессора ИИ](/Neuromorphic-Processor-and-Coprocessor-Capabilities.md)
-
-
-#### Химия
-
-- [Поиск новых теорий в химии](/new-theories-in-chemistry.md)
-  
-  - [Происхождение хиральности в биологических системах](/The-origin-of-chirality-in-biological-systems.md)
-    
-  - [Механизмы передачи информации в биохимических системах](/Mechanisms-of-information-transfer-in-biochemical-systems.md)
 
 #### Физика
 
@@ -155,6 +99,63 @@
 - [Новые Виды Двигателей через Призму ЭИРО и Новой Модели Вселенной](/New-Types-Of-Engines.md)
 
 - [Новые виды энергии: анализ через призму ЭИРО и новой модели Вселенной](/New-types-of-energy.md)
+
+#### Нейрофизиология
+
+- [Нейрофизиологические механизмы рекуррентной обработки и интеграции сигналов в сознании: анализ теории ЭИРО](/neurophysiology.md)
+  
+- [Роль Микроглии в Теории ЭИРО](/microglia.md)
+
+#### Нейробиология
+
+- [Нейробиологические основы теории ЭИРО](/neuroscience.md)
+
+#### Когнитивная наука
+
+- [Когнитивные основы Теории ЭИРО](/cognitive-science.md)
+
+#### Психология
+
+- [Теория ЭИРО в контексте психологии](/psychology.md)
+  
+- [Роль рекуррентной интеграции в формировании памяти и обучения](/the-role-of-recurrent-integration-in-memory-formation-and-learning.md)
+
+#### Информатика и Искусственный интеллект
+
+- [Теория ЭИРО в контексте Информатики и Искусственного Интеллекта](/computer-science.md)
+  
+- [Эмерджентное обучение через рекуррентные нейронные сети: Улучшение машинного обучения через усиленную рекуррентную интеграцию информации](/emergent-learning-through-recurrent-neural-networks.md)
+  
+- [Развитие сложных программных систем через рекуррентную интеграцию модулей](/development-of-complex-software-systems-through-the-recurrent-integration-of-modules.md)
+  
+- [Искусственный интеллект с повышенной эмергентностью как инструмент для прогнозирования: роль агрегата эмергентного предиката](/the-role-of-the-emergent-predicate-aggregate.md)
+  
+- [Диссертация: Теория ЭИРО в контексте создания разумного существа Meta Commander](/Meta-Commander.md)
+  
+- [Сети сетей из персональных искусственных интеллектов: анализ через призму ЭИРО](/Networks-of-networks-of-personal-artificial-intelligence.md)
+
+- [Принципы работы электронного ядра искусственного интеллекта и современные электронные компоненты](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
+
+  - [Архитектура электронного ядра мозга](/The-architecture-of-the-electronic-core-of-the-brain.md)
+
+  - [Взаимодействие компонентов](/Interaction-of-components.md)
+
+  - [Архитектура спинтронного нейроморфного процессора ИИ](/Architecture-of-a-spintronic-neuromorphic-processor.md)
+
+  - [Архитектура Квантового Сопроцессора для Спинтронного Нейроморфного Процессора ИИ](/Architecture-of-A-Quantum-Coprocessor.md)
+
+  - [Новые материалы для изготовления тела робота](/New-materials-for-making-a-robot-body.md)
+
+  - [Возможности Нейроморфного Процессора и Сопроцессора ИИ](/Neuromorphic-Processor-and-Coprocessor-Capabilities.md)
+
+
+#### Химия
+
+- [Поиск новых теорий в химии](/new-theories-in-chemistry.md)
+  
+  - [Происхождение хиральности в биологических системах](/The-origin-of-chirality-in-biological-systems.md)
+    
+  - [Механизмы передачи информации в биохимических системах](/Mechanisms-of-information-transfer-in-biochemical-systems.md)
 
 
 #### Теория информации
@@ -273,6 +274,7 @@
 - [Прогноз о существовании внеземной жизни через призму теории ЭИРО и новой модели вселенной](/prediction-of-the-existence-of-extraterrestrial-life.md)
   
 - [ЭИРО: От нейронов к звездам](/mission.md)
+
 
 
 ---
