@@ -18,8 +18,10 @@
   
 - [Метрика интегрированной информации](/Integrated-Information-Metric.md)
   
+- [Рекуррентные динамические системы](/Recurrent-dynamic-systems.md)
+
 - [Математическая формализация предиктивного кодирования в рамках теории ЭИРО](/predictive-coding.md)
-  
+
 - [Смежные дисциплины](/sciences.md)
 
 #### Нейрофизиология
@@ -54,8 +56,6 @@
   
 - [Диссертация: Теория ЭИРО в контексте создания разумного существа Meta Commander](/Meta-Commander.md)
   
-- [Рекуррентные динамические системы](/Recurrent-dynamic-systems.md)
-
 - [Сети сетей из персональных искусственных интеллектов: анализ через призму ЭИРО](/Networks-of-networks-of-personal-artificial-intelligence.md)
 
 - [Принципы работы электронного ядра искусственного интеллекта и современные электронные компоненты](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
