@@ -155,7 +155,7 @@
 
 - [Полный список алгоритмов для создания Python кода для расчёта представленных формул и теорий](/calc.md)
 
-  - [Калькулятор эмерджентной интегрированной информации (Φₑ) на Python 3](Emergent-Integrated-Information-Calculator.md)
+  - [Калькулятор эмерджентной интегрированной информации (Φₑ) на Python 3](/Emergent-Integrated-Information-Calculator.md)
 
 
 
