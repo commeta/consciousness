@@ -153,11 +153,15 @@
 
   - [Возможности Нейроморфного Процессора и Сопроцессора ИИ](/Neuromorphic-Processor-and-Coprocessor-Capabilities.md)
 
+  - [Возможности Панели управления ИИ на базе Нейроморфного Процессора и Сопроцессора](/Neuromorphic-Processor-and-Coprocessor-Features.md)
+
 - [Полный список алгоритмов для создания Python кода для расчёта представленных формул и теорий](/calc.md)
 
   - [Калькулятор эмерджентной интегрированной информации (Φₑ) на Python 3](/Emergent-Integrated-Information-Calculator.md)
   
   - [Калькулятор степени интеграции информации на Python 3](/Information-Integration-Degree-Calculator.md)
+
+
 
 
 
