@@ -16,6 +16,9 @@
 
 ### Реализация на Python 3
 
+[python-fiddle](https://python-fiddle.com/saved/yrfYVLTktpxDd6WiexGF)
+
+
 ```python3
 import numpy as np
 from scipy.integrate import simps
