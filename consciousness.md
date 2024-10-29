@@ -74,6 +74,8 @@
   - [Quantum Coprocessor Architecture for Spintronic Neuromorphic AI Processor](/Architecture-of-A-Quantum-Coprocessor.md)
   - [New materials for making a robot body](/New-materials-for-making-a-robot-body.md)
   - [The capabilities of a Neuromorphic Processor and an AI Coprocessor](/Neuromorphic-Processor-and-Coprocessor-Capabilities.md)
+  - [The capabilities of the AI Control Panel based on a Neuromorphic Processor and a Coprocessor](/Neuromorphic-Processor-and-Coprocessor-Features.md)
+
 - [A complete list of algorithms for creating Python code for calculating the presented formulas and theories](/calc.md)
   - [Emergent Integrated Information Calculator (φₑ) in Python 3](/Emergent-Integrated-Information-Calculator.md)
   - [Calculator for the degree of integration of information in Python 3](/Information-Integration-Degree-Calculator.md)
