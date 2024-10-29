@@ -152,6 +152,9 @@
 
   - [Калькулятор эмерджентной интегрированной информации (Φₑ) на Python 3](/Emergent-Integrated-Information-Calculator.md)
 
+  - [Калькулятор степени интеграции информации на Python 3](/Information-Integration-Degree-Calculator.md)
+
+
 #### Химия
 
 - [Поиск новых теорий в химии](/new-theories-in-chemistry.md)
