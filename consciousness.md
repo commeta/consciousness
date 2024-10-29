@@ -76,6 +76,7 @@
   - [The capabilities of a Neuromorphic Processor and an AI Coprocessor](/Neuromorphic-Processor-and-Coprocessor-Capabilities.md)
   - [The capabilities of the AI Control Panel based on a Neuromorphic Processor and a Coprocessor](/Neuromorphic-Processor-and-Coprocessor-Features.md)
   - [An operating system for artificial intelligence management based on the architecture of a spintronic neuromorphic processor and a quantum coprocessor for AI](/The-operating-system-of-artificial-intelligence-management.md)
+  - [An attention management system in an AI operating system based on a spintronic neuromorphic processor and a quantum coprocessor](/The-attention-management-system-in-theo-perating-system-for-AI.md)
 - [A complete list of algorithms for creating Python code for calculating the presented formulas and theories](/calc.md)
   - [Emergent Integrated Information Calculator (φₑ) in Python 3](/Emergent-Integrated-Information-Calculator.md)
   - [Calculator for the degree of integration of information in Python 3](/Information-Integration-Degree-Calculator.md)
