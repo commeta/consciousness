@@ -75,6 +75,8 @@
   - [New materials for making a robot body](/New-materials-for-making-a-robot-body.md)
   - [The capabilities of a Neuromorphic Processor and an AI Coprocessor](/Neuromorphic-Processor-and-Coprocessor-Capabilities.md)
 - [A complete list of algorithms for creating Python code for calculating the presented formulas and theories](/calc.md)
+  - [Emergent Integrated Information Calculator (φₑ) in Python 3](/Emergent-Integrated-Information-Calculator.md)
+
 ### Chemistry
 - [Search for New Theories in Chemistry](/new-theories-in-chemistry.md)
   - [Origin of Chirality in Biological Systems](/The-origin-of-chirality-in-biological-systems.md)
