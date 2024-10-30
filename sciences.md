@@ -19,6 +19,8 @@
 
 - [Система внимания нейронной сети через призму теории ЭИРО](/The-attention-system-of-a-neural-network.md)
 
+   - [Принцип эффекта гипноза через призму теории ЭИРО](/the-principle-of-the-hypnosis-effect.md)
+
 - [Смежные дисциплины](/sciences.md)
 
 
