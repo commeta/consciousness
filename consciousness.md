@@ -11,6 +11,7 @@
 - [Mathematical Formalization of Predictive Coding within the EIRM Theory Framework](/predictive-coding.md)
 - [The attention system of a neural network through the prism of the theory of EIRM](/The-attention-system-of-a-neural-network.md)
    - [The principle of the hypnosis effect through the prism of the theory of EIRM](/the-principle-of-the-hypnosis-effect.md)
+- [Principles of memory mechanisms in neural networks through the prism of EIRM theory](/Principles-of-memory-mechanisms-in-neural-networks.md)
 - [Related Disciplines](/sciences.md)
 ### Physics
 - [Modeling of Recurrent Neuronal Networks](/physics.md)
