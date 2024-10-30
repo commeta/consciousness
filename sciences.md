@@ -21,6 +21,9 @@
 
    - [Принцип эффекта гипноза через призму теории ЭИРО](/the-principle-of-the-hypnosis-effect.md)
 
+- [Принципы механизмов памяти в нейронных сетях через призму теории ЭИРО](/Principles-of-memory-mechanisms-in-neural-networks.md)
+
+
 - [Смежные дисциплины](/sciences.md)
 
 
