@@ -9,6 +9,7 @@
 - [Integrated Information Metric](/Integrated-Information-Metric.md)
 - [Recurrent Dynamic Systems](/Recurrent-dynamic-systems.md)
 - [Mathematical Formalization of Predictive Coding within the EIRM Theory Framework](/predictive-coding.md)
+- [The attention system of a neural network through the prism of the theory of EIRM](/The-attention-system-of-a-neural-network.md)
 - [Related Disciplines](/sciences.md)
 ### Physics
 - [Modeling of Recurrent Neuronal Networks](/physics.md)
