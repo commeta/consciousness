@@ -28,6 +28,8 @@
 
 - [Принципы механизмов памяти в нейронных сетях через призму теории ЭИРО](/Principles-of-memory-mechanisms-in-neural-networks.md)
 
+- [Теория ЭИРО в контексте коннектомики](/EIRM-in-the-context-of-connectomics.md)
+
 - [Смежные дисциплины](/sciences.md)
 
 
