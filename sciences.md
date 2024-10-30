@@ -161,6 +161,8 @@
 
   - [Система управления вниманием в операционной системе для ИИ на базе спинтронного нейроморфного процессора и квантового сопроцессора](/The-attention-management-system-in-theo-perating-system-for-AI.md)
 
+  - [Принципы механизмов эмпатии в нейронной сети искусственного интеллекта](/Principles-of-empathy-mechanisms-in-the-neural-network-of-artificial-intelligence.md)
+
 
 - [Полный список алгоритмов для создания Python кода для расчёта представленных формул и теорий](/calc.md)
 
