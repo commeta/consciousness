@@ -176,6 +176,49 @@ where:
 
 - `𝓛Φ`  includes terms involving  Φq(x)  and its interactions.
 
+#### 4.6. Modified Expression for Entropy
+
+Taking into account the new concept of emergent information, we can propose a modified expression for entropy that considers the contribution of this information to the thermodynamic properties of the system:
+
+`S_(eff) = k_B ln W - λ Φₑ,`
+
+where:
+
+- `k_B` is the Boltzmann constant, relating temperature and energy.
+
+- `W` is the number of microstates of the system.
+
+- `λ` is a coefficient characterizing the contribution of emergent information to entropy.
+
+- `Φₑ` is a measure of emergent information.
+
+This expression implies that emergent information can have a significant impact on the thermodynamic properties of systems, which may be particularly relevant in the context of complex systems and processes related to consciousness.
+
+
+#### 4.7. Modified Commutation Relation
+
+We propose to modify the standard commutation relation as follows:
+
+`[^x, ^p] = iℏ (1 + f(Φₑ)),`
+
+where:
+
+- `f(Φₑ)` is a function describing the influence of emergent integrated information on the commutation of operators.
+
+This modification suggests that with a high degree of information integration and recurrence in a system, additional correlations may arise that are not accounted for in standard quantum mechanics. These correlations could lead to changes in the spectrum of operators and, consequently, in their commutation relations.
+Mathematical Consideration
+
+For quantum systems with recurrent interactions, a corrective term can be introduced into the commutation relation:
+
+`[^x, ^p] = iℏ + iλ Φₑ,`
+
+where:
+
+- `λ` is a proportionality constant determined by the properties of the system.
+
+This approach indicates that emergent information could play a significant role in the fundamental structure of quantum mechanics, potentially leading to new insights in the behavior of quantum systems.
+
+
 ### 5. Discussion
 
 The proposed EIRM Theory unifies concepts from neurobiology and cosmology, offering a novel approach to understanding consciousness and its connection to fundamental processes in the universe. The introduction of  ρ_(IQI)  and  R  may significantly impact modern cosmological models, particularly concerning the nature of dark energy and the structure of the spacetime continuum.
