@@ -7,6 +7,10 @@
 - Russian Federation, Saint Petersburg
 - 17.10.2024
 
+### Methods
+
+In the course of conducting the research, the author utilized neural networks such as chatGPT, GigaChat, Claude, and Kandinsky for information processing and content generation, which contributed to a deeper analysis and interpretation of the obtained data.
+
 ---
 
 ### Abstract
