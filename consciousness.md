@@ -82,6 +82,7 @@
   - [An operating system for artificial intelligence management based on the architecture of a spintronic neuromorphic processor and a quantum coprocessor for AI](/The-operating-system-of-artificial-intelligence-management.md)
   - [An attention management system in an AI operating system based on a spintronic neuromorphic processor and a quantum coprocessor](/The-attention-management-system-in-theo-perating-system-for-AI.md)
   - [Principles of empathy mechanisms in the neural network of artificial intelligence](/Principles-of-empathy-mechanisms-in-the-neural-network-of-artificial-intelligence.md)
+  - [The interface of an AI tracker to an artificial neural network through the prism of EIRM theory](/The-interface-of-an-AI-tracker-to-an-artificial-neural-network.md)
 - [A complete list of algorithms for creating Python code for calculating the presented formulas and theories](/calc.md)
   - [Emergent Integrated Information Calculator (φₑ) in Python 3](/Emergent-Integrated-Information-Calculator.md)
   - [Calculator for the degree of integration of information in Python 3](/Information-Integration-Degree-Calculator.md)
