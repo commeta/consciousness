@@ -164,6 +164,8 @@
 
   - [Принципы механизмов эмпатии в нейронной сети искусственного интеллекта](/Principles-of-empathy-mechanisms-in-the-neural-network-of-artificial-intelligence.md)
 
+  - [Интерфейс ай-трекера к искусственной нейросети через призму теории ЭИРО](/The-interface-of-an-AI-tracker-to-an-artificial-neural-network.md)
+
 
 - [Полный список алгоритмов для создания Python кода для расчёта представленных формул и теорий](/calc.md)
 
