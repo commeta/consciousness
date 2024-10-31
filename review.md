@@ -206,6 +206,7 @@ where:
 - `f(Φₑ)` is a function describing the influence of emergent integrated information on the commutation of operators.
 
 This modification suggests that with a high degree of information integration and recurrence in a system, additional correlations may arise that are not accounted for in standard quantum mechanics. These correlations could lead to changes in the spectrum of operators and, consequently, in their commutation relations.
+
 Mathematical Consideration
 
 For quantum systems with recurrent interactions, a corrective term can be introduced into the commutation relation:
