@@ -91,6 +91,8 @@
 - [A complete list of algorithms for creating Python code for calculating the presented formulas and theories](/calc.md)
   - [Emergent Integrated Information Calculator (φₑ) in Python 3](/Emergent-Integrated-Information-Calculator.md)
   - [Calculator for the degree of integration of information in Python 3](/Information-Integration-Degree-Calculator.md)
+- [Architectural patterns and dynamic processes in artificial neural networks through the prism of EIRM theory](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+
 ### Chemistry
 - [Search for New Theories in Chemistry](/new-theories-in-chemistry.md)
   - [Origin of Chirality in Biological Systems](/The-origin-of-chirality-in-biological-systems.md)
