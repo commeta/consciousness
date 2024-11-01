@@ -15,6 +15,7 @@
 #### 2.1 Архитектура памяти
 
 2.1.1 Сенсорная память
+
 • Иконическая (зрительная):
 - Длительность: 100-500 мс
 - Объем: до 12-16 элементов
@@ -28,6 +29,7 @@
 - Механизм: временная интеграция слуховых стимулов [Cowan, 1984]
 
 2.1.2 Рабочая память
+
 • Центральный исполнитель [Baddeley & Hitch, 1974]:
 - Локализация: префронтальная кора
 - Функции: 
@@ -77,12 +79,15 @@
 #### 2.2 Нейронные основы
 
 2.2.1 Роль гиппокампа в консолидации памяти
+
 Согласно исследованиям Сквайра (Squire, 2009), гиппокамп играет ключевую роль в консолидации декларативной (эпизодической и семантической) памяти. Повреждение гиппокампа приводит к нарушению способности формировать новые долговременные воспоминания (антероградная амнезия) [Scoville & Milner, 1957]. Механизм заключается в том, что гиппокамп обеспечивает временную консолидацию памятных следов, которые затем перераспределяются в неокортекс для долговременного хранения [McClelland et al., 1995].
 
 2.2.2 Роль префронтальной коры в рабочей памяти
+
 Исследования Сквайра (Squire, 2009) демонстрируют, что префронтальная кора является ключевым нейронным субстратом рабочей памяти. Повреждения префронтальной коры приводят к нарушениям в способности удерживать и манипулировать информацией в рабочей памяти [Baddeley, 2003]. Механизм заключается в том, что префронтальная кора обеспечивает исполнительный контроль, распределение внимания и координацию подсистем рабочей памяти [Baddeley & Hitch, 1974].
 
 2.2.3 Роль миндалины в эмоциональной памяти
+
 Согласно Сквайру (Squire, 2009), миндалина играет ключевую роль в формировании эмоциональной памяти. Повреждения миндалины приводят к нарушениям способности запоминать эмоционально окрашенные события [Cahill et al., 1995]. Механизм заключается в том, что миндалина модулирует консолидацию памяти, усиливая запоминание эмоционально значимой информации [McGaugh, 2000].
 
 
@@ -92,9 +97,10 @@
 
 Согласно теории ЭИРО, ключевым параметром, определяющим уровень сознательного восприятия, является эмергентная интегрированная информация Φₑ(t) в момент времени t. Этот параметр рассчитывается следующим образом:
 
-Φₑ(t) = ∑ᵢ wᵢ∫I(x,t)R(x,t)dx
+`Φₑ(t) = ∑ᵢ wᵢ∫I(x,t)R(x,t)dx`
 
 Где:
+
 - wᵢ - веса синаптических связей в рекуррентной нейронной сети
 - I(x,t) - локальная информационная интеграция в точке x в момент времени t
 - R(x,t) - рекуррентная активность в точке x в момент времени t
@@ -113,7 +119,9 @@
 
 
 #### 3.2 Экспериментальные подтверждения
+
 Исследования с применением фМРТ (Dehaene et al., 2006) показывают:
+
 - Усиление рекуррентной активности при осознанном восприятии
 - Корреляцию Φₑ с уровнем сознания
 - Нарушение интеграции при амнезии
@@ -124,9 +132,10 @@
 
 Процесс консолидации памяти, согласно теории ЭИРО, описывается следующим уравнением:
 
-M(t) = M₀exp(-t/τ) + ∫₀ᵗ K(s)Φₑ(t-s)ds
+`M(t) = M₀exp(-t/τ) + ∫₀ᵗ K(s)Φₑ(t-s)ds`
 
 Где:
+
 - M(t) - сила или интенсивность памятного следа в момент времени t
 - M₀ - начальная сила памятного следа
 - τ - константа затухания памятного следа во времени
@@ -146,9 +155,11 @@ M(t) = M₀exp(-t/τ) + ∫₀ᵗ K(s)Φₑ(t-s)ds
 #### 4.2 Нейропластичность
 
 4.2.1 Долговременная потенциация и Φₑ
+
 Согласно исследованиям Эрика Кандела (Kandel, 2001), долговременная потенциация (ДВП) - ключевой механизм синаптической пластичности, лежащий в основе процессов обучения и памяти. Экспериментальные данные показывают, что степень ДВП коррелирует с величиной эмергентной интегрированной информации Φₑ в соответствующих нейронных ансамблях [Tononi & Cirelli, 2006; Oizumi et al., 2014]. Высокие значения Φₑ указывают на эффективную интеграцию информации в рекуррентных контурах, что способствует усилению синаптических связей и консолидации памятных следов.
 
 4.2.2 Рекуррентность и синаптическая пластичность
+
 Исследования Кандела (Kandel, 2001) также демонстрируют, что синаптическая пластичность модулируется степенью рекуррентности нейронных взаимодействий. Рекуррентные связи обеспечивают динамическую интеграцию информации, что активирует внутриклеточные каскады, регулирующие экспрессию генов, синтез белков и структурные изменения синапсов [Mayford et al., 1996]. Таким образом, рекуррентность является ключевым фактором, определяющим способность нейронных сетей к долговременной пластичности и консолидации памяти.
 
 ### ЗАКЛЮЧЕНИЕ
@@ -157,26 +168,26 @@ M(t) = M₀exp(-t/τ) + ∫₀ᵗ K(s)Φₑ(t-s)ds
 
 ### Библиография:
 
-1. Baddeley, A. (2000). The episodic buffer: a new component of working memory? Trends in Cognitive Sciences, 4(11), 417-423.
-2. Dehaene, S., et al. (2006). Conscious, preconscious, and subliminal processing: a testable taxonomy. Trends in Cognitive Sciences, 10(5), 204-211.
-3. Kandel, E.R. (2001). The molecular biology of memory storage: a dialogue between genes and synapses. Science, 294(5544), 1030-1038.
-4. Squire, L.R. (2009). Memory systems of the brain: A brief history and current perspective. Neurobiology of Learning and Memory, 82(3), 171-177.
-5. Kandel, E.R. (2001). The molecular biology of memory storage: A dialogue between genes and synapses. Science, 294(5544), 1030-1038.
-6. Mayford, M., Barzilai, A., Keller, F., Schacher, S., & Kandel, E.R. (1992). Modulation of an NCAM-related adhesion molecule with long-term synaptic plasticity in Aplysia. Science, 256(5057), 638-644.
-7. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0. PLoS Computational Biology, 10(5), e1003588.
-8. Tononi, G., & Cirelli, C. (2006). Sleep function and synaptic homeostasis. Sleep Medicine Reviews, 10(1), 49-62.
-9. Tononi, G. (2004). An information integration theory of consciousness. BMC Neuroscience, 5(1), 42.
-10. Baddeley, A. (2003). Working memory: looking back and looking forward. Nature Reviews Neuroscience, 4(10), 829-839.
-11. Baddeley, A.D., & Hitch, G.J. (1974). Working memory. In G.H. Bower (Ed.), The psychology of learning and motivation (Vol. 8, pp. 47-89). New York: Academic Press.
-12. Cahill, L., Babinsky, R., Markowitsch, H.J., & McGaugh, J.L. (1995). The amygdala and emotional memory. Nature, 377(6547), 295-296.
-13. McClelland, J.L., McNaughton, B.L., & O'Reilly, R.C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological Review, 102(3), 419-457.
-14. McGaugh, J.L. (2000). Memory–a century of consolidation. Science, 287(5451), 248-251.
-15. Scoville, W.B., & Milner, B. (1957). Loss of recent memory after bilateral hippocampal lesions. Journal of Neurology, Neurosurgery, and Psychiatry, 20(1), 11-21.
-16. Squire, L.R., & Alvarez, P. (1995). Retrograde amnesia and memory consolidation: a neurobiological perspective. Current Opinion in Neurobiology, 5, 169-177.
-17. Cowan, N. (1984). On short and long auditory stores. Psychological Bulletin, 96, 341-370.
-18. Kandel, E.R. (2001). The molecular biology of memory storage: A dialogue between genes and synapses. Science, 294, 1030-1038.
-19. Luck, S.J., & Vogel, E.K. (1997). The capacity of visual working memory for features and conjunctions. Nature, 390, 279-281.
-20. Miller, G.A. (1956). The magical number seven, plus or minus two. Psychological Review, 63, 81-97.
+- 1. Baddeley, A. (2000). The episodic buffer: a new component of working memory? Trends in Cognitive Sciences, 4(11), 417-423.
+- 2. Dehaene, S., et al. (2006). Conscious, preconscious, and subliminal processing: a testable taxonomy. Trends in Cognitive Sciences, 10(5), 204-211.
+- 3. Kandel, E.R. (2001). The molecular biology of memory storage: a dialogue between genes and synapses. Science, 294(5544), 1030-1038.
+- 4. Squire, L.R. (2009). Memory systems of the brain: A brief history and current perspective. Neurobiology of Learning and Memory, 82(3), 171-177.
+- 5. Kandel, E.R. (2001). The molecular biology of memory storage: A dialogue between genes and synapses. Science, 294(5544), 1030-1038.
+- 6. Mayford, M., Barzilai, A., Keller, F., Schacher, S., & Kandel, E.R. (1992). Modulation of an NCAM-related adhesion molecule with long-term synaptic plasticity in Aplysia. Science, 256(5057), 638-644.
+- 7. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0. PLoS Computational Biology, 10(5), e1003588.
+- 8. Tononi, G., & Cirelli, C. (2006). Sleep function and synaptic homeostasis. Sleep Medicine Reviews, 10(1), 49-62.
+- 9. Tononi, G. (2004). An information integration theory of consciousness. BMC Neuroscience, 5(1), 42.
+- 10. Baddeley, A. (2003). Working memory: looking back and looking forward. Nature Reviews Neuroscience, 4(10), 829-839.
+- 11. Baddeley, A.D., & Hitch, G.J. (1974). Working memory. In G.H. Bower (Ed.), The psychology of learning and motivation (Vol. 8, pp. 47-89). New York: Academic Press.
+- 12. Cahill, L., Babinsky, R., Markowitsch, H.J., & McGaugh, J.L. (1995). The amygdala and emotional memory. Nature, 377(6547), 295-296.
+- 13. McClelland, J.L., McNaughton, B.L., & O'Reilly, R.C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological Review, 102(3), 419-457.
+- 14. McGaugh, J.L. (2000). Memory–a century of consolidation. Science, 287(5451), 248-251.
+- 15. Scoville, W.B., & Milner, B. (1957). Loss of recent memory after bilateral hippocampal lesions. Journal of Neurology, Neurosurgery, and Psychiatry, 20(1), 11-21.
+- 16. Squire, L.R., & Alvarez, P. (1995). Retrograde amnesia and memory consolidation: a neurobiological perspective. Current Opinion in Neurobiology, 5, 169-177.
+- 17. Cowan, N. (1984). On short and long auditory stores. Psychological Bulletin, 96, 341-370.
+- 18. Kandel, E.R. (2001). The molecular biology of memory storage: A dialogue between genes and synapses. Science, 294, 1030-1038.
+- 19. Luck, S.J., & Vogel, E.K. (1997). The capacity of visual working memory for features and conjunctions. Nature, 390, 279-281.
+- 20. Miller, G.A. (1956). The magical number seven, plus or minus two. Psychological Review, 63, 81-97.
 
 
 
