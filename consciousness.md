@@ -16,6 +16,7 @@
 - [Neurocognitive mechanisms of thinking in the context of the theory of EIRM](/Neurocognitive-mechanisms-of-thinking.md)
 - [Neurocognitive mechanisms of memory in the context of EIRM theory](/Neurocognitive-mechanism-of-memory.md)
 - [Neurocognitive mechanisms of selective attention through the prism of EIRM theory](/Neurocognitive-mechanisms-of-selective-attention.md)
+- [Neurocognitive mechanisms of perception in the context of emergent integration: from sensory inputs to conscious experience](/Neurocognitive-mechanisms-of-perception.md)
 - [EIRM theory in the context of connectomics](/EIRM-in-the-context-of-connectomics.md)
 - [Related Disciplines](/sciences.md)
 ### Physics
