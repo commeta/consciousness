@@ -25,6 +25,8 @@
 
 - [Нейрокогнитивные механизмы сознательного восприятия и памяти в контексте теории ЭИРО](/Neurocognitive-mechanisms-of-conscious-perception-and-memory.md)
 
+- [Нейрокогнитивные механизмы мышления человека в контексте теории ЭИРО](/Neurocognitive-mechanisms-of-thinking.md)
+
 - [Теория ЭИРО в контексте коннектомики](/EIRM-in-the-context-of-connectomics.md)
 
 - [Смежные дисциплины](/sciences.md)
