@@ -188,6 +188,7 @@
   
   - [Калькулятор степени интеграции информации на Python 3](/Information-Integration-Degree-Calculator.md)
 
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 
 
