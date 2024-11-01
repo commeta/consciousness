@@ -31,6 +31,8 @@
 
 - [Нейрокогнитивные механизмы селективного внимания через призму теории ЭИРО](/Neurocognitive-mechanisms-of-selective-attention.md)
 
+- [Нейрокогнитивные механизмы восприятия в контексте эмергентной интеграции: от сенсорных входов к осознанному опыту](/Neurocognitive-mechanisms-of-perception.md)
+
 - [Теория ЭИРО в контексте коннектомики](/EIRM-in-the-context-of-connectomics.md)
 
 - [Смежные дисциплины](/sciences.md)
