@@ -12,6 +12,7 @@
 - [The attention system of a neural network through the prism of the theory of EIRM](/The-attention-system-of-a-neural-network.md)
    - [The principle of the hypnosis effect through the prism of the theory of EIRM](/the-principle-of-the-hypnosis-effect.md)
 - [Principles of memory mechanisms in neural networks through the prism of EIRM theory](/Principles-of-memory-mechanisms-in-neural-networks.md)
+- [Neurocognitive mechanisms of conscious perception and memory in the context of EIRM theory](/Neurocognitive-mechanisms-of-conscious-perception-and-memory.md)
 - [EIRM theory in the context of connectomics](/EIRM-in-the-context-of-connectomics.md)
 - [Related Disciplines](/sciences.md)
 ### Physics
