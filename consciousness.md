@@ -21,6 +21,7 @@
 - [EIRM theory in the context of connectomics](/EIRM-in-the-context-of-connectomics.md)
 - [Related Disciplines](/sciences.md)
 ### Physics
+- [The Theory of the Recurrent Universe: A New Paradigm in Cosmology](/recurrent-universe/The-Recurrent-Universe.md)
 - [Modeling of Recurrent Neuronal Networks](/physics.md)
 - [EIRM Theory in the Context of Quantum Physics](/quantum-physics.md)
 - [The Linearity of Quantum Mechanics through the Prism of EIRM and a New Model of the Universe](/The-linearity-of-quantum-mechanics.md)
