@@ -143,39 +143,39 @@ Complex systems theory provides a powerful conceptual and mathematical framework
 
 The modern standard cosmological model, known as the ΛCDM model, is widely accepted in the scientific community. It includes the following key components:
 
-1. <b>Expanding Universe</b>: The model is based on the Big Bang theory, according to which the Universe originated from an extremely dense and hot state and has been continuously expanding since then.
+1. **Expanding Universe**: The model is based on the Big Bang theory, according to which the Universe originated from an extremely dense and hot state and has been continuously expanding since then.
 
-2. <b>Dark Matter</b>: The model postulates the existence of so-called "dark matter" - an invisible form of matter that interacts with ordinary matter only through gravitational effects. Dark matter is necessary to explain the observed structure of the Universe, including the distribution of galaxies and galaxy clusters.
+2. **Dark Matter**: The model postulates the existence of so-called "dark matter" - an invisible form of matter that interacts with ordinary matter only through gravitational effects. Dark matter is necessary to explain the observed structure of the Universe, including the distribution of galaxies and galaxy clusters.
 
-3. <b>Dark Energy</b>: According to the ΛCDM model, about 70% of the energy of the Universe is attributed to "dark energy" - a hypothetical field that is uniformly distributed in space and has a negative pressure, leading to the accelerated expansion of the Universe.
+3. **Dark Energy**: According to the ΛCDM model, about 70% of the energy of the Universe is attributed to "dark energy" - a hypothetical field that is uniformly distributed in space and has a negative pressure, leading to the accelerated expansion of the Universe.
 
-4. <b>Cosmological Constant</b>: Dark energy in the ΛCDM model is often represented by the cosmological constant Λ, introduced by Einstein in his equations of general relativity.
+4. **Cosmological Constant**: Dark energy in the ΛCDM model is often represented by the cosmological constant Λ, introduced by Einstein in his equations of general relativity.
 
 #### Problems with the Standard Model
 
 Despite the successes of the ΛCDM model in explaining many observed cosmological phenomena, it faces several serious problems:
 
-1. <b>Nature of Dark Matter</b>: Despite numerous attempts to detect dark matter particles in experiments, their nature remains unknown. The lack of direct observations of dark matter raises questions about its existence.
+1. **Nature of Dark Matter**: Despite numerous attempts to detect dark matter particles in experiments, their nature remains unknown. The lack of direct observations of dark matter raises questions about its existence.
 
-2. <b>Nature of Dark Energy</b>: The origin of dark energy and its connection to the cosmological constant also remain a mystery. Theoretical estimates of the value of the cosmological constant differ from the observed value by dozens of orders of magnitude.
+2. **Nature of Dark Energy**: The origin of dark energy and its connection to the cosmological constant also remain a mystery. Theoretical estimates of the value of the cosmological constant differ from the observed value by dozens of orders of magnitude.
 
-3. <b>Flatness Problem</b>: The ΛCDM model predicts that the Universe should be flat, but observations indicate a slight deviation from flatness, requiring additional explanations.
+3. **Flatness Problem**: The ΛCDM model predicts that the Universe should be flat, but observations indicate a slight deviation from flatness, requiring additional explanations.
 
-4. <b>Horizon Problem</b>: The ΛCDM model cannot explain why different regions of the Universe, which could not have been in causal contact, demonstrate a high degree of homogeneity.
+4. **Horizon Problem**: The ΛCDM model cannot explain why different regions of the Universe, which could not have been in causal contact, demonstrate a high degree of homogeneity.
 
-5. <b>Monopole Problem</b>: According to the Big Bang theory, magnetic monopoles should have been formed in the Universe, but they have not been observed.
+5. **Monopole Problem**: According to the Big Bang theory, magnetic monopoles should have been formed in the Universe, but they have not been observed.
 
 #### Alternative Cosmological Models
 
 To address these problems, scientists have proposed various alternative cosmological models, such as:
 
-1. <b>Models with Modified Gravity</b>: These models assume that gravity behaves differently than in general relativity, which can explain the observed effects without the need for dark matter and dark energy.
+1. **Models with Modified Gravity**: These models assume that gravity behaves differently than in general relativity, which can explain the observed effects without the need for dark matter and dark energy.
 
-2. <b>Models with Dynamic Dark Energy</b>: Instead of a constant cosmological constant, these models consider a dynamic field, whose properties can change over time and explain the accelerated expansion of the Universe.
+2. **Models with Dynamic Dark Energy**: Instead of a constant cosmological constant, these models consider a dynamic field, whose properties can change over time and explain the accelerated expansion of the Universe.
 
-3. <b>Cyclic Universe Models</b>: According to these models, the Universe can go through cycles of expansion and contraction, avoiding the Big Bang singularity.
+3. **Cyclic Universe Models**: According to these models, the Universe can go through cycles of expansion and contraction, avoiding the Big Bang singularity.
 
-4. <b>Models with Multidimensional Spacetime</b>: These models, based on string theory and loop quantum gravity, postulate the existence of additional spatial dimensions that can influence cosmological dynamics.
+4. **Models with Multidimensional Spacetime**: These models, based on string theory and loop quantum gravity, postulate the existence of additional spatial dimensions that can influence cosmological dynamics.
 
 Despite active research in these directions, none of the alternative models can currently fully resolve all the problems of the standard ΛCDM cosmological model. The search for new theoretical approaches and experimental verifications remains an important task in modern cosmology.
 
@@ -216,15 +216,15 @@ Thus, the theory of the Recurrent Universe offers alternative mechanisms based o
 
 String theory is one of the most promising theories of quantum gravity, which considers fundamental particles not as point-like objects, but as one-dimensional strings oscillating in a multi-dimensional spacetime. The main principles of string theory are:
 
-1. <b>Multidimensionality of Spacetime</b>: According to string theory, the universe consists not of 4 dimensions (3 spatial + 1 temporal), but of 10 or 11 dimensions, most of which are "curled up" to microscopic sizes.
+1. **Multidimensionality of Spacetime**: According to string theory, the universe consists not of 4 dimensions (3 spatial + 1 temporal), but of 10 or 11 dimensions, most of which are "curled up" to microscopic sizes.
 
-2. <b>Strings as Fundamental Objects</b>: Instead of point-like particles, in string theory the fundamental objects are one-dimensional strings, which can have open or closed forms and undergo various oscillations.
+2. **Strings as Fundamental Objects**: Instead of point-like particles, in string theory the fundamental objects are one-dimensional strings, which can have open or closed forms and undergo various oscillations.
 
-3. <b>Unification of Interactions</b>: String theory suggests that all four fundamental interactions (gravitational, electromagnetic, strong, and weak) can be described within a single theoretical framework.
+3. **Unification of Interactions**: String theory suggests that all four fundamental interactions (gravitational, electromagnetic, strong, and weak) can be described within a single theoretical framework.
 
-4. <b>Supersymmetry</b>: Many versions of string theory are based on the concept of supersymmetry, which predicts the existence of "superpartners" for each known elementary particle.
+4. **Supersymmetry**: Many versions of string theory are based on the concept of supersymmetry, which predicts the existence of "superpartners" for each known elementary particle.
 
-5. <b>Gauge/Gravity Duality</b>: There is a deep connection between gauge theories and the theory of gravity, which manifests in the so-called gauge/gravity duality.
+5. **Gauge/Gravity Duality**: There is a deep connection between gauge theories and the theory of gravity, which manifests in the so-called gauge/gravity duality.
 
 Despite significant progress, string theory is still in the stage of active research and the search for experimental confirmation. The main challenges facing the theory include the choice of the correct version, the search for a mechanism to stabilize the additional dimensions, and the establishment of a connection with the observed universe.
 
@@ -232,15 +232,15 @@ Despite significant progress, string theory is still in the stage of active rese
 
 Loop Quantum Gravity (LQG) is an alternative approach to quantum gravity, which considers spacetime not as a smooth continuum, but as a discrete, "quantized" structure. The key ideas of LQG are:
 
-1. <b>Discreteness of Spacetime</b>: According to LQG, spacetime has a discrete, "granular" structure at the Planck scale, rather than being continuous.
+1. **Discreteness of Spacetime**: According to LQG, spacetime has a discrete, "granular" structure at the Planck scale, rather than being continuous.
 
-2. <b>Loop Entanglements</b>: The fundamental objects in LQG are loop entanglements, which can be viewed as "knots" in the "fabric" of spacetime.
+2. **Loop Entanglements**: The fundamental objects in LQG are loop entanglements, which can be viewed as "knots" in the "fabric" of spacetime.
 
-3. <b>Quantization of Geometry</b>: Geometric quantities, such as volume and area, in LQG are quantized and take on discrete values.
+3. **Quantization of Geometry**: Geometric quantities, such as volume and area, in LQG are quantized and take on discrete values.
 
-4. <b>Absence of Singularities</b>: The discrete structure of spacetime in LQG allows for the avoidance of singularities, such as the Big Bang, within the theory.
+4. **Absence of Singularities**: The discrete structure of spacetime in LQG allows for the avoidance of singularities, such as the Big Bang, within the theory.
 
-5. <b>Connection to General Relativity</b>: Despite its discrete nature, LQG must reproduce Einstein's general theory of relativity in the macroscopic limit.
+5. **Connection to General Relativity**: Despite its discrete nature, LQG must reproduce Einstein's general theory of relativity in the macroscopic limit.
 
 The main advantages of LQG are the ability to describe the quantum nature of gravity without the need for additional dimensions, as well as the potential to resolve the problem of singularities in general relativity. However, LQG also faces a number of challenges, such as the choice of the correct version of the theory and the establishment of a connection with observable phenomena.
 
@@ -342,25 +342,25 @@ These mathematical formulations and equations form the foundation of the Recurre
 
 
 
-### Experimental Data and Observations</b>
+### Experimental Data and Observations
 
-▎<b>Anisotropies of the Cosmic Microwave Background</b>
+**Anisotropies of the Cosmic Microwave Background**
 
 The theory of the Recurrent Universe predicts certain features in the anisotropies of the Cosmic Microwave Background (CMB) - the relic radiation left over from the early Universe. According to the model, the integrated quantum information and recurrent processes should leave specific signatures in the spatial distribution of the CMB temperature. Analysis of the data obtained from space missions such as WMAP and Planck can reveal deviations from the standard ΛCDM model and confirm or refute the predictions of the theory of the Recurrent Universe.
 
-▎<b>Distribution of Large-Scale Structure</b>
+**Distribution of Large-Scale Structure**
 
 The new cosmological model also predicts features in the distribution of galaxies, galaxy clusters, and other large-scale structures of the Universe. These structures are formed under the influence of gravitational interactions, which, according to the theory, should be modified by the contribution of integrated quantum information and recurrence. Comparison of the observed data obtained from galaxy surveys such as SDSS and 2dFGRS with the model's predictions can become an important test of its viability.
 
-▎<b>Gravitational Lensing Effects</b>
+**Gravitational Lensing Effects**
 
 The theory of the Recurrent Universe predicts changes in the nature of gravitational lensing when light passes through regions with a high density of integrated quantum information. These effects can be detected by observing distant galaxies and quasars, whose light is bent by massive objects along the line of sight. Comparison of the observed patterns of gravitational lensing with theoretical predictions can become another way to test the model.
 
-▎<b>Deviations from General Relativity</b>
+**Deviations from General Relativity**
 
 Since the theory of the Recurrent Universe suggests a modification of the Einstein equations, there is a possibility of detecting deviations from general relativity on various scales. These can be, for example, measurements of gravitational waves, testing the laws of gravity in the Solar System, or observations of the motion of galaxies and clusters. The detection of such deviations could become a direct experimental confirmation of the proposed model.
 
-▎<b>Cosmological Observations</b>
+**Cosmological Observations**
 
 An important test for the theory of the Recurrent Universe will be its ability to explain and predict various cosmological observations, such as:
 
