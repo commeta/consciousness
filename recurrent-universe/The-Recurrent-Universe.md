@@ -290,6 +290,18 @@ where Δ I is the change in integrated information within the volume Δ V.
 
 The recurrence parameter (R) reflects the degree of recurrent interactions of quantum states in the spacetime continuum. It can be related to the probability of repeated quantum interactions or to the topological characteristics of recurrent structures.
 
+#### Emergent Integrated Information Φₑ
+
+Within the framework of the Recurrent Universe theory, emergent integrated information Φₑ represents an important physical quantity that reflects the informational aspects of spacetime structure.
+
+Φₑ can be considered as a measure of information that "emergently" arises from fundamental quantum processes and recurrent interactions in spacetime. It reflects the degree of integration and organization of quantum information that manifests in the macroscopic properties of the Universe.
+
+Mathematically, emergent integrated information Φₑ can be expressed through the integral over spacetime volume:
+
+`Φₑ = ∫ ρ_(IQI) dV`
+
+Where ρ_(IQI) is the density of integrated quantum information introduced in the Recurrent Universe theory. This parameter characterizes the quantity and quality of quantum information unified in the spacetime continuum.
+
 #### Effective Equation of State for Dark Energy
 
 The introduction of the parameters ρ_(IQI) and R allows for the determination of an effective equation of state for dark energy:
