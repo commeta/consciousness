@@ -460,3 +460,4 @@ Thus, the theory of the Recurrent Universe and the new cosmological model have w
 38. [New Types of Engines through the Lens of the Theory of the Recurrent Universe](/New-Types-Of-Engines.md)
 39. [New Types of Energy: Analysis through the Lens of the Theory of the Recurrent Universe](/New-types-of-energy.md)
 40. [New materials predicted by the recurrent cosmology model](/New-materials-predicted-by-the-recurrent-cosmology-model.md)
+41. [Exotic space objects and phenomena predicted by the theory of recurrent cosmology](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
