@@ -459,3 +459,4 @@ Thus, the theory of the Recurrent Universe and the new cosmological model have w
 37. [Quantum Experiments: Measuring Deviations from Standard Quantum Mechanics through the Lens of the Theory of the Recurrent Universe](/Measuring-deviations-from-standard-quantum-mechanics.md)
 38. [New Types of Engines through the Lens of the Theory of the Recurrent Universe](/New-Types-Of-Engines.md)
 39. [New Types of Energy: Analysis through the Lens of the Theory of the Recurrent Universe](/New-types-of-energy.md)
+40. [New materials predicted by the recurrent cosmology model](/New-materials-predicted-by-the-recurrent-cosmology-model.md)
