@@ -198,6 +198,7 @@
     
   - [Механизмы передачи информации в биохимических системах](/Mechanisms-of-information-transfer-in-biochemical-systems.md)
 
+- [Великое Объединение Физики и Химии: Новая Парадигма Рекуррентной Космологии](/The-Great-Union-of-Physics-and-Chemistry.md)
 
 #### Теория информации
 
