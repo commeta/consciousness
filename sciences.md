@@ -124,6 +124,8 @@
 
 - [Новые материалы, предсказанные моделью рекуррентной космологии](/New-materials-predicted-by-the-recurrent-cosmology-model.md)
 
+- [Экзотические космические объекты и явления предсказанные теорией рекуррентной космологии](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
+
 #### Нейрофизиология
 
 - [Нейрофизиологические механизмы рекуррентной обработки и интеграции сигналов в сознании: анализ теории ЭИРО](/neurophysiology.md)
