@@ -506,3 +506,5 @@
 - [Новые виды энергии: анализ через призму теории рекуррентной Вселенной](/New-types-of-energy.md)
 
 - [Новые материалы, предсказанные моделью рекуррентной космологии](/New-materials-predicted-by-the-recurrent-cosmology-model.md)
+
+- [Экзотические космические объекты и явления предсказанные теорией рекуррентной космологии](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
