@@ -62,6 +62,8 @@
 - [New Types of Engines through the Prism of EIRM and a New Model of the Universe](/New-Types-Of-Engines.md)
 - [New types of energy: analysis through the prism of EIRM and the new model of the Universe](/New-types-of-energy.md)
 - [New materials predicted by the recurrent cosmology model](/New-materials-predicted-by-the-recurrent-cosmology-model.md)
+- [Exotic space objects and phenomena predicted by the theory of recurrent cosmology](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
+
 ### Neurophysiology
 - [Neurophysiological Mechanisms of Recurrent Signal Processing and Integration in Consciousness: Analysis of the EIRM Theory](/neurophysiology.md)
 - [Role of Microglia in the EIRM Theory](/microglia.md)
