@@ -128,6 +128,8 @@
 
 - [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
+  - [Новые типы частиц и взаимодействий предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+
 #### Нейрофизиология
 
 - [Нейрофизиологические механизмы рекуррентной обработки и интеграции сигналов в сознании: анализ теории ЭИРО](/neurophysiology.md)
