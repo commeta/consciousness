@@ -104,6 +104,7 @@
   - [Origin of Chirality in Biological Systems](/The-origin-of-chirality-in-biological-systems.md)
   - [Mechanisms of Information Transfer in Biochemical Systems](/Mechanisms-of-information-transfer-in-biochemical-systems.md)
 - [The Great Unification of Physics and Chemistry: A New Paradigm of Recurrent Cosmology](/The-Great-Union-of-Physics-and-Chemistry.md)
+- [New theories in quantum chemistry based on recurrent cosmology](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
 
 ### Information Theory
 - [Similar Concepts from Information Theory and Neuroscience](/information-theory.md)
