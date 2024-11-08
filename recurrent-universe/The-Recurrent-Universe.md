@@ -465,7 +465,7 @@ Thus, the theory of the Recurrent Universe and the new cosmological model have w
 43. [New types of particles and interactions predicted by the recurrent cosmology model](/recurrent-universe/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
 
 
-## Author
+### Author
 
 - Morozov Evgeniy Mikhailovich
 - dcs-spb@ya.ru
