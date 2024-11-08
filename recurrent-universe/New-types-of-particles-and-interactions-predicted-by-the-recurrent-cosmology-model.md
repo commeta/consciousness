@@ -552,7 +552,9 @@ Successful experimental detection of the new types of particles and interactions
 
 ---
 
-[The Theory of the Recurrent Universe](/recurrent-universe/The-Recurrent-Universe.md)
+- [The Theory of the Recurrent Universe](/recurrent-universe/)
+
+- [The effect of recurrence on particle physics](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
