@@ -356,5 +356,5 @@ Successful experimental detection of the new types of particles and interactions
 
 ---
 
-[Emergent Integration and Recurrent Mapping](/)
+[The Theory of the Recurrent Universe](/recurrent-universe/)
 
