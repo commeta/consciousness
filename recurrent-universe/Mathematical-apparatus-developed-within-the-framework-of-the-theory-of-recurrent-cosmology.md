@@ -1098,5 +1098,5 @@ P = M × F × R
 
 ---
 
-[The Theory of the Recurrent Universe](/recurrent-universe/The-Recurrent-Universe.md)
+[Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
