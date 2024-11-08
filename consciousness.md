@@ -63,6 +63,7 @@
 - [New types of energy: analysis through the prism of EIRM and the new model of the Universe](/New-types-of-energy.md)
 - [New materials predicted by the recurrent cosmology model](/New-materials-predicted-by-the-recurrent-cosmology-model.md)
 - [Exotic space objects and phenomena predicted by the theory of recurrent cosmology](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
+- [The effect of recurrence on particle physics](/The-effect-of-recurrence-on-particle-physics.md)
 
 ### Neurophysiology
 - [Neurophysiological Mechanisms of Recurrent Signal Processing and Integration in Consciousness: Analysis of the EIRM Theory](/neurophysiology.md)
