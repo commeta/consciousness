@@ -208,6 +208,8 @@
 
 - [Великое Объединение Физики и Химии: Новая Парадигма Рекуррентной Космологии](/The-Great-Union-of-Physics-and-Chemistry.md)
 
+- [Новые теории в квантовой химии на основе рекуррентной космологии](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
+
 #### Теория информации
 
 - [Схожие концепции с теорией информации и нейронаукой](/information-theory.md)
