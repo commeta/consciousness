@@ -510,3 +510,5 @@
 - [Экзотические космические объекты и явления предсказанные теорией рекуррентной космологии](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
 
 - [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
+
+  - [Новые типы частиц и взаимодействий предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
