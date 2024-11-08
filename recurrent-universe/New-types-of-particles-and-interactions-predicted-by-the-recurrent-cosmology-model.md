@@ -356,5 +356,5 @@ Successful experimental detection of the new types of particles and interactions
 
 ---
 
-[The Theory of the Recurrent Universe](/recurrent-universe/)
+[The Theory of the Recurrent Universe](/recurrent-universe/The-Recurrent-Universe.md)
 
