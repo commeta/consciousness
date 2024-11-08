@@ -358,3 +358,17 @@ Successful experimental detection of the new types of particles and interactions
 
 [The Theory of the Recurrent Universe](/recurrent-universe/The-Recurrent-Universe.md)
 
+---
+
+### Author
+
+- Morozov Evgeniy Mikhailovich
+- dcs-spb@ya.ru
+- Russian Federation, Saint Petersburg
+- 17.10.2024
+
+### Methods
+
+In the course of conducting the research, the author utilized neural networks such as chatGPT, GigaChat, Claude, and Kandinsky for information processing and content generation, which contributed to a deeper analysis and interpretation of the obtained data.
+
+---
