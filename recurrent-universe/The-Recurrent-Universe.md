@@ -462,4 +462,4 @@ Thus, the theory of the Recurrent Universe and the new cosmological model have w
 40. [New materials predicted by the recurrent cosmology model](/New-materials-predicted-by-the-recurrent-cosmology-model.md)
 41. [Exotic space objects and phenomena predicted by the theory of recurrent cosmology](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
 42. [The effect of recurrence on particle physics](/The-effect-of-recurrence-on-particle-physics.md)
-43. [New types of particles and interactions predicted by the recurrent cosmology model](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+43. [New types of particles and interactions predicted by the recurrent cosmology model](/recurrent-universe/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
