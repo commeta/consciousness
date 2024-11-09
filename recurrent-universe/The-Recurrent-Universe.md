@@ -469,6 +469,7 @@ Thus, the theory of the Recurrent Universe and the new cosmological model have w
 
 - Morozov Evgeniy Mikhailovich
 - dcs-spb@ya.ru
+- https://dcs-spb.ru
 - Russian Federation, Saint Petersburg
 - 17.10.2024
 
