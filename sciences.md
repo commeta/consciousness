@@ -37,6 +37,8 @@
 
 - [Трудная проблема сознания в контексте теории ЭИРО](/The-difficult-problem-of-consciousness.md)
 
+- [Философские аспекты теории ЭИРО](/Philosophical-aspects.md)
+
 - [Теория ЭИРО в контексте коннектомики](/EIRM-in-the-context-of-connectomics.md)
 
 - [Смежные дисциплины](/sciences.md)
