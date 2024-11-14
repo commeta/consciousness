@@ -39,7 +39,7 @@
 - [The Principle of Least Action through the Prism of EIRM Theory and a New Model of the Universe](/The-principle-of-minimum-action.md)
 - [The Concept of Time and Space through the Prism of EIRM and a New Model of the Universe](/The-concept-of-time-and-space.md)
 - [New Theory of Recurrent Cosmology: Linking Quantum Processes, Dark Energy, Dark Matter, and EIRM Theory](/recurrent-cosmology.md)
-- [Brief History of the Universe: Emergence, Integration, and Recurrence](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Brief History of the Universe: Emergence, Integration, and Recurrence](/recurrent-universe/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
 - [Complete Cycle of the Recurrent Universe: Integrating EIRM into Cosmology](/the-complete-cycle-of-the-recurrent-universe.md)
   - [Primary Information Field](/The-primary-information-field.md)
 - [Great Unification of Theoretical Models in Particle Physics](/The-Great-Union.md)
