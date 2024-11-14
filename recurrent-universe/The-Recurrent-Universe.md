@@ -435,7 +435,7 @@ Thus, the theory of the Recurrent Universe and the new cosmological model have w
 13. [The Principle of Minimum Action through the Lens of the Theory of the Recurrent Universe](/The-principle-of-minimum-action.md)
 14. [The Concept of Time and Space through the Lens of the Theory of the Recurrent Universe](/The-concept-of-time-and-space.md)
 15. [A New Theory of Recurrent Cosmology: The Connection between Quantum Processes, Dark Energy, Dark Matter, and the ERIO Theory](/recurrent-cosmology.md)
-16. [A Brief History of the Universe: Emergence, Integration, and Recurrence](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+16. [A Brief History of the Universe: Emergence, Integration, and Recurrence](/recurrent-universe/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
 17. [The Complete Cycle of the Recurrent Universe: Integrating the Theory of the Recurrent Universe into Cosmology](/the-complete-cycle-of-the-recurrent-universe.md)
 18. [The Primary Information Field](/The-primary-information-field.md)
 19. [The Great Union of Theoretical Models in Particle Physics](/The-Great-Union.md)
