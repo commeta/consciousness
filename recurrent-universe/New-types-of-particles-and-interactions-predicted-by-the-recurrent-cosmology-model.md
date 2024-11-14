@@ -381,11 +381,11 @@ Mathematically, the recurrent symmetries can be represented as an extended gauge
 
 Where G₀ is the standard gauge group of the Standard Model, and GR is the group of recurrent transformations. The generators of this group will have the form:
 
-`
+```
 [T_a, T_b] = i f_abc T_c
 [R_a, R_b] = i g_abc R_c
 [T_a, R_b] = i h_abc S_c
-`
+```
 
 Here, T_a and R_a are the generators of the standard and recurrent transformations, respectively, and S_c are the generators of the mixed transformations.
 
@@ -405,10 +405,10 @@ The mechanism of spontaneous breaking of recurrent symmetry can be described as 
 
 3. Generation of masses of recurrent particles due to their interaction with the Φ_R field:
 
-   `
+   ```
    m_ρ = g_ρ Φ_R⁰
    m_ι = g_ι Φ_R⁰
-   `
+   ```
 
    Where g_ρ and g_ι are the coupling constants of the recurrent and informational particles with the Φ_R field, respectively.
 
@@ -431,10 +431,10 @@ Where κ_ij is the matrix of information connections between the various degrees
 
 To quantize the information field, it is necessary to introduce canonical commutation relations:
 
-`
+```
 [σ_i(x), σ_j†(y)] = δ_ij δ(x-y)
 [σ_i(x), σ_j(y)] = 0
-`
+```
 
 This will allow the construction of the creation and annihilation operators of information quanta - "info-bosons".
 
@@ -523,7 +523,7 @@ Where λ_R is a constant characterizing the recurrence. These soliton configurat
 
 The informational interactions predicted by the theory of recurrent cosmology may also have a non-trivial topological structure. The Hamiltonian of the informational interaction can be written in the form:
 
-H_I = ∑_ij κ_ij σ_i† σ_j + h.c.
+`H_I = ∑_ij κ_ij σ_i† σ_j + h.c.`
 
 Where σ_i are the operators of the informational field, and κ_ij is the matrix of informational couplings. This matrix may have a non-trivial topology, leading to the appearance of special topological excitations.
 
