@@ -145,6 +145,7 @@
 - [Genetic and Molecular Foundations of the EIRM Theory](/genetics-and-molecular-biology.md)
 - [Emergent Properties of Organisms through Recurrent Genetic Integration](/recurrent-integration-in-genetic-networks.md)
 - [Integrative-Recurrent Genome Analysis](/integrative-recurrent-genome-analysis.md)
+- [Application of EIRM Theory to DNA Decoding](/Decoding-DNA.md)
 ### Pharmacology
 - [Pharmacological Aspects of the EIRM Theory](/pharmacology.md)
 ### Anthropology
