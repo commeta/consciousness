@@ -146,6 +146,7 @@
 - [Emergent Properties of Organisms through Recurrent Genetic Integration](/recurrent-integration-in-genetic-networks.md)
 - [Integrative-Recurrent Genome Analysis](/integrative-recurrent-genome-analysis.md)
 - [Application of EIRM Theory to DNA Decoding](/Decoding-DNA.md)
+  - [Architectural implementation of the EIRM neural network for DNA analysis](/Decoding-DNA-Architectural-implementation.md)
 ### Pharmacology
 - [Pharmacological Aspects of the EIRM Theory](/pharmacology.md)
 ### Anthropology
