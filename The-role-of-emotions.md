@@ -630,6 +630,13 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 
 
 
+
+
+
+
+
+
+
 #### Байесовские модели предиктивного кодирования и эмоции
 
 ##### Роль эмоций в формировании априорных и апостериорных вероятностных распределений
@@ -656,26 +663,6 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 
 3. Роль нейромедиаторных систем: Дисбаланс в работе нейромедиаторных систем, таких как серотонин, норадреналин и дофамин, может приводить к искажениям в процессах обновления апостериорных распределений, что связано с эмоциональными нарушениями [11, 12].
 
-Таким образом, согласно теории ЭИРО, эмоции оказывают существенное влияние на формирование как априорных, так и апостериорных вероятностных распределений в рамках байесовского подхода к предиктивному кодированию. Это отражает тесную взаимосвязь между эмоциональными и когнитивными процессами, лежащими в основе сознательного опыта.
-
-###### Ключевые источники:
-
-1. Dolcos, F., LaBar, K. S., & Cabeza, R. (2004). Interaction between the amygdala and the medial temporal lobe memory system predicts better memory for emotional events. Neuron, 42(5), 855-863.
-2. Phelps, E. A. (2004). Human emotion and memory: interactions of the amygdala and hippocampal complex. Current opinion in neurobiology, 14(2), 198-202.
-3. Dolan, R. J. (2002). Emotion, cognition, and behavior. Science, 298(5596), 1191-1194.
-4. Pessoa, L. (2008). On the relationship between emotion and cognition. Nature Reviews Neuroscience, 9(2), 148-158.
-5. Ressler, K. J., & Nemeroff, C. B. (2000). Role of serotonergic and noradrenergic systems in the pathophysiology of depression and anxiety disorders. Depression and anxiety, 12(S1), 2-19.
-6. Bremner, J. D., Krystal, J. H., Southwick, S. M., & Charney, D. S. (1996). Noradrenergic mechanisms in stress and anxiety: I. Preclinical studies. Synapse, 23(1), 28-38.
-7. Rao, R. P., & Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. Nature Neuroscience, 2(1), 79-87.
-8. Friston, K. (2010). The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 11(2), 127-138.
-9. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. Trends in Cognitive Sciences, 20(7), 512-534.
-10. McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological Review, 102(3), 419.
-11. Duman, R. S., & Aghajanian, G. K. (2012). Synaptic dysfunction in depression: potential therapeutic targets. Science, 338(6103), 68-72.
-12. Robbins, T. W., & Arnsten, A. F. (2009). The neuropsychopharmacology of fronto-executive function: monoaminergic modulation. Annual Review of Neuroscience, 32, 267-287.
-
-
-
-
 ##### Влияние эмоциональных факторов на процессы обновления внутренних моделей
 
 Согласно теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО), эмоции оказывают существенное влияние на процессы обновления внутренних моделей мозга в рамках байесовского подхода к предиктивному кодированию.
@@ -699,26 +686,6 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 2. **Влияние текущего эмоционального состояния**: Текущее эмоциональное состояние человека (тревога, радость, печаль) может модулировать априорные ожидания, смещая их в сторону соответствующих эмоциональных реакций [3, 4]. Это отражает взаимосвязь между эмоциями и когнитивными процессами.
 
 3. **Роль нейромедиаторных систем**: Дисбаланс в работе нейромедиаторных систем, таких как серотонинергическая, норадренергическая и холинергическая, может приводить к искажениям в формировании априорных распределений, связанным с эмоциональными нарушениями [5, 6].
-
-Таким образом, согласно теории ЭИРО, эмоции оказывают существенное влияние на процессы формирования как априорных, так и апостериорных вероятностных распределений в рамках байесовского подхода к предиктивному кодированию. Это отражает тесную взаимосвязь между эмоциональными и когнитивными процессами, лежащими в основе сознательного опыта.
-
-###### Ключевые источники:
-
-1. Dolcos, F., LaBar, K. S., & Cabeza, R. (2004). Interaction between the amygdala and the medial temporal lobe memory system predicts better memory for emotional events. Neuron, 42(5), 855-863.
-2. Phelps, E. A. (2004). Human emotion and memory: interactions of the amygdala and hippocampal complex. Current opinion in neurobiology, 14(2), 198-202.
-3. Dolan, R. J. (2002). Emotion, cognition, and behavior. Science, 298(5596), 1191-1194.
-4. Pessoa, L. (2008). On the relationship between emotion and cognition. Nature Reviews Neuroscience, 9(2), 148-158.
-5. Ressler, K. J., & Nemeroff, C. B. (2000). Role of serotonergic and noradrenergic systems in the pathophysiology of depression and anxiety disorders. Depression and anxiety, 12(S1), 2-19.
-6. Bremner, J. D., Krystal, J. H., Southwick, S. M., & Charney, D. S. (1996). Noradrenergic mechanisms in stress and anxiety: I. Preclinical studies. Synapse, 23(1), 28-38.
-7. Rao, R. P., & Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. Nature Neuroscience, 2(1), 79-87.
-8. Friston, K. (2010). The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 11(2), 127-138.
-9. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. Trends in Cognitive Sciences, 20(7), 512-534.
-10. McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological Review, 102(3), 419.
-11. Duman, R. S., & Aghajanian, G. K. (2012). Synaptic dysfunction in depression: potential therapeutic targets. Science, 338(6103), 68-72.
-12. Robbins, T. W., & Arnsten, A. F. (2009). The neuropsychopharmacology of fronto-executive function: monoaminergic modulation. Annual Review of Neuroscience, 32, 267-287.
-
-
-
 
 ##### Интеграция эмоциональных и когнитивных компонентов в байесовских подходах
 
@@ -747,7 +714,8 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 
 Таким образом, согласно теории ЭИРО, эмоции оказывают существенное влияние на формирование как априорных, так и апостериорных вероятностных распределений в рамках байесовского подхода к предиктивному кодированию. Это отражает тесную взаимосвязь между эмоциональными и когнитивными процессами, лежащими в основе сознательного опыта.
 
-###### Ключевые источники:
+
+##### Ключевые источники:
 
 1. Dolcos, F., LaBar, K. S., & Cabeza, R. (2004). Interaction between the amygdala and the medial temporal lobe memory system predicts better memory for emotional events. Neuron, 42(5), 855-863.
 2. Phelps, E. A. (2004). Human emotion and memory: interactions of the amygdala and hippocampal complex. Current opinion in neurobiology, 14(2), 198-202.
@@ -761,6 +729,8 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 10. McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological Review, 102(3), 419.
 11. Duman, R. S., & Aghajanian, G. K. (2012). Synaptic dysfunction in depression: potential therapeutic targets. Science, 338(6103), 68-72.
 12. Robbins, T. W., & Arnsten, A. F. (2009). The neuropsychopharmacology of fronto-executive function: monoaminergic modulation. Annual Review of Neuroscience, 32, 267-287.
+
+
 
 
 
