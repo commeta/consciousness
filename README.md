@@ -40,6 +40,8 @@
 
 - [Нейрокогнитивные механизмы сновидений в контексте теории ЭИРО](/Neurocognitive-mechanisms-of-dreams.md)
 
+- [Роль эмоций в теории ЭИРО](/The-role-of-emotions.md)
+
 - [Трудная проблема сознания в контексте теории ЭИРО](/The-difficult-problem-of-consciousness.md)
 
 - [Философские аспекты теории ЭИРО](/Philosophical-aspects.md)
