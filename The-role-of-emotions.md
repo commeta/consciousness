@@ -18,11 +18,14 @@
 
 #### Роль лимбической системы
 
-##### Миндалина и ее участие в эмоциональной обработке информации
+## Миндалина и ее участие в эмоциональной обработке информации
 
 Миндалина (амигдала) является ключевым компонентом лимбической системы, играющим центральную роль в обработке эмоциональной информации в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО).
 
-###### Функции миндалины в эмоциональной обработке:
+---
+
+
+### Функции миндалины в эмоциональной обработке:
 
 1. **Оценка эмоциональной значимости стимулов**:
    - Нейроны миндалины демонстрируют селективность к эмоционально значимым стимулам, таким как угрожающие или вознаграждающие объекты.
@@ -385,7 +388,7 @@
 7. Ressler, K. J., & Nemeroff, C. B. (2000). Role of serotonergic and noradrenergic systems in the pathophysiology of depression and anxiety disorders. Depression and anxiety, 12(S1), 2-19.
 8. Bremner, J. D., Krystal, J. H., Southwick, S. M., & Charney, D. S. (1996). Noradrenergic mechanisms in stress and anxiety: I. Preclinical studies. Synapse, 23(1), 28-38.
 
-
+---
 
 ### Математическое моделирование роли эмоций в ЭИРО
 
@@ -731,7 +734,7 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 12. Robbins, T. W., & Arnsten, A. F. (2009). The neuropsychopharmacology of fronto-executive function: monoaminergic modulation. Annual Review of Neuroscience, 32, 267-287.
 
 
-
+---
 
 
 ### Клиническое значение роли эмоций в ЭИРО
@@ -1009,6 +1012,8 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 13. Mennin, D. S., Fresco, D. M., Ritter, M., & Heimberg, R. G. (2015). An open trial of emotion regulation therapy for generalized anxiety disorder and cooccurring depression. *Depression and anxiety*, 32(8), 614-623.
 14. Gross, J. J. (2015). Emotion regulation: Current status and future prospects. *Psychological Inquiry*, 26(1), 1-26.
 
+
+---
 
 ### Заключение
 
