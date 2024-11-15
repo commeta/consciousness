@@ -41,6 +41,8 @@
 
 - [Расширение теории ЭИРО с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
+  - [Когнитивная сложность C(t) в теории ЭИРО](/Cognitive-complexity.md)
+
 - [Трудная проблема сознания в контексте теории ЭИРО](/The-difficult-problem-of-consciousness.md)
 
 - [Философские аспекты теории ЭИРО](/Philosophical-aspects.md)
