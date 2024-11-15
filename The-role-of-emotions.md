@@ -778,20 +778,6 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 
 Таким образом, согласно теории ЭИРО, эмоциональные расстройства, такие как тревожность и депрессия, связаны с изменениями в параметрах эмоциональной модуляции E(t), рекуррентности R(t) и, как следствие, эмерджентной интегрированной информации Φₑ. Это подчеркивает важность учета эмоциональных факторов при анализе сознательного опыта в рамках данной теории.
 
-###### Ключевые источники:
-
-1. Deakin, J. F. (1998). The role of serotonin in depression and anxiety. European Psychiatry, 13, 57s-63s.
-2. Drevets, W. C. (1999). Prefrontal cortical-amygdalar metabolism in major depression. Annals of the New York Academy of Sciences, 877(1), 614-637.
-3. Aston-Jones, G., & Cohen, J. D. (2005). An integrative theory of locus coeruleus-norepinephrine function: adaptive gain and optimal performance. Annu. Rev. Neurosci., 28, 403-450.
-4. Arnsten, A. F. (2009). Stress signalling pathways that impair prefrontal cortex structure and function. Nature reviews neuroscience, 10(6), 410-422.
-5. Hasselmo, M. E. (1999). Neuromodulation: acetylcholine and memory consolidation. Trends in cognitive sciences, 3(9), 351-359
-6. Sarter, M., Hasselmo, M. E., Bruno, J. P., & Givens, B. (2005). Unraveling the attentional functions of cortical cholinergic inputs: interactions between signal-driven and cognitive modulation of signal detection. Brain research reviews, 48(1), 98-111.
-7. Sander, D., Grafman, J., & Zalla, T. (2003). The human amygdala: an evolved system for relevance detection. Reviews in the Neurosciences, 14(4), 303-316.
-8. Pessoa, L., & Adolphs, R. (2010). Emotion processing and the amygdala: from a 'low road' to 'many roads' of evaluating biological significance. Nature reviews neuroscience, 11(11), 773-783.
-
-
-
-
 
 ##### Влияние психических заболеваний на взаимодействие эмоциональных и когнитивных процессов
 
@@ -826,24 +812,6 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 3. Дисбаланс в параметрах E(t) и R(t), вызванный нарушениями в работе нейромедиаторных систем, приводит к искажениям в интеграции эмоциональных и когнитивных компонентов, отражаясь на Φₑ.
 
 Таким образом, согласно теории ЭИРО, психические заболевания, связанные с эмоциональными нарушениями, могут оказывать существенное влияние на параметры эмоциональной модуляции E(t), рекуррентности R(t) и, как следствие, эмерджентной интегрированной информации Φₑ. Это подчеркивает важность учета эмоциональных факторов при анализе сознательного опыта в рамках данной теории.
-
-###### Ключевые источники:
-
-1. Deakin, J.F. (1998). The role of serotonin in depression and anxiety. *European Psychiatry*, 13, 57s-63s.
-2. Drevets, W.C. (1999). Prefrontal cortical-amygdalar metabolism in major depression. *Annals of the New York Academy of Sciences*, 877(1), 614-637.
-3. Aston-Jones, G., & Cohen, J.D. (2005). An integrative theory of locus coeruleus-norepinephrine function: adaptive gain and optimal performance. *Annu. Rev. Neurosci.*, 28, 403-450.
-4. Arnsten, A.F. (2009). Stress signalling pathways that impair prefrontal cortex structure and function. *Nature reviews neuroscience*, 10(6), 410-422.
-5. Hasselmo, M.E. (1999). Neuromodulation: acetylcholine and memory consolidation. *Trends in cognitive sciences*, 3(9), 351-359.
-6. Sarter, M., Hasselmo, M.E., Bruno, J.P., & Givens, B. (2005). Unraveling the attentional functions of cortical cholinergic inputs: interactions between signal-driven and cognitive modulation of signal detection. *Brain research reviews*, 48(1), 98-111.
-7. Sander, D., Grafman, J., & Zalla, T. (2003). The human amygdala: an evolved system for relevance detection. *Reviews in the Neurosciences*, 14(4), 303-316.
-8. Pessoa, L., & Adolphs, R. (2010). Emotion processing and the amygdala: from a 'low road' to 'many roads' of evaluating biological significance. *Nature reviews neuroscience*, 11(11), 773-783.
-
-
-
-
-
-
-
 
 
 #### Диагностика и терапия на основе ЭИРО
@@ -929,6 +897,12 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 6. Sarter, M., Hasselmo, M.E., Bruno, J.P., & Givens, B. (2005). Unraveling the attentional functions of cortical cholinergic inputs: interactions between signal-driven and cognitive modulation of signal detection. *Brain research reviews*, 48(1), 98-111.
 7. Sander, D., Grafman, J., & Zalla, T. (2003). The human amygdala: an evolved system for relevance detection. *Reviews in the Neurosciences*, 14(4), 303-316.
 8. Pessoa, L., & Adolphs, R. (2010). Emotion processing and the amygdala: from a 'low road' to 'many roads' of evaluating biological significance. *Nature reviews neuroscience*, 11(11), 773-783.
+
+
+
+
+
+
 
 
 #### Перспективы применения в нейропротезировании и нейрореабилитации
