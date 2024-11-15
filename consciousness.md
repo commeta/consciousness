@@ -20,6 +20,7 @@
 - [Neurocognitive mechanisms of dreams in the context of EIRM theory](/Neurocognitive-mechanisms-of-dreams.md)
 - [The role of emotions in the theory of EIRM](/The-role-of-emotions.md)
 - [Mathematical modeling of the components of the emotional modulation parameter E(t) in the theory of EIRM](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
+- [An extension of the theory of EIRM taking into account additional parameters of the metric φₑ](/extended-fe-metric.md)
 - [The difficult problem of consciousness in the context of the theory of EIRM](/The-difficult-problem-of-consciousness.md)
 - [Philosophical aspects of the theory of EIRM](/Philosophical-aspects.md)
 - [EIRM theory in the context of connectomics](/EIRM-in-the-context-of-connectomics.md)
