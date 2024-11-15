@@ -33,6 +33,8 @@
 
 - [Нейрокогнитивные механизмы восприятия в контексте эмергентной интеграции: от сенсорных входов к осознанному опыту](/Neurocognitive-mechanisms-of-perception.md)
 
+- [Роль эмоций в теории ЭИРО](/The-role-of-emotions.md)
+
 - [Нейрокогнитивные механизмы сновидений в контексте теории ЭИРО](/Neurocognitive-mechanisms-of-dreams.md)
 
 - [Трудная проблема сознания в контексте теории ЭИРО](/The-difficult-problem-of-consciousness.md)
