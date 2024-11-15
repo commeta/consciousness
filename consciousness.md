@@ -17,6 +17,7 @@
 - [Neurocognitive mechanisms of memory in the context of EIRM theory](/Neurocognitive-mechanism-of-memory.md)
 - [Neurocognitive mechanisms of selective attention through the prism of EIRM theory](/Neurocognitive-mechanisms-of-selective-attention.md)
 - [Neurocognitive mechanisms of perception in the context of emergent integration: from sensory inputs to conscious experience](/Neurocognitive-mechanisms-of-perception.md)
+- [The role of emotions in the theory of EIRM](/The-role-of-emotions.md)
 - [Neurocognitive mechanisms of dreams in the context of EIRM theory](/Neurocognitive-mechanisms-of-dreams.md)
 - [The difficult problem of consciousness in the context of the theory of EIRM](/The-difficult-problem-of-consciousness.md)
 - [Philosophical aspects of the theory of EIRM](/Philosophical-aspects.md)
