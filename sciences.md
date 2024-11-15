@@ -37,6 +37,8 @@
 
 - [Роль эмоций в теории ЭИРО](/The-role-of-emotions.md)
 
+- [Математическое моделирование компонентов параметра эмоциональной модуляции E(t) в теории ЭИРО](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
+
 - [Трудная проблема сознания в контексте теории ЭИРО](/The-difficult-problem-of-consciousness.md)
 
 - [Философские аспекты теории ЭИРО](/Philosophical-aspects.md)
