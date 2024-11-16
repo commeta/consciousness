@@ -4,6 +4,7 @@
 ## Table of Contents:
 - [ReadMe на русском](/README.md)
 - [Review](/review.md)
+- [Related Disciplines](/sciences.md)
 ### Analytics:
 - [Theory of Consciousness](/README.md)
 - [Integrated Information Metric](/Integrated-Information-Metric.md)
@@ -18,14 +19,19 @@
 - [Neurocognitive mechanisms of selective attention through the prism of EIRM theory](/Neurocognitive-mechanisms-of-selective-attention.md)
 - [Neurocognitive mechanisms of perception in the context of emergent integration: from sensory inputs to conscious experience](/Neurocognitive-mechanisms-of-perception.md)
 - [Neurocognitive mechanisms of dreams in the context of EIRM theory](/Neurocognitive-mechanisms-of-dreams.md)
+- [The difficult problem of consciousness in the context of the theory of EIRM](/The-difficult-problem-of-consciousness.md)
+- [Philosophical aspects of the theory of EIRM](/Philosophical-aspects.md)
+- [EIRM theory in the context of connectomics](/EIRM-in-the-context-of-connectomics.md)
+
+**Additional parameters of the Φₑ metric**
+
 - [The role of emotions in the theory of EIRM](/The-role-of-emotions.md)
 - [Mathematical modeling of the components of the emotional modulation parameter E(t) in the theory of EIRM](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
 - [An extension of the theory of EIRM taking into account additional parameters of the metric φₑ](/extended-fe-metric.md)
   - [Cognitive complexity of C(t) in the theory of EIRM](/Cognitive-complexity.md)
-- [The difficult problem of consciousness in the context of the theory of EIRM](/The-difficult-problem-of-consciousness.md)
-- [Philosophical aspects of the theory of EIRM](/Philosophical-aspects.md)
-- [EIRM theory in the context of connectomics](/EIRM-in-the-context-of-connectomics.md)
-- [Related Disciplines](/sciences.md)
+
+
+
 ### Physics
 - [The Theory of the Recurrent Universe: A New Paradigm in Cosmology](/recurrent-universe/The-Recurrent-Universe.md)
 - [Modeling of Recurrent Neuronal Networks](/physics.md)
