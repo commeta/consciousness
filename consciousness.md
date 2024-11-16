@@ -29,6 +29,7 @@
 - [Mathematical modeling of the components of the emotional modulation parameter E(t) in the theory of EIRM](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
 - [An extension of the theory of EIRM taking into account additional parameters of the metric φₑ](/extended-fe-metric.md)
   - [Cognitive complexity of C(t) in the theory of EIRM](/Cognitive-complexity.md)
+  - [The social context of S(t) in the EIRM system](/Social-context.md)
 
 
 
