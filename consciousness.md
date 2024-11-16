@@ -32,6 +32,7 @@
   - [The social context of S(t) in the EIRM system](/Social-context.md)
   - [Adaptability of A(t) as a key parameter of emergent integrated recurrent processing](/Adaptability.md)
   - [The motivational component M(t) in the structure of the metric of emotional and intellectual development of the body](/The-motivational-component.md)
+  - [Physiological parameters of P(t) in the theory of EIRM](/Physiological-parameters.md)
 
 
 
