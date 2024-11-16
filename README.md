@@ -11,6 +11,7 @@
 
 - [Review](/review.md)
 
+- [Смежные дисциплины](/sciences.md)
 
 ### Аналитика:
 
@@ -40,6 +41,15 @@
 
 - [Нейрокогнитивные механизмы сновидений в контексте теории ЭИРО](/Neurocognitive-mechanisms-of-dreams.md)
 
+- [Трудная проблема сознания в контексте теории ЭИРО](/The-difficult-problem-of-consciousness.md)
+
+- [Философские аспекты теории ЭИРО](/Philosophical-aspects.md)
+
+- [Теория ЭИРО в контексте коннектомики](/EIRM-in-the-context-of-connectomics.md)
+
+
+**Дополнительные параметры метрики Φₑ**
+
 - [Роль эмоций в теории ЭИРО](/The-role-of-emotions.md)
 
 - [Математическое моделирование компонентов параметра эмоциональной модуляции E(t) в теории ЭИРО](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
@@ -47,16 +57,6 @@
 - [Расширение теории ЭИРО с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
   - [Когнитивная сложность C(t) в теории ЭИРО](/Cognitive-complexity.md)
-
-
-
-- [Трудная проблема сознания в контексте теории ЭИРО](/The-difficult-problem-of-consciousness.md)
-
-- [Философские аспекты теории ЭИРО](/Philosophical-aspects.md)
-
-- [Теория ЭИРО в контексте коннектомики](/EIRM-in-the-context-of-connectomics.md)
-
-- [Смежные дисциплины](/sciences.md)
 
 
 #### Физика
