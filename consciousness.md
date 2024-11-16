@@ -34,6 +34,7 @@
   - [The motivational component M(t) in the structure of the metric of emotional and intellectual development of the body](/The-motivational-component.md)
   - [Physiological parameters of P(t) in the theory of EIRM](/Physiological-parameters.md)
   - [Variability of behavior V(t) in the context of the theory of EIRM](/Variability-of-behavior.md)
+  - [T(t) - Temporal characteristics in the context of EIRM theory](/Temporal-characteristics.md)
 
 
 
