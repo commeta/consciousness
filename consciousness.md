@@ -30,6 +30,7 @@
 - [An extension of the theory of EIRM taking into account additional parameters of the metric φₑ](/extended-fe-metric.md)
   - [Cognitive complexity of C(t) in the theory of EIRM](/Cognitive-complexity.md)
   - [The social context of S(t) in the EIRM system](/Social-context.md)
+  - [Adaptability of A(t) as a key parameter of emergent integrated recurrent processing](/Adaptability.md)
 
 
 
