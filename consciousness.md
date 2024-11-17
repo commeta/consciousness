@@ -25,9 +25,10 @@
 
 **Additional parameters of the Φₑ metric**
 
-- [The role of emotions in the theory of EIRM](/The-role-of-emotions.md)
-- [Mathematical modeling of the components of the emotional modulation parameter E(t) in the theory of EIRM](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
-- [An extension of the theory of EIRM taking into account additional parameters of the metric φₑ](/extended-fe-metric.md)
+- [Components of the φₑ metric in the context of the theory of EIRM](/Components-of-the-F-metric.md)
+  - [The role of emotions in the theory of EIRM](/The-role-of-emotions.md)
+  - [Mathematical modeling of the components of the emotional modulation parameter E(t) in the theory of EIRM](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
+  - [An extension of the theory of EIRM taking into account additional parameters of the metric φₑ](/extended-fe-metric.md)
   - [Cognitive complexity of C(t) in the theory of EIRM](/Cognitive-complexity.md)
   - [S(t) - The social context in the theory of EIRM](/Social-context.md)
   - [A(t) - Adaptability in the theory of EIRM]](/Adaptability.md)
