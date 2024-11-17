@@ -37,6 +37,7 @@
   - [T(t) - Temporal characteristics in the context of EIRM theory](/Temporal-characteristics.md)
   - [K(t) - Contextuality in the theory of EIRM](/Contextuality.md)
   - [Integrativity (I) in the theory of EIRM](/Integrativity.md)
+  - [Metacognitive awareness (M) in the theory of EIRM](/Metacognitive-awareness.md)
 
 ### Physics
 - [The Theory of the Recurrent Universe: A New Paradigm in Cosmology](/recurrent-universe/The-Recurrent-Universe.md)
