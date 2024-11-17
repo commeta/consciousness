@@ -74,6 +74,9 @@
 
 ### 2. Компоненты метрики Φₑ
 
+![Components of the F metric](/Components-of-the-F-metric.svg "Components of the F metric")
+
+
 
 ```
 ┌───────────────────────────────────────┬───────────────────────────────────────┐
