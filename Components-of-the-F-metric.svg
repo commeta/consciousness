@@ -1,0 +1,74 @@
+<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Основная рамка -->
+  <rect x="10" y="10" width="1180" height="780" fill="none" stroke="black"/>
+  
+  <!-- Уровень I -->
+  <g transform="translate(50,50)">
+    <rect width="200" height="150" fill="#e6f3ff" stroke="black"/>
+    <text x="60" y="30" font-weight="bold">I. Базовый уровень</text>
+    
+    <rect x="20" y="50" width="160" height="40" fill="white" stroke="black"/>
+    <text x="40" y="75">Физические процессы</text>
+    
+    <rect x="20" y="100" width="160" height="40" fill="white" stroke="black"/> 
+    <text x="30" y="125">Нейробиологические</text>
+  </g>
+
+  <!-- Уровень II -->
+  <g transform="translate(300,50)">
+    <rect width="200" height="150" fill="#e6ffe6" stroke="black"/>
+    <text x="40" y="30" font-weight="bold">II. Информационный</text>
+    
+    <rect x="20" y="50" width="160" height="40" fill="white" stroke="black"/>
+    <text x="35" y="75">Обработка информ.</text>
+    
+    <rect x="20" y="100" width="160" height="40" fill="white" stroke="black"/>
+    <text x="35" y="125">Темпор. организация</text>
+  </g>
+
+  <!-- Уровень III -->
+  <g transform="translate(550,50)">
+    <rect width="200" height="150" fill="#fff5e6" stroke="black"/>
+    <text x="45" y="30" font-weight="bold">III. Когнитивный</text>
+    
+    <rect x="20" y="50" width="160" height="40" fill="white" stroke="black"/>
+    <text x="45" y="75">Базовые процессы</text>
+    
+    <rect x="20" y="100" width="160" height="40" fill="white" stroke="black"/>
+    <text x="35" y="125">Адапт. механизмы</text>
+  </g>
+
+  <!-- Уровень IV -->
+  <g transform="translate(800,50)">
+    <rect width="200" height="150" fill="#ffe6e6" stroke="black"/>
+    <text x="35" y="30" font-weight="bold">IV. Соц.-эмоц.</text>
+    
+    <rect x="20" y="50" width="160" height="40" fill="white" stroke="black"/>
+    <text x="45" y="75">Соц. компоненты</text>
+    
+    <rect x="20" y="100" width="160" height="40" fill="white" stroke="black"/>
+    <text x="45" y="125">Эмоц. компоненты</text>
+  </g>
+
+  <!-- Уровень V -->
+  <g transform="translate(425,250)">
+    <rect width="200" height="150" fill="#f0e6ff" stroke="black"/>
+    <text x="35" y="30" font-weight="bold">V. Интегративный</text>
+    
+    <rect x="20" y="50" width="160" height="40" fill="white" stroke="black"/>
+    <text x="35" y="75">Сист. интеграция</text>
+    
+    <rect x="20" y="100" width="160" height="40" fill="white" stroke="black"/>
+    <text x="30" y="125">Контекст. интеграция</text>
+  </g>
+
+  <!-- Соединительные линии -->
+  <g stroke="black" fill="none">
+    <path d="M150,200 L525,250"/>
+    <path d="M400,200 L525,250"/>
+    <path d="M650,200 L525,250"/>
+    <path d="M900,200 L525,250"/>
+  </g>
+
+</svg>
+
