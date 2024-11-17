@@ -50,11 +50,13 @@
 
 **Дополнительные параметры метрики Φₑ**
 
-- [Роль эмоций в теории ЭИРО](/The-role-of-emotions.md)
+- [Компоненты метрики Φₑ в контексте теории ЭИРО](/Components-of-the-F-metric.md)
 
-- [Математическое моделирование компонентов параметра эмоциональной модуляции E(t) в теории ЭИРО](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
+  - [Роль эмоций в теории ЭИРО](/The-role-of-emotions.md)
 
-- [Расширение теории ЭИРО с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
+  - [Математическое моделирование компонентов параметра эмоциональной модуляции E(t) в теории ЭИРО](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
+
+  - [Расширение теории ЭИРО с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
   - [Когнитивная сложность C(t) в теории ЭИРО](/Cognitive-complexity.md)
 
