@@ -2,371 +2,371 @@
 
 ## Оглавление:
 
-- [ReadMe English](/consciousness.md)
+- [ReadMe English](/consciousness.md) Oct 17, 2024
 
-- [Review](/review.md)
+- [Review](/review.md) Oct 27, 2024
 
-- [Смежные дисциплины](/sciences.md)
+- [Смежные дисциплины](/sciences.md) Oct 17, 2024
 
 ### Аналитика:
 
-- [Теория Сознания](/README.md)
+- [Теория Сознания](/README.md) Oct 17, 2024
   
-- [Метрика интегрированной информации](/Integrated-Information-Metric.md)
+- [Метрика интегрированной информации](/Integrated-Information-Metric.md) Oct 18, 2024
   
-- [Рекуррентные динамические системы](/Recurrent-dynamic-systems.md)
+- [Рекуррентные динамические системы](/Recurrent-dynamic-systems.md) Oct 18, 2024
 
-- [Математическая формализация предиктивного кодирования в рамках теории ЭИРО](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории ЭИРО](/predictive-coding.md) Oct 19, 2024
 
-- [Система внимания нейронной сети через призму теории ЭИРО](/The-attention-system-of-a-neural-network.md)
+- [Система внимания нейронной сети через призму теории ЭИРО](/The-attention-system-of-a-neural-network.md) Oct 30, 2024
 
-   - [Принцип эффекта гипноза через призму теории ЭИРО](/the-principle-of-the-hypnosis-effect.md)
+   - [Принцип эффекта гипноза через призму теории ЭИРО](/the-principle-of-the-hypnosis-effect.md) Oct 30, 2024
 
-- [Принципы механизмов памяти в нейронных сетях через призму теории ЭИРО](/Principles-of-memory-mechanisms-in-neural-networks.md)
+- [Принципы механизмов памяти в нейронных сетях через призму теории ЭИРО](/Principles-of-memory-mechanisms-in-neural-networks.md) Oct 30, 2024
 
-- [Нейрокогнитивные механизмы сознательного восприятия и памяти в контексте теории ЭИРО](/Neurocognitive-mechanisms-of-conscious-perception-and-memory.md)
+- [Нейрокогнитивные механизмы сознательного восприятия и памяти в контексте теории ЭИРО](/Neurocognitive-mechanisms-of-conscious-perception-and-memory.md) Nov 1, 2024
 
-- [Нейрокогнитивные механизмы мышления в контексте теории ЭИРО](/Neurocognitive-mechanisms-of-thinking.md)
+- [Нейрокогнитивные механизмы мышления в контексте теории ЭИРО](/Neurocognitive-mechanisms-of-thinking.md) Nov 1, 2024
 
-- [Нейрокогнитивные механизмы памяти в контексте теории ЭИРО](/Neurocognitive-mechanism-of-memory.md)
+- [Нейрокогнитивные механизмы памяти в контексте теории ЭИРО](/Neurocognitive-mechanism-of-memory.md) Nov 1, 2024
 
-- [Нейрокогнитивные механизмы селективного внимания через призму теории ЭИРО](/Neurocognitive-mechanisms-of-selective-attention.md)
+- [Нейрокогнитивные механизмы селективного внимания через призму теории ЭИРО](/Neurocognitive-mechanisms-of-selective-attention.md) Nov 1, 2024
 
-- [Нейрокогнитивные механизмы восприятия в контексте эмергентной интеграции: от сенсорных входов к осознанному опыту](/Neurocognitive-mechanisms-of-perception.md)
+- [Нейрокогнитивные механизмы восприятия в контексте эмергентной интеграции: от сенсорных входов к осознанному опыту](/Neurocognitive-mechanisms-of-perception.md) Nov 1, 2024
 
-- [Нейрокогнитивные механизмы сновидений в контексте теории ЭИРО](/Neurocognitive-mechanisms-of-dreams.md)
+- [Нейрокогнитивные механизмы сновидений в контексте теории ЭИРО](/Neurocognitive-mechanisms-of-dreams.md) Nov 4, 2024
 
-- [Трудная проблема сознания в контексте теории ЭИРО](/The-difficult-problem-of-consciousness.md)
+- [Трудная проблема сознания в контексте теории ЭИРО](/The-difficult-problem-of-consciousness.md) Nov 11, 2024
 
-- [Философские аспекты теории ЭИРО](/Philosophical-aspects.md)
+- [Философские аспекты теории ЭИРО](/Philosophical-aspects.md) Nov 14, 2024
 
-- [Теория ЭИРО в контексте коннектомики](/EIRM-in-the-context-of-connectomics.md)
+- [Теория ЭИРО в контексте коннектомики](/EIRM-in-the-context-of-connectomics.md) Oct 30, 2024
 
 
 **Дополнительные параметры метрики Φₑ**
 
-- [Компоненты метрики Φₑ в контексте теории ЭИРО](/Components-of-the-F-metric.md)
+- [Компоненты метрики Φₑ в контексте теории ЭИРО](/Components-of-the-F-metric.md) Nov 17, 2024 
 
-  - [Роль эмоций в теории ЭИРО](/The-role-of-emotions.md)
+  - [Роль эмоций в теории ЭИРО](/The-role-of-emotions.md) Nov 15, 2024
 
-  - [Математическое моделирование компонентов параметра эмоциональной модуляции E(t) в теории ЭИРО](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
+  - [Математическое моделирование компонентов параметра эмоциональной модуляции E(t) в теории ЭИРО](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md) Nov 15, 2024
 
-  - [Расширение теории ЭИРО с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
+  - [Расширение теории ЭИРО с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md) Nov 15, 2024
 
-  - [Когнитивная сложность C(t) в теории ЭИРО](/Cognitive-complexity.md)
+  - [Когнитивная сложность C(t) в теории ЭИРО](/Cognitive-complexity.md) Nov 16, 2024
 
-  - [S(t) - Социальный контекст в теории ЭИРО](/Social-context.md)
+  - [S(t) - Социальный контекст в теории ЭИРО](/Social-context.md) Nov 16, 2024
 
-  - [A(t) - Адаптивность в теории ЭИРО](/Adaptability.md)
+  - [A(t) - Адаптивность в теории ЭИРО](/Adaptability.md) Nov 16, 2024
 
-  - [Мотивационный компонент M(t) в структуре метрики эмоционально-интеллектуального развития организма](/The-motivational-component.md)
+  - [Мотивационный компонент M(t) в структуре метрики эмоционально-интеллектуального развития организма](/The-motivational-component.md) Nov 16, 2024
 
-  - [Физиологические параметры P(t) в теории ЭИРО](/Physiological-parameters.md)
+  - [Физиологические параметры P(t) в теории ЭИРО](/Physiological-parameters.md) Nov 16, 2024
 
-  - [Вариативность поведения V(t) в контексте теории ЭИРО](/Variability-of-behavior.md)
+  - [Вариативность поведения V(t) в контексте теории ЭИРО](/Variability-of-behavior.md) Nov 16, 2024
 
-  - [T(t) - Темпоральные характеристики в контексте теории ЭИРО](/Temporal-characteristics.md)
+  - [T(t) - Темпоральные характеристики в контексте теории ЭИРО](/Temporal-characteristics.md) Nov 16, 2024
 
-  - [K(t) - Контекстуальность в теории ЭИРО](/Contextuality.md)
+  - [K(t) - Контекстуальность в теории ЭИРО](/Contextuality.md) Nov 16, 2024
 
-  - [Интегративность (I) в теории ЭИРО](/Integrativity.md)
+  - [Интегративность (I) в теории ЭИРО](/Integrativity.md) Nov 17, 2024 
 
-  - [Метакогнитивная осведомленность (M) в теории ЭИРО](/Metacognitive-awareness.md)
+  - [Метакогнитивная осведомленность (M) в теории ЭИРО](/Metacognitive-awareness.md) Nov 17, 2024 
 
-  - [Когерентность (C) в контексте теории ЭИРО](/Coherence.md)
+  - [Когерентность (C) в контексте теории ЭИРО](/Coherence.md) Nov 17, 2024 
 
 
 #### Физика
 
-- [Теория Рекуррентной Вселенной: Новая Парадигма Космологии](/recurrent-universe/README.md)
+- [Теория Рекуррентной Вселенной: Новая Парадигма Космологии](/recurrent-universe/README.md) Nov 6, 2024
 
-- [Моделирование рекуррентных нейронных сетей](/physics.md)
+- [Моделирование рекуррентных нейронных сетей](/physics.md) Oct 19, 2024
   
-- [Теория ЭИРО в контексте квантовой физики](/quantum-physics.md)
+- [Теория ЭИРО в контексте квантовой физики](/quantum-physics.md) Oct 19, 2024
 
-- [Линейность квантовой механики через призму ЭИРО и новой модели Вселенной](/The-linearity-of-quantum-mechanics.md)
+- [Линейность квантовой механики через призму ЭИРО и новой модели Вселенной](/The-linearity-of-quantum-mechanics.md) Oct 27, 2024
 
-- [Принцип суперпозиции через призму ЭИРО и новой модели Вселенной](/The-principle-of-superposition.md)
+- [Принцип суперпозиции через призму ЭИРО и новой модели Вселенной](/The-principle-of-superposition.md) Oct 27, 2024
 
-- [Принцип локальности через призму ЭИРО и новой модели Вселенной](/The-principle-of-locality.md)
+- [Принцип локальности через призму ЭИРО и новой модели Вселенной](/The-principle-of-locality.md) Oct 27, 2024
 
-- [Закон сохранения энергии и импульса через призму ЭИРО и новой модели Вселенной](/The-law-of-conservation-of-energy-and-momentum.md)
+- [Закон сохранения энергии и импульса через призму ЭИРО и новой модели Вселенной](/The-law-of-conservation-of-energy-and-momentum.md) Oct 27, 2024
 
-- [Эйнштейнова теория гравитации через призму теории интегрированной информации и новые модели Вселенной](/Einsteins-theory-of-gravity.md)
+- [Эйнштейнова теория гравитации через призму теории интегрированной информации и новые модели Вселенной](/Einsteins-theory-of-gravity.md) Oct 27, 2024
 
-- [Копенгагенская интерпретация квантовой механики через призму теории ЭИРО](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
+- [Копенгагенская интерпретация квантовой механики через призму теории ЭИРО](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md) Oct 27, 2024
 
-- [Принцип причинности через призму теории ЭИРО](/The-principle-of-causality.md)
+- [Принцип причинности через призму теории ЭИРО](/The-principle-of-causality.md) Oct 27, 2024
 
-- [Коммутационные соотношения через призму теории ЭИРО](/Switching-relations.md)
+- [Коммутационные соотношения через призму теории ЭИРО](/Switching-relations.md) Oct 27, 2024
 
-- [Статистическая интерпретация термодинамики через призму ЭИРО и новой модели вселенной](/Statistical-interpretation-of-thermodynamics.md)
+- [Статистическая интерпретация термодинамики через призму ЭИРО и новой модели вселенной](/Statistical-interpretation-of-thermodynamics.md) Oct 27, 2024
 
-- [Стандартная модель физики элементарных частиц через призму теории ЭИРО и новой модели Вселенной](/The-Standard-Model-of-particle-physics.md)
+- [Стандартная модель физики элементарных частиц через призму теории ЭИРО и новой модели Вселенной](/The-Standard-Model-of-particle-physics.md) Oct 27, 2024
 
-- [Принцип минимального действия через призму теории ЭИРО и новой модели Вселенной](/The-principle-of-minimum-action.md)
+- [Принцип минимального действия через призму теории ЭИРО и новой модели Вселенной](/The-principle-of-minimum-action.md) Oct 27, 2024
 
-- [Концепция времени и пространства через призму ЭИРО и новой модели Вселенной](/The-concept-of-time-and-space.md)
+- [Концепция времени и пространства через призму ЭИРО и новой модели Вселенной](/The-concept-of-time-and-space.md) Oct 27, 2024
 
-- [Новая теория рекуррентной космологии: связь квантовых процессов, тёмной энергии, тёмной материи и теории ЭИРО](/recurrent-cosmology.md)
+- [Новая теория рекуррентной космологии: связь квантовых процессов, тёмной энергии, тёмной материи и теории ЭИРО](/recurrent-cosmology.md) Oct 20, 2024
   
-- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md) Oct 22, 2024
   
-- [Полный цикл рекуррентной вселенной: интеграция теории ЭИРО в космологию](/the-complete-cycle-of-the-recurrent-universe.md)
+- [Полный цикл рекуррентной вселенной: интеграция теории ЭИРО в космологию](/the-complete-cycle-of-the-recurrent-universe.md) Oct 22, 2024
   
-  - [Первичное информационное поле](/The-primary-information-field.md)
+  - [Первичное информационное поле](/The-primary-information-field.md) Oct 22, 2024
     
-- [Великое объединение теоретических моделей в физике элементарных частиц](/The-Great-Union.md)
+- [Великое объединение теоретических моделей в физике элементарных частиц](/The-Great-Union.md) Oct 21, 2024
   
-  - [Разработка модели, связывающей плотность интегрированной квантовой информации с геометрией пространства-времени](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md)
+  - [Разработка модели, связывающей плотность интегрированной квантовой информации с геометрией пространства-времени](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md) Oct 21, 2024
     
-- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md) Oct 20, 2024
   
-  - [Разработка микроскопической теории](/development-of-microscopic-theory.md)
+  - [Разработка микроскопической теории](/development-of-microscopic-theory.md) Oct 21, 2024
     
-- [Роль эмергентной интеграции в Большом взрыве](/the-role-of-emergent-integration-in-the-Big-Bang.md)
+- [Роль эмергентной интеграции в Большом взрыве](/the-role-of-emergent-integration-in-the-Big-Bang.md) Oct 21, 2024
   
-  - [Разработка конкретных моделей потенциала V(φ), согласующихся с наблюдательными данными](/models-of-potential-v-f.md)
+  - [Разработка конкретных моделей потенциала V(φ) согласующихся с наблюдательными данными](/models-of-potential-v-f.md) Oct 21, 2024
 
-- [Новая модель вселенной в современной физике](/A-new-model-of-the-universe-in-modern-physics.md)
+- [Новая модель вселенной в современной физике](/A-new-model-of-the-universe-in-modern-physics.md) Oct 25, 202
 
-  - [Переосмысление принципа неопределённости в рамках теории ЭИРО](/Rethinking-the-uncertainty-principle-within-the-framework-of-the-theory.md)
+  - [Переосмысление принципа неопределённости в рамках теории ЭИРО](/Rethinking-the-uncertainty-principle-within-the-framework-of-the-theory.md) Oct 26, 2024
 
-  - [Энтропия и когерентность в контексте теории ЭИРО: новые перспективы квантовой физики](/Entropy-and-coherence.md)
+  - [Энтропия и когерентность в контексте теории ЭИРО: новые перспективы квантовой физики](/Entropy-and-coherence.md) Oct 26, 2024
 
-  - [Рекуррентные процессы в химических реакциях: анализ через призму теории ЭИРО](/Recurrence-in-chemical-reactions.md)
+  - [Рекуррентные процессы в химических реакциях: анализ через призму теории ЭИРО](/Recurrence-in-chemical-reactions.md) Oct 26, 2024
 
-  - [Молекулярные орбитали и энергетические уровни: анализ через призму теории ЭИРО и ее влияние на современную модель Вселенной](/Molecular-orbitals-and-energy-levels.md)
+  - [Молекулярные орбитали и энергетические уровни: анализ через призму теории ЭИРО и ее влияние на современную модель Вселенной](/Molecular-orbitals-and-energy-levels.md) Oct 26, 2024
 
-  - [Топологическая квантовая теория поля и её связь с теорией ЭИРО](/Topological-quantum-field-theory.md)
+  - [Топологическая квантовая теория поля и её связь с теорией ЭИРО](/Topological-quantum-field-theory.md) Oct 26, 2024
 
-  - [Фрактальные и бесконечно-дробные структуры: роль в физике и математических моделях](/Fractal-and-infinitesimal-structures.md)
+  - [Фрактальные и бесконечно-дробные структуры: роль в физике и математических моделях](/Fractal-and-infinitesimal-structures.md) Oct 26, 2024
 
-  - [Теория категорий и функторы в контексте ЭИРО и новой модели Вселенной](/Category-theory-and-functors.md)
+  - [Теория категорий и функторы в контексте ЭИРО и новой модели Вселенной](/Category-theory-and-functors.md) Oct 26, 2024
 
-  - [Информационно-теоретические меры в новой модели Вселенной для современной физики](/Information-and-theoretical-measures.md)
+  - [Информационно-теоретические меры в новой модели Вселенной для современной физики](/Information-and-theoretical-measures.md) Oct 26, 2024
 
-  - [Измерение аномалий в движении галактик через призму ЭИРО и новой модели Вселенной](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
+  - [Измерение аномалий в движении галактик через призму ЭИРО и новой модели Вселенной](/Measurement-of-anomalies-in-the-motion-of-galaxies.md) Oct 26, 2024
 
-  - [Космический микроволновый фон через призму ЭИРО и новой модели Вселенной](/Cosmic-microwave-background.md)
+  - [Космический микроволновый фон через призму ЭИРО и новой модели Вселенной](/Cosmic-microwave-background.md) Oct 26, 2024
 
-  - [Квантовые эксперименты: тесты на декогеренцию через призму ЭИРО и новой модели Вселенной](/Decoherence-tests.md)
+  - [Квантовые эксперименты: тесты на декогеренцию через призму ЭИРО и новой модели Вселенной](/Decoherence-tests.md) Oct 26, 2024
 
-  - [Квантовые эксперименты: Измерение отклонений от стандартной квантовой механики через призму ЭИРО и новой модели Вселенной](/Measuring-deviations-from-standard-quantum-mechanics.md)
+  - [Квантовые эксперименты: Измерение отклонений от стандартной квантовой механики через призму ЭИРО и новой модели Вселенной](/Measuring-deviations-from-standard-quantum-mechanics.md) Oct 26, 2024
 
-- [Новые Виды Двигателей через Призму ЭИРО и Новой Модели Вселенной](/New-Types-Of-Engines.md)
+- [Новые Виды Двигателей через Призму ЭИРО и Новой Модели Вселенной](/New-Types-Of-Engines.md) Oct 27, 2024
 
-- [Новые виды энергии: анализ через призму ЭИРО и новой модели Вселенной](/New-types-of-energy.md)
+- [Новые виды энергии: анализ через призму ЭИРО и новой модели Вселенной](/New-types-of-energy.md) Oct 27, 2024
 
-- [Новые материалы, предсказанные моделью рекуррентной космологии](/New-materials-predicted-by-the-recurrent-cosmology-model.md)
+- [Новые материалы, предсказанные моделью рекуррентной космологии](/New-materials-predicted-by-the-recurrent-cosmology-model.md) Nov 7, 2024
 
-- [Экзотические космические объекты и явления предсказанные теорией рекуррентной космологии](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
+- [Экзотические космические объекты и явления предсказанные теорией рекуррентной космологии](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md) Nov 7, 2024
 
-- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md) Nov 8, 2024
 
-  - [Новые типы частиц и взаимодействий предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+  - [Новые типы частиц и взаимодействий предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md) Nov 8, 2024
 
 #### Нейрофизиология
 
-- [Нейрофизиологические механизмы рекуррентной обработки и интеграции сигналов в сознании: анализ теории ЭИРО](/neurophysiology.md)
+- [Нейрофизиологические механизмы рекуррентной обработки и интеграции сигналов в сознании: анализ теории ЭИРО](/neurophysiology.md) Oct 19, 2024
   
-- [Роль Микроглии в Теории ЭИРО](/microglia.md)
+- [Роль Микроглии в Теории ЭИРО](/microglia.md) Oct 19, 2024
 
 #### Нейробиология
 
-- [Нейробиологические основы теории ЭИРО](/neuroscience.md)
+- [Нейробиологические основы теории ЭИРО](/neuroscience.md) Oct 19, 2024
 
 #### Когнитивная наука
 
-- [Когнитивные основы Теории ЭИРО](/cognitive-science.md)
+- [Когнитивные основы Теории ЭИРО](/cognitive-science.md) Oct 19, 2024
 
 #### Психология
 
-- [Теория ЭИРО в контексте психологии](/psychology.md)
+- [Теория ЭИРО в контексте психологии](/psychology.md) Oct 19, 2024
   
-- [Роль рекуррентной интеграции в формировании памяти и обучения](/the-role-of-recurrent-integration-in-memory-formation-and-learning.md)
+- [Роль рекуррентной интеграции в формировании памяти и обучения](/the-role-of-recurrent-integration-in-memory-formation-and-learning.md) Oct 20, 2024
 
 #### Информатика и Искусственный интеллект
 
-- [Теория ЭИРО в контексте Информатики и Искусственного Интеллекта](/computer-science.md)
+- [Теория ЭИРО в контексте Информатики и Искусственного Интеллекта](/computer-science.md) Oct 19, 2024
   
-- [Эмерджентное обучение через рекуррентные нейронные сети: Улучшение машинного обучения через усиленную рекуррентную интеграцию информации](/emergent-learning-through-recurrent-neural-networks.md)
+- [Эмерджентное обучение через рекуррентные нейронные сети: Улучшение машинного обучения через усиленную рекуррентную интеграцию информации](/emergent-learning-through-recurrent-neural-networks.md) Oct 20, 2024
   
-- [Развитие сложных программных систем через рекуррентную интеграцию модулей](/development-of-complex-software-systems-through-the-recurrent-integration-of-modules.md)
+- [Развитие сложных программных систем через рекуррентную интеграцию модулей](/development-of-complex-software-systems-through-the-recurrent-integration-of-modules.md) Oct 20, 2024
   
-- [Искусственный интеллект с повышенной эмергентностью как инструмент для прогнозирования: роль агрегата эмергентного предиката](/the-role-of-the-emergent-predicate-aggregate.md)
+- [Искусственный интеллект с повышенной эмергентностью как инструмент для прогнозирования: роль агрегата эмергентного предиката](/the-role-of-the-emergent-predicate-aggregate.md) Oct 21, 2024
   
-- [Диссертация: Теория ЭИРО в контексте создания разумного существа Meta Commander](/Meta-Commander.md)
+- [Диссертация: Теория ЭИРО в контексте создания разумного существа Meta Commander](/Meta-Commander.md) Oct 20, 2024
   
-- [Сети сетей из персональных искусственных интеллектов: анализ через призму ЭИРО](/Networks-of-networks-of-personal-artificial-intelligence.md)
+- [Сети сетей из персональных искусственных интеллектов: анализ через призму ЭИРО](/Networks-of-networks-of-personal-artificial-intelligence.md) Oct 26, 2024
 
-- [Принципы работы электронного ядра искусственного интеллекта и современные электронные компоненты](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
+- [Принципы работы электронного ядра искусственного интеллекта и современные электронные компоненты](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md) Oct 27, 2024
 
-  - [Архитектура электронного ядра мозга](/The-architecture-of-the-electronic-core-of-the-brain.md)
+  - [Архитектура электронного ядра мозга](/The-architecture-of-the-electronic-core-of-the-brain.md) Oct 27, 2024
 
-  - [Взаимодействие компонентов](/Interaction-of-components.md)
+  - [Взаимодействие компонентов](/Interaction-of-components.md) Oct 27, 2024
 
-  - [Архитектура спинтронного нейроморфного процессора ИИ](/Architecture-of-a-spintronic-neuromorphic-processor.md)
+  - [Архитектура спинтронного нейроморфного процессора ИИ](/Architecture-of-a-spintronic-neuromorphic-processor.md) Oct 27, 2024
 
-  - [Архитектура Квантового Сопроцессора для Спинтронного Нейроморфного Процессора ИИ](/Architecture-of-A-Quantum-Coprocessor.md)
+  - [Архитектура Квантового Сопроцессора для Спинтронного Нейроморфного Процессора ИИ](/Architecture-of-A-Quantum-Coprocessor.md) Oct 27, 2024
 
-  - [Новые материалы для изготовления тела робота](/New-materials-for-making-a-robot-body.md)
+  - [Новые материалы для изготовления тела робота](/New-materials-for-making-a-robot-body.md) Oct 27, 2024
 
-  - [Возможности Нейроморфного Процессора и Сопроцессора ИИ](/Neuromorphic-Processor-and-Coprocessor-Capabilities.md)
+  - [Возможности Нейроморфного Процессора и Сопроцессора ИИ](/Neuromorphic-Processor-and-Coprocessor-Capabilities.md) Oct 27, 2024
 
-  - [Возможности Панели управления ИИ на базе Нейроморфного Процессора и Сопроцессора](/Neuromorphic-Processor-and-Coprocessor-Features.md)
+  - [Возможности Панели управления ИИ на базе Нейроморфного Процессора и Сопроцессора](/Neuromorphic-Processor-and-Coprocessor-Features.md) Oct 30, 2024
 
-  - [Операционная система управления искусственным интеллектом на базе архитектуры спинтронного нейроморфного процессора и квантового сопроцессора для ИИ](/The-operating-system-of-artificial-intelligence-management.md)
+  - [Операционная система управления искусственным интеллектом на базе архитектуры спинтронного нейроморфного процессора и квантового сопроцессора для ИИ](/The-operating-system-of-artificial-intelligence-management.md) Oct 30, 2024
 
-  - [Система управления вниманием в операционной системе для ИИ на базе спинтронного нейроморфного процессора и квантового сопроцессора](/The-attention-management-system-in-theo-perating-system-for-AI.md)
+  - [Система управления вниманием в операционной системе для ИИ на базе спинтронного нейроморфного процессора и квантового сопроцессора](/The-attention-management-system-in-theo-perating-system-for-AI.md) Oct 30, 2024
 
-  - [Принципы механизмов эмпатии в нейронной сети искусственного интеллекта](/Principles-of-empathy-mechanisms-in-the-neural-network-of-artificial-intelligence.md)
+  - [Принципы механизмов эмпатии в нейронной сети искусственного интеллекта](/Principles-of-empathy-mechanisms-in-the-neural-network-of-artificial-intelligence.md) Oct 30, 2024
 
-  - [Интерфейс ай-трекера к искусственной нейросети через призму теории ЭИРО](/The-interface-of-an-AI-tracker-to-an-artificial-neural-network.md)
+  - [Интерфейс ай-трекера к искусственной нейросети через призму теории ЭИРО](/The-interface-of-an-AI-tracker-to-an-artificial-neural-network.md) Oct 31, 2024
 
 
-- [Полный список алгоритмов для создания Python кода для расчёта представленных формул и теорий](/calc.md)
+- [Полный список алгоритмов для создания Python кода для расчёта представленных формул и теорий](/calc.md) Oct 29, 2024
 
-  - [Калькулятор эмерджентной интегрированной информации (Φₑ) на Python 3](/Emergent-Integrated-Information-Calculator.md)
+  - [Калькулятор эмерджентной интегрированной информации (Φₑ) на Python 3](/Emergent-Integrated-Information-Calculator.md) Oct 29, 2024
 
-  - [Калькулятор степени интеграции информации на Python 3](/Information-Integration-Degree-Calculator.md)
+  - [Калькулятор степени интеграции информации на Python 3](/Information-Integration-Degree-Calculator.md) Oct 29, 2024
 
-- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md) Nov 1, 2024
 
 
 #### Химия
 
-- [Поиск новых теорий в химии](/new-theories-in-chemistry.md)
+- [Поиск новых теорий в химии](/new-theories-in-chemistry.md) Oct 24, 2024
   
-  - [Происхождение хиральности в биологических системах](/The-origin-of-chirality-in-biological-systems.md)
+  - [Происхождение хиральности в биологических системах](/The-origin-of-chirality-in-biological-systems.md) Oct 24, 2024
     
-  - [Механизмы передачи информации в биохимических системах](/Mechanisms-of-information-transfer-in-biochemical-systems.md)
+  - [Механизмы передачи информации в биохимических системах](/Mechanisms-of-information-transfer-in-biochemical-systems.md) Oct 24, 2024
 
-- [Великое Объединение Физики и Химии: Новая Парадигма Рекуррентной Космологии](/The-Great-Union-of-Physics-and-Chemistry.md)
+- [Великое Объединение Физики и Химии: Новая Парадигма Рекуррентной Космологии](/The-Great-Union-of-Physics-and-Chemistry.md) Nov 7, 2024
 
-- [Новые теории в квантовой химии на основе рекуррентной космологии](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
+- [Новые теории в квантовой химии на основе рекуррентной космологии](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md) Nov 8, 2024
 
 #### Теория информации
 
-- [Схожие концепции с теорией информации и нейронаукой](/information-theory.md)
+- [Схожие концепции с теорией информации и нейронаукой](/information-theory.md) Oct 19, 2024
 
 #### Математика
 
-- [Теория ЭИРО: Математический анализ](/mathematics.md)
+- [Теория ЭИРО: Математический анализ](/mathematics.md) Oct 19, 2024
 
 #### Философия сознания
 
-- [Теория ЭИРО: Философское обоснование сознания](/philosophy-of-consciousness.md)
+- [Теория ЭИРО: Философское обоснование сознания](/philosophy-of-consciousness.md) Oct 19, 2024
   
-- [Эмерджентность сознания и бытия через рекуррентную взаимосвязь](/the-emergence-of-consciousness-and-being-through-a-recurrent-relationship.md)
+- [Эмерджентность сознания и бытия через рекуррентную взаимосвязь](/the-emergence-of-consciousness-and-being-through-a-recurrent-relationship.md) Oct 20, 2024
 
 #### Нейропсихология
 
-- [Нейропсихологические основы Теории ЭИРО](/neuropsychology.md)
+- [Нейропсихологические основы Теории ЭИРО](/neuropsychology.md) Oct 19, 2024
 
 #### Нейровизуализация
 
-- [Нейровизуализация в контексте теории ЭИРО: Исследование сознания через изучение мозговых процессов](/neuroimaging.md)
+- [Нейровизуализация в контексте теории ЭИРО: Исследование сознания через изучение мозговых процессов](/neuroimaging.md) Oct 19, 2024
 
 #### Биология систем
 
-- [ЭИРО в контексте системной биологии](/biology-of-systems.md)
+- [ЭИРО в контексте системной биологии](/biology-of-systems.md) Oct 19, 2024
   
-- [Рекуррентная интеграция в физиологических системах организма](/recurrent-integration-in-the-physiological-systems-of-the-body.md)
+- [Рекуррентная интеграция в физиологических системах организма](/recurrent-integration-in-the-physiological-systems-of-the-body.md) Oct 20, 2024
 
 
 #### Психиатрия
 
-- [ЭИРО в контексте психиатрии](/psychiatry.md)
+- [ЭИРО в контексте психиатрии](/psychiatry.md) Oct 19, 2024
 
 #### Этология и нейроэтология
 
-- [ЭИРО в этологии и нейроэтологии: эволюционные аспекты сознания и интеграции информации в поведении](/ethology-and-neuroethology.md)
+- [ЭИРО в этологии и нейроэтологии: эволюционные аспекты сознания и интеграции информации в поведении](/ethology-and-neuroethology.md) Oct 19, 2024
 
 #### Лингвистика
 
-- [Теория ЭИРО в лингвистике: нейронные механизмы обработки языка и информационная интеграция](/linguistics.md)
+- [Теория ЭИРО в лингвистике: нейронные механизмы обработки языка и информационная интеграция](/linguistics.md) Oct 19, 2024
   
-- [Лингвистика: эмерджентность языка через рекуррентные коммуникации](/the-emergence-of-language-through-recurrent-communication.md)
+- [Лингвистика: эмерджентность языка через рекуррентные коммуникации](/the-emergence-of-language-through-recurrent-communication.md) Oct 20, 2024
 
 #### Социология и психология группы
 
-- [ЭИРО в социологии и психологии групп: расширение теории на коллективное сознание](/sociology-and-psychology-of-the-group.md)
+- [ЭИРО в социологии и психологии групп: расширение теории на коллективное сознание](/sociology-and-psychology-of-the-group.md) Oct 19, 2024
   
-- [Эмерджентные социальные структуры через рекуррентное взаимодействие](/emergent-social-structures-through-recurrent-interaction.md)
+- [Эмерджентные социальные структуры через рекуррентное взаимодействие](/emergent-social-structures-through-recurrent-interaction.md) Oct 20, 2024
   
-- [Социальные сети: эмерджентность влияния через рекуррентное взаимодействие в сетях](/emergence-of-influence-through-recurrent-interaction-in-networks.md)
+- [Социальные сети: эмерджентность влияния через рекуррентное взаимодействие в сетях](/emergence-of-influence-through-recurrent-interaction-in-networks.md) Oct 20, 2024
 
 #### Эволюционная биология
 
-- [Эволюция сознания: Теория ЭИРО в контексте эволюционной биологии](/evolution.md)
+- [Эволюция сознания: Теория ЭИРО в контексте эволюционной биологии](/evolution.md) Oct 19, 2024
 
 #### Кибернетика
 
-- [Теория ЭИРО с точки зрения кибернетики](/cybernetics.md)
+- [Теория ЭИРО с точки зрения кибернетики](/cybernetics.md) Oct 19, 2024
 
 #### Теория сложных систем
 
-- [Теория ЭИРО с точки зрения теории сложных систем](/theory-of-complex-systems.md)
+- [Теория ЭИРО с точки зрения теории сложных систем](/theory-of-complex-systems.md) Oct 19, 2024
 
 #### Биоинформатика
 
-- [ЭИРО в биоинформатике: Анализ больших нейронных данных](/bioinformatics.md)
+- [ЭИРО в биоинформатике: Анализ больших нейронных данных](/bioinformatics.md) Oct 19, 2024
 
 #### Генетика и молекулярная биология
 
-- [Генетические и молекулярные основы теории ЭИРО](/genetics-and-molecular-biology.md)
+- [Генетические и молекулярные основы теории ЭИРО](/genetics-and-molecular-biology.md) Oct 19, 2024
   
-- [Эмерджентные свойства организмов через рекуррентную генетическую интеграцию](/recurrent-integration-in-genetic-networks.md)
+- [Эмерджентные свойства организмов через рекуррентную генетическую интеграцию](/recurrent-integration-in-genetic-networks.md) Oct 20, 2024
   
-- [Интегративно-рекуррентный анализ генома](/integrative-recurrent-genome-analysis.md)
+- [Интегративно-рекуррентный анализ генома](/integrative-recurrent-genome-analysis.md) Oct 21, 2024
 
-- [Применение Теории ЭИРО к Расшифровке ДНК](/Decoding-DNA.md)
+- [Применение Теории ЭИРО к Расшифровке ДНК](/Decoding-DNA.md) Nov 14, 2024
 
-  - [Архитектурная реализация нейронной сети ЭИРО для анализа ДНК](/Decoding-DNA-Architectural-implementation.md)
+  - [Архитектурная реализация нейронной сети ЭИРО для анализа ДНК](/Decoding-DNA-Architectural-implementation.md) Nov 14, 2024
 
 
 #### Фармакология
 
-- [Фармакологические аспекты теории ЭИРО](/pharmacology.md)
+- [Фармакологические аспекты теории ЭИРО](/pharmacology.md) Oct 19, 2024
 
 #### Антропология
 
-- [Антропологические аспекты теории ЭИРО: Сознание в культурном и эволюционном контексте](/anthropology.md)
+- [Антропологические аспекты теории ЭИРО: Сознание в культурном и эволюционном контексте](/anthropology.md) Oct 19, 2024
 
 #### Психофизика
 
-- [Теория ЭИРО с точки зрения психофизики](/psychophysics.md)
+- [Теория ЭИРО с точки зрения психофизики](/psychophysics.md) Oct 19, 2024
 
 #### Эргономика и дизайн интерфейсов
 
-- [Применение теории ЭИРО в эргономике и дизайне интерфейсов: Оптимизация пользовательского опыта через информационную интеграцию](/ergonomics-and-interface-design.md)
+- [Применение теории ЭИРО в эргономике и дизайне интерфейсов: Оптимизация пользовательского опыта через информационную интеграцию](/ergonomics-and-interface-design.md) Oct 19, 2024
 
 #### Экология
 
-- [Экология: Эмерджентные экосистемы через рекуррентные взаимодействия видов](/emergent-ecosystems-through-recurrent-interactions-of-species.md)
+- [Экология: Эмерджентные экосистемы через рекуррентные взаимодействия видов](/emergent-ecosystems-through-recurrent-interactions-of-species.md) Oct 20, 20
 
 #### Образование
 
-- [Образование: Усиление обучения через рекуррентную интеграцию знаний](/strengthening-learning-through-the-recurrent-integration-of-knowledge.md)
+- [Образование: Усиление обучения через рекуррентную интеграцию знаний](/strengthening-learning-through-the-recurrent-integration-of-knowledge.md) Oct 20, 20
 
 #### Эпидемиология
 
-- [Рекуррентная интеграция в распространении заболеваний](/recurrent-integration-in-the-spread-of-diseases.md)
+- [Рекуррентная интеграция в распространении заболеваний](/recurrent-integration-in-the-spread-of-diseases.md) Oct 20, 20
 
 #### Экономика
 
-- [Рекуррентные взаимодействия в экономических системах и эмерджентность рынков](/recurrent-interactions-in-economic-systems-and-the-emergence-of-markets.md)
+- [Рекуррентные взаимодействия в экономических системах и эмерджентность рынков](/recurrent-interactions-in-economic-systems-and-the-emergence-of-markets.md) Oct 20, 2024
   
-- [Поиск новых теорий в экономике](/The-search-for-new-theories-in-economics.md)
+- [Поиск новых теорий в экономике](/The-search-for-new-theories-in-economics.md) Oct 25, 2024
 
 #### Прочее
 
-- [Сравнительный анализ ведущих теорий сознания в контексте ЭИРО](/comparative-analysis.md)
+- [Сравнительный анализ ведущих теорий сознания в контексте ЭИРО](/comparative-analysis.md) Oct 19, 2024
   
-- [Прогноз о существовании внеземной жизни через призму теории ЭИРО и новой модели вселенной](/prediction-of-the-existence-of-extraterrestrial-life.md)
+- [Прогноз о существовании внеземной жизни через призму теории ЭИРО и новой модели вселенной](/prediction-of-the-existence-of-extraterrestrial-life.md) Oct 22, 2024
   
-- [ЭИРО: От нейронов к звездам](/mission.md)
+- [ЭИРО: От нейронов к звездам](/mission.md) Oct 19, 2024
 
 
 
