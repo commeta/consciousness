@@ -190,6 +190,7 @@
 - [Comparative Analysis of Leading Theories of Consciousness in the Context of EIRM](/comparative-analysis.md)
 - [Prediction of the Existence of Extraterrestrial Life through the Lens of EIRM and the New Universe Model](/prediction-of-the-existence-of-extraterrestrial-life.md)
 - [EIRM: From Neurons to Stars](/mission.md)
+- [List of used literature](/bibliography.md) Nov 18, 2024
 
 
 
