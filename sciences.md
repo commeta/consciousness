@@ -80,6 +80,9 @@
 
 - [Компоненты метрики Φₑ сознания животного в контексте теории ЭИРО](/Components-of-the-animal-consciousness-metricFe.md) Nov 18, 2024 
 
+- [Компоненты метрики Φₑ сознания мухи дрозофилы в контексте теории ЭИРО](/Components-of-the-drosophila-fly-consciousness-metric-Fe.md) Nov 18, 2024 
+
+
 
 #### Физика
 
