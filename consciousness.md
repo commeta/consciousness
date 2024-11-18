@@ -23,7 +23,7 @@
 - [Philosophical aspects of the theory of EIRM](/Philosophical-aspects.md)
 - [EIRM theory in the context of connectomics](/EIRM-in-the-context-of-connectomics.md)
 
-**Additional parameters of the Φₑ metric**
+**Components of the Φₑ metric**
 
 - [Components of the φₑ metric in the context of the theory of EIRM](/Components-of-the-F-metric.md)
   - [The role of emotions in the theory of EIRM](/The-role-of-emotions.md)
