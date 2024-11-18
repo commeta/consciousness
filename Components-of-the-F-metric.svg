@@ -1,6 +1,6 @@
-<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+<svg width="1080" height="480" xmlns="http://www.w3.org/2000/svg">
   <!-- Основная рамка -->
-  <rect x="10" y="10" width="1080" height="480" fill="none" stroke="black"/>
+  <rect x="10" y="10" width="1070" height="470" fill="none" stroke="black"/>
   
   <!-- Уровень I -->
   <g transform="translate(50,50)">
