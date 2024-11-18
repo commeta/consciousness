@@ -1,5 +1,83 @@
 # Список используемой литературы
 
+Cowan, N. (1984). On short and long auditory stores. Psychological Bulletin, 96, 341-370. 
+URL: https://doi.org/10.1037/0033-2909.96.2.341
+
+Kandel, E.R. (2001). The molecular biology of memory storage: A dialogue between genes and synapses. Science, 294, 1030-1038. 
+URL: https://doi.org/10.1126/science.1067020
+
+Luck, S.J., & Vogel, E.K. (1997). The capacity of visual working memory for features and conjunctions. Nature, 390, 279-281. 
+URL: https://doi.org/10.1038/36846
+
+McGaugh, J.L. (2000). Memory-a century of consolidation. Science, 287(5451), 248-251. 
+URL: https://doi.org/10.1126/science.287.5451.248
+
+Squire, L.R., & Alvarez, P. (1995). Retrograde amnesia and memory consolidation: a neurobiological perspective. Current Opinion in Neurobiology, 5, 169-177. 
+URL: https://doi.org/10.1016/0959-4388(95)80023-9
+
+Anticevic, A., Gancsos, M., Murray, J. D., Repovs, G., Driesen, N. R., Ennis, D. J., ... & Corlett, P. R. (2015). NMDA receptor function in large-scale anticorrelated neural systems with implications for cognition and schizophrenia. Proceedings of the National Academy of Sciences, 112(26), 8129-8134.
+URL: https://doi.org/10.1016/j.biopsych.2014.07.022
+
+Bressler, S. L., & Kelso, J. A. (2001). Cortical coordination dynamics and cognition. Trends in Cognitive Sciences, 5(1), 26-36. 
+URL: https://doi.org/10.1016/s1364-6613(00)01564-3
+
+Chang, Z., et al. (2013). Modified Gravity with Quantum Matter and Spacetime Integration. Physical Review D, 88(8), 084005.
+URL: https://doi.org/10.1002/chin.201314022
+
+Chiu, Y. C., Esterman, M., Han, Y., Rosen, H., & Yantis, S. (2011). Decoding task-based attentional modulation during face categorization. Journal of Cognitive Neuroscience, 23(5), 1198-120.
+URL: https://doi.org/10.1162/jocn.2010.21503
+
+G. Aad et al. (ATLAS Collaboration). Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC, Physics Letters B, 716(1), 1-29 (2012).
+URL: https://doi.org/10.1016/j.physletb.2012.08.020
+
+Ingelman-Sundberg, M. (2005). Genetic polymorphisms of cytochrome P450 2D6 (CYP2D6): clinical consequences, evolutionary aspects and functional diversity. Pharmacogenomics Journal, 5(1), 6-13.
+URL: https://doi.org/10.1016/j.tiv.2005.04.001
+
+Kalman, R. E. (1960). A new approach to linear filtering and prediction problems. Journal of Basic Engineering, 82(1), 35-45.
+URL: https://doi.org/10.1115/1.3662552
+
+Kringelbach, M.L. (2020). Neural basis of consciousness.
+URL: https://doi.org/10.1101/2020.06.04.133538
+
+Laureys, S., Schiff, N. D. (2012). Coma and consciousness: paradigms (re)framed by neuroimaging. NeuroImage, 61(2), 478-491.
+URL: https://doi.org/10.1016/j.neuroimage.2011.12.041
+
+Markram, H., et al. Reconstruction and simulation of neocortical microcircuitry. Cell, 163(2), 456-492 (2015).
+URL: https://doi.org/10.12783/ijcsa.2015.0401.01
+
+Michel, C.M. (2019). EEG source imaging.
+URL: https://doi.org/10.3389/fneur.2019.00325
+
+Nambu, A., Tokuno, H., & Takada, M. (2002). Functional significance of the cortico-subthalamo-pallidal 'hyperdirect' pathway. Neuroscience Research, 43(2), 111-117.
+URL: https://doi.org/10.1016/s0168-0102(02)00027-5
+
+Nayak, C., Simon, S. H., Stern, A., Freedman, M., Das Sarma, S. Non-Abelian anyons and topological quantum computation. Reviews of Modern Physics, 80(3), 1083 (2008).
+URL: https://doi.org/10.1155/2008/52840
+
+Nicoll, R. A. A brief history of long-term potentiation. Neuron, 93(2), 281-290 (2017).
+URL: https://doi.org/10.1007/s11011-017-0084-3
+
+Nitsche, M. A., & Paulus, W. (2011). Transcranial direct current stimulation-update 2011. Restorative Neurology and Neuroscience, 29(6), 463-492.
+URL: https://doi.org/10.3233/rnn-2011-0618
+
+Planck Collaboration. (2016). Planck 2015 results. XIII. Cosmological parameters. Astronomy & Astrophysics, 594, A13.
+URL: https://doi.org/10.1063/1.4953315
+
+Polimeni, J.R. (2018). Layer-specific analysis of human brain connectivity.
+URL: https://doi.org/10.1089/brain.2017.0499
+
+Ryu, S., Takayanagi, T. (2006). Holographic derivation of entanglement entropy from the anti-de Sitter space/conformal field theory correspondence. Physical Review Letters, 96(18), 181602.
+URL: https://doi.org/10.1103/physrevlett.96.181602
+
+Singer, W. (2018). Neuronal oscillations: unavoidable and useful? European Journal of Neuroscience.
+URL: https://doi.org/10.1111/ejn.13796
+
+Wang, Y., et al. Residual attention network for image classification. IEEE Conference on Computer Vision and Pattern Recognition, 3156-3164 (2017).
+URL: https://doi.org/10.61585/pud-jafrchir-v4n302
+
+Маррийен и др. (Maruya et al., 2008). Показали, что рекуррентная обработка важна для восприятия движения на примере методов адаптации к движению.
+URL: https://doi.org/10.22141/2224-1485.1.33.2014.82682
+
 1Cahill, L., Babinsky, R., Markowitsch, H.J., & McGaugh, J.L. (1995). The amygdala and emotional memory. Nature, 377(6547), 295-296.
 URL: https://doi.org/10.1038/377295a0
 
@@ -16,7 +94,6 @@ Abutalebi, J.,  Green, D. W. (2008). Control mechanisms in bilingual language pr
 URL: https://doi.org/10.1080/01690960801920602
 
 Ade, P. A. R., et al. (2016). Planck 2015 Results XIII. Cosmological Parameters. Astronomy  Astrophysics, 594, A1 DOI: 10.1051/0004-6361/201525830 
-URL: https://doi.org/10.1051/0004-6361/201525830
 URL: https://doi.org/10.1051/0004-6361/201525809
 
 Adolphs, R. (2002). Neural systems for recognizing emotion. Current opinion in neurobiology, 12(2), 169-177.
