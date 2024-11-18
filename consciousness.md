@@ -41,7 +41,7 @@
   - [Metacognitive awareness (M) in the theory of EIRM](/Metacognitive-awareness.md)
   - [Coherence (C) in the context of EIRM theory](/Coherence.md)
   - [Emotional Intelligence (E_i) in the context of EIRM: structural analysis and assessment methodology](/Emotional-Intelligence.md) Nov 18, 2024 
-
+- [Components of the metric φₑ of animal consciousness in the context of the theory of EIRM](/Components-of-the-animal-consciousness-metricFe.md) Nov 18, 2024 
 
 ### Physics
 - [The Theory of the Recurrent Universe: A New Paradigm in Cosmology](/recurrent-universe/The-Recurrent-Universe.md)
