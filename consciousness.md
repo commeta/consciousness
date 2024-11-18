@@ -40,6 +40,8 @@
   - [Integrativity (I) in the theory of EIRM](/Integrativity.md)
   - [Metacognitive awareness (M) in the theory of EIRM](/Metacognitive-awareness.md)
   - [Coherence (C) in the context of EIRM theory](/Coherence.md)
+  - [Emotional Intelligence (E_i) in the context of EIRM: structural analysis and assessment methodology](/Emotional-Intelligence.md) Nov 18, 2024 
+
 
 ### Physics
 - [The Theory of the Recurrent Universe: A New Paradigm in Cosmology](/recurrent-universe/The-Recurrent-Universe.md)
