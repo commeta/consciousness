@@ -1,5 +1,71 @@
 # Список используемой литературы
 
+Vaswani, A., et al. Attention is all you need. Advances in Neural Information Processing Systems, 5998-6008 (2017).
+URL: https://arxiv.org/abs/1706.03762
+
+’t Hooft G., Dimensional Reduction in Quantum Gravity, arXiv preprint gr-qc/9310026, 1993.
+URL: https://arxiv.org/abs/gr-qc/9310026
+
+Thorne, K. S., Misner, C. W., Wheeler, J. A. (1973). Gravitation. W. H. Freeman.
+URL: https://www.amazon.com/Gravitation-Kip-S-Thorne/dp/0716703440
+
+Simon, H. A. (1962). The Architecture of Complexity. Proceedings of the American Philosophical Society, 106(6), 467-482.
+URL: https://www.jstor.org/stable/985254
+
+Stein, B. E., & Meredith, M. A. (1993). The merging of the senses. The MIT Press.
+URL: https://mitpress.mit.edu/books/merging-senses
+
+Putnam R.D. Bowling Alone: The Collapse and Revival of American Community. Simon & Schuster, 2000.
+URL: https://www.amazon.com/Bowling-Alone-Collapse-Revival-Community/dp/0743203046
+
+Raghu, M., et al. On the Expressive Power of Deep Neural Networks. ICML, 2017.
+URL: https://proceedings.mlr.press/v70/raghu17a.html
+
+Rogers E.M. Diffusion of Innovations, 5th Edition. Free Press, 2003.
+URL: https://www.amazon.com/Diffusion-Innovations-Everett-M-Rogers/dp/0743222091
+
+Searle, J. R. (1997). The mystery of consciousness. New York Review of Books.
+URL: https://www.nybooks.com/books/1997/the-mystery-of-consciousness/
+
+Minsky, M. (1986). The society of mind. Simon & Schuster.
+URL: https://www.simonandschuster.com/books/The-Society-of-Mind/Marvin-Minsky/9780671657130
+
+Pereyra, G., et al. Regularizing Neural Networks by Penalizing Confident Output Distributions. arXiv preprint arXiv:1701.06548, 2017.
+URL: https://arxiv.org/abs/1701.06548
+
+Kingma, D. P., & Welling, M. (2013). Auto-encoding variational bayes. arXiv preprint arXiv:1312.6114.
+URL: https://arxiv.org/abs/1312.6114
+
+Lewis, C. I. (1929). Mind and the world-order: Outline of a theory of knowledge. Charles Scribner's Sons.
+URL: https://archive.org/details/mindworldorderou00lewi
+
+Maldacena J. The Large N Limit of Superconformal Field Theories and Supergravity. Advances in Theoretical and Mathematical Physics, 2(2):231-252, 1998. arXiv:hep-th/9711200.
+URL: https://arxiv.org/abs/hep-th/9711200
+
+Graves, A. Supervised sequence labelling with recurrent neural networks. Springer, 2012.
+URL: https://link.springer.com/book/10.1007/978-3-642-24797-2
+
+Farhi, E., Neven, H. Classification with Quantum Neural Networks on Near Term Processors. arXiv preprint arXiv:1802.06002, 2018.
+URL: https://arxiv.org/abs/1802.06002
+
+Goodfellow, I., Bengio, Y., Courville, A. Deep Learning. MIT Press, 2016.
+URL: http://www.deeplearningbook.org/
+
+Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). Generative adversarial nets. Advances in neural information processing systems, 27.
+URL: https://arxiv.org/abs/1406.2661
+
+He, K., et al. Deep Residual Learning for Image Recognition. CVPR, 2016.
+URL: https://arxiv.org/abs/1512.03385
+
+Bahdanau, D., Cho, K., Bengio, Y. Neural machine translation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473 (2014).
+URL: https://arxiv.org/abs/1409.0473
+
+Bandura, A. (1997). Self-efficacy: The exercise of control. Macmillan.
+URL: https://www.macmillanlearning.com/college/us/product/Self-Efficacy-The-Exercise-of-Control/p/0716728508
+
+Scoville, W.B., & Milner, B. (1957). Loss of recent memory after bilateral hippocampal lesions. Journal of Neurology, Neurosurgery, and Psychiatry, 20(1), 11-21.
+URL: https://jnnp.bmj.com/content/20/1/11
+
 1000 Genomes Project Consortium. An integrated map of genetic variation from 1,092 human genomes. Nature, 2012; 491(7422):56-65. 
 URL: https://doi.org/10.1038/nature11632
 
