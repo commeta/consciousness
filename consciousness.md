@@ -41,6 +41,8 @@
   - [Metacognitive awareness (M) in the theory of EIRM](/Metacognitive-awareness.md)
   - [Coherence (C) in the context of EIRM theory](/Coherence.md)
   - [Emotional Intelligence (E_i) in the context of EIRM: structural analysis and assessment methodology](/Emotional-Intelligence.md) Nov 18, 2024 
+  - [Quantum coherence (Q_c) in the context of EIRM theory](/Quantum-Coherence.md) Nov 19, 2024 
+
 - [Components of the metric φₑ of animal consciousness in the context of the theory of EIRM](/Components-of-the-animal-consciousness-metricFe.md) Nov 18, 2024 
 - [Components of the metric φₑ of the drosophila fly consciousness in the context of the theory of EIRM](/Components-of-the-drosophila-fly-consciousness-metric-Fe.md) Nov 18, 2024 
 
