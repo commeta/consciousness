@@ -171,6 +171,8 @@
 - [Integrative-Recurrent Genome Analysis](/integrative-recurrent-genome-analysis.md)
 - [Application of EIRM Theory to DNA Decoding](/Decoding-DNA/Decoding-DNA.md)
   - [Architectural implementation of the EIRM neural network for DNA analysis](/Decoding-DNA-Architectural-implementation.md)
+[A model of the structure of DNA through the prism of the theory of EIRM](/A-model-of-the-DNA-structure.md) Nov 19, 2024
+
 ### Pharmacology
 - [Pharmacological Aspects of the EIRM Theory](/pharmacology.md)
 ### Anthropology
@@ -193,9 +195,6 @@
 - [Prediction of the Existence of Extraterrestrial Life through the Lens of EIRM and the New Universe Model](/prediction-of-the-existence-of-extraterrestrial-life.md)
 - [EIRM: From Neurons to Stars](/mission.md)
 - [List of used literature](/bibliography.md) Nov 18, 2024
-
-
-
 
 
 
