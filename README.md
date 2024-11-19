@@ -339,6 +339,7 @@
 
   - [Архитектурная реализация нейронной сети ЭИРО для анализа ДНК](/Decoding-DNA-Architectural-implementation.md) Nov 14, 2024
 
+[Модель структуры ДНК через призму теории ЭИРО](/A-model-of-the-DNA-structure.md) Nov 19, 2024
 
 #### Фармакология
 
