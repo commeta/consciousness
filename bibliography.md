@@ -1,5 +1,316 @@
 # Список используемой литературы
 
+1000 Genomes Project Consortium. An integrated map of genetic variation from 1,092 human genomes. Nature, 2012; 491(7422):56-65. 
+URL: https://doi.org/10.1038/nature11632
+
+Aebersold R, Mann M. Mass-spectrometric exploration of proteome structure and function. Nature, 2016; 537(7620):347-355. 
+URL: https://doi.org/10.1038/nature19949
+
+Altschul SF., et al. Basic local alignment search tool. Journal of Molecular Biology, 1990; 215(3):403-410. 
+URL: https://doi.org/10.1016/S0022-2836(05)80360-2
+
+Ambjørn, J., Jurkiewicz, J., Loll, R. (2005). Reconstructing the universe. Physical Review D, 72(6), 064014. 
+URL: https://doi.org/10.1103/PhysRevD.72.064014
+
+Anderson, P. W. More is Different. Science, 1972, Vol.177(4047), pp.393-396. 
+URL: https://doi.org/10.1126/science.177.4047.393
+
+Arute, F., et al. Quantum supremacy using a programmable superconducting processor. Nature, vol. 574, 2019, pp. 505-510. 
+URL: https://doi.org/10.1038/s41586-019-1666-5
+
+Atiyah, M. Topological quantum field theories. Publications Mathématiques de l'IHÉS, 68, 175-186 (1988). 
+URL: https://doi.org/10.1007/BF02698880
+
+Baddeley, A. Working memory. Science, 255(5044), 556-559 (1992). 
+URL: https://doi.org/10.1126/science.1736359
+
+Barabási, A.-L. (2009). Scale-free networks: a decade and beyond. Science, 325(5939), 412-413. 
+URL: https://doi.org/10.1126/science.1173299
+
+Barabási, A. L., & Oltvai, Z. N. (2004). Network biology: understanding the cell's functional organization. Nature Reviews Genetics, 5(2), 101-113. 
+URL: https://doi.org/10.1038/nrg1304
+
+Bengio, Y., Simard, P., Frasconi, P. Learning Long-Term Dependencies with Gradient Descent is Difficult. IEEE Transactions on Neural Networks, vol. 5, no. 2, pp. 157-166, 1994. 
+URL: https://doi.org/10.1109/72.279181
+
+Biamonte, J., et al. Quantum machine learning. Nature, vol. 549, 2017, pp. 195-202. 
+URL: https://doi.org/10.1038/nature23474
+
+Bird A. DNA methylation patterns and epigenetic memory. Genes Development, 2002; 16(1):6-21. 
+URL: https://doi.org/10.1101/gad.947102
+
+Bliss, T. V. P., Lømo, T. Long-lasting potentiation of synaptic transmission in the dentate area of the anaesthetized rabbit following stimulation of the perforant path. Journal of Physiology, 232(2), 331-356 (1973). 
+URL: https://doi.org/10.1113/jphysiol.1973.sp010273
+
+Blumer H. Fashion: From class differentiation to collective selection. The Sociological Quarterly, 10(3): 275-291, 1969. 
+URL: https://doi.org/10.1111/j.1533-8525.1969.tb01290.x
+
+Bray D. Genomic control: the genome as a computational system. Complexity, 9(4): 9-16, 2004. 
+URL: https://doi.org/10.1002/cplx.20003
+
+Campbell, J. Y., Thompson, S. B. Predicting Excess Stock Returns Out of Sample: Can Anything Beat the Historical Average? The Review of Financial Studies, 2008. 
+URL: https://doi.org/10.1093/rfs/hhm075
+
+Castellano C., Fortunato S., Loreto V. Statistical physics of social dynamics. Reviews of Modern Physics, 81(2): 591-646, 2009. 
+URL: https://doi.org/10.1103/RevModPhys.81.591
+
+Cho, K., et al. Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 1724-1734, 2014. 
+URL: https://doi.org/10.3115/v1/D14-1179
+
+Collins FS, Varmus H. A new initiative on precision medicine. New England Journal of Medicine, 2015; 372(9):793-795. 
+URL: https://doi.org/10.1056/NEJMp1500523
+
+Consortium EP. An integrated encyclopedia of DNA elements in the human genome. Nature, 2012; 489(7414):57-74. 
+URL: https://doi.org/10.1038/nature11247
+
+Corbetta, M., Shulman, G. L. Control of goal-directed and stimulus-driven attention in the brain. Nature Reviews Neuroscience, 3(3), 201-215 (2002). 
+URL: https://doi.org/10.1038/nrn726
+
+Davidson E.H., Erwin D.H. Gene regulatory networks and the evolution of animal body plans. Science, 311(5762): 796-800, 2006. 
+URL: https://doi.org/10.1126/science.1113832
+
+Dekker J., et al. Capturing chromosome conformation. Science, 2002; 295(5558):1306-1311. 
+URL: https://doi.org/10.1126/science.1067799
+
+d'Errico, F., Stringer, C. B. (2011). Evolution, revolution or saltation scenario for the emergence of modern cultures? Philosophical Transactions of the Royal Society B: Biological Sciences, 366(1567), 1060-1069. 
+URL: https://doi.org/10.1098/rstb.2010.0370
+
+Duan, L.-M., et al. Emergent Phenomena and Phase Transitions in Interacting Spin Systems. Physics Reports, vol. 670, 2017, pp. 1-83. 
+URL: https://doi.org/10.1016/j.physrep.2016.11.002
+
+Dunham I, et al. An integrated encyclopedia of DNA elements in the human genome. Nature, 2012; 489(7414):57-74. 
+URL: https://doi.org/10.1038/nature11247
+
+Einstein, A. (1905). On the Electrodynamics of Moving Bodies. Annalen der Physik, 17(10), 891-921. 
+URL: https://doi.org/10.1002/andp.19053221004
+
+Elman, J.L. Finding Structure in Time. Cognitive Science, vol. 14, no. 2, pp. 179-211, 1990. 
+URL: https://doi.org/10.1207/s15516709cog1402_1
+
+Emirbayer M. Manifesto for a relational sociology. American Journal of Sociology, 103(2): 281-317, 1997. 
+URL: https://doi.org/10.1086/231250
+
+E. P. Verlinde. On the Origin of Gravity and the Laws of Newton, Journal of High Energy Physics, 2011(4), 29 (2011). 
+URL: https://doi.org/10.1007/JHEP04(2011)029
+
+Fahrenfort, J. J., Scholte, H. S., Lamme, V. A. F. Masking disrupts reentrant processing in human visual cortex. Journal of Cognitive Neuroscience, 19(9), 1488-1497 (2007). 
+URL: https://doi.org/10.1162/jocn.2007.19.9.1488
+
+Faymonville, M. E., Laureys, S., et al. Neural mechanisms of antinociceptive effects of hypnosis. Anesthesiology, 92(5), 1257-1267 (2000). 
+URL: https://doi.org/10.1097/00000542-200005000-00029
+
+Friston K. Life as we know it. Journal of the Royal Society Interface, 10(86): 20130475, 2013. 
+URL: https://doi.org/10.1098/rsif.2013.0475
+
+Gagné, M., & Deci, E. L. (2005). Self‐determination theory and work motivation. Journal of Organizational behavior, 26(4), 331-362. 
+URL: https://doi.org/10.1002/job.322
+
+Friston, K. The Free-Energy Principle: A Unified Brain Theory? Nature Reviews Neuroscience, vol. 11, no. 2, pp. 127-138, 2010. 
+URL: https://doi.org/10.1038/nrn2787
+
+Gödel, K. (1949). An example of a new type of cosmological solutions of Einstein's field equations of gravitation. Reviews of Modern Physics, 21(3), 447-450. 
+URL: https://doi.org/10.1103/RevModPhys.21.447
+
+Goldstein, J. Emergence as a Construct: History and Issues. Emergence, vol. 1, no. 1, 1999, pp. 49-72. 
+URL: https://doi.org/10.1207/s15327000em0101_4
+
+Granovetter M.S. The strength of weak ties. American Journal of Sociology, 78(6): 1360-1380, 1973. 
+URL: https://doi.org/10.1086/225469
+
+Granovetter M. Threshold models of collective behavior. American Journal of Sociology, 83(6): 1420-1443, 1978. 
+URL: https://doi.org/10.1086/226707
+
+Grössing, G. (2009). On the thermodynamic origin of the quantum potential. Physics Letters A, 373(11-12), 865-872. 
+URL: https://doi.org/10.1016/j.physleta.2008.12.022
+
+GTEx Consortium. The Genotype-Tissue Expression (GTEx) project. Nature Genetics, 2013; 45(6):580-585. 
+URL: https://doi.org/10.1038/ng.2653
+
+Happé, F., & Frith, U. (2006). The weak coherence account: detail-focused cognitive style in autism spectrum disorders. Journal of autism and developmental disorders, 36(1), 5-25. 
+URL: https://doi.org/10.1007/s10803-005-0039-0
+
+Hawking, S., Penrose, R. (1970). The Singularities of Gravitational Collapse and Cosmology. Proceedings of the Royal Society A, 314(1519), 529-548. 
+URL: https://doi.org/10.1098/rspa.1970.0021
+
+Hochreiter, S., Schmidhuber, J. Long Short-Term Memory. Neural Computation, vol. 9, no. 8, pp. 1735-1780, 1997. 
+URL: https://doi.org/10.1162/neco.1997.9.8.1735
+
+Hood L, Friend SH. Predictive, personalized, preventive, participatory (P4) cancer medicine. Nature Reviews Clinical Oncology, 2011; 8(3):184-187. 
+URL: https://doi.org/10.1038/nrclinonc.2010.227
+
+International Human Genome Sequencing Consortium. Initial sequencing and analysis of the human genome. Nature, 2001; 409(6822):860-921. 
+URL: https://doi.org/10.1038/35057062
+
+Ivezić, Ž., et al. (2019). LSST: From Science Drivers to Reference Design and Anticipated Data Products. The Astrophysical Journal, 873(2), 111. 
+URL: https://doi.org/10.3847/1538-4357/ab042c
+
+Jamieson, G. A., Woody, E. Z. Dissociated control as a model of hypnotic responsiveness and hypnosis. Consciousness and Cognition, 16(2), 475-483 (2007). 
+URL: https://doi.org/10.1016/j.concog.2006.09.002
+
+Jones PA. Functions of DNA methylation: islands, start sites, gene bodies and beyond. Nature Reviews Genetics, 2012; 13(7):484-492. 
+URL: https://doi.org/10.1038/nrg3210
+
+Karlebach G., Shamir R. Modelling and analysis of gene regulatory networks. Nature Reviews Molecular Cell Biology, 9(10): 770-780, 2008. 
+URL: https://doi.org/10.1038/nrm2450
+
+Kermack W.O., McKendrick A.G. A contribution to the mathematical theory of epidemics. Proceedings of the Royal Society A, 115(772): 700-721, 1927. 
+URL: https://doi.org/10.1098/rspa.1927.0118
+
+Kitaev, A. Y. Fault-tolerant quantum computation by anyons. Annals of Physics, 303(1), 2-30 (2003). 
+URL: https://doi.org/10.1016/S0003-4916(02)00018-0
+
+Kundaje A, et al. Integrative analysis of 111 reference human epigenomes. Nature, 2015; 518(7539):317-330. 
+URL: https://doi.org/10.1038/nature14258
+
+Landry, M., Lifshitz, M., Raz, A. Brain correlates of hypnosis: A systematic review and meta-analytic exploration. Neuroscience & Biobehavioral Reviews, 81, 75-98 (2017). 
+URL: https://doi.org/10.1016/j.neubiorev.2017.03.016
+
+Lloyd S. The Universe as Quantum Computer, Complexity, 2002. 
+URL: https://doi.org/10.1002/cem.785
+
+López, J. C., Rodríguez, F., Gómez, Y., Vargas, J. P., Broglio, C., & Salas, C. (2000). Place and cue learning in turtles. Animal Learning & Behavior, 28(4), 360-372. 
+URL: https://doi.org/10.3758/BF03213046
+
+L. Susskind. The World as a Hologram, Journal of Mathematical Physics, 36(11), 6377-6396 (1995). 
+URL: https://doi.org/10.1063/1.531313
+
+Ma’ayan A. Network integration and visualization of gene ontology terms. Bioinformatics, 21(18): 3572-3573, 2005. 
+URL: https://doi.org/10.1093/bioinformatics/bti612
+
+Ma J, et al. Using deep learning to model the hierarchical structure and function of a cell. Nature Methods, 2018; 15(4):290-298. 
+URL: https://doi.org/10.1038/nmeth.4644
+
+Metzker, M. L. (2010). Sequencing technologies the next generation. Nature Reviews Genetics, 11(1), 31-46. 
+URL: https://doi.org/10.1038/nrg2626
+
+Metzker ML. Sequencing technologies the next generation. Nature Reviews Genetics, 2010; 11(1):31-46. 
+URL: https://doi.org/10.1038/nrg2626
+
+Naldini L. Gene therapy returns to centre stage. Nature, 526(7573): 351-360, 2015. 
+URL: https://doi.org/10.1038/nature15260
+
+Nässel, D. R., & Elekes, K. (1992). Aminergic neurons in the brain of blowflies and Drosophila: dopamine-and tyrosine hydroxylase-immunoreactive neurons and their relationship with putative histaminergic neurons. Cell and tissue research, 267(1), 147-167. 
+URL: https://doi.org/10.1007/BF00302012
+
+Nicholson JK, et al. Metabonomics: a platform for studying drug toxicity and gene function. Nature Reviews Drug Discovery, 2002; 1(2):153-161. 
+URL: https://doi.org/10.1038/nrd778
+
+Noether E. Invariant Variation Problems. Transport Theory and Statistical Physics, 1(3):186-207, 1972. 
+URL: https://doi.org/10.1080/00411457108231446
+
+Oakley, D. A., Halligan, P. W. Hypnotic suggestion: Opportunities for cognitive neuroscience. Nature Reviews Neuroscience, 14(8), 565-576 (2013). 
+URL: https://doi.org/10.1038/nrn3516
+
+Olson E.N. Gene regulatory networks in the evolution and development of the heart. Science, 313(5795): 1922-1927, 2006. 
+URL: https://doi.org/10.1126/science.1130481
+
+O’Reilly, R. C., Wyatte, D., Herd, S., Mingus, B., Jilk, D. J. (2014). Recurrent processing during object recognition. Frontiers in Psychology, 5, 124. 
+URL: https://doi.org/10.3389/fpsyg.2014.00124
+
+Oughtred R, et al. The BioGRID interaction database: 2019 update. Nucleic Acids Research, 2019; 47(D1):D529-D541. 
+URL: https://doi.org/10.1093/nar/gky1079
+
+Padmanabhan T. Thermodynamical Aspects of Gravity: New insights. Reports on Progress in Physics, 73(4):046901, 2010. 
+URL: https://doi.org/10.1088/0034-4885/73/4/046901
+
+Peebles P.J.E., Ratra B. The Cosmological Constant and Dark Energy, Reviews of Modern Physics, 2003. 
+URL: https://doi.org/10.1103/RevModPhys.75.559
+
+Planck Collaboration. Planck 2018 results. Astronomy & Astrophysics, 2020. https://doi.org/10.1051/0004-6361/201833880
+
+Posner, M. I., Petersen, S. E. The attention system of the human brain. Annual Review of Neuroscience, 13(1), 25-42 (1990). 
+URL: https://doi.org/10.1146/annurev.ne.13.030190.000325
+
+Pulvermüller, F. (2010). Brain embodiment of syntax and grammar: Discrete combinatorial mechanisms spelt out in neuronal circuits. Brain and Language, 112(3), 167-179. 
+URL: https://doi.org/10.1016/j.bandl.2010.03.001
+
+P. W. Anderson. More is Different, Science, 177(4047), 393-396 (1972). 
+URL: https://doi.org/10.1126/science.177.4047.393
+
+Rao, R.P.N., Ballard, D.H. Predictive Coding in the Visual Cortex: A Functional Interpretation of Some Extra-Classical Receptive-Field Effects. Nature Neuroscience, vol. 2, no. 1, pp. 79-87, 1999. 
+URL: https://doi.org/10.1038/4580
+
+Riess A.G., et al. Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant. The Astronomical Journal, 116(3):1009-1038, 1998. 
+URL: https://doi.org/10.1086/300499
+
+Rokach, L., & Maimon, O. (2005). Clustering methods. In Data mining and knowledge discovery handbook (pp. 321-352). Springer, Boston, MA. 
+URL: https://doi.org/10.1007/0-387-25465-X_15
+
+Rolls, E. T. Attractor networks. Wiley Interdisciplinary Reviews: Cognitive Science, 1(1), 119-134 (2010). 
+URL: https://doi.org/10.1002/wcs.8
+
+Rovelli C. Loop Quantum Gravity, Living Reviews in Relativity, 2008. 
+URL: https://doi.org/10.12942/lrr-2008-5
+
+Schwarzschild, K. (1916). On the gravitational field of a mass point according to Einstein's theory. Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften, 189-196. 
+URL: https://doi.org/10.1007/BF01328205
+
+Scoville, W. B., Milner, B. Loss of recent memory after bilateral hippocampal lesions. Journal of Neurology, Neurosurgery & Psychiatry, 20(1), 11-21 (1957). 
+URL: https://doi.org/10.1136/jnnp.20.1.11
+
+Seth A.K., Baars B.J., Edelman D.B. Criteria for consciousness in humans and other mammals. Consciousness and Cognition, 14(1):119-139, 2005. 
+URL: https://doi.org/10.1016/j.concog.2004.08.006
+
+Shendure J, Ji H. Next-generation DNA sequencing. Nature Biotechnology, 2008; 26(10):1135-1145. 
+URL: https://doi.org/10.1038/nbt1486
+
+Shen-Orr S.S., et al. Network motifs in the transcriptional regulation network of Escherichia coli. Nature Genetics, 31(1): 64-68, 2002. 
+URL: https://doi.org/10.1038/ng881
+
+Silver, D., et al. Mastering the Game of Go with Deep Neural Networks and Tree Search. Nature, vol. 529, no. 7587, pp. 484-489, 2016. 
+URL: https://doi.org/10.1038/nature16961
+
+Stein-O'Brien GL, et al. Decomposing cell identity for transfer learning across cellular measurements, platforms, tissues, and species. Cell Systems, 2019; 8(5):395-411.e8. 
+URL: https://doi.org/10.1016/j.cels.2019.03.002
+
+Sudhof, T. C. (2008). Neuroligins and neurexins link synaptic function to cognitive disease. Nature, 455(7215), 903-911. 
+URL: https://doi.org/10.1038/nature07456
+
+Szklarczyk D, et al. STRING v11: protein-protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets. Nucleic Acids Research, 2019; 47(D1):D607-D613. 
+URL: https://doi.org/10.1093/nar/gky1131
+
+T. Jacobson. Thermodynamics of Spacetime: The Einstein Equation of State, Physical Review Letters, 75(7), 1260-1263 (1995). 
+URL: https://doi.org/10.1103/PhysRevLett.75.1260
+
+Susskind L. The World as a Hologram, Journal of Mathematical Physics, 1995. 
+URL: https://doi.org/10.1063/1.531249
+
+Treangen TJ., Salzberg SL. Repetitive DNA and next-generation sequencing: computational challenges and solutions. Nature Reviews Genetics, 2012; 13(1):36-46. 
+URL: https://doi.org/10.1038/nrg3117
+
+Uğurbil, K. (2013). Ultra-high field magnetic resonance imaging at 7T. 
+URL: https://doi.org/10.1016/j.neuroimage.2013.01.027
+
+Uğurbil, K., Xu, J., Auerbach, E. J., Moeller, S., Vu, A. T., Duarte-Carvajalino, J. M., ... & Yacoub, E. (2013). Pushing spatial and temporal resolution for functional and diffusion MRI in the Human Connectome Project. Neuroimage, 80, 80-104. 
+URL: https://doi.org/10.1016/j.neuroimage.2013.05.019
+
+van Dijk D., et al. Recovering gene interactions from single-cell data using data diffusion. Cell, 174(3): 716-729.e27, 2018. 
+URL: https://doi.org/10.1016/j.cell.2018.05.042
+
+Verlinde E. On the origin of gravity and the laws of Newton. Journal of High Energy Physics, 2011(4):29. 
+URL: https://doi.org/10.1007/JHEP04(2011)029
+
+Wang Z, Gerstein M, Snyder M. RNA-Seq: a revolutionary tool for transcriptomics. Nature Reviews Genetics, 2009; 10(1):57-63. 
+URL: https://doi.org/10.1038/nrg2484
+
+Weinstein JN, et al. The Cancer Genome Atlas Pan-Cancer analysis project. Nature Genetics, 2013; 45(10):1113-1120. 
+URL: https://doi.org/10.1038/ng.2764
+
+Will, C. M. (2014). The Confrontation between General Relativity and Experiment. Living Reviews in Relativity, 17(1), 4. 
+URL: https://doi.org/10.12942/lrr-2014-4
+
+Witten, E. Topological quantum field theory. Communications in Mathematical Physics, 117(3), 353-386 (1988). 
+URL: https://doi.org/10.1007/BF01223371
+
+Zeng H, Edwards MD, Liu G, Gifford DK. Convolutional neural network architectures for predicting DNA-protein binding. Bioinformatics, 2016; 32(12):i121-i127. 
+URL: https://doi.org/10.1093/bioinformatics/btw228
+
+Zhou J, Troyanskaya OG. Predicting effects of noncoding variants with deep learning-based sequence model. Nature Methods, 2015; 12(10):931-934. 
+URL: https://doi.org/10.1038/nmeth.3547
+
+Žutić, I., Fabian, J., Das Sarma, S. Spintronics: Fundamentals and applications. Reviews of Modern Physics, vol. 76, no. 2, 2004, pp. 323-410. 
+URL: https://doi.org/10.1103/RevModPhys.76.323
+
 Cowan, N. (1984). On short and long auditory stores. Psychological Bulletin, 96, 341-370. 
 URL: https://doi.org/10.1037/0033-2909.96.2.341
 
