@@ -1,5 +1,38 @@
 # Список используемой литературы
 
+Сакураи, Дж. Современные квантовые механики, М.: Мир, 2010.
+URL: https://archive.org/details/ModernQuantumMechanicsJ.J.Sakurai
+URL: https://www.academia.edu/51322224/Modern_Quantum_Mechanics_Sakurai_J_J_2nd_Ed_
+
+Мизнер Ч., Торн К., Уилер Дж. Гравитация. — М.: Мир, 1977.
+URL: http://alpha.sinp.msu.ru/~panov/LibBooks/GRAV/1mizner_ch_torn_k_uiler_dzh_gravitatsiya_v_tryokh_tomakh_tom.pdf
+
+Ландау Л.Д., Лифшиц Е.М. Теоретическая физика. Т. Механика. — М.: Наука, 1988.
+URL: https://djvu.online/file/7JClI2uiEj8hz
+
+Л. Смолин. Три дороги к квантовой гравитации. М.: УрСС, 2005.
+URL: https://archive.org/details/threeroadstoquan00smol_0
+
+Перес, А. Квантовая теория: концепции и методы. Кембридж: CUP, 2002.
+Peres A. Quantum theory: concepts and methods. 2003.
+URL: http://inis.jinr.ru/sl/vol1/_djvu/P_Physics/PQft_Quantum%20field%20theory/Peres%20A.%20%20Quantum%20theory,%20concepts%20and%20methods%20(Kluwer,%202002)(463s).pdf
+
+Баарс, Б. (1988). A Cognitive Theory of Consciousness. Cambridge University Press.
+A cognitive theory of consciousness by Baars, Bernard J 
+URL: https://archive.org/details/cognitivetheoryo0000baar
+URL: https://old.herzen.spb.ru/uploads/petryarkin/files/%D0%91%D0%B0%D0%B0%D1%80%D1%81_%D0%BA%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%20%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D1%81%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F.pdf
+
+Б. Б. Мандельброт. Фрактальная геометрия природы. М.: Институт компьютерных исследований, 2002.
+URL: https://djvu.online/file/SDVpM0Q5vUfxc
+URL: https://lib.ysu.am/disciplines_bk/eb2cb6a773728f6ad02dfa87fe11a55a.pdf
+
+Principles of Neural Science (Kandel et al.) — главы, посвященные теории предиктивного кодирования и рекуррентных нейронных сетей.
+URL: https://www.amazon.com/Principles-Neural-Science-Sixth-Kandel/dp/1259642232
+URL: https://en.wikipedia.org/wiki/Principles_of_Neural_Science
+
+Markov chains:
+URL: https://en.wikipedia.org/wiki/Markov_chain
+
 Vaswani, A., et al. Attention is all you need. Advances in Neural Information Processing Systems, 5998-6008 (2017).
 URL: https://arxiv.org/abs/1706.03762
 
