@@ -40,7 +40,7 @@
 
 - [Философские аспекты теории ЭИРО](/Philosophical-aspects.md) Nov 14, 2024
 
-- [Теория ЭИРО в контексте коннектомики](/EIRM-in-the-context-of-connectomics.md) Oct 30, 2024
+- [Теория ЭИРО в контексте коннектомики](/EIRM-in-the-context-of-connectomics.md) Oct 30, 2024. upd: Nov 21, 2024
 
 
 **Компоненты метрики Φₑ**
