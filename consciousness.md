@@ -171,9 +171,10 @@
 - [Integrative-Recurrent Genome Analysis](/integrative-recurrent-genome-analysis.md)
 - [Application of EIRM Theory to DNA Decoding](/Decoding-DNA/Decoding-DNA.md)
   - [Architectural implementation of the EIRM neural network for DNA analysis](/Decoding-DNA-Architectural-implementation.md)
-- [A model of the structure of DNA through the prism of the theory of EIRM](/A-model-of-the-DNA-structure.md) Nov 19, 2024
-- [A conceptual model of the structure of DNA through the prism of the theory of EIRM](/Decoding-DNA/README.md) Nov 22, 2024
+[A model of the structure of DNA through the prism of the theory of EIRM](/A-model-of-the-DNA-structure.md) Nov 19, 2024
+[A conceptual model of the structure of DNA through the prism of the theory of EIRM](/Decoding-DNA/README.md) Nov 22, 2024
 - [Viruses through the prism of the theory of EIRM](/Decoding-DNA/Viruses.md) Nov 22, 2024
+- [The genome model through the prism of the theory of EIRM](/Decoding-DNA/Genome-model.md) Nov 22, 2024
 
 ### Pharmacology
 - [Pharmacological Aspects of the EIRM Theory](/pharmacology.md)
