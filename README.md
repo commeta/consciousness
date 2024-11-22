@@ -6,7 +6,7 @@
 ---
 
 
-## Оглавление:
+## Теоретический framework ЭИРО:
 
 - [ReadMe English](/consciousness.md) Oct 17, 2024
 
