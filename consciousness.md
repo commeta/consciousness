@@ -173,6 +173,7 @@
   - [Architectural implementation of the EIRM neural network for DNA analysis](/Decoding-DNA-Architectural-implementation.md)
 - [A model of the structure of DNA through the prism of the theory of EIRM](/A-model-of-the-DNA-structure.md) Nov 19, 2024
 - [A conceptual model of the structure of DNA through the prism of the theory of EIRM](/Decoding-DNA/README.md) Nov 22, 2024
+- [Viruses through the prism of the theory of EIRM](/Decoding-DNA/Viruses.md) Nov 22, 2024
 
 ### Pharmacology
 - [Pharmacological Aspects of the EIRM Theory](/pharmacology.md)
