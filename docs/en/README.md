@@ -16,7 +16,7 @@
 
 ### Analytics:
 
-- [Theory of Consciousness](/README.md) Oct 17, 2024. upd: Nov 20, 2024 
+- [Theory of Consciousness](/docs/en) Oct 17, 2024. upd: Nov 20, 2024 
   
 - [Integrated Information Metric](/Integrated-Information-Metric.md) Oct 18, 2024
   
