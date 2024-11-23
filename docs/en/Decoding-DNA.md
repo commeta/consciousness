@@ -1374,7 +1374,7 @@ Such a synthesis of fundamental concepts opens new perspectives for understandin
 
 ---
 
-Table of Contents: [EIRM framework](/docs/en)
+Table of Contents: [EIRM framework](/docs/en/README.md)
 
 
 
