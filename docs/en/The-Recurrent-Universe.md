@@ -479,4 +479,4 @@ In the course of conducting the research, the author utilized neural networks su
 
 ---
 
-Table of Contents: [EIRM framework](/docs/en)
+Table of Contents: [EIRM framework](/docs/en/README.md)
