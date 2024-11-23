@@ -16,7 +16,7 @@
 
 ### Analytics:
 
-- [Theory of Consciousness](/README.md) Oct 17, 2024. upd: Nov 20, 2024 
+- [Theory of Consciousness](/docs/en) Oct 17, 2024. upd: Nov 20, 2024 
   
 - [Integrated Information Metric](/Integrated-Information-Metric.md) Oct 18, 2024
   
@@ -92,7 +92,7 @@
 
 #### Physics
 
-- [Theory of the Recurrent Universe: A New Paradigm of Cosmology](/recurrent-universe/The-Recurrent-Universe.md) Nov 6, 2024
+- [Theory of the Recurrent Universe: A New Paradigm of Cosmology](/docs/en/The-Recurrent-Universe.md) Nov 6, 2024
 
 - [Modeling Recurrent Neural Networks](/physics.md) Oct 19, 2024
   
@@ -124,7 +124,7 @@
 
 - [New Theory of Recurrent Cosmology: Connection of Quantum Processes, Dark Energy, Dark Matter, and EIRM](/recurrent-cosmology.md) Oct 20, 2024
   
-- [A Brief History of the Universe: Emergence, Integration, and Recurrence](/recurrent-universe/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md) Oct 22, 2024
+- [A Brief History of the Universe: Emergence, Integration, and Recurrence](/docs/en/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md) Oct 22, 2024
   
 - [The Complete Cycle of the Recurrent Universe: Integration of EIRM into Cosmology](/the-complete-cycle-of-the-recurrent-universe.md) Oct 22, 2024
   
@@ -178,7 +178,7 @@
 
 - [The Effect of Recurrence on Particle Physics](/The-effect-of-recurrence-on-particle-physics.md) Nov 8, 2024
 
-  - [New Types of Particles and Interactions Predicted by the Recurrent Cosmology Model](/recurrent-universe/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md) Nov 8, 2024
+  - [New Types of Particles and Interactions Predicted by the Recurrent Cosmology Model](/docs/en/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md) Nov 8, 2024
 
 #### Neurophysiology
 
@@ -336,7 +336,7 @@
   
 - [Integrative Recurrent Genome Analysis](/integrative-recurrent-genome-analysis.md) Oct 21, 2024
 
-- [Application of EIRM Theory to DNA Decoding](/Decoding-DNA/Decoding-DNA.md) Nov 14, 2024
+- [Application of EIRM Theory to DNA Decoding](/docs/en/Decoding-DNA.md) Nov 14, 2024
 
   - [Architectural Implementation of EIRM Neural Network for DNA Analysis](/Decoding-DNA-Architectural-implementation.md) Nov 14, 2024
 
