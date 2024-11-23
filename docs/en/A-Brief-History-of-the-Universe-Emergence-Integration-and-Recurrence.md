@@ -674,4 +674,4 @@ Life, arising from inorganic matter through chemical evolution, has demonstrated
 
 ---
 
-Table of Contents: [Theory of Emergent Integration and Recurrent Mapping](/consciousness.md)
+Table of Contents: [EIRM framework](/docs/en)
