@@ -674,4 +674,4 @@ Life, arising from inorganic matter through chemical evolution, has demonstrated
 
 ---
 
-Table of Contents: [EIRM framework](/docs/en)
+Table of Contents: [EIRM framework](/docs/en/README.md)
