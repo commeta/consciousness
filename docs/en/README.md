@@ -180,7 +180,7 @@
 
   - [New Types of Particles and Interactions Predicted by the Recurrent Cosmology Model](/docs/en/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md) Nov 8, 2024
 
-  - [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md) Nov 8, 2024
+  - [Mathematical apparatus developed within the framework of the theory of recurrent cosmology](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md) Nov 8, 2024
 
 
 #### Neurophysiology
