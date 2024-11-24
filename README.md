@@ -179,6 +179,7 @@
 - [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md) Nov 8, 2024
 
   - [Новые типы частиц и взаимодействий предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md) Nov 8, 2024
+  - [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md) Nov 8, 2024
 
 #### Нейрофизиология
 
