@@ -1,0 +1,46 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#000"/>
+    </marker>
+  </defs>
+  
+  <!-- Сенсорный вход -->
+  <rect x="50" y="50" width="150" height="60" rx="10" fill="#ADD8E6" stroke="#000"/>
+  <text x="125" y="85" text-anchor="middle">Сенсорный вход</text>
+  
+  <!-- Первичная обработка -->
+  <rect x="325" y="50" width="150" height="60" rx="10" fill="#90EE90" stroke="#000"/>
+  <text x="400" y="85" text-anchor="middle">Первичная обработка</text>
+  
+  <!-- Интеграция -->
+  <rect x="600" y="50" width="150" height="60" rx="10" fill="#FFB6C1" stroke="#000"/>
+  <text x="675" y="85" text-anchor="middle">Интеграция</text>
+  
+  <!-- Рекуррентное отображение -->
+  <rect x="325" y="200" width="150" height="60" rx="10" fill="#DDA0DD" stroke="#000"/>
+  <text x="400" y="235" text-anchor="middle">Рекуррентное</text>
+  <text x="400" y="250" text-anchor="middle">отображение</text>
+  
+  <!-- Эмергентное сознание -->
+  <rect x="325" y="350" width="150" height="60" rx="10" fill="#F0E68C" stroke="#000"/>
+  <text x="400" y="385" text-anchor="middle">Эмергентное</text>
+  <text x="400" y="400" text-anchor="middle">сознание</text>
+  
+  <!-- Поведенческий выход -->
+  <rect x="325" y="500" width="150" height="60" rx="10" fill="#FFA07A" stroke="#000"/>
+  <text x="400" y="535" text-anchor="middle">Поведенческий</text>
+  <text x="400" y="550" text-anchor="middle">выход</text>
+
+  <!-- Стрелки -->
+  <line x1="200" y1="80" x2="325" y2="80" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="475" y1="80" x2="600" y2="80" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="675" y1="110" x2="675" y2="230" stroke="#000" stroke-width="2"/>
+  <line x1="675" y1="230" x2="475" y2="230" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="400" y1="260" x2="400" y2="350" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="400" y1="410" x2="400" y2="500" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Обратные связи -->
+  <path d="M 325 230 C 250 230, 250 80, 325 80" fill="none" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M 400 500 C 100 500, 100 80, 200 80" fill="none" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+</svg>
