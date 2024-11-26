@@ -48,6 +48,9 @@
 
 - [Теория ЭИРО в контексте коннектомики](/EIRM-in-the-context-of-connectomics.md) Oct 30, 2024. upd: Nov 21, 2024
 
+- [Предсказательное кодирование как система обратной связи организма - через призму теории ЭИРО
+](/Predictive-coding-as-an-organism-feedback-system.md) Nov 26, 2024
+
 
 **Компоненты метрики Φₑ**
 
