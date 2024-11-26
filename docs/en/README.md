@@ -48,6 +48,8 @@
 
 - [EIRM in the Context of Connectomics](/EIRM-in-the-context-of-connectomics.md) Oct 30, 2024. upd: Nov 21, 2024
 
+- [Predictive coding as an organism's feedback system - through the prism of the theory of EIRM](/Predictive-coding-as-an-organism-feedback-system.md) Nov 26, 2024
+
 
 **Components of the Φₑ Metric**
 
@@ -397,6 +399,30 @@
 
 ---
 
+### Abstract
+
+The EIRO theory represents a comprehensive model of consciousness functioning, based on the principles of emergence and recurrent information processing. According to this theory, consciousness arises as an emergent property of a complex system of neural interactions through multi-level integration and recursive information processing.
+
+**Principle of Consciousness Operation within the EIRO Theory**:
+
+1. **Sensory Input**: Reception of primary information through the sensory organs
+2. **Primary Processing**: Analysis and filtering of incoming data
+3. **Integration**: Combining various information streams into holistic patterns
+4. **Recurrent Mapping**: Cyclical processing of information taking into account previous experiences
+5. **Emergent Consciousness**: The emergence of conscious perception as a result of integrative processes
+6. **Behavioral Output**: Formation of responses and behavioral patterns
+
+A key feature of the theory is the presence of feedback loops between all levels of information processing, which ensures constant adjustment and optimization of the consciousness system as a whole.
+
+
+![Principle of Consciousness Operation](/eirm.svg "Principle of Consciousness Operation")
+
+
+The EIRO theory explains both the basic mechanisms of perception and information processing, as well as the emergence of complex cognitive functions, including self-awareness and metacognitive processes. The practical application of the theory is reflected in the development of artificial neural networks, cognitive psychology, and neurobiology.
+
+
+---
+
 
 **Author**
 
@@ -489,6 +515,8 @@ During the research, the author used neural networks such as chatGPT, GigaChat, 
 Consciousness is one of the most mysterious and complex phenomena that attract the attention of scientists from various fields of knowledge — neuroscience, psychology, philosophy, and artificial intelligence. Despite significant progress in studying the brain and cognitive processes, the nature of consciousness and the mechanisms of its emergence remain insufficiently understood.
 
 #### 1.2. Existing Approaches and the Need for an Integrative Theory
+
+![Intersections between EIRM theory and other theories](/table.svg "Comparative table of consciousness theories")
 
 Existing models, such as the Global Workspace Theory (GWT), the Integrated Information Theory (IIT), and the Predictive Coding Theory, offer valuable explanations for individual aspects of consciousness but often view this phenomenon from a single perspective, overlooking the complexity of interactions in the brain.
 
@@ -613,7 +641,9 @@ Sources: [1, 2, 3, 4, 5]
 
 According to the Theory of Emergent Integration and Recurrent Mapping (EIRM), predictive coding is an important mechanism underlying the formation of conscious experience.
 
-More details: [Predictive Coding](/predictive-coding.md)
+More details: 
+- [Predictive Coding](/predictive-coding.md)
+- [Predictive coding as an organism's feedback system](/Predictive-coding-as-an-organism-feedback-system.md)
 
 ##### 2.4.1. Basic Principles of Predictive Coding
 
