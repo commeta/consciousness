@@ -48,7 +48,7 @@
 
 - [EIRM in the Context of Connectomics](/EIRM-in-the-context-of-connectomics.md) Oct 30, 2024. upd: Nov 21, 2024
 
-- [Predictive coding as an organism's feedback system - through the prism of the theory of EIRM](/Predictive-coding-as-an-organism-feedback-system.md) Nov 26, 2024
+- [Predictive coding as an organism's feedback system](/Predictive-coding-as-an-organism-feedback-system.md) Nov 26, 2024
 
 
 **Components of the Φₑ Metric**
