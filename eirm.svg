@@ -11,7 +11,7 @@
   
   <!-- Первичная обработка -->
   <rect x="325" y="50" width="150" height="60" rx="10" fill="#90EE90" stroke="#000"/>
-  <text x="400" y="85" text-anchor="middle">Первичная обработка</text>
+  <text x="400" y="85" text-anchor="middle">Перв. обработка</text>
   
   <!-- Интеграция -->
   <rect x="600" y="50" width="150" height="60" rx="10" fill="#FFB6C1" stroke="#000"/>
