@@ -91,6 +91,8 @@
 
 - [Components of the Φₑ Metric of Drosophila Fly Consciousness in the Context of EIRM](/Components-of-the-drosophila-fly-consciousness-metric-Fe.md) Nov 18, 2024 
 
+- [Multimodal perceptual representation in the context of EIRM theory](/Multimodal-perceptual-representation.md) Nov 27, 2024 
+
 
 #### Physics
 
