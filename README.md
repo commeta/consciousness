@@ -42,10 +42,6 @@
 
 - [Нейрокогнитивные механизмы восприятия в контексте эмергентной интеграции: от сенсорных входов к осознанному опыту](/Neurocognitive-mechanisms-of-perception.md) Nov 1, 2024
 
-   - [Мультимодальная перцептивная репрезентация в контексте теории ЭИРО](/Multimodal-perceptual-representation.md) Nov 27, 2024 
-
-   - [Механизмы осознанного восприятия в контексте теории ЭИРО](/Mechanisms-of-conscious-perception.md) Nov 27, 2024 
-
 - [Нейрокогнитивные механизмы сновидений в контексте теории ЭИРО](/Neurocognitive-mechanisms-of-dreams.md) Nov 4, 2024
 
 - [Трудная проблема сознания в контексте теории ЭИРО](/The-difficult-problem-of-consciousness.md) Nov 11, 2024
@@ -96,6 +92,9 @@
 
 - [Компоненты метрики Φₑ сознания мухи дрозофилы в контексте теории ЭИРО](/Components-of-the-drosophila-fly-consciousness-metric-Fe.md) Nov 18, 2024 
 
+- [Мультимодальная перцептивная репрезентация в контексте теории ЭИРО](/Multimodal-perceptual-representation.md) Nov 27, 2024 
+
+   - [Механизмы осознанного восприятия в контексте теории ЭИРО](/Mechanisms-of-conscious-perception.md) Nov 27, 2024 
 
 #### Физика
 
