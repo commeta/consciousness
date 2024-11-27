@@ -16,7 +16,7 @@
 
 ### Аналитика:
 
-- [Теория Сознания](/README.md) Oct 17, 2024. upd: Nov 20, 2024 
+- [Теория Сознания](/README.md) Oct 17, 2024. upd: Nov 20, 2024; Nov 27, 2024
   
 - [Метрика интегрированной информации](/Integrated-Information-Metric.md) Oct 18, 2024
   
