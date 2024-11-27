@@ -24,23 +24,35 @@
 
 - [Математическая формализация предиктивного кодирования в рамках теории ЭИРО](/predictive-coding.md) Oct 19, 2024
 
+
 - [Система внимания нейронной сети через призму теории ЭИРО](/The-attention-system-of-a-neural-network.md) Oct 30, 2024
 
    - [Принцип эффекта гипноза через призму теории ЭИРО](/the-principle-of-the-hypnosis-effect.md) Oct 30, 2024
+
 
 - [Принципы механизмов памяти в нейронных сетях через призму теории ЭИРО](/Principles-of-memory-mechanisms-in-neural-networks.md) Oct 30, 2024
 
 - [Нейрокогнитивные механизмы сознательного восприятия и памяти в контексте теории ЭИРО](/Neurocognitive-mechanisms-of-conscious-perception-and-memory.md) Nov 1, 2024
 
+   - [Нейрокогнитивные механизмы памяти в контексте теории ЭИРО](/Neurocognitive-mechanism-of-memory.md) Nov 1, 2024
+
+
 - [Нейрокогнитивные механизмы мышления в контексте теории ЭИРО](/Neurocognitive-mechanisms-of-thinking.md) Nov 1, 2024
 
-- [Нейрокогнитивные механизмы памяти в контексте теории ЭИРО](/Neurocognitive-mechanism-of-memory.md) Nov 1, 2024
 
 - [Нейрокогнитивные механизмы селективного внимания через призму теории ЭИРО](/Neurocognitive-mechanisms-of-selective-attention.md) Nov 1, 2024
 
+
 - [Нейрокогнитивные механизмы восприятия в контексте эмергентной интеграции: от сенсорных входов к осознанному опыту](/Neurocognitive-mechanisms-of-perception.md) Nov 1, 2024
 
+   - [Механизмы осознанного восприятия в контексте теории ЭИРО](/Mechanisms-of-conscious-perception.md) Nov 27, 2024 
+
+   - [Мультимодальная перцептивная репрезентация в контексте теории ЭИРО](/Multimodal-perceptual-representation.md) Nov 27, 2024 
+
+
+
 - [Нейрокогнитивные механизмы сновидений в контексте теории ЭИРО](/Neurocognitive-mechanisms-of-dreams.md) Nov 4, 2024
+
 
 - [Трудная проблема сознания в контексте теории ЭИРО](/The-difficult-problem-of-consciousness.md) Nov 11, 2024
 
@@ -50,9 +62,7 @@
 
 - [Предсказательное кодирование как система обратной связи организма](/Predictive-coding-as-an-organism-feedback-system.md) Nov 26, 2024
 
-- [Мультимодальная перцептивная репрезентация в контексте теории ЭИРО](/Multimodal-perceptual-representation.md) Nov 27, 2024 
 
-- [Механизмы осознанного восприятия в контексте теории ЭИРО](/Mechanisms-of-conscious-perception.md) Nov 27, 2024 
 
 
 **Компоненты метрики Φₑ**
