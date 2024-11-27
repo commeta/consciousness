@@ -53,13 +53,11 @@
 
 **Компоненты метрики Φₑ**
 
-- [Компоненты метрики Φₑ в контексте теории ЭИРО](/Components-of-the-F-metric.md) Nov 17, 2024 
+- [Расширение теории ЭИРО с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md) Nov 15, 2024
 
   - [Роль эмоций в теории ЭИРО](/The-role-of-emotions.md) Nov 15, 2024
 
   - [Математическое моделирование компонентов параметра эмоциональной модуляции E(t) в теории ЭИРО](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md) Nov 15, 2024
-
-  - [Расширение теории ЭИРО с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md) Nov 15, 2024
 
   - [Когнитивная сложность C(t) в теории ЭИРО](/Cognitive-complexity.md) Nov 16, 2024
 
@@ -77,6 +75,8 @@
 
   - [K(t) - Контекстуальность в теории ЭИРО](/Contextuality.md) Nov 16, 2024
 
+- [Дополнительные компоненты метрики Φₑ в контексте теории ЭИРО](/Components-of-the-F-metric.md) Nov 17, 2024 
+
   - [Интегративность (I) в теории ЭИРО](/Integrativity.md) Nov 17, 2024 
 
   - [Метакогнитивная осведомленность (M) в теории ЭИРО](/Metacognitive-awareness.md) Nov 17, 2024 
@@ -90,6 +90,9 @@
 - [Компоненты метрики Φₑ сознания животного в контексте теории ЭИРО](/Components-of-the-animal-consciousness-metricFe.md) Nov 18, 2024 
 
 - [Компоненты метрики Φₑ сознания мухи дрозофилы в контексте теории ЭИРО](/Components-of-the-drosophila-fly-consciousness-metric-Fe.md) Nov 18, 2024 
+
+
+
 
 
 #### Физика
@@ -1429,11 +1432,11 @@ I₍integration₎(t) измеряет, насколько информация 
 
 **Подробнее**:
 
-- [Компоненты метрики Φₑ](/Components-of-the-F-metric.md)
+- [Расширение теории ЭИРО с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
   - [Роль эмоций](/The-role-of-emotions.md)
 
-  - [Расширение теории ЭИРО с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
+  - [Математическое моделирование компонентов E(t)](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md) 
 
   - [Когнитивная сложность C(t)](/Cognitive-complexity.md)
 
@@ -1451,16 +1454,18 @@ I₍integration₎(t) измеряет, насколько информация 
 
   - [K(t) - Контекстуальность](/Contextuality.md)
 
+
+- [Дополнительные компоненты метрики Φₑ](/Components-of-the-F-metric.md)
+
   - [Интегративность (I)](/Integrativity.md)
 
   - [Метакогнитивная осведомленность (M)](/Metacognitive-awareness.md)
 
   - [Когерентность (C)](/Coherence.md)
-
+  
   - [Эмоциональный интеллект (E_i)](/Emotional-Intelligence.md)
 
   - [Квантовая когерентность (Q_c)](/Quantum-Coherence.md)
-
 
 
 
