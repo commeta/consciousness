@@ -664,7 +664,7 @@
 
 **Подробнее**:
 
-- [Предиктивное кодирование](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования](/predictive-coding.md)
 - [Предсказательное кодирование как система обратной связи организма](/Predictive-coding-as-an-organism-feedback-system.md)
 
 ##### 2.4.1. Основные принципы предиктивного кодирования
@@ -726,9 +726,11 @@
 
 **Подробное описание**:
 
-- [Система внимания нейронной сети через призму теории ЭИРО](/The-attention-system-of-a-neural-network.md)
+- [Система внимания нейронной сети](/The-attention-system-of-a-neural-network.md)
 
-- [Нейрокогнитивные механизмы селективного внимания через призму теории ЭИРО](/Neurocognitive-mechanisms-of-selective-attention.md)
+   - [Принцип эффекта гипноза](/the-principle-of-the-hypnosis-effect.md)
+
+- [Нейрокогнитивные механизмы селективного внимания](/Neurocognitive-mechanisms-of-selective-attention.md)
 
 
 
@@ -744,11 +746,11 @@
 
 **Подробное описание**:
 
-- [Принципы механизмов памяти в нейронных сетях через призму теории ЭИРО](/Principles-of-memory-mechanisms-in-neural-networks.md)
+- [Принципы механизмов памяти в нейронных сетях](/Principles-of-memory-mechanisms-in-neural-networks.md)
 
-- [Нейрокогнитивные механизмы сознательного восприятия и памяти в контексте теории ЭИРО](/Neurocognitive-mechanisms-of-conscious-perception-and-memory.md)
+- [Нейрокогнитивные механизмы сознательного восприятия и памяти](/Neurocognitive-mechanisms-of-conscious-perception-and-memory.md)
 
-- [Нейрокогнитивные механизмы памяти в контексте теории ЭИРО](/Neurocognitive-mechanism-of-memory.md)
+   - [Нейрокогнитивные механизмы памяти](/Neurocognitive-mechanism-of-memory.md)
 
 
 
