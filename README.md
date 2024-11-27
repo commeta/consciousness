@@ -24,7 +24,6 @@
 
 - [Математическая формализация предиктивного кодирования в рамках теории ЭИРО](/predictive-coding.md) Oct 19, 2024
 
-- [Предсказательное кодирование как система обратной связи организма](/Predictive-coding-as-an-organism-feedback-system.md) Nov 26, 2024
 
 - [Система внимания нейронной сети через призму теории ЭИРО](/The-attention-system-of-a-neural-network.md) Oct 30, 2024
 
@@ -91,6 +90,9 @@
 - [Компоненты метрики Φₑ сознания животного в контексте теории ЭИРО](/Components-of-the-animal-consciousness-metricFe.md) Nov 18, 2024 
 
 - [Компоненты метрики Φₑ сознания мухи дрозофилы в контексте теории ЭИРО](/Components-of-the-drosophila-fly-consciousness-metric-Fe.md) Nov 18, 2024 
+
+
+- [Предсказательное кодирование как система обратной связи организма](/Predictive-coding-as-an-organism-feedback-system.md) Nov 26, 2024
 
 - [Мультимодальная перцептивная репрезентация в контексте теории ЭИРО](/Multimodal-perceptual-representation.md) Nov 27, 2024 
 
