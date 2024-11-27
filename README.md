@@ -50,6 +50,10 @@
 
 - [Предсказательное кодирование как система обратной связи организма](/Predictive-coding-as-an-organism-feedback-system.md) Nov 26, 2024
 
+- [Мультимодальная перцептивная репрезентация в контексте теории ЭИРО](/Multimodal-perceptual-representation.md) Nov 27, 2024 
+
+- [Механизмы осознанного восприятия в контексте теории ЭИРО](/Mechanisms-of-conscious-perception.md) Nov 27, 2024 
+
 
 **Компоненты метрики Φₑ**
 
@@ -91,7 +95,6 @@
 
 - [Компоненты метрики Φₑ сознания мухи дрозофилы в контексте теории ЭИРО](/Components-of-the-drosophila-fly-consciousness-metric-Fe.md) Nov 18, 2024 
 
-- [Мультимодальная перцептивная репрезентация в контексте теории ЭИРО](/Multimodal-perceptual-representation.md) Nov 27, 2024 
 
 
 
