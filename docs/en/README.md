@@ -50,6 +50,9 @@
 
 - [Predictive coding as an organism's feedback system](/Predictive-coding-as-an-organism-feedback-system.md) Nov 26, 2024
 
+- [Multimodal perceptual representation in the context of EIRM theory](/Multimodal-perceptual-representation.md) Nov 27, 2024 
+
+- [Mechanisms of conscious perception in the context of EIRM theory](/Mechanisms-of-conscious-perception.md) Nov 27, 2024 
 
 **Components of the Φₑ Metric**
 
@@ -91,7 +94,6 @@
 
 - [Components of the Φₑ Metric of Drosophila Fly Consciousness in the Context of EIRM](/Components-of-the-drosophila-fly-consciousness-metric-Fe.md) Nov 18, 2024 
 
-- [Multimodal perceptual representation in the context of EIRM theory](/Multimodal-perceptual-representation.md) Nov 27, 2024 
 
 
 #### Physics
