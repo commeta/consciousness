@@ -96,7 +96,10 @@
 
 - [Мультимодальная перцептивная репрезентация в контексте теории ЭИРО](/Multimodal-perceptual-representation.md) Nov 27, 2024 
 
-   - [Механизмы осознанного восприятия в контексте теории ЭИРО](/Mechanisms-of-conscious-perception.md) Nov 27, 2024 
+- [Механизмы осознанного восприятия в контексте теории ЭИРО](/Mechanisms-of-conscious-perception.md) Nov 27, 2024 
+
+- [Принцип работы нейрона в контексте теории ЭИРО](/The-principle-of-operation-of-a-neuron.md) Nov 28, 2024 
+
 
 #### Физика
 
