@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .node {
+      fill: #f2f2f2;
+      stroke: #333;
+      stroke-width: 2px;
+      font-size: 16px;
+      font-family: Arial, sans-serif;
+    }
+    .edge {
+      stroke: #333;
+      stroke-width: 2px;
+    }
+    .text {
+      font-size: 16px;
+      font-family: Arial, sans-serif;
+      fill: #333;
+    }
+  </style>
+  <g>
+    <rect class="node" x="50" y="50" width="200" height="80" rx="10" ry="10"/>
+    <text class="text" x="150" y="90" text-anchor="middle">
+      <tspan x="150" y="90">Морфология</tspan>
+      <tspan x="150" y="110">нейрона</tspan>
+    </text>
+    
+    <rect class="node" x="300" y="50" width="200" height="80" rx="10" ry="10"/>
+    <text class="text" x="400" y="90" text-anchor="middle">
+      <tspan x="400" y="90">Биоэлектрические</tspan>
+      <tspan x="400" y="110">свойства</tspan>
+    </text>
+    
+    <rect class="node" x="550" y="50" width="200" height="80" rx="10" ry="10"/>
+    <text class="text" x="650" y="90" text-anchor="middle">
+      <tspan x="650" y="90">Синаптическая</tspan>
+      <tspan x="650" y="110">передача</tspan>
+    </text>
+    
+    <rect class="node" x="50" y="200" width="200" height="80" rx="10" ry="10"/>
+    <text class="text" x="150" y="240" text-anchor="middle">
+      <tspan x="150" y="240">Пространственная</tspan>
+      <tspan x="150" y="260">суммация</tspan>
+    </text>
+    
+    <rect class="node" x="300" y="200" width="200" height="80" rx="10" ry="10"/>
+    <text class="text" x="400" y="240" text-anchor="middle">
+      <tspan x="400" y="240">Временная</tspan>
+      <tspan x="400" y="260">суммация</tspan>
+    </text>
+    
+    <rect class="node" x="550" y="200" width="200" height="80" rx="10" ry="10"/>
+    <text class="text" x="650" y="240" text-anchor="middle">
+      <tspan x="650" y="240">Синаптическая</tspan>
+      <tspan x="650" y="260">пластичность</tspan>
+    </text>
+    
+    <rect class="node" x="50" y="350" width="200" height="80" rx="10" ry="10"/>
+    <text class="text" x="150" y="390" text-anchor="middle">
+      <tspan x="150" y="390">Локальные</tspan>
+      <tspan x="150" y="410">рекуррентные связи</tspan>
+    </text>
+    
+    <rect class="node" x="300" y="350" width="200" height="80" rx="10" ry="10"/>
+    <text class="text" x="400" y="390" text-anchor="middle">
+      <tspan x="400" y="390">Таламо-кортикальные</tspan>
+      <tspan x="400" y="410">петли</tspan>
+    </text>
+    
+    <rect class="node" x="550" y="350" width="200" height="80" rx="10" ry="10"/>
+    <text class="text" x="650" y="390" text-anchor="middle">
+      <tspan x="650" y="390">Кортико-кортикальные</tspan>
+      <tspan x="650" y="410">обратные связи</tspan>
+    </text>
+    
+    <rect class="node" x="100" y="500" width="600" height="80" rx="10" ry="10"/>
+    <text class="text" x="400" y="540" text-anchor="middle">Эмерджентные свойства</text>
+    
+    <path class="edge" d="M150,130 L150,190" marker-end="url(#arrow)"/>
+    <path class="edge" d="M400,130 L400,190" marker-end="url(#arrow)"/>
+    <path class="edge" d="M650,130 L650,190" marker-end="url(#arrow)"/>
+    <path class="edge" d="M150,280 L150,340" marker-end="url(#arrow)"/>
+    <path class="edge" d="M400,280 L400,340" marker-end="url(#arrow)"/>
+    <path class="edge" d="M650,280 L650,340" marker-end="url(#arrow)"/>
+    <path class="edge" d="M150,430 L150,490" marker-end="url(#arrow)"/>
+    <path class="edge" d="M400,430 L400,490" marker-end="url(#arrow)"/>
+    <path class="edge" d="M650,430 L650,490" marker-end="url(#arrow)"/>
+  </g>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#333"/>
+    </marker>
+  </defs>
+</svg>
+
+
