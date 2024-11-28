@@ -317,26 +317,19 @@
 
 #### 5.5. Ключевые источники
 
-1. [6] Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2012). Principles of neural science (Vol. 5). New York: McGraw-hill.
 
-2. [1] Sporns, O. (2018). Graph theory methods for the analysis of neural connectivity patterns. In Neuroscience Databases (pp. 171-185). Springer.
-   [2] Friston, K. (2019). A free energy principle for a particular physics. arXiv preprint arXiv:1906.10184.
+1. Sporns, O. (2018). Graph theory methods for the analysis of neural connectivity patterns. In Neuroscience Databases (pp. 171-185). Springer.
+2. Friston, K. (2019). A free energy principle for a particular physics. arXiv preprint arXiv:1906.10184.
+3. Tononi, G., & Koch, C. (2015). Consciousness: here, there and everywhere?. Philosophical Transactions of the Royal Society B: Biological Sciences, 370(1668).
+4. Bassett, D. S., & Sporns, O. (2017). Network neuroscience. Nature neuroscience, 20(3), 353-364.
+5. Buzsáki, G. (2019). The brain from inside out. Oxford University Press.
+6. Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2012). Principles of neural science (Vol. 5). New York: McGraw-hill.
+7. Dayan, P., & Abbott, L. F. (2001). Theoretical neuroscience: computational and mathematical modeling of neural systems. MIT press.
+8. Friston, K. (2019). A free energy principle for a particular physics. arXiv preprint arXiv:1906.10184.
+9. Malenka, R. C., & Bear, M. F. (2004). LTP and LTD: an embarrassment of riches. Neuron, 44(1), 5-21.
+10. Hasselmo, M. E. (1999). Neuromodulation: acetylcholine and memory consolidation. Trends in cognitive sciences, 3(9), 351-359.
+11. McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological review, 102(3), 419-457.
 
-3. [3] Tononi, G., & Koch, C. (2015). Consciousness: here, there and everywhere?. Philosophical Transactions of the Royal Society B: Biological Sciences, 370(1668).
-   [4] Bassett, D. S., & Sporns, O. (2017). Network neuroscience. Nature neuroscience, 20(3), 353-364.
-
-4. [5] Buzsáki, G. (2019). The brain from inside out. Oxford University Press.
-
-5. [5] Buzsáki, G. (2019). The brain from inside out. Oxford University Press.
-   [6] Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2012). Principles of neural science (Vol. 5). New York: McGraw-hill.
-
-6. [9] Malenka, R. C., & Bear, M. F. (2004). LTP and LTD: an embarrassment of riches. Neuron, 44(1), 5-21.
-   [10] Hasselmo, M. E. (1999). Neuromodulation: acetylcholine and memory consolidation. Trends in cognitive sciences, 3(9), 351-359.
-
-7. [11] McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological review, 102(3), 419-457.
-
-8. [7] Dayan, P., & Abbott, L. F. (2001). Theoretical neuroscience: computational and mathematical modeling of neural systems. MIT press.
-   [8] Friston, K. (2019). A free energy principle for a particular physics. arXiv preprint arXiv:1906.10184.
    
 
 ### 6. Эмергентные свойства нейронных сетей
