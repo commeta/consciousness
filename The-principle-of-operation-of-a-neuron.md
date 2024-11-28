@@ -147,14 +147,14 @@
 
 #### 2.4. Ключевые источники
 
-1. Tononi, G., & Koch, C. (2015). Consciousness: here, there and everywhere?. Philosophical Transactions of the Royal Society B: Biological Sciences, 370(1668).
-2. Friston, K. (2019). A free energy principle for a particular physics. arXiv preprint arXiv:1906.10184.
-3. Deane, S., & Changeux, J. P. (1991). Neuronal models of cognitive functions. Cognition, 38(1-2), 1-19.
-4. Lamme, V. A. (2006). Towards a true neural stance on consciousness. Trends in cognitive sciences, 10(11), 494-501.
-5. Seth, A. K. (2009). Explanatory correlates of consciousness: theoretical and computational challenges. Cognitive Computation, 1(1), 50-63.
-6. Baars, B. J. (2005). Global workspace theory of consciousness: toward a cognitive neuroscience of human experience. Progress in brain research, 150, 45-53.
-7. Dayan, P., & Abbott, L. F. (2001). Theoretical neuroscience: computational and mathematical modeling of neural systems. MIT press.
-8. Pascanu, R., Gulcehre, C., Cho, K., & Bengio, Y. (2014). How to construct deep recurrent neural networks. arXiv preprint arXiv:1312.6026.
+- [1]. Tononi, G., & Koch, C. (2015). Consciousness: here, there and everywhere?. Philosophical Transactions of the Royal Society B: Biological Sciences, 370(1668).
+- [2]. Friston, K. (2019). A free energy principle for a particular physics. arXiv preprint arXiv:1906.10184.
+- [3]. Deane, S., & Changeux, J. P. (1991). Neuronal models of cognitive functions. Cognition, 38(1-2), 1-19.
+- [4]. Lamme, V. A. (2006). Towards a true neural stance on consciousness. Trends in cognitive sciences, 10(11), 494-501.
+- [5]. Seth, A. K. (2009). Explanatory correlates of consciousness: theoretical and computational challenges. Cognitive Computation, 1(1), 50-63.
+- [6]. Baars, B. J. (2005). Global workspace theory of consciousness: toward a cognitive neuroscience of human experience. Progress in brain research, 150, 45-53.
+- [7]. Dayan, P., & Abbott, L. F. (2001). Theoretical neuroscience: computational and mathematical modeling of neural systems. MIT press.
+- [8]. Pascanu, R., Gulcehre, C., Cho, K., & Bengio, Y. (2014). How to construct deep recurrent neural networks. arXiv preprint arXiv:1312.6026.
 
 
 ### 3. Структурно-функциональная организация нейрона
@@ -198,8 +198,8 @@
 
 #### 3.5. Ключевые источники
 
-6. Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2012). Principles of neural science (Vol. 5). New York: McGraw-hill.
-9. Malenka, R. C., & Bear, M. F. (2004). LTP and LTD: an embarrassment of riches. Neuron, 44(1), 5-21.
+- [6]. Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2012). Principles of neural science (Vol. 5). New York: McGraw-hill.
+- [9]. Malenka, R. C., & Bear, M. F. (2004). LTP and LTD: an embarrassment of riches. Neuron, 44(1), 5-21.
 
 
 ### 4. Механизмы нейронной интеграции
@@ -248,8 +248,8 @@
 
 #### 4.5. Ключевые источники
 
-6. Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2012). Principles of neural science (Vol. 5). New York: McGraw-hill.
-9. Malenka, R. C., & Bear, M. F. (2004). LTP and LTD: an embarrassment of riches. Neuron, 44(1), 5-21.
+- [6]. Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2012). Principles of neural science (Vol. 5). New York: McGraw-hill.
+- [9]. Malenka, R. C., & Bear, M. F. (2004). LTP and LTD: an embarrassment of riches. Neuron, 44(1), 5-21.
 
 
 ### 5. Рекуррентные связи и циклы обработки информации
@@ -317,18 +317,17 @@
 
 #### 5.5. Ключевые источники
 
-
-1. Sporns, O. (2018). Graph theory methods for the analysis of neural connectivity patterns. In Neuroscience Databases (pp. 171-185). Springer.
-2. Friston, K. (2019). A free energy principle for a particular physics. arXiv preprint arXiv:1906.10184.
-3. Tononi, G., & Koch, C. (2015). Consciousness: here, there and everywhere?. Philosophical Transactions of the Royal Society B: Biological Sciences, 370(1668).
-4. Bassett, D. S., & Sporns, O. (2017). Network neuroscience. Nature neuroscience, 20(3), 353-364.
-5. Buzsáki, G. (2019). The brain from inside out. Oxford University Press.
-6. Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2012). Principles of neural science (Vol. 5). New York: McGraw-hill.
-7. Dayan, P., & Abbott, L. F. (2001). Theoretical neuroscience: computational and mathematical modeling of neural systems. MIT press.
-8. Friston, K. (2019). A free energy principle for a particular physics. arXiv preprint arXiv:1906.10184.
-9. Malenka, R. C., & Bear, M. F. (2004). LTP and LTD: an embarrassment of riches. Neuron, 44(1), 5-21.
-10. Hasselmo, M. E. (1999). Neuromodulation: acetylcholine and memory consolidation. Trends in cognitive sciences, 3(9), 351-359.
-11. McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological review, 102(3), 419-457.
+- [1] Sporns, O. (2018). Graph theory methods for the analysis of neural connectivity patterns. In Neuroscience Databases (pp. 171-185). Springer.
+- [2] Friston, K. (2019). A free energy principle for a particular physics. arXiv preprint arXiv:1906.10184.
+- [3] Tononi, G., & Koch, C. (2015). Consciousness: here, there and everywhere?. Philosophical Transactions of the Royal Society B: Biological Sciences, 370(1668).
+- [4] Bassett, D. S., & Sporns, O. (2017). Network neuroscience. Nature neuroscience, 20(3), 353-364.
+- [5] Buzsáki, G. (2019). The brain from inside out. Oxford University Press.
+- [6] Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2012). Principles of neural science (Vol. 5). New York: McGraw-hill.
+- [7] Dayan, P., & Abbott, L. F. (2001). Theoretical neuroscience: computational and mathematical modeling of neural systems. MIT press.
+- [8] Friston, K. (2019). A free energy principle for a particular physics. arXiv preprint arXiv:1906.10184.
+- [9] Malenka, R. C., & Bear, M. F. (2004). LTP and LTD: an embarrassment of riches. Neuron, 44(1), 5-21.
+- [10] Hasselmo, M. E. (1999). Neuromodulation: acetylcholine and memory consolidation. Trends in cognitive sciences, 3(9), 351-359.
+- [11] McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological review, 102(3), 419-457.
 
    
 
@@ -423,16 +422,25 @@
 
 #### 6.5. Ключевые источники
 
-5. Buzsáki, G. (2019). The brain from inside out. Oxford University Press.
-6. Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2012). Principles of neural science (Vol. 5). New York: McGraw-hill.
-7. Dayan, P., & Abbott, L. F. (2001). Theoretical neuroscience: computational and mathematical modeling of neural systems. MIT press.
-8. Hebb, D. O. (1949). The organization of behavior: A neuropsychological theory. Wiley.
-9. Malenka, R. C., & Bear, M. F. (2004). LTP and LTD: an embarrassment of riches. Neuron, 44(1), 5-21.
-10. Hasselmo, M. E. (1999). Neuromodulation: acetylcholine and memory consolidation. Trends in cognitive sciences, 3(9), 351-359.
-14. Lorenz, E. N. (1963). Deterministic nonperiodic flow. Journal of the atmospheric sciences, 20(2), 130-141.
-15. Rössler, O. E. (1976). An equation for continuous chaos. Physics Letters A, 57(5), 397-398.
-16. McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological review, 102(3), 419-457.
-17. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. Trends in Cognitive Sciences, 20(7), 512-534.
+- [6] Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2012). Principles of neural science (Vol. 5). New York: McGraw-hill.
+
+- [8] Hebb, D. O. (1949). The organization of behavior: A neuropsychological theory. Wiley.
+
+- [9] Malenka, R. C., & Bear, M. F. (2004). LTP and LTD: an embarrassment of riches. Neuron, 44(1), 5-21.
+
+- [5] Buzsáki, G. (2019). The brain from inside out. Oxford University Press.
+
+- [14] Lorenz, E. N. (1963). Deterministic nonperiodic flow. Journal of the atmospheric sciences, 20(2), 130-141.
+
+- [15] Rössler, O. E. (1976). An equation for continuous chaos. Physics Letters A, 57(5), 397-398.
+
+- [7] Dayan, P., & Abbott, L. F. (2001). Theoretical neuroscience: computational and mathematical modeling of neural systems. MIT press.
+
+- [16] McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological review, 102(3), 419-457.
+
+- [17] Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. Trends in Cognitive Sciences, 20(7), 512-534.
+
+- [10] Hasselmo, M. E. (1999). Neuromodulation: acetylcholine and memory consolidation. Trends in cognitive sciences, 3(9), 351-359.
 
 
 ### 7. Математическое моделирование
@@ -644,18 +652,29 @@
 
 #### 8.5. Ключевые источники
 
-6. Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2012). Principles of neural science (Vol. 5). New York: McGraw-hill.
-9. Malenka, R. C., & Bear, M. F. (2004). LTP and LTD: an embarrassment of riches. Neuron, 44(1), 5-21.
-10. Hasselmo, M. E. (1999). Neuromodulation: acetylcholine and memory consolidation. Trends in cognitive sciences, 3(9), 351-359.
-11. Siegelmann, H. T., & Sontag, E. D. (1991). Turing computability with neural nets. Applied Mathematics Letters, 4(6), 77-80.
-12. Boccaletti, S., Latora, V., Moreno, Y., Chavez, M., & Hwang, D. U. (2006). Complex networks: Structure and dynamics. Physics reports, 424(4-5), 175-308.
-13. Beggs, J. M., & Plenz, D. (2003). Neuronal avalanches in neocortical circuits. Journal of Neuroscience, 23(35), 11167-11177.
-14. Lorenz, E. N. (1963). Deterministic nonperiodic flow. Journal of the atmospheric sciences, 20(2), 130-141.
-15. Rössler, O. E. (1976). An equation for continuous chaos. Physics Letters A, 57(5), 397-398.
-24. Pascanu, R., Gulcehre, C., Cho, K., & Bengio, Y. (2014). How to construct deep recurrent neural networks. arXiv preprint arXiv:1312.6026.
-25. Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. Neural Computation, 9(8), 1735-1780.
-36. Corlett, P. R., Honey, G. D., Krystal, J. H., & Fletcher, P. C. (2011). Glutamatergic model psychoses: prediction error, learning, and inference. Neuropsychopharmacology, 36(1), 294-315.
-37. Gradin, V. B., Kumar, P., Waiter, G., Ahearn, T., Stickle, C., Milders, M., ... & Steele, J. D. (2011). Expected value and prediction error abnormalities in depression and schizophrenia. Brain, 134(6), 1751-1764.
+- [6] Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2012). Principles of neural science (Vol. 5). New York: McGraw-hill.
+
+- [9] Malenka, R. C., & Bear, M. F. (2004). LTP and LTD: an embarrassment of riches. Neuron, 44(1), 5-21.
+
+- [10] Hasselmo, M. E. (1999). Neuromodulation: acetylcholine and memory consolidation. Trends in cognitive sciences, 3(9), 351-359.
+
+- [11] Siegelmann, H. T., & Sontag, E. D. (1991). Turing computability with neural nets. Applied Mathematics Letters, 4(6), 77-80.
+
+- [12] Boccaletti, S., Latora, V., Moreno, Y., Chavez, M., & Hwang, D. U. (2006). Complex networks: Structure and dynamics. Physics reports, 424(4-5), 175-308.
+
+- [13] Beggs, J. M., & Plenz, D. (2003). Neuronal avalanches in neocortical circuits. Journal of Neuroscience, 23(35), 11167-11177.
+
+- [14] Lorenz, E. N. (1963). Deterministic nonperiodic flow. Journal of the atmospheric sciences, 20(2), 130-141.
+
+- [15] Rössler, O. E. (1976). An equation for continuous chaos. Physics Letters A, 57(5), 397-398.
+
+- [24] Pascanu, R., Gulcehre, C., Cho, K., & Bengio, Y. (2014). How to construct deep recurrent neural networks. arXiv preprint arXiv:1312.6026.
+
+- [25] Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. Neural Computation, 9(8), 1735-1780.
+
+- [36] Corlett, P. R., Honey, G. D., Krystal, J. H., & Fletcher, P. C. (2011). Glutamatergic model psychoses: prediction error, learning, and inference. Neuropsychopharmacology, 36(1), 294-315.
+
+- [37] Gradin, V. B., Kumar, P., Waiter, G., Ahearn, T., Stickle, C., Milders, M., ... & Steele, J. D. (2011). Expected value and prediction error abnormalities in depression and schizophrenia. Brain, 134(6), 1751-1764.
 
 
 ### 9. Практические приложения
@@ -750,21 +769,35 @@
 
 #### 9.5. Ключевые источники
 
-6. Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2012). Principles of neural science (Vol. 5). New York: McGraw-hill.
-7. Dayan, P., & Abbott, L. F. (2001). Theoretical neuroscience: computational and mathematical modeling of neural systems. MIT press.
-8. Hebb, D. O. (1949). The organization of behavior: A neuropsychological theory. Wiley.
-9. Malenka, R. C., & Bear, M. F. (2004). LTP and LTD: an embarrassment of riches. Neuron, 44(1), 5-21.
-12. Boccaletti, S., Latora, V., Moreno, Y., Chavez, M., & Hwang, D. U. (2006). Complex networks: Structure and dynamics. Physics reports, 424(4-5), 175-308.
-13. Beggs, J. M., & Plenz, D. (2003). Neuronal avalanches in neocortical circuits. Journal of Neuroscience, 23(35), 11167-11177.
-14. Lorenz, E. N. (1963). Deterministic nonperiodic flow. Journal of the atmospheric sciences, 20(2), 130-141.
-15. Rössler, O. E. (1976). An equation for continuous chaos. Physics Letters A, 57(5), 397-398.
-1. Sporns, O. (2018). Graph theory methods for the analysis of neural connectivity patterns. In Neuroscience Databases (pp. 171-185). Springer.
-2. Friston, K. (2019). A free energy principle for a particular physics. arXiv preprint arXiv:1906.10184.
-3. Tononi, G., & Koch, C. (2015). Consciousness: here, there and everywhere?. Philosophical Transactions of the Royal Society B: Biological Sciences, 370(1668).
-4. Bassett, D. S., & Sporns, O. (2017). Network neuroscience. Nature neuroscience, 20(3), 353-364.
-21. Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. American Psychologist, 34(10), 906–911.
-22. Shimamura, A. P. (2000). Toward a cognitive neuroscience of metacognition. Consciousness and Cognition, 9(2), 313–323.
-23. Frith, C. D. (2012). The role of metacognition in human social interactions. Philosophical Transactions of the Royal Society B: Biological Sciences, 367(1599), 2213–2223.
+- [6] Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2012). Principles of neural science (Vol. 5). New York: McGraw-hill.
+
+- [7] Dayan, P., & Abbott, L. F. (2001). Theoretical neuroscience: computational and mathematical modeling of neural systems. MIT press.
+
+- [8] Hebb, D. O. (1949). The organization of behavior: A neuropsychological theory. Wiley.
+
+- [9] Malenka, R. C., & Bear, M. F. (2004). LTP and LTD: an embarrassment of riches. Neuron, 44(1), 5-21.
+
+- [12] Boccaletti, S., Latora, V., Moreno, Y., Chavez, M., & Hwang, D. U. (2006). Complex networks: Structure and dynamics. Physics reports, 424(4-5), 175-308.
+
+- [13] Beggs, J. M., & Plenz, D. (2003). Neuronal avalanches in neocortical circuits. Journal of Neuroscience, 23(35), 11167-11177.
+
+- [14] Lorenz, E. N. (1963). Deterministic nonperiodic flow. Journal of the atmospheric sciences, 20(2), 130-141.
+
+- [15] Rössler, O. E. (1976). An equation for continuous chaos. Physics Letters A, 57(5), 397-398.
+
+- [1] Sporns, O. (2018). Graph theory methods for the analysis of neural connectivity patterns. In Neuroscience Databases (pp. 171-185). Springer.
+
+- [2] Friston, K. (2019). A free energy principle for a particular physics. arXiv preprint arXiv:1906.10184.
+
+- [3] Tononi, G., & Koch, C. (2015). Consciousness: here, there and everywhere?. Philosophical Transactions of the Royal Society B: Biological Sciences, 370(1668).
+
+- [4] Bassett, D. S., & Sporns, O. (2017). Network neuroscience. Nature neuroscience, 20(3), 353-364.
+
+- [21] Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. American Psychologist, 34(10), 906–911.
+
+- [22] Shimamura, A. P. (2000). Toward a cognitive neuroscience of metacognition. Consciousness and Cognition, 9(2), 313–323.
+
+- [23] Frith, C. D. (2012). The role of metacognition in human social interactions. Philosophical Transactions of the Royal Society B: Biological Sciences, 367(1599), 2213–2223.
 
 
 
