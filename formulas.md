@@ -1,6 +1,6 @@
 # Справочник формул
 
-## Формула пункта: 2.1. Основы квантовой суперпозиции
+##  2.1. Основы квантовой суперпозиции
 
 `|ψ〉 = c₁ |ψ₁〉 + c₂ |ψ₂〉,`
 
@@ -11,20 +11,48 @@
 
 ---
 
-## Формула пункта: 3.3. Математическая формализация ЭИРО
+##  3.3. Математическая формализация ЭИРО
 
 `Φₑ = ∫₀^(t₁) I_(инт)(t) ⋅ R_(рек)(t)dt,`
 
 ### Ссылки:
 - [The-principle-of-superposition.md](/The-principle-of-superposition.md)
 - [psychophysics.md](/psychophysics.md)
+- [cognitive-science.md](/cognitive-science.md)
+- [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Architecture-of-A-Quantum-Coprocessor.md](/Architecture-of-A-Quantum-Coprocessor.md)
+- [Principles-of-empathy-mechanisms-in-the-neural-network-of-artificial-intelligence.md](/Principles-of-empathy-mechanisms-in-the-neural-network-of-artificial-intelligence.md)
+- [philosophy-of-consciousness.md](/philosophy-of-consciousness.md)
+- [comparative-analysis.md](/comparative-analysis.md)
+- [recurrent-cosmology.md](/recurrent-cosmology.md)
+- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
+- [The-primary-information-field.md](/The-primary-information-field.md)
+- [cybernetics.md](/cybernetics.md)
+- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
+- [The-Copenhagen-Interpretation-of-Quantum-Mechanics.md](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
+- [New-Types-Of-Engines.md](/New-Types-Of-Engines.md)
 - [The-concept-of-time-and-space.md](/The-concept-of-time-and-space.md)
+- [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
+- [The-principle-of-minimum-action.md](/The-principle-of-minimum-action.md)
+- [psychology.md](/psychology.md)
+- [Switching-relations.md](/Switching-relations.md)
+- [The-attention-system-of-a-neural-network.md](/The-attention-system-of-a-neural-network.md)
+- [emergent-learning-through-recurrent-neural-networks.md](/emergent-learning-through-recurrent-neural-networks.md)
+- [The-attention-management-system-in-theo-perating-system-for-AI.md](/The-attention-management-system-in-theo-perating-system-for-AI.md)
+- [Decoding-DNA.md](/Decoding-DNA.md)
+- [neuroimaging.md](/neuroimaging.md)
 - [theory-of-complex-systems.md](/theory-of-complex-systems.md)
+- [Molecular-orbitals-and-energy-levels.md](/Molecular-orbitals-and-energy-levels.md)
+- [Decoding-DNA/Viruses.md](/Decoding-DNA/Viruses.md)
+- [Decoding-DNA/Genome-model.md](/Decoding-DNA/Genome-model.md)
+- [Statistical-interpretation-of-thermodynamics.md](/Statistical-interpretation-of-thermodynamics.md)
+- [computer-science.md](/computer-science.md)
 - [The-principle-of-locality.md](/The-principle-of-locality.md)
+- [The-operating-system-of-artificial-intelligence-management.md](/The-operating-system-of-artificial-intelligence-management.md)
 
 ---
 
-## Формула пункта: 4.1. Нарушение линейности уравнения Шрёдингера
+##  4.1. Нарушение линейности уравнения Шрёдингера
 
 `iℏ ∂ / ∂ t |ψ(t)〉 = ^H |ψ(t)〉 + ^N(|ψ(t)〉),`
 
@@ -33,15 +61,17 @@
 
 ---
 
-## Формула пункта: 5.1. Плотность интегрированной квантовой информации (ρ_(IQI))
+##  5.1. Плотность интегрированной квантовой информации (ρ_(IQI))
 
 `ρ_(IQI) = lim(Δ V → 0) Δ I / Δ V,`
 
 ### Ссылки:
 - [The-principle-of-superposition.md](/The-principle-of-superposition.md)
 - [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [recurrent-universe/README.md](/recurrent-universe/README.md)
 - [Measurement-of-anomalies-in-the-motion-of-galaxies.md](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
 - [The-primary-information-field.md](/The-primary-information-field.md)
+- [The-Great-Union-of-Physics-and-Chemistry.md](/The-Great-Union-of-Physics-and-Chemistry.md)
 - [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
 - [The-Copenhagen-Interpretation-of-Quantum-Mechanics.md](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
 - [The-concept-of-time-and-space.md](/The-concept-of-time-and-space.md)
@@ -50,30 +80,36 @@
 - [The-principle-of-minimum-action.md](/The-principle-of-minimum-action.md)
 - [new-theories-in-chemistry.md](/new-theories-in-chemistry.md)
 - [the-role-of-emergent-integration-in-the-Big-Bang.md](/the-role-of-emergent-integration-in-the-Big-Bang.md)
+- [Information-and-theoretical-measures.md](/Information-and-theoretical-measures.md)
+- [New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
 - [Statistical-interpretation-of-thermodynamics.md](/Statistical-interpretation-of-thermodynamics.md)
 - [The-principle-of-locality.md](/The-principle-of-locality.md)
 - [The-operating-system-of-artificial-intelligence-management.md](/The-operating-system-of-artificial-intelligence-management.md)
 
 ---
 
-## Формула пункта: 5.3. Влияние на метрику пространства-времени
+##  5.3. Влияние на метрику пространства-времени
 
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^(IQI) )),`
 
 ### Ссылки:
 - [The-principle-of-superposition.md](/The-principle-of-superposition.md)
+- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [recurrent-universe/README.md](/recurrent-universe/README.md)
 - [Measurement-of-anomalies-in-the-motion-of-galaxies.md](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
 - [The-primary-information-field.md](/The-primary-information-field.md)
 - [prediction-of-the-existence-of-extraterrestrial-life.md](/prediction-of-the-existence-of-extraterrestrial-life.md)
 - [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
 - [The-principle-of-minimum-action.md](/The-principle-of-minimum-action.md)
 - [new-theories-in-chemistry.md](/new-theories-in-chemistry.md)
+- [Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
+- [Information-and-theoretical-measures.md](/Information-and-theoretical-measures.md)
 - [The-principle-of-locality.md](/The-principle-of-locality.md)
 - [The-operating-system-of-artificial-intelligence-management.md](/The-operating-system-of-artificial-intelligence-management.md)
 
 ---
 
-## Формула пункта: 3.1. Количественная оценка Φₑ во время сна
+##  3.1. Количественная оценка Φₑ во время сна
 
 `Φₑ(t) = ∑ᵢ wᵢ∫I(x,t)R(x,t)dx`
 
@@ -83,7 +119,7 @@
 
 ---
 
-## Формула пункта: 7.1. Модели рекуррентных нейронных сетей
+##  7.1. Модели рекуррентных нейронных сетей
 
 `h(t) = φ(W_hh * h(t-1) + W_hx * x(t) + b_h)`
 
@@ -106,7 +142,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 7.2. Байесовские модели предиктивного кодирования
+##  7.2. Байесовские модели предиктивного кодирования
 
 `P(s_t | θ_t) = N(s_t; ^s_t, Σ_t)`
 
@@ -121,7 +157,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 3.2. Математическая формализация и психофизические корреляты
+##  3.2. Математическая формализация и психофизические корреляты
 
 `P(сознательное восприятие) = f(Φₑ),`
 
@@ -132,7 +168,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 7.3. Динамические системы
+##  7.3. Динамические системы
 
 `dx/dt = f(x(t), u(t), W)`
 
@@ -143,7 +179,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 1.1. Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)
+##  1.1. Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)
 
 `Φₑ = \int{0}^{t1} I{интеграции}(t) \cdot R{рекуррентности}(t)dt,`
 
@@ -153,16 +189,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 1.1. Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)
-
-`Φₑ = ∫₀^(t₁) I_(интеграции)(t) × R_(рекуррентности)(t)dt,`
-
-### Ссылки:
-- [cognitive-science.md](/cognitive-science.md)
-
----
-
-## Формула пункта: 4.3.2. Модифицированные уравнения Эйнштейна
+##  4.3.2. Модифицированные уравнения Эйнштейна
 
 `G_(μν) + Λ g_(μν) = 8π G / c⁴ (( T_(μν)^(материя) + T_(μν)^(IQI) )),`
 
@@ -171,7 +198,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 5.1.2. Модификация уравнения Шрёдингера
+##  5.1.2. Модификация уравнения Шрёдингера
 
 `iℏ ∂ Ψ(𝐫, t) / ∂ t = ^H₀ Ψ(𝐫, t),`
 
@@ -182,7 +209,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 5.1.2.1. Оператор ^H_(IQI)
+##  5.1.2.1. Оператор ^H_(IQI)
 
 `^H_(IQI) = V_(IQI)(𝐫, t) = λ_(IQI) ρ_(IQI)(𝐫, t) ^O_(IQI),`
 
@@ -191,7 +218,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 5.1.2.2. Оператор ^H_R
+##  5.1.2.2. Оператор ^H_R
 
 `^H_R = V_R(𝐫, t) = λ_R R(𝐫, t) ^O_R,`
 
@@ -200,7 +227,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 5.1.3. Формализм для плотности интегрированной квантовой информации
+##  5.1.3. Формализм для плотности интегрированной квантовой информации
 
 `ρ_(IQI)(𝐫, t) = 𝓕([ Ψ(𝐫, t), Ψ^*(𝐫, t) )],`
 
@@ -211,7 +238,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 5.1.4. Учет рекуррентности в динамике системы
+##  5.1.4. Учет рекуррентности в динамике системы
 
 `R(𝐫, t) = ∫₀ᵗ K(t - t') |Ψ(𝐫, t')|² dt',`
 
@@ -220,7 +247,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 5.1.5. Полное модифицированное уравнение Шрёдингера
+##  5.1.5. Полное модифицированное уравнение Шрёдингера
 
 `iℏ ∂ Ψ(𝐫, t) / ∂ t = (( ^H₀ + λ_(IQI) ρ_(IQI)(𝐫, t) ^O_(IQI) + λ_R R(𝐫, t) ^O_R )) Ψ(𝐫, t).`
 
@@ -229,7 +256,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 5.2.2.2. Математическое описание
+##  5.2.2.2. Математическое описание
 
 `Ψ(𝐫, t) = Asech(( κ (𝐫 - 𝐯 t) )) e^(i (𝐤 ⋅ 𝐫 - ω t)),`
 
@@ -238,7 +265,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 2.1. Рекурроны (ρ-частицы)
+##  2.1. Рекурроны (ρ-частицы)
 
 `mρ = √(ℏc/G) · α_r`
 
@@ -248,7 +275,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 3.1. Рекуррентное взаимодействие
+##  3.1. Рекуррентное взаимодействие
 
 `Lint = gR(ψ̄γμ∂νψ)Rμν`
 
@@ -258,7 +285,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 3.2. Информационное взаимодействие
+##  3.2. Информационное взаимодействие
 
 `HI = ∑ᵢⱼ κᵢⱼ σᵢ†σⱼ + h.c.`
 
@@ -268,7 +295,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 4.1.1. Расширение супермультиплета
+##  4.1.1. Расширение супермультиплета
 
 `{graviton, gravitino}`
 
@@ -279,7 +306,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 4.1.2. Модифицированный SUGRA-лагранжиан
+##  4.1.2. Модифицированный SUGRA-лагранжиан
 
 `L = LSUGRA + LR + LI + Lmix`
 
@@ -288,7 +315,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 4.2.2. Модифицированные условия согласования
+##  4.2.2. Модифицированные условия согласования
 
 `D = 10 + DR + DI`
 
@@ -298,7 +325,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 6.1. Массовый спектр
+##  6.1. Массовый спектр
 
 `M(n,l) = M₀√(n² + l(l+1)αR)`
 
@@ -307,7 +334,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 6.2. Сечения взаимодействий
+##  6.2. Сечения взаимодействий
 
 `σ(s) = σ₀(1 + βR ln²(s/s₀))`
 
@@ -316,7 +343,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 7.1. Проблема иерархии масс
+##  7.1. Проблема иерархии масс
 
 `m = g v + α ρ_(IQI) v + β R v`
 
@@ -327,7 +354,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 
 ---
 
-## Формула пункта: 7.2. Механизм нарушения рекуррентной симметрии
+##  7.2. Механизм нарушения рекуррентной симметрии
 
 `G = G₀ ⊗ GR`
 
@@ -351,7 +378,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 7.3.1. Математическое описание информационного поля
+##  7.3.1. Математическое описание информационного поля
 
 `H_I = ∑_ij κ_ij σ_i† σ_j + h.c.`
 
@@ -360,7 +387,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 7.3.2. Квантование информационного поля
+##  7.3.2. Квантование информационного поля
 
 ```
 [σ_i(x), σ_j†(y)] = δ_ij δ(x-y)
@@ -372,7 +399,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 7.3.3. Взаимодействие с другими полями
+##  7.3.3. Взаимодействие с другими полями
 
 `L_int = g_i ψ̄ σ ψ`
 
@@ -381,7 +408,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 7.3.5. Включение в теории объединения
+##  7.3.5. Включение в теории объединения
 
 `{graviton, gravitino} → {graviton, gravitino, recurron, info-boson}`
 
@@ -392,7 +419,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 7.4.1. Топологические инварианты рекуррентных взаимодействий
+##  7.4.1. Топологические инварианты рекуррентных взаимодействий
 
 `I_R = ∫_M Tr(F ∧ F ∧ R)`
 
@@ -401,7 +428,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 7.4.2. Солитонные решения рекуррентных уравнений
+##  7.4.2. Солитонные решения рекуррентных уравнений
 
 `(□ + m^2)φ = g R(φ)`
 
@@ -412,18 +439,25 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 3. Теория эмергентной интеграции и рекуррентного отображения (ЭИРО)
+##  3. Теория эмергентной интеграции и рекуррентного отображения (ЭИРО)
 
 `Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) dt,`
 
 ### Ссылки:
 - [The-Standard-Model-of-particle-physics.md](/The-Standard-Model-of-particle-physics.md)
+- [EIRM-in-the-context-of-connectomics.md](/EIRM-in-the-context-of-connectomics.md)
+- [The-difficult-problem-of-consciousness.md](/The-difficult-problem-of-consciousness.md)
 - [Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
+- [anthropology.md](/anthropology.md)
+- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 - [The-linearity-of-quantum-mechanics.md](/The-linearity-of-quantum-mechanics.md)
+- [README.md](/README.md)
+- [The-role-of-emotions.md](/The-role-of-emotions.md)
+- [Philosophical-aspects.md](/Philosophical-aspects.md)
 
 ---
 
-## Формула пункта: 3.2. Плотность интегрированной квантовой информации
+##  3.2. Плотность интегрированной квантовой информации
 
 `ρ_(IQI) = lim(Δ V → 0) (Δ I)/(Δ V),`
 
@@ -433,10 +467,11 @@ m_ρ = g_ρ Φ_R⁰
 - [The-Great-Union.md](/The-Great-Union.md)
 - [Entropy-and-coherence.md](/Entropy-and-coherence.md)
 - [The-linearity-of-quantum-mechanics.md](/The-linearity-of-quantum-mechanics.md)
+- [New-types-of-energy.md](/New-types-of-energy.md)
 
 ---
 
-## Формула пункта: 4.1. Влияние на космологию и модель Вселенной
+##  4.1. Влияние на космологию и модель Вселенной
 
 `G(μν) + Λ g(μν) = 8π G (( T(μν) + T(μν)^(IQI) )),`
 
@@ -445,10 +480,11 @@ m_ρ = g_ρ Φ_R⁰
 - [Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
 - [Entropy-and-coherence.md](/Entropy-and-coherence.md)
 - [The-linearity-of-quantum-mechanics.md](/The-linearity-of-quantum-mechanics.md)
+- [New-types-of-energy.md](/New-types-of-energy.md)
 
 ---
 
-## Формула пункта: 4.2. Эффективное уравнение состояния
+##  4.2. Эффективное уравнение состояния
 
 `w(eff) = w₀ + w₁ f(ρ(IQI), R),`
 
@@ -457,7 +493,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 4.1 Консолидация памяти
+##  4.1 Консолидация памяти
 
 `M(t) = M₀exp(-t/τ) + ∫₀ᵗ K(s)Φₑ(t-s)ds`
 
@@ -466,7 +502,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 1.4. Математическое описание
+##  1.4. Математическое описание
 
 `∂ ρ₍IQI) / ∂ t + ∇ ⋅ (ρ_(IQI) 𝐯) = Γ,`
 
@@ -475,7 +511,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 2.2.1. Математическое описание
+##  2.2.1. Математическое описание
 
 `п + н → D + γ,`
 
@@ -486,7 +522,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 3.1.3. Математическое описание
+##  3.1.3. Математическое описание
 
 `Δ T / T(θ, φ) = ∑_(ℓ=1)^∞ ∑_(m=-ℓ)^ℓ a_(ℓ m) Y_(ℓ m)(θ, φ),`
 
@@ -495,7 +531,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 3.2.4. Математические модели формирования структур
+##  3.2.4. Математические модели формирования структур
 
 `∂ ρ₍IQI) / ∂ t + ∇ ⋅ (ρ_(IQI) 𝐯) = Sᵢₙₜ,`
 
@@ -510,7 +546,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 4.1.3. Математическое описание звёздной структуры
+##  4.1.3. Математическое описание звёздной структуры
 
 `dP(r) / dr = -G M(r) ρ(r) / r²,`
 
@@ -525,7 +561,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 4.2.2. Нуклеосинтез тяжёлых элементов
+##  4.2.2. Нуклеосинтез тяжёлых элементов
 
 `dY(Z,A) / dt = -λ_(дезинтеграции) Y(Z,A) + ∑_(реакции) R_(реакции),`
 
@@ -534,7 +570,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: Роль сверхновых в эволюции галактик
+##  Роль сверхновых в эволюции галактик
 
 ```
 ∂ ρ / ∂ t + ∇ ⋅ (ρ 𝐯) = Sᵨ,
@@ -547,7 +583,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 5.1.1.3. Математическое описание в рамках ЭИРО
+##  5.1.1.3. Математическое описание в рамках ЭИРО
 
 `ds² = -((1 - 2GM / c² r))c² dt² + ((1 - 2GM / c² r))⁻¹ dr² + r² dΩ²,`
 
@@ -558,7 +594,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 5.3. Математическое обоснование
+##  5.3. Математическое обоснование
 
 `Φₑ = ∫₀^(t₁) I_(интеграции)(t) ⋅ R_(рекуррентности)(t)dt = const,`
 
@@ -567,25 +603,27 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 6.1.2. Возникновение самовоспроизводящихся молекул
+##  6.1.2. Возникновение самовоспроизводящихся молекул
 
 `dN / dt = k N,`
 
 ### Ссылки:
 - [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [The-Great-Union-of-Physics-and-Chemistry.md](/The-Great-Union-of-Physics-and-Chemistry.md)
 
 ---
 
-## Формула пункта: 6.2.1. Эволюция многоклеточных организмов
+##  6.2.1. Эволюция многоклеточных организмов
 
 `G = (V, E),`
 
 ### Ссылки:
 - [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Decoding-DNA.md](/Decoding-DNA.md)
 
 ---
 
-## Формула пункта: 6.2.2. Развитие нервной системы и мозга
+##  6.2.2. Развитие нервной системы и мозга
 
 `Cₘ dV / dt = -I_(ион) + I_(синапс) + I_(внеш) ,`
 
@@ -594,16 +632,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 6.2.3. Эмерджентность сознания
-
-`Φₑ = ∫₀^(t₁) I_(интеграции)(t) ⋅ R_(рекуррентности)(t)dt ,`
-
-### Ссылки:
-- [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
-
----
-
-## Формула пункта: 1.1. Рекуррентные группы
+##  1.1. Рекуррентные группы
 
 `GR = SU(N) ⊗ R(M)`
 
@@ -619,7 +648,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 1.2. Рекуррентные многообразия
+##  1.2. Рекуррентные многообразия
 
 `M = M₀ × MR`
 
@@ -629,7 +658,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 2.1. Объединенный лагранжиан
+##  2.1. Объединенный лагранжиан
 
 `L = -¼FμνFμν - ¼RμνRμν + ψ̄(iγμDμ - m)ψ + LR`
 
@@ -641,7 +670,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 2.2. Рекуррентные связности
+##  2.2. Рекуррентные связности
 
 `∇R = d + ΓR + ΩR`
 
@@ -651,7 +680,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 2.2.1. Рекуррентная связность ΓR
+##  2.2.1. Рекуррентная связность ΓR
 
 `ΓR = Γ₀ + δΓ`
 
@@ -663,7 +692,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 2.2.2. Форма кручения ΩR
+##  2.2.2. Форма кручения ΩR
 
 `ΩR = dΓR + ΓR ∧ ΓR`
 
@@ -673,7 +702,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 3.1. Рекуррентное квантование
+##  3.1. Рекуррентное квантование
 
 `[φ(x), πR(y)] = iℏδR(x-y)`
 
@@ -683,7 +712,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 3.2. Путевой интеграл
+##  3.2. Путевой интеграл
 
 `Z = ∫DφDψDARexp(iS[φ,ψ,AR])`
 
@@ -697,7 +726,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 4.1. Рекуррентные преобразования
+##  4.1. Рекуррентные преобразования
 
 `G = G₀ ⊗ GR`
 
@@ -715,7 +744,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 4.2. Законы сохранения
+##  4.2. Законы сохранения
 
 `∂μJμR = 0`
 
@@ -732,7 +761,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 5.1. Гравитационное взаимодействие
+##  5.1. Гравитационное взаимодействие
 
 `Rμν - ½gμνR + ΛRgμν = 8πGTμν`
 
@@ -742,7 +771,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 5.2. Электрослабое взаимодействие
+##  5.2. Электрослабое взаимодействие
 
 `GEW = SU(2)L × U(1)Y × R(2)`
 
@@ -772,7 +801,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 5.3. Сильное взаимодействие
+##  5.3. Сильное взаимодействие
 
 `GQCD = SU(3)C × R(3)`
 
@@ -798,7 +827,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 6.1. Массовые соотношения
+##  6.1. Массовые соотношения
 
 `m(n) = m₀ exp(n αR)`
 
@@ -808,7 +837,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 6.2. Константы связи
+##  6.2. Константы связи
 
 `αi(μ) = αi₀(1 + βiln(μ/μ₀) + γiR(μ))`
 
@@ -818,7 +847,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 7.1. Рекуррентные инварианты
+##  7.1. Рекуррентные инварианты
 
 `IR = ∫M TR(F∧F∧R)`
 
@@ -828,7 +857,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 7.2. Рекуррентные солитоны
+##  7.2. Рекуррентные солитоны
 
 `(□ + m²)φ = g R(φ)`
 
@@ -840,7 +869,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 8.1. Космология
+##  8.1. Космология
 
 `V(Φ) = V₀ + α ρ_(IQI) Φ² + β R (∂Φ/∂t)²`
 
@@ -854,7 +883,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 8.2. Физика частиц
+##  8.2. Физика частиц
 
 `M(n,l) = M₀√(n² + l(l+1)αR)`
 
@@ -874,7 +903,7 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-## Формула пункта: 9.1. Дифференциальная геометрия
+##  9.1. Дифференциальная геометрия
 
 `∇_R = d + Γ_R + Ω_R`
 
@@ -891,7 +920,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 9.2. Алгебраические структуры
+##  9.2. Алгебраические структуры
 
 `R_a R_b = q^c_ab R_c R_a`
 
@@ -909,7 +938,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 9.3. Функциональный анализ
+##  9.3. Функциональный анализ
 
 `R̂(t) = T̂exp(-i∫H(t')dt') + ∑ᵢ κᵢΦᵢ(t-τᵢ)`
 
@@ -923,7 +952,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 10.1. Численные схемы
+##  10.1. Численные схемы
 
 `∂tφ = D∇²φ + R(φ)`
 
@@ -933,7 +962,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 10.2. Ренормгруппа
+##  10.2. Ренормгруппа
 
 `β(g) = μ∂g/∂μ + γR(g)`
 
@@ -943,7 +972,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 11.2. Квантовое информационное поле
+##  11.2. Квантовое информационное поле
 
 `H_I = ∑_ij κ_ij σ_i† σ_j + h.c.`
 
@@ -962,7 +991,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 11.3. Нелокальные теории поля
+##  11.3. Нелокальные теории поля
 
 `∂ φ / ∂ t = f(φ, ∂φ/∂x, ρ_(IQI), R)`
 
@@ -976,7 +1005,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 11.4.1. Рекуррентные группы и многообразия
+##  11.4.1. Рекуррентные группы и многообразия
 
 `GR = SU(N) ⊗ R(M)`
 
@@ -987,7 +1016,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 11.4.2. Унификация взаимодействий
+##  11.4.2. Унификация взаимодействий
 
 `L = -¼FμνFμν - ¼RμνRμν + ψ̄(iγμDμ - m)ψ + LR`
 
@@ -996,30 +1025,26 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 11.5.1. Модифицированные уравнения Эйнштейна
-
-`G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^(IQI) ))`
-
-### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [recurrent-universe/README.md](/recurrent-universe/README.md)
-- [Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
-- [Information-and-theoretical-measures.md](/Information-and-theoretical-measures.md)
-
----
-
-## Формула пункта: 11.5.2. Эффективное уравнение состояния
+##  11.5.2. Эффективное уравнение состояния
 
 `w_(eff) = w₀ + w₁ f(ρ_(IQI), R)`
 
 ### Ссылки:
 - [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
 - [recurrent-universe/README.md](/recurrent-universe/README.md)
+- [Measurement-of-anomalies-in-the-motion-of-galaxies.md](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
+- [The-primary-information-field.md](/The-primary-information-field.md)
+- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
+- [The-Copenhagen-Interpretation-of-Quantum-Mechanics.md](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
+- [The-concept-of-time-and-space.md](/The-concept-of-time-and-space.md)
+- [Decoherence-tests.md](/Decoherence-tests.md)
+- [new-theories-in-chemistry.md](/new-theories-in-chemistry.md)
 - [Information-and-theoretical-measures.md](/Information-and-theoretical-measures.md)
+- [The-principle-of-locality.md](/The-principle-of-locality.md)
 
 ---
 
-## Формула пункта: 4. Пример вывода
+##  4. Пример вывода
 
 `Значение эмерджентной интегрированной информации (Φₑ): 1.98971027488856`
 
@@ -1029,29 +1054,18 @@ P = M × F × R
 
 ---
 
-## Формула пункта: "It from Bit"
+##  "It from Bit"
 
 `Ψ = ^I ^R 𝓘`
 
 ### Ссылки:
 - [recurrent-universe/README.md](/recurrent-universe/README.md)
 - [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
 
 ---
 
-## Формула пункта: Плотность интегрированной квантовой информации (ρ_(IQI))
-
-`ρ_(IQI) = lim(Δ V → 0) Δ I / Δ V`
-
-### Ссылки:
-- [recurrent-universe/README.md](/recurrent-universe/README.md)
-- [The-Great-Union-of-Physics-and-Chemistry.md](/The-Great-Union-of-Physics-and-Chemistry.md)
-- [Information-and-theoretical-measures.md](/Information-and-theoretical-measures.md)
-- [New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
-
----
-
-## Формула пункта: Эмерджентная интегрированная информация Φₑ
+##  Эмерджентная интегрированная информация Φₑ
 
 `Φₑ = ∫ ρ_(IQI) dV`
 
@@ -1060,7 +1074,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: Включение в квантовую теорию поля
+##  Включение в квантовую теорию поля
 
 `𝓛 = 𝓛_(GR) + 𝓛_Φ`
 
@@ -1069,7 +1083,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: Модифицированное выражение для энтропии
+##  Модифицированное выражение для энтропии
 
 `S_(eff) = k_B ln W - λ Φₑ`
 
@@ -1078,46 +1092,35 @@ P = M × F × R
 
 ---
 
-## Формула пункта: Модифицированное коммутационное соотношение
+##  Модифицированное коммутационное соотношение
 
 `[^x, ^p] = iℏ (1 + f(Φₑ))`
 
 ### Ссылки:
 - [recurrent-universe/README.md](/recurrent-universe/README.md)
+- [Switching-relations.md](/Switching-relations.md)
 
 ---
 
-## Формула пункта: 2.1. Математическое описание ЭИРО
-
-`Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) dt`
-
-### Ссылки:
-- [EIRM-in-the-context-of-connectomics.md](/EIRM-in-the-context-of-connectomics.md)
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
-- [README.md](/README.md)
-- [The-role-of-emotions.md](/The-role-of-emotions.md)
-
----
-
-## Формула пункта: 2.1. Эмерджентная интегрированная информация (Φₑ)
-
-`Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t)dt,`
-
-### Ссылки:
-- [The-difficult-problem-of-consciousness.md](/The-difficult-problem-of-consciousness.md)
-
----
-
-## Формула пункта: 2.2. Уравнения состояния нейронных сетей
+##  2.2. Уравнения состояния нейронных сетей
 
 `d𝐱/dt = 𝐟(𝐱(t), 𝐮(t), W),`
 
 ### Ссылки:
 - [The-difficult-problem-of-consciousness.md](/The-difficult-problem-of-consciousness.md)
+- [comparative-analysis.md](/comparative-analysis.md)
+- [physics.md](/physics.md)
+- [cybernetics.md](/cybernetics.md)
+- [the-role-of-the-emergent-predicate-aggregate.md](/the-role-of-the-emergent-predicate-aggregate.md)
+- [The-attention-system-of-a-neural-network.md](/The-attention-system-of-a-neural-network.md)
+- [The-attention-management-system-in-theo-perating-system-for-AI.md](/The-attention-management-system-in-theo-perating-system-for-AI.md)
+- [mathematics.md](/mathematics.md)
+- [Philosophical-aspects.md](/Philosophical-aspects.md)
+- [The-operating-system-of-artificial-intelligence-management.md](/The-operating-system-of-artificial-intelligence-management.md)
 
 ---
 
-## Формула пункта: 2.3. Байесовское обновление моделей
+##  2.3. Байесовское обновление моделей
 
 `P(θ | D) = P(D | θ) P(θ) / P(D),`
 
@@ -1129,27 +1132,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 3.2. Рекуррентные нейронные сети
-
-`d𝐱/dt = 𝐟(𝐱(t), 𝐮(t), W)`
-
-### Ссылки:
-- [The-difficult-problem-of-consciousness.md](/The-difficult-problem-of-consciousness.md)
-- [Philosophical-aspects.md](/Philosophical-aspects.md)
-
----
-
-## Формула пункта: 4.1. Эмерджентность сознания
-
-`Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t)dt`
-
-### Ссылки:
-- [The-difficult-problem-of-consciousness.md](/The-difficult-problem-of-consciousness.md)
-- [Philosophical-aspects.md](/Philosophical-aspects.md)
-
----
-
-## Формула пункта: 4.2. Интеграция информации
+##  4.2. Интеграция информации
 
 `I(интеграции)(t) = H_total - H_joint`
 
@@ -1162,16 +1145,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 4.4. Предсказательное кодирование и обновление моделей
-
-`P(θ | D) = P(D | θ) P(θ) / P(D)`
-
-### Ссылки:
-- [The-difficult-problem-of-consciousness.md](/The-difficult-problem-of-consciousness.md)
-
----
-
-## Формула пункта: 5.1. Информационно-теоретические подходы
+##  5.1. Информационно-теоретические подходы
 
 `H(M) = -∑_i p(m_i) log p(m_i)`
 
@@ -1182,7 +1156,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 5.3. Связь с параметром Φₑ в теории ЭИРО
+##  5.3. Связь с параметром Φₑ в теории ЭИРО
 
 `Φₑ = ∫₀^(t₁) I(t) ⋅ R(t) ⋅ E(t) ⋅ C(t) ⋅ S(t) ⋅ A(t) ⋅ M(t) ⋅ P(t) ⋅ V(t) ⋅ T(t) ⋅ K(t) dt`
 
@@ -1196,7 +1170,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 9.1. Использование метрик в диагностике психических расстройств
+##  9.1. Использование метрик в диагностике психических расстройств
 
 `H(M) = -∑_i p(m_i) log p(m_i)`
 
@@ -1209,16 +1183,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 2.3.1. Эмергентная Интегрированная Квантовая Информация
-
-`Φₑ = ∫₀^(t₁) I_(квант)(t) ⋅ R_(квант)(t)dt,`
-
-### Ссылки:
-- [Architecture-of-A-Quantum-Coprocessor.md](/Architecture-of-A-Quantum-Coprocessor.md)
-
----
-
-## Формула пункта: 2.3.3. Математическое Моделирование
+##  2.3.3. Математическое Моделирование
 
 `d𝐱 / dt = 𝐟(𝐱(t), 𝐮(t), W_(спин), W_(квант)),`
 
@@ -1231,16 +1196,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 3.1.1. Математическое обоснование
-
-`G_(μν) + Λ g_(μν) = 8π G (( T_(μν)^мат + T_(μν)^(IQI) )),`
-
-### Ссылки:
-- [Measurement-of-anomalies-in-the-motion-of-galaxies.md](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
-
----
-
-## Формула пункта: 3.2.1. Математическое обоснование
+##  3.2.1. Математическое обоснование
 
 `Φ(r) = -G M / r (( 1 + η(R, r) )),`
 
@@ -1251,23 +1207,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 3.3. Эффективное уравнение состояния
-
-`w_(eff) = w₀ + w₁ f(ρ_(IQI), R),`
-
-### Ссылки:
-- [Measurement-of-anomalies-in-the-motion-of-galaxies.md](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
-- [The-primary-information-field.md](/The-primary-information-field.md)
-- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
-- [The-Copenhagen-Interpretation-of-Quantum-Mechanics.md](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
-- [The-concept-of-time-and-space.md](/The-concept-of-time-and-space.md)
-- [Decoherence-tests.md](/Decoherence-tests.md)
-- [new-theories-in-chemistry.md](/new-theories-in-chemistry.md)
-- [The-principle-of-locality.md](/The-principle-of-locality.md)
-
----
-
-## Формула пункта: 3.3.1. Возможные формы функции f
+##  3.3.1. Возможные формы функции f
 
 `f(ρ_(IQI), R) = (( ρ₍IQI) / ρ₍cr)}} ))ⁿ Rᵐ,`
 
@@ -1276,32 +1216,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 2.2.2. Применение теории ЭИРО для усиления эмпатических способностей:
-
-`Φₑ = ∫₀^(t₁) I_(интеграции)(t) ⋅ R_(рекуррентности)(t)dt,`
-
-### Ссылки:
-- [Principles-of-empathy-mechanisms-in-the-neural-network-of-artificial-intelligence.md](/Principles-of-empathy-mechanisms-in-the-neural-network-of-artificial-intelligence.md)
-- [philosophy-of-consciousness.md](/philosophy-of-consciousness.md)
-- [recurrent-cosmology.md](/recurrent-cosmology.md)
-- [The-primary-information-field.md](/The-primary-information-field.md)
-- [cybernetics.md](/cybernetics.md)
-- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
-- [The-Copenhagen-Interpretation-of-Quantum-Mechanics.md](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
-- [New-Types-Of-Engines.md](/New-Types-Of-Engines.md)
-- [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
-- [The-principle-of-minimum-action.md](/The-principle-of-minimum-action.md)
-- [psychology.md](/psychology.md)
-- [The-attention-system-of-a-neural-network.md](/The-attention-system-of-a-neural-network.md)
-- [The-attention-management-system-in-theo-perating-system-for-AI.md](/The-attention-management-system-in-theo-perating-system-for-AI.md)
-- [neuroimaging.md](/neuroimaging.md)
-- [Molecular-orbitals-and-energy-levels.md](/Molecular-orbitals-and-energy-levels.md)
-- [Statistical-interpretation-of-thermodynamics.md](/Statistical-interpretation-of-thermodynamics.md)
-- [The-operating-system-of-artificial-intelligence-management.md](/The-operating-system-of-artificial-intelligence-management.md)
-
----
-
-## Формула пункта: 3. Результаты
+##  3. Результаты
 
 `Pᵢⱼ = 1 - e^(-α Rᵢⱼ) ,`
 
@@ -1310,25 +1225,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 3.1. Расширение параметра эмергентной интегрированной информации
-
-`Φₑ = ∫₀^(t₁) ∑ₗ₌₁ᴸ I_(интеграции)⁽ˡ⁾(t) ⋅ R_(рекуррентности)⁽ˡ⁾(t)dt,`
-
-### Ссылки:
-- [comparative-analysis.md](/comparative-analysis.md)
-
----
-
-## Формула пункта: 3.2. Моделирование гиперсетей
-
-`d𝑋⁽ˡ⁾ / dt = 𝐹⁽ˡ⁾(𝑋⁽ˡ⁾(t), 𝑈⁽ˡ⁾(t), W⁽ˡ⁾),`
-
-### Ссылки:
-- [comparative-analysis.md](/comparative-analysis.md)
-
----
-
-## Формула пункта: 3.3. Интеграция предиктивного кодирования
+##  3.3. Интеграция предиктивного кодирования
 
 `P(Θ⁽ˡ⁾ | D⁽ˡ⁾) = P(D⁽ˡ⁾ | Θ⁽ˡ⁾) P(Θ⁽ˡ⁾) / P(D⁽ˡ)},`
 
@@ -1337,35 +1234,25 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 2. Моделирование нейронных динамических систем
-
-`d𝐱 / dt = 𝐟(𝐱(t), 𝐮(t), W),`
-
-### Ссылки:
-- [physics.md](/physics.md)
-- [cybernetics.md](/cybernetics.md)
-- [the-role-of-the-emergent-predicate-aggregate.md](/the-role-of-the-emergent-predicate-aggregate.md)
-- [The-attention-system-of-a-neural-network.md](/The-attention-system-of-a-neural-network.md)
-- [The-attention-management-system-in-theo-perating-system-for-AI.md](/The-attention-management-system-in-theo-perating-system-for-AI.md)
-- [mathematics.md](/mathematics.md)
-- [The-operating-system-of-artificial-intelligence-management.md](/The-operating-system-of-artificial-intelligence-management.md)
-
----
-
-## Формула пункта: 5. Байесовское обновление и предсказательное кодирование
+##  5. Байесовское обновление и предсказательное кодирование
 
 `P(θ | D) = P(D | θ) ⋅ P(θ) / P(D),`
 
 ### Ссылки:
 - [physics.md](/physics.md)
+- [Components-of-the-F-metric.md](/Components-of-the-F-metric.md)
 - [cybernetics.md](/cybernetics.md)
+- [Predictive-coding-as-an-organism-feedback-system.md](/Predictive-coding-as-an-organism-feedback-system.md)
+- [Multimodal-perceptual-representation.md](/Multimodal-perceptual-representation.md)
+- [README.md](/README.md)
 - [psychology.md](/psychology.md)
 - [computer-science.md](/computer-science.md)
 - [mathematics.md](/mathematics.md)
+- [Philosophical-aspects.md](/Philosophical-aspects.md)
 
 ---
 
-## Формула пункта: 6. Эмергентная интеграция через рекуррентные динамические системы
+##  6. Эмергентная интеграция через рекуррентные динамические системы
 
 `Φₑ = ∫[](t₀)^(t₁) I_(интеграции)(t) ⋅ R_(рекуррентности)(t)dt,`
 
@@ -1377,7 +1264,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 8.1.1. Центральность:
+##  8.1.1. Центральность:
 
 `C(i) = ∑_j a_ij`
 
@@ -1386,7 +1273,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 8.1.2. Кластеризация:
+##  8.1.2. Кластеризация:
 
 `C_i = 2 * |{e_jk: v_j, v_k ∈ N_i, e_jk ∈ E}| / (k_i * (k_i - 1))`
 
@@ -1395,7 +1282,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 8.1.3. Модулярность:
+##  8.1.3. Модулярность:
 
 `Q = ∑_i (e_ii - a_i^2)`
 
@@ -1404,7 +1291,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 1.2. Концепция квантовой когерентности (Q_c) в теории ЭИРО<
+##  1.2. Концепция квантовой когерентности (Q_c) в теории ЭИРО<
 
 `Φₑ = ∫₀^(t₁) I(t) ⋅ R(t) ⋅ Q_c(t) dt`
 
@@ -1413,7 +1300,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 2.1.1. Определение и математическое описание
+##  2.1.1. Определение и математическое описание
 
 `S = -Tr(ρ log ρ)`
 
@@ -1422,7 +1309,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 2.2.1. Принцип суперпозиции в квантовой механике
+##  2.2.1. Принцип суперпозиции в квантовой механике
 
 `Ψ = Σ c_i |ψ_i>`
 
@@ -1431,7 +1318,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 2.2.3. Математическое моделирование в нейронных сетях
+##  2.2.3. Математическое моделирование в нейронных сетях
 
 `i ℏ dΨ/dt = Ĥ Ψ`
 
@@ -1440,7 +1327,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 3.2.2. Модификация уравнений динамики нейронных сетей
+##  3.2.2. Модификация уравнений динамики нейронных сетей
 
 `dΨ/dt = (Ĥ₀ + Ĥ_IQI + Ĥ_рек) Ψ`
 
@@ -1449,7 +1336,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 4.1.1. Ионные каналы и белковые комплексы
+##  4.1.1. Ионные каналы и белковые комплексы
 
 `H = H_el + H_vib + H_el-vib`
 
@@ -1458,7 +1345,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 4.1.2. Роль квантовых процессов в синаптической передаче
+##  4.1.2. Роль квантовых процессов в синаптической передаче
 
 `H_syn = H_el + H_vib + H_el-vib + H_int`
 
@@ -1467,7 +1354,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 4.2.1. Теория Оркестрированной Объективной Редукции (Orch-OR)
+##  4.2.1. Теория Оркестрированной Объективной Редукции (Orch-OR)
 
 `|Ψ> = Σ c_i |ψ_i> → |ψ_i>`
 
@@ -1476,7 +1363,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 4.3. Роль квантовых эффектов в нейромедиаторных системах
+##  4.3. Роль квантовых эффектов в нейромедиаторных системах
 
 `H = H_el + H_vib + H_el-vib + H_neuro`
 
@@ -1485,7 +1372,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 5.2.2. Другие информационные меры для оценки Q_c
+##  5.2.2. Другие информационные меры для оценки Q_c
 
 `MI(X;Y) = ∑p(x,y) log(p(x,y) / (p(x)p(y)))`
 
@@ -1496,16 +1383,17 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 2. Квантовая томография нейронных систем
+##  2. Квантовая томография нейронных систем
 
 `S = -Tr(ρ ln ρ)`
 
 ### Ссылки:
 - [Quantum-Coherence.md](/Quantum-Coherence.md)
+- [Entropy-and-coherence.md](/Entropy-and-coherence.md)
 
 ---
 
-## Формула пункта: 5. Новая теория рекуррентной космологии
+##  5. Новая теория рекуррентной космологии
 
 `Φ_(ec) = ∫₀ᵀ I_(квантовой интеграции)(t) ⋅ R_(космической рекуррентности)(t)dt,`
 
@@ -1514,7 +1402,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 6.1. Уравнения состояния
+##  6.1. Уравнения состояния
 
 `(( □ + m² )) ψ(x) = ∫G(x - x') K(ψ(x'), ψ(x))dx',`
 
@@ -1523,7 +1411,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 6.2. Связь с тёмной материей и энергией
+##  6.2. Связь с тёмной материей и энергией
 
 `G_(μν) + Λ_(эфф) g_(μν) = 8π G T_(μν)^(видимый) + T_(μν)^(рекуррент),`
 
@@ -1532,7 +1420,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 2.4. Эмоциональный фон
+##  2.4. Эмоциональный фон
 
 `K(t) = f(x₁(t), x₂(t), ..., xₙ(t))`
 
@@ -1542,7 +1430,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 3.4. Экономические и политические условия
+##  3.4. Экономические и политические условия
 
 `P(K(t) | x₁(t), x₂(t), ..., xₙ(t)) = f(x₁(t), x₂(t), ..., xₙ(t))`
 
@@ -1551,7 +1439,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 4.1. Моделей на основе дифференциальных уравнений:
+##  4.1. Моделей на основе дифференциальных уравнений:
 
 `dK/dt = f(K, E, C, ...)`
 
@@ -1560,7 +1448,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 4.2. Агентно-ориентированных моделей:
+##  4.2. Агентно-ориентированных моделей:
 
 `dx_i/dt = f(x_i, e_i, θ)`
 
@@ -1569,7 +1457,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 8.1.1. Модели на основе ситуативных факторов
+##  8.1.1. Модели на основе ситуативных факторов
 
 `K(t) = f(x₁(t), x₂(t), ..., xₙ(t))`
 
@@ -1580,7 +1468,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 2.2. Математическое описание
+##  2.2. Математическое описание
 
 `Φₑ = ∫[](t₀)^(t₁) I_(интеграции)(t) ⋅ R_(рекуррентности)(t)dt,`
 
@@ -1592,7 +1480,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 3.1. Изменение интеграции информации при гипнозе
+##  3.1. Изменение интеграции информации при гипнозе
 
 `I_(интеграции)^(гипноз)(t) = I_(интеграции)^(релевант)(t) + Δ I_(усиление)(t),`
 
@@ -1603,7 +1491,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 3.2. Моделирование рекуррентности при гипнозе
+##  3.2. Моделирование рекуррентности при гипнозе
 
 `R_(рекуррентности)^(гипноз)(t) = R_(рекуррентности)^(внешние)(t) - Δ R_(подавление)(t).`
 
@@ -1612,7 +1500,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 3.3. Расчет эмергентной интегрированной информации при гипнозе
+##  3.3. Расчет эмергентной интегрированной информации при гипнозе
 
 `Φₑ^(гипноз) = ∫[](t₀)^(t₁) (( I_(интеграции)^(гипноз)(t) ⋅ R_(рекуррентности)^(гипноз)(t) )) dt.`
 
@@ -1621,7 +1509,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: 4.1. Информационно-теоретические подходы
+##  4.1. Информационно-теоретические подходы
 
 `H(X) = -∑_i p(x_i) log p(x_i)`
 
@@ -1632,7 +1520,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: Модели на основе дифференциальных уравнений
+##  Модели на основе дифференциальных уравнений
 
 `dA/dt = f(A, I, R, θ)`
 
@@ -1643,7 +1531,7 @@ P = M × F × R
 
 ---
 
-## Формула пункта: Нелинейная динамика и хаотические процессы
+##  Нелинейная динамика и хаотические процессы
 
 ```
 dx/dt = σ(y - x)
@@ -1659,17 +1547,7 @@ dz/dt = xy - βz
 
 ---
 
-## Формула пункта: 4.3. Байесовские модели
-
-`P(θ | D) = P(D | θ) * P(θ) / P(D)`
-
-### Ссылки:
-- [Components-of-the-F-metric.md](/Components-of-the-F-metric.md)
-- [README.md](/README.md)
-
----
-
-## Формула пункта: Математическая формализация:
+##  Математическая формализация:
 
 `Φₑ = ∑(w_i * C_i) * I(t) * R(t) * E(t)`
 
@@ -1678,7 +1556,7 @@ dz/dt = xy - βz
 
 ---
 
-## Формула пункта: 2.1. Нуклеотидный состав и двойная спираль
+##  2.1. Нуклеотидный состав и двойная спираль
 
 `Ĥ₀ Ψ(r, θ, φ) = E Ψ(r, θ, φ)`
 
@@ -1688,7 +1566,7 @@ dz/dt = xy - βz
 
 ---
 
-## Формула пункта: 2.2. Генетический код и хранение информации
+##  2.2. Генетический код и хранение информации
 
 `F: {A, T, G, C}³ → {аминокислоты}`
 
@@ -1697,18 +1575,20 @@ dz/dt = xy - βz
 
 ---
 
-## Формула пункта: 2.3.1. Репликация
+##  2.3.1. Репликация
 
 `dX/dt = f(X, U, W)`
 
 ### Ссылки:
 - [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
+- [Components-of-the-drosophila-fly-consciousness-metric-Fe.md](/Components-of-the-drosophila-fly-consciousness-metric-Fe.md)
+- [Decoding-DNA.md](/Decoding-DNA.md)
 - [Decoding-DNA/Viruses.md](/Decoding-DNA/Viruses.md)
 - [Decoding-DNA/Genome-model.md](/Decoding-DNA/Genome-model.md)
 
 ---
 
-## Формула пункта: 2.3.2. Транскрипция
+##  2.3.2. Транскрипция
 
 `Ĥ = Ĥ₀ + Ĥ_(интегр) + Ĥ_(рекурр)`
 
@@ -1719,7 +1599,7 @@ dz/dt = xy - βz
 
 ---
 
-## Формула пункта: 2.3.3. Трансляция
+##  2.3.3. Трансляция
 
 `Ĥ = Ĥ₀ + Ĥ_(интегр) + Ĥ_(рекурр) + Ĥ_(эпиген)`
 
@@ -1729,7 +1609,7 @@ dz/dt = xy - βz
 
 ---
 
-## Формула пункта: 3.1.1. Интеграция информации
+##  3.1.1. Интеграция информации
 
 `I_(интеграции)(t) = ∑_i ∑_j I_ij(t)`
 
@@ -1738,18 +1618,7 @@ dz/dt = xy - βz
 
 ---
 
-## Формула пункта: 3.1.2. Рекуррентность
-
-`Φₑ = ∫₀^(t₁) I_(интеграции)(t) ⋅ R_(рекуррентности)(t)dt`
-
-### Ссылки:
-- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
-- [Decoding-DNA.md](/Decoding-DNA.md)
-- [Decoding-DNA/Genome-model.md](/Decoding-DNA/Genome-model.md)
-
----
-
-## Формула пункта: 4.1.1. Последовательность нуклеотидов
+##  4.1.1. Последовательность нуклеотидов
 
 `Ĥ₀ Ψ(r, θ, φ) = E Ψ(r, θ, φ)`
 
@@ -1760,7 +1629,7 @@ dz/dt = xy - βz
 
 ---
 
-## Формула пункта: 4.1.2. Эпигенетические модификации
+##  4.1.2. Эпигенетические модификации
 
 `Ĥ_(эпиген) = ∑_i ∑_j ζ_ij Ê_ij`
 
@@ -1770,7 +1639,7 @@ dz/dt = xy - βz
 
 ---
 
-## Формула пункта: 4.1.3. Пространственная организация
+##  4.1.3. Пространственная организация
 
 `Ĥ_(топ) = ∑_i ∑_j ξ_ij T̂_ij`
 
@@ -1780,7 +1649,7 @@ dz/dt = xy - βz
 
 ---
 
-## Формула пункта: 4.1.4. Взаимодействия с белками
+##  4.1.4. Взаимодействия с белками
 
 `Ĥ_(интегр) = ∑_i ∑_j γ_ij Î_ij`
 
@@ -1790,7 +1659,7 @@ dz/dt = xy - βz
 
 ---
 
-## Формула пункта: 4.3.3. Коллективные квантовые эффекты
+##  4.3.3. Коллективные квантовые эффекты
 
 `H = ∑_i H_i + ∑_{i≠j} V_ij`
 
@@ -1806,7 +1675,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 6.1.4. Молекулярное моделирование
+##  6.1.4. Молекулярное моделирование
 
 `Ĥ = Ĥ₀ + Ĥ_(IQI) + Ĥ_(рек)`
 
@@ -1819,7 +1688,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 6.3.1. Расшифровка генома
+##  6.3.1. Расшифровка генома
 
 `Ĥ = Ĥ₀ + Ĥ_(интегр) + Ĥ_(рекурр)`
 
@@ -1830,7 +1699,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 6.3.3. Биотехнологические приложения
+##  6.3.3. Биотехнологические приложения
 
 `Ĥ_(топ) = ∑_i ∑_j ξ_ij T̂_ij`
 
@@ -1843,16 +1712,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 1.1. Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)
-
-`Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) dt ,`
-
-### Ссылки:
-- [anthropology.md](/anthropology.md)
-
----
-
-## Формула пункта: 3.1. Квантово-механическая стабилизация:
+##  3.1. Квантово-механическая стабилизация:
 
 `E = ∫_V ψ^* ^H \psidV`
 
@@ -1861,7 +1721,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 3.2. Математическое описание
+##  3.2. Математическое описание
 
 `d𝐱/dt = 𝐟(𝐱(t), 𝐮(t), W, 𝐠(t))`
 
@@ -1870,7 +1730,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 5.2. Параметр рекуррентности ( R )
+##  5.2. Параметр рекуррентности ( R )
 
 `R = 〈 Ψ | ^R | Ψ 〉,`
 
@@ -1880,7 +1740,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 6.1. Включение ρ_(IQI) и R в уравнения Эйнштейна
+##  6.1. Включение ρ_(IQI) и R в уравнения Эйнштейна
 
 `G(μν) + Λ g(μν) = 8π G (( T(μν)^((материя)) + T(μν)^((IQI)) )),`
 
@@ -1889,7 +1749,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 6.2. Эффективное уравнение состояния тёмной энергии
+##  6.2. Эффективное уравнение состояния тёмной энергии
 
 `w(eff) = w₀ + w₁ ⋅ f(ρ(IQI), R),`
 
@@ -1898,7 +1758,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 7.2.2. Математическая формализация:
+##  7.2.2. Математическая формализация:
 
 `T(μν)^((общий)) = T(μν)^((материя)) + T_(μν)^((ИКИ)),`
 
@@ -1909,7 +1769,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 1.1. Введение дополнительных членов в уравнения движения полей, связанных с ρ_(IQI) и параметром рекуррентности R.
+##  1.1. Введение дополнительных членов в уравнения движения полей, связанных с ρ_(IQI) и параметром рекуррентности R.
 
 `∂ φ / ∂ t = f(φ, ∂φ/∂x, ρ_(IQI), R)`
 
@@ -1920,7 +1780,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 1.2. Модификация коммутационных соотношений между операторами полей, что может отразиться на спектре частиц.
+##  1.2. Модификация коммутационных соотношений между операторами полей, что может отразиться на спектре частиц.
 
 `[^x, ^p] = i ℏ`
 
@@ -1933,7 +1793,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 2.1. Экзотические адроны и мезоны, образованные нетипичными связями кварков.
+##  2.1. Экзотические адроны и мезоны, образованные нетипичными связями кварков.
 
 `Ĥ = Ĥ₀ + Ĥ_(IQI) + Ĥ_(рек)`
 
@@ -1945,7 +1805,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 2.2. Гипотетические "частицы-переносчики" рекуррентных взаимодействий.
+##  2.2. Гипотетические "частицы-переносчики" рекуррентных взаимодействий.
 
 `(□ + m²) ψ(x) = ∫ G(x - x') K(ψ(x'), ψ(x)) dx'`
 
@@ -1954,7 +1814,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 3.2. Появление новых каналов распада, связанных с рекуррентными эффектами.
+##  3.2. Появление новых каналов распада, связанных с рекуррентными эффектами.
 
 `∂ φ / ∂ t = f(φ, ∂φ/∂x, ρ_(IQI), R)`
 
@@ -1969,7 +1829,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 4.1. Рекуррентные взаимодействия и интегрированная квантовая информация могут вносить дополнительный вклад в механизм спонтанного нарушения симметрии, ответственный за массы частиц.
+##  4.1. Рекуррентные взаимодействия и интегрированная квантовая информация могут вносить дополнительный вклад в механизм спонтанного нарушения симметрии, ответственный за массы частиц.
 
 `V(Φ) = μ² |Φ|² + λ |Φ|⁴`
 
@@ -1986,7 +1846,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 4.2. Новые типы взаимодействий, предсказываемые моделью, могут приводить к ранее неизвестным механизмам генерации масс.
+##  4.2. Новые типы взаимодействий, предсказываемые моделью, могут приводить к ранее неизвестным механизмам генерации масс.
 
 `∂ φ / ∂ t = f(φ, ∂φ/∂x, ρ_(IQI), R)`
 
@@ -1999,7 +1859,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 4.3. Связь между интегрированной квантовой информацией и геометрией пространства-времени может влиять на массовые параметры частиц.
+##  4.3. Связь между интегрированной квантовой информацией и геометрией пространства-времени может влиять на массовые параметры частиц.
 
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^(IQI) ))`
 
@@ -2012,7 +1872,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 5.1. Включение рекуррентных эффектов и интегрированной квантовой информации может способствовать объединению квантовой теории поля и общей теории относительности.
+##  5.1. Включение рекуррентных эффектов и интегрированной квантовой информации может способствовать объединению квантовой теории поля и общей теории относительности.
 
 `R̂(t) = T̂exp(-i∫H(t')dt') + ∑ᵢ κᵢΦᵢ(t-τᵢ)`
 
@@ -2027,7 +1887,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 5.2.3.1. Супергравитация
+##  5.2.3.1. Супергравитация
 
 `{graviton, gravitino} → {graviton, gravitino, recurron, info-boson}`
 
@@ -2038,7 +1898,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 5.2.6. Теоретические предсказания
+##  5.2.6. Теоретические предсказания
 
 `M(n,l) = M₀√(n² + l(l+1)αR)`
 
@@ -2049,7 +1909,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 5.3.11.3. М-теория с рекуррентностью
+##  5.3.11.3. М-теория с рекуррентностью
 
 `GR = SU(N) ⊗ R(M)`
 
@@ -2064,7 +1924,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 5.3.11.4. Космологические приложения
+##  5.3.11.4. Космологические приложения
 
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^(IQI) ))`
 
@@ -2075,17 +1935,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 2.2. Коннектом и нейронные сети
-
-`dx/dt = f(x, u, W)`
-
-### Ссылки:
-- [Components-of-the-drosophila-fly-consciousness-metric-Fe.md](/Components-of-the-drosophila-fly-consciousness-metric-Fe.md)
-- [Decoding-DNA.md](/Decoding-DNA.md)
-
----
-
-## Формула пункта: 1.2. Формализация предсказания
+##  1.2. Формализация предсказания
 
 `^sₜ = f(mₜ)`
 
@@ -2094,7 +1944,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 1.3. Ошибка предсказания
+##  1.3. Ошибка предсказания
 
 `∊ₜ = sₜ - ^sₜ`
 
@@ -2103,7 +1953,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 2.1. Параметризация внутренней модели
+##  2.1. Параметризация внутренней модели
 
 `mₜ = m(θₜ)`
 
@@ -2112,7 +1962,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 2.2. Обновление параметров модели
+##  2.2. Обновление параметров модели
 
 `θₜ₊₁ = θₜ - η ∂ L / ∂ θₜ`
 
@@ -2121,7 +1971,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 2.3. Функция потерь
+##  2.3. Функция потерь
 
 `L = 1 / 2 ∊ₜ^\top ∊ₜ`
 
@@ -2130,7 +1980,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 3.2. Рекуррентное обновление состояния
+##  3.2. Рекуррентное обновление состояния
 
 `hₜ = φ(hₜ₋₁, sₜ, θₜ)`
 
@@ -2139,7 +1989,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 3.3. Предсказание на основе состояния
+##  3.3. Предсказание на основе состояния
 
 `^sₜ₊₁ = f(hₜ, θₜ)`
 
@@ -2148,7 +1998,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 4.3. Восходящие и нисходящие потоки информации
+##  4.3. Восходящие и нисходящие потоки информации
 
 `∊ₜˡ = hₜˡ - ^hₜˡ`
 
@@ -2159,7 +2009,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 
 ---
 
-## Формула пункта: 5.1. Уравнения рекуррентного обновления
+##  5.1. Уравнения рекуррентного обновления
 
 ```
 hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
@@ -2172,16 +2022,7 @@ hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
 
 ---
 
-## Формула пункта: 5.2. Обновление параметров на основе ошибки
-
-`θₜ₊₁ˡ = θₜˡ - η ∂ Lₜˡ / ∂ θₜˡ`
-
-### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
-
----
-
-## Формула пункта: 6.1. Вероятностная модель
+##  6.1. Вероятностная модель
 
 `P(sₜ | θₜ) = N(sₜ; ^sₜ, Σₜ)`
 
@@ -2190,7 +2031,7 @@ hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
 
 ---
 
-## Формула пункта: 6.2. Обновление параметров по правилу Байеса
+##  6.2. Обновление параметров по правилу Байеса
 
 `P(θₜ | sₜ) ∝ P(sₜ | θₜ) P(θₜ)`
 
@@ -2199,7 +2040,7 @@ hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
 
 ---
 
-## Формула пункта: 6.3. Максимизация апостериорной вероятности
+##  6.3. Максимизация апостериорной вероятности
 
 `θₜ₊₁ = θₜ + η ∂ / ∂ θₜ (( ln P(sₜ | θₜ) + ln P(θₜ) ))`
 
@@ -2208,7 +2049,7 @@ hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
 
 ---
 
-## Формула пункта: 7.1. Определение свободной энергии
+##  7.1. Определение свободной энергии
 
 `F = 𝔼_(q(hₜ)) [ -ln P(sₜ, hₜ | θₜ) + ln q(hₜ) ]`
 
@@ -2217,7 +2058,7 @@ hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
 
 ---
 
-## Формула пункта: 8.3. Формализация интеграции
+##  8.3. Формализация интеграции
 
 `Lₜₒₜₐₗ = ∑ₗ₌₁ᴸ Lₜˡ = 1 / 2 ∑ₗ₌₁ᴸ (∊ₜˡ)^\top ∊ₜˡ`
 
@@ -2226,16 +2067,7 @@ hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
 
 ---
 
-## Формула пункта: 9.1. Градиентные методы
-
-`θₜ₊₁ˡ = θₜˡ - η ∂ Lₜₒₜₐₗ / ∂ θₜˡ`
-
-### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
-
----
-
-## Формула пункта: 9.2. Вычисление градиентов
+##  9.2. Вычисление градиентов
 
 `∂ Lₜₒₜₐₗ / ∂ θₜˡ = - (∊ₜˡ)^\top ∂ ʰₜˡ / ∂ θₜˡ`
 
@@ -2244,7 +2076,7 @@ hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
 
 ---
 
-## Формула пункта: 9.3. Обновление состояний
+##  9.3. Обновление состояний
 
 `hₜˡ = hₜˡ - η ∂ Lₜₒₜₐₗ / ∂ hₜ}`
 
@@ -2253,7 +2085,7 @@ hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
 
 ---
 
-## Формула пункта: 11.1. Одноуровневая модель
+##  11.1. Одноуровневая модель
 
 ```
 ˢₜ = Wₜ hₜ₋₁
@@ -2267,7 +2099,7 @@ Wₜ₊₁ = Wₜ + η ∊ₜ hₜ₋₁^\top
 
 ---
 
-## Формула пункта: 11.2. Расширение на многослойную модель
+##  11.2. Расширение на многослойную модель
 
 ```
 ʰₜˡ = Wₜˡ hₜˡ⁺¹
@@ -2281,16 +2113,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 
 ---
 
-## Формула пункта: 2. Энтропия и когерентность в квантовой механике
-
-`S = -Tr(ρ ln ρ),`
-
-### Ссылки:
-- [Entropy-and-coherence.md](/Entropy-and-coherence.md)
-
----
-
-## Формула пункта: 3.2. Энтропийные потоки и интеграция информации
+##  3.2. Энтропийные потоки и интеграция информации
 
 `dS/dt = -γ I_(интеграции)(t),`
 
@@ -2299,7 +2122,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 
 ---
 
-## Формула пункта: 1.1 Метрики связности рекуррентных слоев
+##  1.1 Метрики связности рекуррентных слоев
 
 `R = f(λ_i)`
 
@@ -2316,7 +2139,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 
 ---
 
-## Формула пункта: 1.2 Информационные потоки и каузальные связи
+##  1.2 Информационные потоки и каузальные связи
 
 `T_Y→X = Σ p(x_t+1, x_t, y_t) log[ p(x_t+1|x_t, y_t) / p(x_t+1|x_t) ]`
 
@@ -2329,7 +2152,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 
 ---
 
-## Формула пункта: 2.1 Бифуркационный анализ
+##  2.1 Бифуркационный анализ
 
 `dx/dt = f(x, u, W, Φₑ)`
 
@@ -2342,7 +2165,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 
 ---
 
-## Формула пункта: 2.2 Методы нелинейной динамики
+##  2.2 Методы нелинейной динамики
 
 `dx/dt = f(x, u, W)`
 
@@ -2357,7 +2180,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 
 ---
 
-## Формула пункта: 3.1 Интегративные информационные меры
+##  3.1 Интегративные информационные меры
 
 `Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) dt`
 
@@ -2374,7 +2197,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 
 ---
 
-## Формула пункта: 3.2 Предсказательные модели
+##  3.2 Предсказательные модели
 
 `P(θ | D) = (P(D | θ) * P(θ)) / P(D)`
 
@@ -2383,7 +2206,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 
 ---
 
-## Формула пункта: 3.2.2 Информационно-геометрические подходы
+##  3.2.2 Информационно-геометрические подходы
 
 `ds^2 = g_ij(Φₑ, R) dθ^i dθ^j`
 
@@ -2392,7 +2215,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 
 ---
 
-## Формула пункта: 3.2.3 Методы активного обучения
+##  3.2.3 Методы активного обучения
 
 `max Φₑ(θ, u)`
 
@@ -2403,7 +2226,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 
 ---
 
-## Формула пункта: 2. Выявление критических режимов работы сети
+##  2. Выявление критических режимов работы сети
 
 `dx/dt = f(x, u, W, Φₑ)`
 
@@ -2412,7 +2235,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 
 ---
 
-## Формула пункта: Выявление критических точек и фазовых переходов
+##  Выявление критических точек и фазовых переходов
 
 `Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) dt`
 
@@ -2423,7 +2246,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 
 ---
 
-## Формула пункта: Методы теории графов для анализа топологии рекуррентных связей
+##  Методы теории графов для анализа топологии рекуррентных связей
 
 `R = f(λ_i)`
 
@@ -2432,7 +2255,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 
 ---
 
-## Формула пункта: Выявление модулярной структуры и иерархической организации
+##  Выявление модулярной структуры и иерархической организации
 
 ```
 C_i = g(ρ_IQI)
@@ -2444,7 +2267,7 @@ C_global = h(ρ_IQI)
 
 ---
 
-## Формула пункта: Связь с интегративными свойствами, описываемыми в ЭИРО
+##  Связь с интегративными свойствами, описываемыми в ЭИРО
 
 ```
 L = l(R, ρ_IQI)
@@ -2456,7 +2279,7 @@ C = m(R, ρ_IQI)
 
 ---
 
-## Формула пункта: Введение квантовых состояний и операторов в модель ЭИРО
+##  Введение квантовых состояний и операторов в модель ЭИРО
 
 `ρ_IQI = lim(Δ V → 0) Δ I / Δ V`
 
@@ -2465,7 +2288,7 @@ C = m(R, ρ_IQI)
 
 ---
 
-## Формула пункта: Квантовые меры интегрированной информации
+##  Квантовые меры интегрированной информации
 
 `QMI = S(ρ_A) + S(ρ_B) - S(ρ_AB)`
 
@@ -2476,7 +2299,7 @@ C = m(R, ρ_IQI)
 
 ---
 
-## Формула пункта: Связь квантовых параметров с ρ_IQI и R
+##  Связь квантовых параметров с ρ_IQI и R
 
 `G_μν + Λ g_μν = 8π G (( T_μν + T_μν^(IQI) ))`
 
@@ -2485,7 +2308,7 @@ C = m(R, ρ_IQI)
 
 ---
 
-## Формула пункта: Выявление "узких мест" в передаче информации
+##  Выявление "узких мест" в передаче информации
 
 `I(X; Y) = Σ p(x, y) log[p(x, y) / (p(x)p(y))]`
 
@@ -2494,7 +2317,7 @@ C = m(R, ρ_IQI)
 
 ---
 
-## Формула пункта: Изучение информационной кривизны и ее связь с интегративными свойствами
+##  Изучение информационной кривизны и ее связь с интегративными свойствами
 
 `R_ij = f(Φₑ, R)`
 
@@ -2503,7 +2326,7 @@ C = m(R, ρ_IQI)
 
 ---
 
-## Формула пункта: Оптимизация архитектуры и обучения на основе информационной геометрии
+##  Оптимизация архитектуры и обучения на основе информационной геометрии
 
 `min ds^2 = min g_ij(Φₑ, R) dθ^i dθ^j`
 
@@ -2512,7 +2335,7 @@ C = m(R, ρ_IQI)
 
 ---
 
-## Формула пункта: Связь между временными масштабами и степенью интеграции
+##  Связь между временными масштабами и степенью интеграции
 
 `Φₑ = Σ w_i Φₑ(τ_i)`
 
@@ -2521,7 +2344,7 @@ C = m(R, ρ_IQI)
 
 ---
 
-## Формула пункта: Анализ способности генеративных моделей к интеграции информации
+##  Анализ способности генеративных моделей к интеграции информации
 
 `OMI = Σ I(X₁; X₂; ... ; Xₙ)`
 
@@ -2532,7 +2355,7 @@ C = m(R, ρ_IQI)
 
 ---
 
-## Формула пункта: Применение энтропийных мер
+##  Применение энтропийных мер
 
 `H(X|Y) = -Σ p(x,y) log p(x|y)`
 
@@ -2543,7 +2366,7 @@ C = m(R, ρ_IQI)
 
 ---
 
-## Формула пункта: 3.2.1. Операторы интеграции и рекуррентности
+##  3.2.1. Операторы интеграции и рекуррентности
 
 `|Ψ 〉 = ^I ^R |𝓘 〉,`
 
@@ -2552,7 +2375,7 @@ C = m(R, ρ_IQI)
 
 ---
 
-## Формула пункта: 3.3.3. Интеграция в пространственно-временной скале
+##  3.3.3. Интеграция в пространственно-временной скале
 
 `Φ_(вселенная) = ∫[V] ρ_(IQI)(x) ⋅ R(x)dV,`
 
@@ -2561,7 +2384,7 @@ C = m(R, ρ_IQI)
 
 ---
 
-## Формула пункта: 4.2.2. Выражение для T_(μν)^(IQI):
+##  4.2.2. Выражение для T_(μν)^(IQI):
 
 `T_(μν)^(IQI) = ρ_(IQI) u_\mu u_\nu + P_(IQI) h_(μν),`
 
@@ -2570,7 +2393,7 @@ C = m(R, ρ_IQI)
 
 ---
 
-## Формула пункта: 6.1.1. Интегрированная информация в мозге
+##  6.1.1. Интегрированная информация в мозге
 
 `Φ_(мозг) = ∫₀^(t₁) I_(нейрон)(t) ⋅ R_(нейрон)(t)dt.`
 
@@ -2579,7 +2402,7 @@ C = m(R, ρ_IQI)
 
 ---
 
-## Формула пункта: 6.1. Модель рекуррентных взаимодействий видов
+##  6.1. Модель рекуррентных взаимодействий видов
 
 `dNᵢ/dt = rᵢ Nᵢ ((1 - Nᵢ/Kᵢ)) + ∑ⱼ αᵢⱼ Nᵢ Nⱼ`
 
@@ -2588,7 +2411,7 @@ C = m(R, ρ_IQI)
 
 ---
 
-## Формула пункта: 3.2 Роль квантовой информации в формировании молекулярных структур и реакций
+##  3.2 Роль квантовой информации в формировании молекулярных структур и реакций
 
 ```
 Энтропия запутанности S_(ent) = -Tr(ρ log ρ)
@@ -2600,7 +2423,7 @@ C = m(R, ρ_IQI)
 
 ---
 
-## Формула пункта: 3.3 Влияние рекуррентности на происхождение и эволюцию химических элементов
+##  3.3 Влияние рекуррентности на происхождение и эволюцию химических элементов
 
 ```
 dY(Z,A)/dt = -λ_(распад) Y(Z,A) + Σ_(реакции) R_(реакции)
@@ -2612,28 +2435,7 @@ R_(реакции) ∝ f(ρ_(IQI), R)
 
 ---
 
-## Формула пункта: 4.2. Влияние интегрированной квантовой информации на ядерные реакции
-
-```
-dY(Z,A)/dt = -λ_(распад) Y(Z,A) + Σ_(реакции) R_(реакции)
-  R_(реакции) ∝ f(ρ_(IQI), R)
-```
-
-### Ссылки:
-- [The-Great-Union-of-Physics-and-Chemistry.md](/The-Great-Union-of-Physics-and-Chemistry.md)
-
----
-
-## Формула пункта: 5.2. Интеграция информации в процессах самоорганизации
-
-`dN/dt = k N,`
-
-### Ссылки:
-- [The-Great-Union-of-Physics-and-Chemistry.md](/The-Great-Union-of-Physics-and-Chemistry.md)
-
----
-
-## Формула пункта: 5.3. Рекуррентные механизмы в возникновении первых биологических систем
+##  5.3. Рекуррентные механизмы в возникновении первых биологических систем
 
 `G = (V, E),`
 
@@ -2644,7 +2446,7 @@ dY(Z,A)/dt = -λ_(распад) Y(Z,A) + Σ_(реакции) R_(реакции)
 
 ---
 
-## Формула пункта: 2.1. Плотность интегрированной квантовой информации ( ρ_(IQI) )
+##  2.1. Плотность интегрированной квантовой информации ( ρ_(IQI) )
 
 `ρ_(IQI) = lim(Δ V → 0) Δ I / Δ V,`
 
@@ -2655,7 +2457,7 @@ dY(Z,A)/dt = -λ_(распад) Y(Z,A) + Σ_(реакции) R_(реакции)
 
 ---
 
-## Формула пункта: 2.3. Эффективное уравнение состояния тёмной энергии
+##  2.3. Эффективное уравнение состояния тёмной энергии
 
 `w_(eff) = w₀ + w₁ ⋅ f(ρ_(IQI), R),`
 
@@ -2666,7 +2468,7 @@ dY(Z,A)/dt = -λ_(распад) Y(Z,A) + Σ_(реакции) R_(реакции)
 
 ---
 
-## Формула пункта: 2.4. Влияние на уравнения Эйнштейна
+##  2.4. Влияние на уравнения Эйнштейна
 
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν)^((материя)) + T_(μν)^((IQI)) )),`
 
@@ -2684,7 +2486,7 @@ p_(IQI) = w_(eff) ρ_(IQI),
 
 ---
 
-## Формула пункта: 2.3. Математическое Описание
+##  2.3. Математическое Описание
 
 `i\hbar dΨ / dt = \hat{H}\Psi,`
 
@@ -2695,7 +2497,7 @@ p_(IQI) = w_(eff) ρ_(IQI),
 
 ---
 
-## Формула пункта: 5.1. Критические значения интегрированной квантовой информации и рекуррентности
+##  5.1. Критические значения интегрированной квантовой информации и рекуррентности
 
 ```
 ρ₍IQI) ≥ ρ₍IQI)ᶜʳⁱᵗ,
@@ -2707,7 +2509,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 5.3. Статистическая оценка вероятности возникновения жизни
+##  5.3. Статистическая оценка вероятности возникновения жизни
 
 `P_(life) = P(ρ_(IQI) ≥ ρ_(IQI)ᶜʳⁱᵗ) × P(R ≥ Rᶜʳⁱᵗ) × P_(chem),`
 
@@ -2718,7 +2520,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 2.1. Влияние энергетического состояния E(t) на физиологический параметр P(t)
+##  2.1. Влияние энергетического состояния E(t) на физиологический параметр P(t)
 
 `P(t) = f(E(t))`
 
@@ -2728,7 +2530,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3. Биоритмические процессы
+##  3. Биоритмические процессы
 
 `P(t) = g(B(t))`
 
@@ -2738,7 +2540,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 2.1. Уравнение Шрёдингера
+##  2.1. Уравнение Шрёдингера
 
 `iℏ (∂ Ψ)/(∂ t) = ^H Ψ,`
 
@@ -2747,7 +2549,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.1. Нелинейность уравнения Шрёдингера
+##  4.1. Нелинейность уравнения Шрёдингера
 
 `iℏ (∂ Ψ)/(∂ t) = ^H Ψ + ^N(Ψ),`
 
@@ -2756,7 +2558,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.2.1. Определение агрегата эмергентного предиката
+##  3.2.1. Определение агрегата эмергентного предиката
 
 `A_(EP) = g(Φₑ, R),`
 
@@ -2783,7 +2585,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 1.2. Комплексный показатель временной организации психических процессов
+##  1.2. Комплексный показатель временной организации психических процессов
 
 `T(t) = Σ(Vi × Pi × Ri)`
 
@@ -2792,7 +2594,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 2.1. Временная перспектива
+##  2.1. Временная перспектива
 
 `V(t) = Fp + Pr + Fu`
 
@@ -2801,7 +2603,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 2.2. Скорость обработки информации
+##  2.2. Скорость обработки информации
 
 `P(t) = I / Δt`
 
@@ -2810,7 +2612,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 2.3. Ритмичность
+##  2.3. Ритмичность
 
 `R(t) = A × sin(ωt + φ)`
 
@@ -2819,7 +2621,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.2. Скоростные характеристики
+##  3.2. Скоростные характеристики
 
 `P(t) = Δt`
 
@@ -2832,7 +2634,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.3. Биологические ритмы
+##  3.3. Биологические ритмы
 
 `R(t) = A × sin(2πt/T + φ)`
 
@@ -2843,7 +2645,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.2. Нейромедиаторные системы
+##  4.2. Нейромедиаторные системы
 
 `NT(t) = (5-HT × DA × GABA) / GLU`
 
@@ -2852,7 +2654,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.3. Осцилляторные процессы
+##  4.3. Осцилляторные процессы
 
 `O(t) = Σ(αi × βi × γi × θi)`
 
@@ -2861,7 +2663,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 1.2. Математическое описание рекуррентных систем
+##  1.2. Математическое описание рекуррентных систем
 
 `d𝐱 / dt = 𝐟(𝐱(t), 𝐮(t), W),`
 
@@ -2874,7 +2676,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 2.2.2. Модифицированные уравнения Эйнштейна
+##  2.2.2. Модифицированные уравнения Эйнштейна
 
 `G_(μν) + Λ g_(μν) = 8π G (T_(μν) + T_(μν)^(IQI)),`
 
@@ -2883,7 +2685,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.1.1. Переосмысление принципа неопределённости
+##  3.1.1. Переосмысление принципа неопределённости
 
 `Δ x ⋅ Δ p ≥ ℏ / 2,`
 
@@ -2894,7 +2696,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.1.2. Энтропия и когерентность
+##  3.1.2. Энтропия и когерентность
 
 `S = -Tr(ρ ln ρ),`
 
@@ -2905,7 +2707,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.2.1. Рекуррентность в химических реакциях
+##  3.2.1. Рекуррентность в химических реакциях
 
 `V_(эфф) = V₀ + V_(рекуррент),`
 
@@ -2914,7 +2716,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.2.2. Молекулярные орбитали и энергетические уровни
+##  3.2.2. Молекулярные орбитали и энергетические уровни
 
 `^H_(эфф) = ^H₀ + ^H_(интегр) + ^H_(рекуррент),`
 
@@ -2924,7 +2726,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.1.1. Фрактальные и бесконечно-дробные структуры
+##  4.1.1. Фрактальные и бесконечно-дробные структуры
 
 `Dᵅ f(x) = 1 / Γ(n - α) dⁿ / dxⁿ ∫₀ˣ f(t) / (x - t)ᵅ ⁻ ⁿ ⁺} dt,`
 
@@ -2933,7 +2735,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.2.2. Информационно-теоретические меры
+##  4.2.2. Информационно-теоретические меры
 
 `S_q = 1 / 1 - q (( 1 - ∑ᵢ pᵢ^q )),`
 
@@ -2944,7 +2746,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 2.1. Понятие интегрированной информации
+##  2.1. Понятие интегрированной информации
 
 `φ = H_(система) - ∑ᵢ H_(подсистемаᵢ),`
 
@@ -2953,16 +2755,17 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.1. Включение информационного тензора энергии-импульса
+##  3.1. Включение информационного тензора энергии-импульса
 
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)⁽ⁱⁿᶠᵒ⁾ )),`
 
 ### Ссылки:
 - [Einsteins-theory-of-gravity.md](/Einsteins-theory-of-gravity.md)
+- [The-search-for-new-theories-in-economics.md](/The-search-for-new-theories-in-economics.md)
 
 ---
 
-## Формула пункта: 3.2. Определение информационного тензора
+##  3.2. Определение информационного тензора
 
 `T_(μν)⁽ⁱⁿᶠᵒ⁾ = κ (( ∇_\mu ρ_I ∇_\nu ρ_I - 1 / 2 g_(μν) ∇^\lambda ρ_I ∇_\lambda ρ_I )),`
 
@@ -2971,7 +2774,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.3. Плотность интегрированной информации
+##  3.3. Плотность интегрированной информации
 
 `ρ_I = lim(Δ V → 0) Δ φ / Δ V,`
 
@@ -2980,7 +2783,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.1. Эффективное уравнение состояния
+##  4.1. Эффективное уравнение состояния
 
 `w_(eff) = w₀ + w₁ f(ρ_I),`
 
@@ -2989,7 +2792,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 2. Теория Эмергентной Интеграции и Рекуррентного Отображения
+##  2. Теория Эмергентной Интеграции и Рекуррентного Отображения
 
 `Φₑ = ∫₀^(t₁) I_(интеграции)(t) ⋅ R_(рекуррентности)(t)dt,`
 
@@ -3002,7 +2805,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3. Теория интеграции квантовой информации и рекуррентности в пространстве-времени
+##  3. Теория интеграции квантовой информации и рекуррентности в пространстве-времени
 
 `ρ_(IQI) = lim(Δ V → 0) Δ I / Δ V,`
 
@@ -3015,7 +2818,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: Формула расчета когерентности
+##  Формула расчета когерентности
 
 `C(f) = |Pxy(f)|^2 / (Pxx(f) * Pyy(f))`
 
@@ -3024,7 +2827,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 5.1. Теория интегрированной информации
+##  5.1. Теория интегрированной информации
 
 `Φ = I(система) - Σ I(части)`
 
@@ -3033,7 +2836,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 2. Теоретические основы
+##  2. Теоретические основы
 
 `M(t) = Σ(Vi × Ei) + α(In) + β(Ex)`
 
@@ -3042,7 +2845,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.1. Дофаминергическая система
+##  4.1. Дофаминергическая система
 
 `D(t) = Σ(NAcc × VTA) × PFC`
 
@@ -3051,7 +2854,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 5.1. Поведенческие маркеры мотивационного компонента M(t)
+##  5.1. Поведенческие маркеры мотивационного компонента M(t)
 
 `Mb = Σ(Ti × Ci) / n`
 
@@ -3060,7 +2863,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.1. Фрактальные производные и интегралы
+##  3.1. Фрактальные производные и интегралы
 
 `D^\alpha f(x) = 1 / Γ(n - α) dⁿ / dxⁿ ∫₀ˣ f(t) / (x - t)ᵅ ⁻ ⁿ ⁺} dt,`
 
@@ -3069,7 +2872,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.1. Плотность интегрированной экономической информации ρ_(IEI)
+##  3.1. Плотность интегрированной экономической информации ρ_(IEI)
 
 `ρ_(IEI) = lim(Δ V → 0) Δ I / Δ V,`
 
@@ -3078,7 +2881,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.3. Эффективные уравнения состояния в экономике
+##  3.3. Эффективные уравнения состояния в экономике
 
 `w_(eff) = w₀ + w₁ f(ρ_(IEI), R_(econ)),`
 
@@ -3087,16 +2890,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.1. Модифицированные уравнения
-
-`G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)ᴵᴱᴵ )),`
-
-### Ссылки:
-- [The-search-for-new-theories-in-economics.md](/The-search-for-new-theories-in-economics.md)
-
----
-
-## Формула пункта: 3.1. Экспоненциальные потенциалы:
+##  3.1. Экспоненциальные потенциалы:
 
 `V(φ) = V₀ e^(-λ φ),`
 
@@ -3105,7 +2899,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.2. Полиномиальные потенциалы:
+##  3.2. Полиномиальные потенциалы:
 
 `V(φ) = V₀ φⁿ,`
 
@@ -3114,7 +2908,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.3. Потенциалы Альфа-аттракторов:
+##  3.3. Потенциалы Альфа-аттракторов:
 
 `V(φ) = V₀ ([1 - exp((- √()3α} φ)))]²,`
 
@@ -3123,7 +2917,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.4. Потенциалы элементов ЭИРО:
+##  3.4. Потенциалы элементов ЭИРО:
 
 `V(φ) = V₀ e^(-λ φ) ⋅ f(ρ_(IQI), R),`
 
@@ -3132,7 +2926,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.1. Определить функциональную форму  f(ρ_(IQI), R) :
+##  4.1. Определить функциональную форму  f(ρ_(IQI), R) :
 
 `f(ρ_(IQI), R) = 1 + β ρ_(IQI) + γ R,`
 
@@ -3145,7 +2939,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.3. Модифицировать уравнения движения:
+##  4.3. Модифицировать уравнения движения:
 
 `φ̈ + 3 H φ̇ + dV₍eff) / dφ = 0,`
 
@@ -3156,7 +2950,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 6.1. Допустим, выбрана функция:
+##  6.1. Допустим, выбрана функция:
 
 `f(ρ_(IQI), R) = e^(-κ (ρ_(IQI) + R)),`
 
@@ -3169,7 +2963,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.2. Рекуррентные эффекты в квантовых системах
+##  4.2. Рекуррентные эффекты в квантовых системах
 
 `R = Tr(( ρ_(IQI)ⁿ )),`
 
@@ -3178,7 +2972,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.3. Модификация уравнений Шрёдингера
+##  4.3. Модификация уравнений Шрёдингера
 
 `i ℏ ∂ / ∂ t Ψ(𝐫, t) = ([ ^H + ^H_(IQI) )] Ψ(𝐫, t),`
 
@@ -3187,7 +2981,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 5.2. Модификация уравнений Эйнштейна
+##  5.2. Модификация уравнений Эйнштейна
 
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^((IQI)) )),`
 
@@ -3197,7 +2991,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4. Скорость приспособления
+##  4. Скорость приспособления
 
 `A(t+1) = A(t) + η * ∇_A J(A, I, R, θ)`
 
@@ -3207,18 +3001,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 5.1. Байесовские модели предсказательного кодирования
-
-`P(θ|D) = P(D|θ) * P(θ) / P(D)`
-
-### Ссылки:
-- [Predictive-coding-as-an-organism-feedback-system.md](/Predictive-coding-as-an-organism-feedback-system.md)
-- [Multimodal-perceptual-representation.md](/Multimodal-perceptual-representation.md)
-- [Philosophical-aspects.md](/Philosophical-aspects.md)
-
----
-
-## Формула пункта: 5.2. Рекуррентные нейронные сети и предсказательное кодирование
+##  5.2. Рекуррентные нейронные сети и предсказательное кодирование
 
 `h(t) = φ(W_hh * h(t-1) + W_hx * x(t) + b_h)`
 
@@ -3227,7 +3010,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 1.2. Применение в нейронных системах
+##  1.2. Применение в нейронных системах
 
 `d𝐱 / dt = 𝐟(𝐱(t), 𝐮(t), W),`
 
@@ -3239,7 +3022,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 2.2. Влияние информационных параметров на метрику пространства-времени
+##  2.2. Влияние информационных параметров на метрику пространства-времени
 
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^(инф) )),`
 
@@ -3248,7 +3031,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 8.1. Информационно-теоретические подходы
+##  8.1. Информационно-теоретические подходы
 
 `MI(X;Y) = ∑p(x,y) log(p(x,y) / (p(x)p(y)))`
 
@@ -3258,7 +3041,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.2. Весовые коэффициенты
+##  4.2. Весовые коэффициенты
 
 `Φₑ = ∑ w_i * C_i`
 
@@ -3267,7 +3050,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.4. Временная динамика
+##  4.4. Временная динамика
 
 `Φₑ(t) = ∑ w_i(t) * C_i(t)`
 
@@ -3276,7 +3059,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.4. Эмерджентная интегрированная информация (Φₑ)
+##  4.4. Эмерджентная интегрированная информация (Φₑ)
 
 `Φₑ = ∫₍t₀₎^(t₁) [ I₍integration₎(t) × R₍recurrence₎(t) ] dt`
 
@@ -3285,7 +3068,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.4.1. Степень интеграции информации (I₍integration₎(t))
+##  4.4.1. Степень интеграции информации (I₍integration₎(t))
 
 `I₍integration₎(t) = ∑₍i,j₎ [ H(Xᵢ(t)) + H(Xⱼ(t)) - H(Xᵢ(t), Xⱼ(t)) ]`
 
@@ -3294,7 +3077,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.4.2. Степень рекуррентной обработки (R₍recurrence₎(t))
+##  4.4.2. Степень рекуррентной обработки (R₍recurrence₎(t))
 
 `R₍recurrence₎(t) = (Number of recurrent connections at time t) / (Total possible recurrent connections)`
 
@@ -3305,7 +3088,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.4.3. Обоснование метрики Φₑ
+##  4.4.3. Обоснование метрики Φₑ
 
 `I₍integration₎(t) и R₍recurrence₎(t)`
 
@@ -3314,7 +3097,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 6.1.1 Аттракторная динамика
+##  6.1.1 Аттракторная динамика
 
 `dx/dt = f(x, u, p)`
 
@@ -3323,7 +3106,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 6.1.2 Стохастические процессы
+##  6.1.2 Стохастические процессы
 
 `P(X(t+1) = j | X(t) = i) = p_{ij}`
 
@@ -3332,7 +3115,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 6.2.1. Эффективность селекции
+##  6.2.1. Эффективность селекции
 
 `Esel = Pout_target / Pout_distractors,`
 
@@ -3341,7 +3124,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 6.2.2. Стабильность внимания
+##  6.2.2. Стабильность внимания
 
 `Satt = 1 - H(x(t)),`
 
@@ -3350,7 +3133,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 6.2.3. Скорость переключения
+##  6.2.3. Скорость переключения
 
 `Sswitch = 1 / τ,`
 
@@ -3359,7 +3142,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 6.1.1. Предсказание
+##  6.1.1. Предсказание
 
 `dρ / dt = -i / ℏ[H, ρ] + 𝓛_(diss)[ρ] + 𝓛_(rec)[ρ],`
 
@@ -3368,7 +3151,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 7.1.2. Выбор формы функции  f
+##  7.1.2. Выбор формы функции  f
 
 `f(ρ_(IQI), R) = α ρ_(IQI) + β R,`
 
@@ -3379,7 +3162,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 7.2.1. Модифицированное уравнение Шрёдингера
+##  7.2.1. Модифицированное уравнение Шрёдингера
 
 `iℏ ∂ / ∂ t Ψ(𝐫, t) = ([ ^H₀ + ^H_(rec)(ρ_(IQI), R) )] Ψ(𝐫, t),`
 
@@ -3388,7 +3171,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 7.2.2. Формулировка рекуррентного гамильтониана  ^H_(rec)
+##  7.2.2. Формулировка рекуррентного гамильтониана  ^H_(rec)
 
 `V_(rec)(ρ_(IQI), R) = μ ρ_(IQI) R,`
 
@@ -3397,16 +3180,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.1. Математическое описание
-
-`Ψ = ^I ^R 𝓘,`
-
-### Ссылки:
-- [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
-
----
-
-## Формула пункта: 4.1. Расширение метрики пространства-времени
+##  4.1. Расширение метрики пространства-времени
 
 `ds² = g_(μν)(x)dx^μ dx^ν + hₐᵦ(y)dyᵃ dyᵇ,`
 
@@ -3415,7 +3189,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.2.1. Зависимость от интегрированной квантовой информации и рекуррентности
+##  4.2.1. Зависимость от интегрированной квантовой информации и рекуррентности
 
 `hₐᵦ(y) = fₐᵦ(ρ_(IQI)(y), R(y)),`
 
@@ -3424,7 +3198,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.2.3. Математическое описание компактности
+##  4.2.3. Математическое описание компактности
 
 `L(y) = L₀ ⋅ e^(-α ρ_(IQI)(y) - β R(y)),`
 
@@ -3433,7 +3207,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.2.4. Пример: производная функция метрики
+##  4.2.4. Пример: производная функция метрики
 
 `hₐᵦ(y) = h₀ₐᵦ + γₐᵦ ρ_(IQI)(y),`
 
@@ -3442,7 +3216,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.3.1. Тензор энергии-импульса и информационные процессы
+##  4.3.1. Тензор энергии-импульса и информационные процессы
 
 `T_(μν) = T_(μν)^(материя) + T_(μν)^(IQI),`
 
@@ -3457,7 +3231,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.3.2. Включение в уравнения Эйнштейна
+##  4.3.2. Включение в уравнения Эйнштейна
 
 `G_(μν) = κ (( T_(μν)^(материя) + T_(μν)^(IQI) )),`
 
@@ -3474,7 +3248,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 5.1. Как связаны сознание и космос?
+##  5.1. Как связаны сознание и космос?
 
 ```
 Φ_(мозг) = ∫₀^(t₁) I_(нейрон)(t) ⋅ R_(нейрон)(t)dt,
@@ -3486,7 +3260,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.1. Классический принцип минимального действия
+##  3.1. Классический принцип минимального действия
 
 `S = ∫_(t₁)^(t₂) L(q, q̇, t)dt,`
 
@@ -3495,7 +3269,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.3. Модифицированный лагранжиан с учетом информационных факторов
+##  3.3. Модифицированный лагранжиан с учетом информационных факторов
 
 `L' = L + L_(инф),`
 
@@ -3506,7 +3280,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.4. Новое уравнение движения
+##  3.4. Новое уравнение движения
 
 `S' = ∫_(t₁)^(t₂) L'dt,`
 
@@ -3517,7 +3291,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.1. Эффективное уравнение состояния
+##  4.1. Эффективное уравнение состояния
 
 `w_(eff) = w₀ + w₁ f(ρ_(IQI), R),`
 
@@ -3528,7 +3302,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 1.1. Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО):
+##  1.1. Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО):
 
 `Φₑ = ∫₀^(t₁) I_(интеграции)(t) ⋅ R_(рекуррентности)(t)dt`
 
@@ -3541,7 +3315,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 1.2. Новые физические величины и космологические теории:
+##  1.2. Новые физические величины и космологические теории:
 
 `ρ_(IQI) = lim(Δ V → 0) Δ I / Δ V`
 
@@ -3554,7 +3328,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 1.3. Закон сохранения в общей теории относительности
+##  1.3. Закон сохранения в общей теории относительности
 
 `∇_μ T^(μν) = 0,`
 
@@ -3563,7 +3337,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.1. Введение новых величин
+##  3.1. Введение новых величин
 
 `T^(μν) → T^(μν) + T^(μν)_(IQI).`
 
@@ -3572,7 +3346,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.2. Формализация дополнительного тензора
+##  3.2. Формализация дополнительного тензора
 
 `T^(μν)_(IQI) = ρ_(IQI) u^μ u^ν + p_(IQI) h^(μν),`
 
@@ -3581,7 +3355,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.3. Свойства дополнительного тензора
+##  3.3. Свойства дополнительного тензора
 
 `∇_μ T^(μν)_(IQI) = 0.`
 
@@ -3590,7 +3364,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.1. Ковариантное сохранение модифицированного тензора
+##  4.1. Ковариантное сохранение модифицированного тензора
 
 `∇_μ (( T^(μν) + T^(μν)_(IQI) )) = 0.`
 
@@ -3599,7 +3373,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.2. Математическое доказательство сохранения
+##  4.2. Математическое доказательство сохранения
 
 `∇_μ T^(μν)_(IQI) = ∇_μ (( ρ_(IQI) u^μ u^ν + p_(IQI) h^(μν) )) = 0.`
 
@@ -3608,7 +3382,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.1.1. Рекуррентные автокаталитические циклы
+##  4.1.1. Рекуррентные автокаталитические циклы
 
 `R = Количество рекуррентных циклов / Общее количество реакци}`
 
@@ -3617,7 +3391,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.1.2. Интеграция квантовой информации и хиральность
+##  4.1.2. Интеграция квантовой информации и хиральность
 
 `ρ_(IQI) = ∫[V] ψ^* ^H \psidV,`
 
@@ -3626,7 +3400,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.2.1. Интегрированная квантовая информация в биомолекулах
+##  4.2.1. Интегрированная квантовая информация в биомолекулах
 
 `ρ_(IQI) = ∑ᵢ pᵢ log (( 1 / pᵢ )),`
 
@@ -3635,34 +3409,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.2.2. Рекуррентность в сигнальных путях
-
-`R = Частота обратных процессов / Общая частота реакци}`
-
-### Ссылки:
-- [new-theories-in-chemistry.md](/new-theories-in-chemistry.md)
-
----
-
-## Формула пункта: 3.1. Интегрированная квантовая информация и плотность ρ₍IQI₎
-
-`ρ_(IQI) = lim(Δ V → 0) (Δ I)/(Δ V)`
-
-### Ссылки:
-- [New-types-of-energy.md](/New-types-of-energy.md)
-
----
-
-## Формула пункта: 3.3. Модифицированные уравнения Эйнштейна
-
-`G(μν) + Λ g(μν) = 8π G (( T(μν) + T(μν)^(IQI) ))`
-
-### Ссылки:
-- [New-types-of-energy.md](/New-types-of-energy.md)
-
----
-
-## Формула пункта: 2.1. Коммутационные соотношения в квантовой механике
+##  2.1. Коммутационные соотношения в квантовой механике
 
 `[^x, ^p] = iℏ,`
 
@@ -3671,7 +3418,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 2.2. Принцип неопределённости
+##  2.2. Принцип неопределённости
 
 `Δ x Δ p ≥ ℏ / 2.`
 
@@ -3680,26 +3427,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.2. Эмергентная интегрированная информация Φₑ
-
-`Φₑ = ∫₀^(t₁) I_(интеграции)(t) ⋅ R_(рекуррентности)(t)dt.`
-
-### Ссылки:
-- [Switching-relations.md](/Switching-relations.md)
-- [emergent-learning-through-recurrent-neural-networks.md](/emergent-learning-through-recurrent-neural-networks.md)
-
----
-
-## Формула пункта: 5.1. Новые коммутационные соотношения
-
-`[^x, ^p] = iℏ (1 + f(Φₑ)),`
-
-### Ссылки:
-- [Switching-relations.md](/Switching-relations.md)
-
----
-
-## Формула пункта: 5.3. Математическое рассмотрение
+##  5.3. Математическое рассмотрение
 
 `[^x, ^p] = iℏ + iλ Φₑ,`
 
@@ -3708,7 +3436,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 6.3. Космология
+##  6.3. Космология
 
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^((Φₑ)) )),`
 
@@ -3718,7 +3446,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 1.1. Базовая формула:
+##  1.1. Базовая формула:
 
 `V(t) = Σ(Bi × Fi) × P(t)`
 
@@ -3727,7 +3455,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 2.1. Принцип минимальной достаточности
+##  2.1. Принцип минимальной достаточности
 
 `Vmin = E(t) / R(t)`
 
@@ -3736,7 +3464,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 2.2. Принцип оптимальной вариативности
+##  2.2. Принцип оптимальной вариативности
 
 `Vopt = H × C`
 
@@ -3745,7 +3473,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 3.2. Креативность решений
+##  3.2. Креативность решений
 
 `Cr = N × O × F`
 
@@ -3754,7 +3482,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.2. Нейромедиаторные системы, модулирующие вариативность поведения V(t)
+##  4.2. Нейромедиаторные системы, модулирующие вариативность поведения V(t)
 
 `V(t) = D × S × N`
 
@@ -3763,7 +3491,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 4.3. Синаптическая пластичность
+##  4.3. Синаптическая пластичность
 
 `ΔW = η × pre × post`
 
@@ -3772,7 +3500,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 5.3. Количественные метрики
+##  5.3. Количественные метрики
 
 `Vindex = (Np × Tp) / T`
 
@@ -3781,7 +3509,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ---
 
-## Формула пункта: 8.1. Математическое моделирование вариативности поведения V(t)
+##  8.1. Математическое моделирование вариативности поведения V(t)
 
 `V(t) = H(t) × IC(t)`
 
@@ -3802,7 +3530,7 @@ dz/dt = xy - βz
 
 ---
 
-## Формула пункта: 6.2.1. Классический эффект Холла
+##  6.2.1. Классический эффект Холла
 
 `σₓᵧ = e² / h ν,`
 
@@ -3811,7 +3539,7 @@ dz/dt = xy - βz
 
 ---
 
-## Формула пункта: 4.3. Математическое моделирование
+##  4.3. Математическое моделирование
 
 `А(t) = σ((∫₀ᵗ I_(интеграции)(τ) ⋅ R_(рекуррентности)(τ)dτ)),`
 
@@ -3820,7 +3548,7 @@ dz/dt = xy - βz
 
 ---
 
-## Формула пункта: 4.4. Обучение с учетом рекуррентности
+##  4.4. Обучение с учетом рекуррентности
 
 `𝓛 = 𝓛_(стандарт) + λ (( -Φₑ )),`
 
@@ -3829,7 +3557,7 @@ dz/dt = xy - βz
 
 ---
 
-## Формула пункта: 3. Влияние когнитивной сложности на интеграцию информации
+##  3. Влияние когнитивной сложности на интеграцию информации
 
 `Φₑ = ∫₀^(t₁) I(t) ⋅ R(t) ⋅ E(t) ⋅ w_C ⋅ C(t) ⋅ w_S ⋅ S(t) ⋅ w_A ⋅ A(t) ⋅ w_M ⋅ M(t) ⋅ w_P ⋅ P(t) ⋅ w_V ⋅ V(t) ⋅ w_T ⋅ T(t) ⋅ w_K ⋅ K(t) dt`
 
@@ -3839,7 +3567,7 @@ dz/dt = xy - βz
 
 ---
 
-## Формула пункта: 4.1. Использование иерархических байесовских моделей
+##  4.1. Использование иерархических байесовских моделей
 
 ```
 p(x, z | θ) = p(x | z, θ) p(z | θ)
@@ -3852,7 +3580,7 @@ p(z | θ) = ∏_i p(z_i | z_{i-1}, θ_i)
 
 ---
 
-## Формула пункта: 4.2. Применение нейронных сетей для оценки сложности ментальных репрезентаций
+##  4.2. Применение нейронных сетей для оценки сложности ментальных репрезентаций
 
 ```
 h_l = f(W_l * h_{l-1} + b_l)
@@ -3865,7 +3593,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 8.1.1 Уровень абстрактного мышления
+##  8.1.1 Уровень абстрактного мышления
 
 `Ab(t) = ∑(Ci × Wi)`
 
@@ -3874,7 +3602,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 8.1.2 Сложность ментальных моделей
+##  8.1.2 Сложность ментальных моделей
 
 `Mc = Nc × Rc`
 
@@ -3883,7 +3611,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 8.1.3 Способность к анализу
+##  8.1.3 Способность к анализу
 
 `Dp(t) = ∑_i w_i × Ci(t)`
 
@@ -3896,7 +3624,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 8.2.1 Эмоциональный компонент (E)
+##  8.2.1 Эмоциональный компонент (E)
 
 `E(t) = C(t) × Ef`
 
@@ -3905,7 +3633,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 8.2.2 Интеллектуальный компонент (I)
+##  8.2.2 Интеллектуальный компонент (I)
 
 `I(t) = C(t) + ∑(Li × Ki)`
 
@@ -3914,7 +3642,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 8.2.3 Рефлексивный компонент (R)
+##  8.2.3 Рефлексивный компонент (R)
 
 `R(t) = C(t) × Rf × Mf`
 
@@ -3923,7 +3651,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 8.2.4 Организационный компонент (O)
+##  8.2.4 Организационный компонент (O)
 
 `O(t) = C(t) × Sf × Pf`
 
@@ -3932,7 +3660,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 8.3.1 Количественные показатели
+##  8.3.1 Количественные показатели
 
 `C(t) = α₁E(t) + α₂I(t) + α₃R(t) + α₄O(t)`
 
@@ -3941,7 +3669,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 8.4.1 Факторы роста
+##  8.4.1 Факторы роста
 
 `ΔC(t) = C(t₁) - C(t₀)`
 
@@ -3950,7 +3678,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 8.5.2 Развитие
+##  8.5.2 Развитие
 
 `D(t) = C(t) × Ef × Tf`
 
@@ -3959,7 +3687,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 2.1. Рекуррентные нейронные сети
+##  2.1. Рекуррентные нейронные сети
 
 `𝐡ₜ = φ(𝑊ₓₕ 𝐱ₜ + 𝑊ₕₕ 𝐡ₜ₋₁ + 𝐛ₕ),`
 
@@ -3968,7 +3696,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 3.2. Математическая модель
+##  3.2. Математическая модель
 
 `𝐡ₜ = φ(𝑊ₓₕ 𝐱ₜ + 𝑊ₕₕ 𝐡ₜ₋₁ + 𝑊ₕₐ 𝐚ₜ + 𝑊ₕₚ 𝐩ₜ + 𝐛ₕ),`
 
@@ -3979,7 +3707,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 3.1. Выделение значимой информации
+##  3.1. Выделение значимой информации
 
 `sᵢ = S(dᵢ, C, θ),`
 
@@ -3988,7 +3716,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 4.1. Алгоритм оценки значимости информации
+##  4.1. Алгоритм оценки значимости информации
 
 `sᵢ = σ(W_(знач) ⋅ φ(dᵢ) + b_(знач)),`
 
@@ -3997,7 +3725,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 2. Математическая модель
+##  2. Математическая модель
 
 `(d𝐱(t))/dt = 𝐟(( 𝐱(t), 𝐮(t), 𝑊 ))`
 
@@ -4006,7 +3734,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 3.4. Пример: Простая рекуррентная сеть
+##  3.4. Пример: Простая рекуррентная сеть
 
 `𝐡(t) = φ(( 𝑊ₕₕ 𝐡(t - 1) + 𝑊ₕₓ 𝐱(t) + 𝐛ₕ ))`
 
@@ -4017,7 +3745,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 6.1. Информационно-теоретические метрики интеграции
+##  6.1. Информационно-теоретические метрики интеграции
 
 `MI(X;Y) = ∑p(x,y) log(p(x,y) / (p(x)p(y)))`
 
@@ -4028,7 +3756,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 6.3. Связь интегративности с параметром Φₑ в теории ЭИРО
+##  6.3. Связь интегративности с параметром Φₑ в теории ЭИРО
 
 `Φₑ = ∫₀^(t₁) I(t) ⋅ R(t) dt`
 
@@ -4037,7 +3765,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 9.1. Связь между способностью к интеграции и гибкостью поведения
+##  9.1. Связь между способностью к интеграции и гибкостью поведения
 
 `A(t+1) = f(I(t), A(t), θ)`
 
@@ -4046,7 +3774,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: 9.2. Роль интегративности в обучении и решении новых задач
+##  9.2. Роль интегративности в обучении и решении новых задач
 
 `L(t+1) = g(I(t), L(t), D(t))`
 
@@ -4055,7 +3783,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: Связь с теорией ЭИРО
+##  Связь с теорией ЭИРО
 
 `Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) ⋅ E(эмоциональности)(t) dt`
 
@@ -4065,7 +3793,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: Влияние E(t) на Φₑ
+##  Влияние E(t) на Φₑ
 
 `Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) ⋅ 1 dt = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) dt`
 
@@ -4076,7 +3804,7 @@ C(t) = g(h_L)
 
 ---
 
-## Формула пункта: Модель RNN с эмоциональным компонентом
+##  Модель RNN с эмоциональным компонентом
 
 ```
 h(t) = φ(W_hh * h(t-1) + W_hx * x(t) + W_he * e(t) + b_h)
@@ -4089,7 +3817,7 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 
 ---
 
-## Формула пункта: 1.1.2. Математическое описание
+##  1.1.2. Математическое описание
 
 `G_(μν) + Λ g_(μν) = 8π G / c⁴ (( T_(μν) + T_(μν)^(IQI) ))`
 
@@ -4098,7 +3826,7 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 
 ---
 
-## Формула пункта: 2.3.3. Математическое описание
+##  2.3.3. Математическое описание
 
 `α_(μν) = (4 G / c²) ∫ Σ(x,y) (x-x₀,y-y₀) / |x-x₀|² dx dy`
 
@@ -4109,7 +3837,7 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 
 ---
 
-## Формула пункта: 3.1. Конденсаты Бозе-Эйнштейна, стабилизированные высокой интегрированной квантовой информацией.
+##  3.1. Конденсаты Бозе-Эйнштейна, стабилизированные высокой интегрированной квантовой информацией.
 
 `i ℏ ∂Ψ/∂t = (-ℏ²/2m ∇² + V(r) + g|Ψ|² + Φ_(IQI)) Ψ`
 
@@ -4118,7 +3846,7 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 
 ---
 
-## Формула пункта: 4.2.3. Математические основы новых подходов
+##  4.2.3. Математические основы новых подходов
 
 `i ℏ ∂ |Ψ⟩/∂t = (Ĥ₀ + Ĥ_(IQI) + Ĥ_(рек)) |Ψ⟩`
 
@@ -4129,26 +3857,18 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 
 ---
 
-## Формула пункта: 3.2. Ключевые аспекты:
+##  3.2. Ключевые аспекты:
 
 `d𝐱(t) / dt = 𝐟(𝐱(t), 𝐮(t), W)`
 
 ### Ссылки:
 - [Decoding-DNA.md](/Decoding-DNA.md)
+- [integrative-recurrent-genome-analysis.md](/integrative-recurrent-genome-analysis.md)
+- [computer-science.md](/computer-science.md)
 
 ---
 
-## Формула пункта: Математическое представление эмерджентной интегрированной информации
-
-`Φₑ = ∫₀^(t₁) I_(интеграции)(t) ⋅ R_(рекуррентности)(t) dt`
-
-### Ссылки:
-- [Decoding-DNA.md](/Decoding-DNA.md)
-- [Decoding-DNA/Viruses.md](/Decoding-DNA/Viruses.md)
-
----
-
-## Формула пункта: Основные этапы создания признакового пространства:
+##  Основные этапы создания признакового пространства:
 
 `X = [x₁, x₂, ..., xₙ]`
 
@@ -4157,7 +3877,7 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 
 ---
 
-## Формула пункта: Архитектура базовой RNN
+##  Архитектура базовой RNN
 
 ```
 h_t = f(x_t, h_{t-1})
@@ -4169,7 +3889,7 @@ y_t = g(h_t)
 
 ---
 
-## Формула пункта: LSTM (Long Short-Term Memory)
+##  LSTM (Long Short-Term Memory)
 
 ```
 f_t = σ(W_f ⋅ [h_{t-1}, x_t] + b_f)
@@ -4184,7 +3904,7 @@ h_t = o_t ⊙ tanh(C_t)
 
 ---
 
-## Формула пункта: GRU (Gated Recurrent Unit)
+##  GRU (Gated Recurrent Unit)
 
 ```
 z_t = σ(W_z ⋅ [h_{t-1}, x_t])
@@ -4197,7 +3917,7 @@ h_t = (1 - z_t) ⊙ h_{t-1} + z_t ⊙ tanh(W ⋅ [r_t ⊙ h_{t-1}, x_t])
 
 ---
 
-## Формула пункта: Интеграция эпигенетических данных
+##  Интеграция эпигенетических данных
 
 ```
 x_i = [x_seq, x_methyl, x_histone]
@@ -4210,7 +3930,7 @@ y_t = g(h_t)
 
 ---
 
-## Формула пункта: Включение транскриптомных данных
+##  Включение транскриптомных данных
 
 ```
 x_i = [x_seq, x_expr]
@@ -4223,7 +3943,7 @@ y_t = g(h_t)
 
 ---
 
-## Формула пункта: Использование протеомных данных
+##  Использование протеомных данных
 
 ```
 x_i = [x_seq, x_protein]
@@ -4236,7 +3956,7 @@ y_t = g(h_t)
 
 ---
 
-## Формула пункта: Объединение разнородных данных
+##  Объединение разнородных данных
 
 ```
 x_i = [x_seq, x_methyl, x_histone, x_expr, x_protein]
@@ -4249,7 +3969,7 @@ y_t = g(h_t)
 
 ---
 
-## Формула пункта: Роль интегрированной информации и рекуррентности
+##  Роль интегрированной информации и рекуррентности
 
 `y = f(X, W)`
 
@@ -4258,16 +3978,7 @@ y_t = g(h_t)
 
 ---
 
-## Формула пункта: Реконструкция генных регуляторных сетей
-
-`G = (V, E)`
-
-### Ссылки:
-- [Decoding-DNA.md](/Decoding-DNA.md)
-
----
-
-## Формула пункта: Выявление ключевых узлов
+##  Выявление ключевых узлов
 
 `Centrality(v) = ∑_u∈V w(v,u)`
 
@@ -4280,7 +3991,7 @@ y_t = g(h_t)
 
 ---
 
-## Формула пункта: Выявление функциональных модулей
+##  Выявление функциональных модулей
 
 `C = argmax_c ∑_v,u∈c w(v,u) - d_c^2 / 2m`
 
@@ -4289,7 +4000,7 @@ y_t = g(h_t)
 
 ---
 
-## Формула пункта: Механизмы внимания (Attention Mechanisms)
+##  Механизмы внимания (Attention Mechanisms)
 
 ```
 h_t = f(x_t, h_{t-1})
@@ -4302,7 +4013,7 @@ y_t = ∑_t a_t * h_t
 
 ---
 
-## Формула пункта: Методы объяснения на основе градиентов
+##  Методы объяснения на основе градиентов
 
 `∂y / ∂x_i`
 
@@ -4311,7 +4022,7 @@ y_t = ∑_t a_t * h_t
 
 ---
 
-## Формула пункта: 3.3 Математическая формализация
+##  3.3 Математическая формализация
 
 `Φ = S(ρ_S || ⊗ᵢ ρᵢ),`
 
@@ -4320,7 +4031,7 @@ y_t = ∑_t a_t * h_t
 
 ---
 
-## Формула пункта: 6.2 Вывод модифицированных уравнений и их интерпретация
+##  6.2 Вывод модифицированных уравнений и их интерпретация
 
 `S = ∫(( R / 16π G + 𝓛ₘₐₜₜₑᵣ + 𝓛_(IQI) )) √(-g)d⁴x,`
 
@@ -4329,7 +4040,7 @@ y_t = ∑_t a_t * h_t
 
 ---
 
-## Формула пункта: 7.1 Проблема сингулярности в стандартной модели
+##  7.1 Проблема сингулярности в стандартной модели
 
 ```
 (( ȧ / a ))² + k c² / a² = 8π G / 3 ρ + Λ c² / 3,
@@ -4341,7 +4052,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 7.2 Эмергентная интеграция как механизм рождения Вселенной
+##  7.2 Эмергентная интеграция как механизм рождения Вселенной
 
 `ρ_(IQI) = lim(Δ V → 0) Δ I / Δ V,`
 
@@ -4376,7 +4087,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 7.3. Возможность избегания сингулярности
+##  7.3. Возможность избегания сингулярности
 
 `ρ̇_(IQI) + 3 ȧ / a (ρ_(IQI) + p_(IQI)) = 0.`
 
@@ -4393,7 +4104,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 1.1. Ограничения традиционных мер энтропии
+##  1.1. Ограничения традиционных мер энтропии
 
 `S = -∑ᵢ pᵢ ln pᵢ`
 
@@ -4402,7 +4113,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 2.1. Энтропия Реньи и Цаллиса
+##  2.1. Энтропия Реньи и Цаллиса
 
 `S_q^(Реньи) = 1 / 1 - q ln (( ∑ᵢ pᵢ^q ))`
 
@@ -4413,7 +4124,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 2.2. Меры интегрированной информации
+##  2.2. Меры интегрированной информации
 
 `Φ = S(ρ_(разд)) - S(ρ)`
 
@@ -4422,7 +4133,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 3.2. Квантовая запутанность и нелокальность
+##  3.2. Квантовая запутанность и нелокальность
 
 `Φ(ρ) = S(ρ_(разд)) - S(ρ)`
 
@@ -4431,7 +4142,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 3.3. Происхождение сознания
+##  3.3. Происхождение сознания
 
 `Φₑ = ∫₀^(t₁) I_(инт)(t) ⋅ R(t)dt`
 
@@ -4440,7 +4151,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 2. Вклад ИКИ в тензор энергии-импульса
+##  2. Вклад ИКИ в тензор энергии-импульса
 
 `T(μν)^((общий)) = T(μν)^((материя)) + T_(μν)^((ИКИ)).`
 
@@ -4449,7 +4160,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 3. Предложение формы T_(μν)^((ИКИ))
+##  3. Предложение формы T_(μν)^((ИКИ))
 
 `T(μν)^((ИКИ)) = κ (( ∇\mu ρ(ИКИ) ∇\nu ρ(ИКИ) - ½ g(μν) (∇^\lambda ρ(ИКИ) ∇\lambda ρ(ИКИ)) )) - g(μν) V(ρ_(ИКИ)),`
 
@@ -4458,7 +4169,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 5. Уравнения поля и взаимодействие с геометрией
+##  5. Уравнения поля и взаимодействие с геометрией
 
 `G(μν) + Λ g(μν) = 8π G (( T(μν)^((материя)) + T(μν)^((ИКИ)) )).`
 
@@ -4467,7 +4178,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 6. Динамика плотности ИКИ
+##  6. Динамика плотности ИКИ
 
 `S = ∫(( ½ κ (∇^\mu ρ(ИКИ))(∇\mu ρ(ИКИ)) - V(ρ(ИКИ)) )) √(-g) d⁴x.`
 
@@ -4478,7 +4189,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 7. Связь с геометрическими свойствами
+##  7. Связь с геометрическими свойствами
 
 `V(ρ(ИКИ)) = ½ m² ρ(ИКИ)² + ξ R ρ_(ИКИ)²,`
 
@@ -4489,7 +4200,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 10. Пример численной оценки
+##  10. Пример численной оценки
 
 `□ ρ(ИКИ) - ξ R ρ(ИКИ) = 0.`
 
@@ -4498,7 +4209,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 1. Традиционное представление принципа неопределённости
+##  1. Традиционное представление принципа неопределённости
 
 `Δ x ⋅ Δ p ≥ ℏ / 2,`
 
@@ -4507,7 +4218,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 2.3. Модифицированный принцип неопределённости
+##  2.3. Модифицированный принцип неопределённости
 
 `Δ x ⋅ Δ p ≥ ℏ₍eff) / 2,`
 
@@ -4516,7 +4227,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 2.3. Роль рекуррентности в химических процессах
+##  2.3. Роль рекуррентности в химических процессах
 
 `dY(Z,A)/dt = -λ_(распад) Y(Z,A) + Σ_(реакции) R_(реакции)`
 
@@ -4525,7 +4236,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 3.3.2. Резонансные туннельные процессы
+##  3.3.2. Резонансные туннельные процессы
 
 `(Ĥ₀ + Ĥ_(IQI) + Ĥ_(рек)) Ψ = E Ψ`
 
@@ -4534,7 +4245,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 5.1.1. Математическое описание
+##  5.1.1. Математическое описание
 
 `V(Φ) = μ² |Φ|² + λ |Φ|⁴ + α ρ_(IQI) |Φ|² + β R |∂Φ/∂t|²`
 
@@ -4545,7 +4256,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 5.2.1. Математическое описание
+##  5.2.1. Математическое описание
 
 `Ĥ = Ĥ₀ + Ĥ_(IQI) + Ĥ_(рек)`
 
@@ -4556,7 +4267,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 5.3.1. Оптические свойства
+##  5.3.1. Оптические свойства
 
 `ε(ω) = ε₀(ω) + Δε(ρ_(IQI), R, ω)`
 
@@ -4565,7 +4276,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 5.4.1. Математическое описание
+##  5.4.1. Математическое описание
 
 `Ĥ = Ĥ₀ + α ρ_(IQI) + β R`
 
@@ -4578,7 +4289,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 3. Математическое описание
+##  3. Математическое описание
 
 `V(эфф) = V₀ + V(рекуррент),`
 
@@ -4587,7 +4298,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 2.1. Валентность эмоций
+##  2.1. Валентность эмоций
 
 `V(t) = tanh(a(t))`
 
@@ -4596,7 +4307,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 2.2. Возбуждение эмоций
+##  2.2. Возбуждение эмоций
 
 `A(t) = sigmoid(b(t))`
 
@@ -4607,7 +4318,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 2.3. Специфичность эмоций
+##  2.3. Специфичность эмоций
 
 `S(t) = softmax(c(t))`
 
@@ -4616,7 +4327,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 2.4. Динамика эмоциональных процессов
+##  2.4. Динамика эмоциональных процессов
 
 `D(t) = RNN(d(t-1), e(t))`
 
@@ -4625,7 +4336,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 3.1.1. K-means кластеризация
+##  3.1.1. K-means кластеризация
 
 `c(x) = argmin_j ||x - μ_j||^2.`
 
@@ -4636,7 +4347,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 3.1.2. Гауссовские смеси
+##  3.1.2. Гауссовские смеси
 
 `p(x) = Σ_k π_k N(x | μ_k, Σ_k)`
 
@@ -4645,7 +4356,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ---
 
-## Формула пункта: 3.3.2. Математическое описание RNN для моделирования динамики эмоций
+##  3.3.2. Математическое описание RNN для моделирования динамики эмоций
 
 ```
 h(t) = φ(W_hh * h(t-1) + W_hx * x(t) + b_h)
@@ -4658,7 +4369,7 @@ D(t) = e(t)
 
 ---
 
-## Формула пункта: 1.1.2. Влияние когнитивной сложности на интеграцию информации
+##  1.1.2. Влияние когнитивной сложности на интеграцию информации
 
 `Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) ⋅ C(когнитивной сложности)(t) dt`
 
@@ -4667,7 +4378,7 @@ D(t) = e(t)
 
 ---
 
-## Формула пункта: 1.3.3. Математическое описание параметра A(t)
+##  1.3.3. Математическое описание параметра A(t)
 
 `dA/dt = f(A, I, R, θ)`
 
@@ -4680,7 +4391,7 @@ D(t) = e(t)
 
 ---
 
-## Формула пункта: 1.4.3. Моделирование мотивационного аспекта в ЭИРО
+##  1.4.3. Моделирование мотивационного аспекта в ЭИРО
 
 `M(t) = ∑_i p(G_i|x(t)) U(G_i)`
 
@@ -4693,7 +4404,7 @@ D(t) = e(t)
 
 ---
 
-## Формула пункта: 2.4.1. Использование теории ожидаемой полезности
+##  2.4.1. Использование теории ожидаемой полезности
 
 `M(t) = ∑_i p(G_i|x(t)) U(G_i)`
 
@@ -4702,7 +4413,7 @@ D(t) = e(t)
 
 ---
 
-## Формула пункта: 2.4.2. Байесовские модели принятия решений
+##  2.4.2. Байесовские модели принятия решений
 
 `M(t) = argmax_a ∑_s p(s|x(t)) U(a, s)`
 
@@ -4711,7 +4422,7 @@ D(t) = e(t)
 
 ---
 
-## Формула пункта: 2.5.1. Модели на основе физиологических измерений
+##  2.5.1. Модели на основе физиологических измерений
 
 `P(t) = f(E(t))`
 
@@ -4722,7 +4433,7 @@ D(t) = e(t)
 
 ---
 
-## Формула пункта: 2.6.2. Модели на основе энтропии и информационной сложности
+##  2.6.2. Модели на основе энтропии и информационной сложности
 
 `H(V) = -∑_i p(v_i) log p(v_i)`
 
@@ -4733,7 +4444,7 @@ D(t) = e(t)
 
 ---
 
-## Формула пункта: 2.1.2. Математическое описание
+##  2.1.2. Математическое описание
 
 `ρ_(IQI) = lim(Δ V → 0) Δ I / Δ V,`
 
@@ -4744,7 +4455,7 @@ D(t) = e(t)
 
 ---
 
-## Формула пункта: 3.2. Член интеграции информации ( ^H_(интегр) )
+##  3.2. Член интеграции информации ( ^H_(интегр) )
 
 `^H_(интегр) = ∑_(i<j) γᵢⱼ ^Iᵢⱼ,`
 
@@ -4753,7 +4464,7 @@ D(t) = e(t)
 
 ---
 
-## Формула пункта: 3.3. Член рекуррентных взаимодействий ( ^H_(рекуррент) )
+##  3.3. Член рекуррентных взаимодействий ( ^H_(рекуррент) )
 
 `^H_(рекуррент) = ∑_(i<j) λᵢⱼ ^Rᵢⱼ,`
 
@@ -4762,7 +4473,7 @@ D(t) = e(t)
 
 ---
 
-## Формула пункта: 3.4. Влияние на уравнение Шрёдингера
+##  3.4. Влияние на уравнение Шрёдингера
 
 `^H_(эфф) Ψ = E Ψ,`
 
@@ -4771,7 +4482,7 @@ D(t) = e(t)
 
 ---
 
-## Формула пункта: 2.2. Капсидные и суперкапсидные структуры
+##  2.2. Капсидные и суперкапсидные структуры
 
 `Ĥ_(капсид) = Σ_i Σ_j γ_ij Î_ij`
 
@@ -4782,7 +4493,7 @@ D(t) = e(t)
 
 ---
 
-## Формула пункта: 2.3. Интеграция информации в вирусных частицах
+##  2.3. Интеграция информации в вирусных частицах
 
 `I_(интеграции)(t) = Σ_i Σ_j I_ij(t)`
 
@@ -4792,7 +4503,7 @@ D(t) = e(t)
 
 ---
 
-## Формула пункта: 3.1. Горизонтальный перенос генетического материала
+##  3.1. Горизонтальный перенос генетического материала
 
 `dG/dt = f(G, V, I, R)`
 
@@ -4801,7 +4512,7 @@ D(t) = e(t)
 
 ---
 
-## Формула пункта: 3.3. Роль вирусов в эволюции геномов
+##  3.3. Роль вирусов в эволюции геномов
 
 `dG/dt = f(G, V, I, R, μ)`
 
@@ -4810,7 +4521,7 @@ D(t) = e(t)
 
 ---
 
-## Формула пункта: 4.1.2. Коэволюционная гипотеза:
+##  4.1.2. Коэволюционная гипотеза:
 
 ```
 dV/dt = f(V, H, I, R)  
@@ -4822,7 +4533,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: 4.3. Роль рекуррентности в эволюции вирусов
+##  4.3. Роль рекуррентности в эволюции вирусов
 
 `dV/dt = f(V, H, I, R)`
 
@@ -4831,7 +4542,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: 5.2. Интеграция информации и рекуррентность в таксономии
+##  5.2. Интеграция информации и рекуррентность в таксономии
 
 `I_(интеграции)(t) = Σ_i Σ_j I_ij(t)`
 
@@ -4843,7 +4554,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: 3.1.2. Количественная оценка:
+##  3.1.2. Количественная оценка:
 
 `I(X;Y) = H(X) + H(Y) - H(X,Y)`
 
@@ -4852,7 +4563,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: 5.1.1 Интегрированная квантовая информация в пространстве-времени
+##  5.1.1 Интегрированная квантовая информация в пространстве-времени
 
 `Φ_(кв) = ∫[𝓜] I_(кв)(x)dV,`
 
@@ -4861,7 +4572,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: 5.1.2 Рекуррентное пространство-время
+##  5.1.2 Рекуррентное пространство-время
 
 `g_(μν)(x) = g_(μν)⁽⁰⁾(x) + δ g_(μν)(x),`
 
@@ -4872,7 +4583,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: 5.1.3 Модифицированные уравнения Эйнштейна
+##  5.1.3 Модифицированные уравнения Эйнштейна
 
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + Tᶲ_(μν) )),`
 
@@ -4883,7 +4594,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: 5.2.1 Квантовая информация и энтропия запутанности
+##  5.2.1 Квантовая информация и энтропия запутанности
 
 `Sₑₙₜ = - \operatornameTr(ρ ln ρ),`
 
@@ -4894,7 +4605,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: 5.2.2 Рекуррентная динамика информации
+##  5.2.2 Рекуррентная динамика информации
 
 `Φ_(кв)(x) = ∫[𝓜] K(x, x') I_(кв)(x')dV',`
 
@@ -4905,7 +4616,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: 5.3.1 Эффект на кривые вращения галактик
+##  5.3.1 Эффект на кривые вращения галактик
 
 `ds² = -(1 + 2Φ_(eff)(r)) dt² + (1 - 2Φ_(eff)(r)) dr² + r² dΩ²,`
 
@@ -4916,7 +4627,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: 5.4.1 Ускоренное расширение Вселенной
+##  5.4.1 Ускоренное расширение Вселенной
 
 `ds² = -dt² + a²(t)(1 + 2Ψ_Φ(t)) (( dr² / 1 - k r² + r² dΩ² )),`
 
@@ -4927,7 +4638,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: 5.4.2 Космологическая постоянная как эмерджентный эффект
+##  5.4.2 Космологическая постоянная как эмерджентный эффект
 
 `Λ_(eff) = 8π G ρ_Φ = γ □ Φ_(кв),`
 
@@ -4936,7 +4647,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: A.1.1 Квантовая информация и энтропия фон Неймана
+##  A.1.1 Квантовая информация и энтропия фон Неймана
 
 `S_(vN) = - Tr(ρ ln ρ),`
 
@@ -4945,7 +4656,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: A.1.2 Интегрированная квантовая информация в пространстве-времени
+##  A.1.2 Интегрированная квантовая информация в пространстве-времени
 
 `𝓘 = ∫_𝓜 σ(x)d⁴x,`
 
@@ -4954,7 +4665,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: A.1.3 Связь с метрикой пространства-времени
+##  A.1.3 Связь с метрикой пространства-времени
 
 `σ(x) = f(g_(μν), ∂_\lambda g_(μν), …),`
 
@@ -4963,7 +4674,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: A.2.1 Классические уравнения Эйнштейна
+##  A.2.1 Классические уравнения Эйнштейна
 
 `G_(μν) + Λ g_(μν) = 8π G / c⁴ T_(μν),`
 
@@ -4972,7 +4683,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: A.2.2 Введение дополнительного тензора энергии-импульса квантовой информации
+##  A.2.2 Введение дополнительного тензора энергии-импульса квантовой информации
 
 `G_(μν) + Λ g_(μν) = 8π G / c⁴ (( T_(μν) + T^(QI)_(μν) )).`
 
@@ -4981,7 +4692,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: A.2.3 Формулировка T^(QI)_(μν)
+##  A.2.3 Формулировка T^(QI)_(μν)
 
 `T^(QI)_(μν) = α (( ∇_\mu σ ∇_\nu σ - 1 / 2 g_(μν) ∇_\lambda σ ∇^\lambda σ )) + β σ g_(μν),`
 
@@ -4990,7 +4701,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: A.2.4 Модифицированные уравнения Эйнштейна
+##  A.2.4 Модифицированные уравнения Эйнштейна
 
 `G_(μν) + Λ g_(μν) = 8π G / c⁴ (( T_(μν) + α (( ∇_\mu σ ∇_\nu σ - 1 / 2 g_(μν) ∇_\lambda σ ∇^\lambda σ )) + β σ g_(μν) )).`
 
@@ -4999,7 +4710,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: A.2.5 Уравнение на плотность квантовой информации
+##  A.2.5 Уравнение на плотность квантовой информации
 
 `□ σ + V'(σ) = 0,`
 
@@ -5008,7 +4719,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: A.3.1 Рекуррентность в метрике пространства-времени
+##  A.3.1 Рекуррентность в метрике пространства-времени
 
 `g_(μν)⁽ⁿ⁺¹⁾ = g_(μν)⁽ⁿ⁾ + δ g_(μν)(σ⁽ⁿ⁾),`
 
@@ -5017,7 +4728,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: A.3.2 Сходимость рекуррентных соотношений
+##  A.3.2 Сходимость рекуррентных соотношений
 
 `lim(n → ∞) g_(μν)⁽ⁿ⁾ = g_(μν)^((*)).`
 
@@ -5026,7 +4737,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: A.3.3 Вклад рекуррентности в модифицированные уравнения Эйнштейна
+##  A.3.3 Вклад рекуррентности в модифицированные уравнения Эйнштейна
 
 `G_(μν)ʳᵉᶜ = G_(μν) + Δ G_(μν)(σ, ∇ σ, …),`
 
@@ -5035,7 +4746,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: A.4.1 Космологические модели Фридмана-Леметра-Робертсона-Уокера (FLRW)
+##  A.4.1 Космологические модели Фридмана-Леметра-Робертсона-Уокера (FLRW)
 
 `ds² = - c² dt² + a(t)² (( dr² / 1 - k r² + r² dΩ² )),`
 
@@ -5044,7 +4755,7 @@ dH/dt = g(V, H, I, R)
 
 ---
 
-## Формула пункта: A.4.2 Модифицированные уравнения Фридмана
+##  A.4.2 Модифицированные уравнения Фридмана
 
 ```
 (( ȧ / a ))² + k c² / a² = 8π G / 3 ρ_(eff),
@@ -5063,7 +4774,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: A.4.3 Решения при определенных условиях
+##  A.4.3 Решения при определенных условиях
 
 `ρ_σ = 1 / 2 α (σ̇)² + V₀,`
 
@@ -5072,7 +4783,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: A.4.4 Выводы для тёмной материи
+##  A.4.4 Выводы для тёмной материи
 
 `Φ(r) = -G M / r + Δ Φ(r),`
 
@@ -5081,7 +4792,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: A.4.5 Согласие с вращательными кривыми галактик
+##  A.4.5 Согласие с вращательными кривыми галактик
 
 `v²(r) = G M(r) / r + r d / dr Δ Φ(r),`
 
@@ -5090,17 +4801,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 4.2.1. Уравнения состояния геномной системы
-
-`d𝐱(t) / dt = 𝐟(𝐱(t), 𝐮(t), W),`
-
-### Ссылки:
-- [integrative-recurrent-genome-analysis.md](/integrative-recurrent-genome-analysis.md)
-- [computer-science.md](/computer-science.md)
-
----
-
-## Формула пункта: 4.2.2. Функция интеграции информации
+##  4.2.2. Функция интеграции информации
 
 `Φ_(genome) = ∫₀ᵀ I_(integration)(t) ⋅ R_(recurrence)(t)dt,`
 
@@ -5109,7 +4810,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 2.1. Термодинамика и статистическая механика
+##  2.1. Термодинамика и статистическая механика
 
 `S = k_B ln W,`
 
@@ -5118,7 +4819,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 2.2. Теория информации и энтропия Шеннона
+##  2.2. Теория информации и энтропия Шеннона
 
 `H = - ∑ᵢ pᵢ ln pᵢ,`
 
@@ -5127,7 +4828,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 4.3. Энтропия и информация
+##  4.3. Энтропия и информация
 
 `S_(эфф) = k_B ln W - λ Φₑ,`
 
@@ -5136,7 +4837,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 6.1. Распределение вероятностей
+##  6.1. Распределение вероятностей
 
 `pᵢ = e⁽-β Eᵢ + γ Φ₍e,i)) / Z,`
 
@@ -5145,7 +4846,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 6.2. Модифицированная статистическая сумма
+##  6.2. Модифицированная статистическая сумма
 
 `Z = ∑ᵢ e^(-β Eᵢ + γ Φ_(e,i)).`
 
@@ -5154,16 +4855,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 1.1. Эмергентная интегрированная информация
-
-`Φₑ = ∫₀^(t₁) I_(интеграции)(t) ⋅ R_(рекуррентности)(t) dt,`
-
-### Ссылки:
-- [computer-science.md](/computer-science.md)
-
----
-
-## Формула пункта: 3.1. Обучение РНС
+##  3.1. Обучение РНС
 
 `L = ∑ₜ₌₁ᵀ ℓ(yₜ, ^yₜ),`
 
@@ -5172,7 +4864,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 3.2. Рекуррентное отображение и динамика сети
+##  3.2. Рекуррентное отображение и динамика сети
 
 `𝐱(t) = σ(W_(rec) 𝐱(t-1) + Wᵢₙ 𝐮(t)),`
 
@@ -5181,7 +4873,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 1. Определение эмергентной интегрированной информации (Φ_e)
+##  1. Определение эмергентной интегрированной информации (Φ_e)
 
 `Φ_e = ∫_t_0^t_1 I_integration(t) × R_recurrence(t) dt`
 
@@ -5190,7 +4882,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 2.1. Степень интеграции информации (I_integration(t))
+##  2.1. Степень интеграции информации (I_integration(t))
 
 `H_total = ∑_i=1^N H(X_i)`
 
@@ -5203,7 +4895,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: Шаг 6: Интегрирование по времени
+##  Шаг 6: Интегрирование по времени
 
 `Φ_e = ∫_t_0^t_1 I_integration(t) × R_recurrence(t) dt`
 
@@ -5214,7 +4906,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 2.3. Интеграция E_i в систему ЭИРО
+##  2.3. Интеграция E_i в систему ЭИРО
 
 `Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) ⋅ E_i(эмоционального интеллекта)(t) dt`
 
@@ -5223,7 +4915,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 2.3.1. Интеграция эмоциональной информации
+##  2.3.1. Интеграция эмоциональной информации
 
 `I_e = ∑(w_i × s_i) × C_f`
 
@@ -5232,7 +4924,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 2.3.2. Модуляция рекуррентных взаимодействий
+##  2.3.2. Модуляция рекуррентных взаимодействий
 
 `R(t) = R₀ × e^(-λt) × cos(ωt)`
 
@@ -5241,7 +4933,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 2.3.3. Эмоционально-когнитивные взаимодействия
+##  2.3.3. Эмоционально-когнитивные взаимодействия
 
 `F_int = α × E + β × C + γ × (E × C)`
 
@@ -5250,7 +4942,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 3.2.2. Эмпатическая точность
+##  3.2.2. Эмпатическая точность
 
 `E_a = 1 - |E_self - E_other|`
 
@@ -5259,7 +4951,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 5.4. Формула расчета метрики Φₑ
+##  5.4. Формула расчета метрики Φₑ
 
 `Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) ⋅ E(эмоциональности)(t) ⋅ C(когнитивной сложности)(t) ⋅ S(социального контекста)(t) ⋅ A(адаптивности)(t) ⋅ M(мотивации)(t) ⋅ P(физиологических параметров)(t) ⋅ V(вариативности поведения)(t) ⋅ T(темпоральных характеристик)(t) ⋅ K(контекстуальности)(t) dt`
 
@@ -5268,7 +4960,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 2.1. Дифференциальные уравнения в нейронных моделях
+##  2.1. Дифференциальные уравнения в нейронных моделях
 
 `Cₘ dV / dt = -g_(Na)(V - V_(Na)) - g_K(V - V_K) - g_L(V - V_L) + Iₑₓₜ,`
 
@@ -5277,7 +4969,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 3.1. Меры интегрированной информации
+##  3.1. Меры интегрированной информации
 
 `Φ = I(Система) - ∑ᵢ I(Частьᵢ),`
 
@@ -5286,7 +4978,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 3.2. Интегральные методы в расчете метрик интеграции
+##  3.2. Интегральные методы в расчете метрик интеграции
 
 `Φₜₒₜₐₗ = ∫_(t₀)^(t₁) Φ(t)dt.`
 
@@ -5295,7 +4987,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 5.1. Определение степени интеграции информации
+##  5.1. Определение степени интеграции информации
 
 `I_(интеграции)(t) = ∑_(i ≠ j) I(Xᵢ(t); Xⱼ(t)),`
 
@@ -5304,7 +4996,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 5.2. Функция рекуррентности
+##  5.2. Функция рекуррентности
 
 `R_(рекуррентности)(t) = ρ(W_(rec)(t)),`
 
@@ -5313,7 +5005,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 6.1. Линейная стабильность и спектральный анализ
+##  6.1. Линейная стабильность и спектральный анализ
 
 `d𝐱 / dt = J 𝐱,`
 
@@ -5322,7 +5014,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 6.2. Воздействие рекуррентности на динамику
+##  6.2. Воздействие рекуррентности на динамику
 
 `J = W_(rec) ⋅ diag(𝐟'(𝐱)),`
 
@@ -5331,7 +5023,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 6.3. Информационная потоковая динамика
+##  6.3. Информационная потоковая динамика
 
 `I(Xᵢ(t + Δ t); Xⱼ(t)) = H(Xᵢ(t + Δ t)) - H(Xᵢ(t + Δ t) | Xⱼ(t)),`
 
@@ -5340,7 +5032,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 7. Примеры и результаты моделирования
+##  7. Примеры и результаты моделирования
 
 `𝐟(𝐱) = \tanh(W_(rec) 𝐱 + 𝐮(t)).`
 
@@ -5349,7 +5041,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 
 ---
 
-## Формула пункта: 1.1 Многоуровневая структура
+##  1.1 Многоуровневая структура
 
 ```
 graph TD
@@ -5364,7 +5056,7 @@ graph TD
 
 ---
 
-## Формула пункта: Входной модуль: 4-мерное пространство нуклеотидов (A,T,G,C)
+##  Входной модуль: 4-мерное пространство нуклеотидов (A,T,G,C)
 
 ```
 - A = [1, 0, 0, 0]
@@ -5378,7 +5070,7 @@ graph TD
 
 ---
 
-## Формула пункта: Эмергентный интегратор: Обработка паттернов высшего порядка
+##  Эмергентный интегратор: Обработка паттернов высшего порядка
 
 `E(S) = ∑_i φ_i(s_i) + β ∑_i,j ψ_ij(s_i, s_j)`
 
@@ -5387,7 +5079,7 @@ graph TD
 
 ---
 
-## Формула пункта: Рекуррентный маппер: Временная корреляция последовательностей
+##  Рекуррентный маппер: Временная корреляция последовательностей
 
 ```
 R(t+1) = F(R(t), E(t))
@@ -5399,7 +5091,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 
 ---
 
-## Формула пункта: 2.1 Эмергентная интеграция
+##  2.1 Эмергентная интеграция
 
 `E(S) = \sum_{i=1}^{n} \phi_i(s_i) + \beta \sum_{i,j} \psi_{ij}(s_i, s_j)`
 
@@ -5408,7 +5100,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 
 ---
 
-## Формула пункта: Активационная функция
+##  Активационная функция
 
 `φ(x) = max(0, x) + α * min(0, x)`
 
@@ -5417,7 +5109,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 
 ---
 
-## Формула пункта: Механизм внимания
+##  Механизм внимания
 
 `A(q, k, v) = softmax(qk^T / sqrt(d_k)) v`
 
@@ -5426,7 +5118,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 
 ---
 
-## Формула пункта: 5.1 Регуляризация
+##  5.1 Регуляризация
 
 `L_{total} = L_{pred} + λ_1 L_{emerg} + λ_2 L_{rec}`
 
@@ -5435,7 +5127,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 
 ---
 
-## Формула пункта: 4.3. Современные архитектуры: LSTM и GRU
+##  4.3. Современные архитектуры: LSTM и GRU
 
 `iₜ = σ(Wᵢ ⋅ [hₜ₋₁, xₜ] + bᵢ)`
 
@@ -5450,7 +5142,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 
 ---
 
-## Формула пункта: 2.3. Колебательные режимы:
+##  2.3. Колебательные режимы:
 
 `ρ_(IQI) = -∑ᵢ pᵢ log pᵢ`
 
@@ -5459,7 +5151,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 
 ---
 
-## Формула пункта: 5.1.4. Динамическое уравнение:
+##  5.1.4. Динамическое уравнение:
 
 `dX/dt = F(X,U,θ)`
 
@@ -5468,7 +5160,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 
 ---
 
-## Формула пункта: 5.2.2 Каузальная плотность
+##  5.2.2 Каузальная плотность
 
 `CD = ∑i,j P(X_i → X_j) / N^2`
 
@@ -5477,7 +5169,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 
 ---
 
-## Формула пункта: 5.2.3 Интегративная сложность
+##  5.2.3 Интегративная сложность
 
 `IC = Φ_e = ∑ p_i log(1/p_i) - ∑ q_j log(1/q_j)`
 
@@ -5486,7 +5178,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 
 ---
 
-## Формула пункта: 5.3.2. Квантовый градиентный спуск [13]
+##  5.3.2. Квантовый градиентный спуск [13]
 
 `∂ E(θ) / ∂ θᵢ = E(θ + (\p)/ / 2 eᵢ) - E(θ - π / 2 eᵢ)}2,`
 
