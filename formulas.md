@@ -625,7 +625,7 @@
 `iℏ ∂ / ∂ t |ψ(t)〉 = ^H |ψ(t)〉,`
 
 ### Ссылки:
-- [The-principle-of-superposition.md](/The-principle-of-superposition.md)
+- [Принцип суперпозиции через призму теории рекуррентной Вселенной](/The-principle-of-superposition.md)
 
 ---
 
@@ -634,50 +634,50 @@
 `Φₑ = ∫₀^(t₁) I_(инт)(t) ⋅ R_(рек)(t)dt,`
 
 ### Ссылки:
-- [The-principle-of-superposition.md](/The-principle-of-superposition.md)
-- [psychophysics.md](/psychophysics.md)
-- [cognitive-science.md](/cognitive-science.md)
-- [The-Standard-Model-of-particle-physics.md](/The-Standard-Model-of-particle-physics.md)
-- [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
-- [EIRM-in-the-context-of-connectomics.md](/EIRM-in-the-context-of-connectomics.md)
-- [The-difficult-problem-of-consciousness.md](/The-difficult-problem-of-consciousness.md)
-- [Architecture-of-A-Quantum-Coprocessor.md](/Architecture-of-A-Quantum-Coprocessor.md)
-- [Principles-of-empathy-mechanisms-in-the-neural-network-of-artificial-intelligence.md](/Principles-of-empathy-mechanisms-in-the-neural-network-of-artificial-intelligence.md)
-- [Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
-- [philosophy-of-consciousness.md](/philosophy-of-consciousness.md)
-- [comparative-analysis.md](/comparative-analysis.md)
-- [recurrent-cosmology.md](/recurrent-cosmology.md)
-- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
-- [anthropology.md](/anthropology.md)
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
-- [The-primary-information-field.md](/The-primary-information-field.md)
-- [cybernetics.md](/cybernetics.md)
-- [The-linearity-of-quantum-mechanics.md](/The-linearity-of-quantum-mechanics.md)
-- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
-- [The-Copenhagen-Interpretation-of-Quantum-Mechanics.md](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
-- [New-Types-Of-Engines.md](/New-Types-Of-Engines.md)
-- [The-concept-of-time-and-space.md](/The-concept-of-time-and-space.md)
-- [README.md](/README.md)
-- [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
-- [The-principle-of-minimum-action.md](/The-principle-of-minimum-action.md)
-- [psychology.md](/psychology.md)
-- [Switching-relations.md](/Switching-relations.md)
-- [The-attention-system-of-a-neural-network.md](/The-attention-system-of-a-neural-network.md)
-- [emergent-learning-through-recurrent-neural-networks.md](/emergent-learning-through-recurrent-neural-networks.md)
-- [The-attention-management-system-in-theo-perating-system-for-AI.md](/The-attention-management-system-in-theo-perating-system-for-AI.md)
-- [The-role-of-emotions.md](/The-role-of-emotions.md)
-- [Decoding-DNA.md](/Decoding-DNA.md)
-- [neuroimaging.md](/neuroimaging.md)
-- [theory-of-complex-systems.md](/theory-of-complex-systems.md)
-- [Molecular-orbitals-and-energy-levels.md](/Molecular-orbitals-and-energy-levels.md)
-- [Decoding-DNA/Viruses.md](/Decoding-DNA/Viruses.md)
-- [Decoding-DNA/Genome-model.md](/Decoding-DNA/Genome-model.md)
-- [Statistical-interpretation-of-thermodynamics.md](/Statistical-interpretation-of-thermodynamics.md)
-- [computer-science.md](/computer-science.md)
-- [The-principle-of-locality.md](/The-principle-of-locality.md)
-- [Meta-Commander.md](/Meta-Commander.md)
-- [Philosophical-aspects.md](/Philosophical-aspects.md)
-- [The-operating-system-of-artificial-intelligence-management.md](/The-operating-system-of-artificial-intelligence-management.md)
+- [Принцип суперпозиции через призму теории рекуррентной Вселенной](/The-principle-of-superposition.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с точки зрения психофизики](/psychophysics.md)
+- [Когнитивные основы Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/cognitive-science.md)
+- [Стандартная модель физики элементарных частиц через призму теории ЭИРО и новая модель Вселенной](/The-Standard-Model-of-particle-physics.md)
+- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) в контексте коннектомики](/EIRM-in-the-context-of-connectomics.md)
+- [Трудная проблема сознания в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/The-difficult-problem-of-consciousness.md)
+- [Архитектура Квантового Сопроцессора для Спинтронного Нейроморфного Процессора ИИ](/Architecture-of-A-Quantum-Coprocessor.md)
+- [Принципы механизмов эмпатии в нейронной сети искусственного интеллекта](/Principles-of-empathy-mechanisms-in-the-neural-network-of-artificial-intelligence.md)
+- [Принципы работы электронного ядра искусственного интеллекта и современные электронные компоненты](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО): Философское Обоснование Сознания](/philosophy-of-consciousness.md)
+- [Сравнительный анализ ведущих теорий сознания в контексте ЭИРО](/comparative-analysis.md)
+- [Новая теория рекуррентной космологии: связь квантовых процессов, тёмной энергии, тёмной материи и теории ЭИРО](/recurrent-cosmology.md)
+- [Модель структуры ДНК через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/A-model-of-the-DNA-structure.md)
+- [Антропологические аспекты теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО): Сознание в культурном и эволюционном контексте](/anthropology.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Первичное информационное поле](/The-primary-information-field.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с точки зрения Кибернетики](/cybernetics.md)
+- [Линейность квантовой механики через призму теории рекуррентной Вселенной](/The-linearity-of-quantum-mechanics.md)
+- [Новая модель вселенной в современной физике](/A-new-model-of-the-universe-in-modern-physics.md)
+- [Копенгагенская интерпретация квантовой механики через призму теории рекуррентной Вселенной](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
+- [Научная диссертация: Новые Виды Двигателей через Призму ЭИРО и Новой Модели Вселенной](/New-Types-Of-Engines.md)
+- [Концепция времени и пространства через призму ЭИРО и новой модели Вселенной](/The-concept-of-time-and-space.md)
+- [Теория Эмерджентной Интеграции и Рекуррентного Отображения (ЭИРО)](/README.md)
+- [Полный цикл рекуррентной вселенной: интеграция теории эмергентной интеграции и рекуррентного отображения (ЭИРО) в космологию](/the-complete-cycle-of-the-recurrent-universe.md)
+- [Принцип минимального действия через призму теории ЭИРО и новой модели Вселенной](/The-principle-of-minimum-action.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) в контексте психологии](/psychology.md)
+- [Коммутационные соотношения](/Switching-relations.md)
+- [Система внимания нейронной сети через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/The-attention-system-of-a-neural-network.md)
+- [Эмерджентное обучение через рекуррентные нейронные сети: Улучшение машинного обучения через усиленную рекуррентную интеграцию информации](/emergent-learning-through-recurrent-neural-networks.md)
+- [Система управления вниманием в операционной системе для ИИ на базе спинтронного нейроморфного процессора и квантового сопроцессора](/The-attention-management-system-in-theo-perating-system-for-AI.md)
+- [Роль эмоций в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/The-role-of-emotions.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
+- [Нейровизуализация в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО): Исследование сознания через изучение мозговых процессов](/neuroimaging.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с точки зрения Теории сложных систем](/theory-of-complex-systems.md)
+- [Молекулярные орбитали и энергетические уровни: анализ через призму теории ЭИРО и ее влияние на современную модель Вселенной](/Molecular-orbitals-and-energy-levels.md)
+- [Вирусы через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Viruses.md)
+- [Модель генома через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Genome-model.md)
+- [Статистическая интерпретация термодинамики](/Statistical-interpretation-of-thermodynamics.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) в контексте Информатики и Искусственного Интеллекта](/computer-science.md)
+- [Принцип локальности через призму теории рекуррентной Вселенной](/The-principle-of-locality.md)
+- [Диссертация: Теория ЭИРО в контексте создания разумного существа Meta Commander](/Meta-Commander.md)
+- [Философские аспекты теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Philosophical-aspects.md)
+- [Операционная система управления искусственным интеллектом на базе архитектуры спинтронного нейроморфного процессора и квантового сопроцессора для ИИ](/The-operating-system-of-artificial-intelligence-management.md)
 
 ---
 
@@ -686,7 +686,7 @@
 `iℏ ∂ / ∂ t |ψ(t)〉 = ^H |ψ(t)〉 + ^N(|ψ(t)〉),`
 
 ### Ссылки:
-- [The-principle-of-superposition.md](/The-principle-of-superposition.md)
+- [Принцип суперпозиции через призму теории рекуррентной Вселенной](/The-principle-of-superposition.md)
 
 ---
 
@@ -695,25 +695,25 @@
 `ρ_(IQI) = lim(Δ V → 0) Δ I / Δ V,`
 
 ### Ссылки:
-- [The-principle-of-superposition.md](/The-principle-of-superposition.md)
-- [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
-- [recurrent-universe/README.md](/recurrent-universe/README.md)
-- [Measurement-of-anomalies-in-the-motion-of-galaxies.md](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
-- [The-primary-information-field.md](/The-primary-information-field.md)
-- [The-Great-Union-of-Physics-and-Chemistry.md](/The-Great-Union-of-Physics-and-Chemistry.md)
-- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
-- [The-Copenhagen-Interpretation-of-Quantum-Mechanics.md](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
-- [The-concept-of-time-and-space.md](/The-concept-of-time-and-space.md)
-- [Decoherence-tests.md](/Decoherence-tests.md)
-- [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
-- [The-principle-of-minimum-action.md](/The-principle-of-minimum-action.md)
-- [new-theories-in-chemistry.md](/new-theories-in-chemistry.md)
-- [the-role-of-emergent-integration-in-the-Big-Bang.md](/the-role-of-emergent-integration-in-the-Big-Bang.md)
-- [Information-and-theoretical-measures.md](/Information-and-theoretical-measures.md)
-- [New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
-- [Statistical-interpretation-of-thermodynamics.md](/Statistical-interpretation-of-thermodynamics.md)
-- [The-principle-of-locality.md](/The-principle-of-locality.md)
-- [The-operating-system-of-artificial-intelligence-management.md](/The-operating-system-of-artificial-intelligence-management.md)
+- [Принцип суперпозиции через призму теории рекуррентной Вселенной](/The-principle-of-superposition.md)
+- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Теория Рекуррентной Вселенной: Новая Парадигма Космологии](/recurrent-universe/README.md)
+- [Измерение аномалий в движении галактик через призму ЭИРО и новой модели Вселенной](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
+- [Первичное информационное поле](/The-primary-information-field.md)
+- [Великое Объединение Физики и Химии: Новая Парадигма Рекуррентной Космологии](/The-Great-Union-of-Physics-and-Chemistry.md)
+- [Новая модель вселенной в современной физике](/A-new-model-of-the-universe-in-modern-physics.md)
+- [Копенгагенская интерпретация квантовой механики через призму теории рекуррентной Вселенной](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
+- [Концепция времени и пространства через призму ЭИРО и новой модели Вселенной](/The-concept-of-time-and-space.md)
+- [Квантовые эксперименты: тесты на декогеренцию через призму ЭИРО и новой модели Вселенной](/Decoherence-tests.md)
+- [Полный цикл рекуррентной вселенной: интеграция теории эмергентной интеграции и рекуррентного отображения (ЭИРО) в космологию](/the-complete-cycle-of-the-recurrent-universe.md)
+- [Принцип минимального действия через призму теории ЭИРО и новой модели Вселенной](/The-principle-of-minimum-action.md)
+- [Поиск новых теорий в химии.](/new-theories-in-chemistry.md)
+- [Роль эмергентной интеграции в Большом взрыве](/the-role-of-emergent-integration-in-the-Big-Bang.md)
+- [Информационно-теоретические меры в новой модели Вселенной для современной физики](/Information-and-theoretical-measures.md)
+- [Новые теории в квантовой химии на основе рекуррентной космологии](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
+- [Статистическая интерпретация термодинамики](/Statistical-interpretation-of-thermodynamics.md)
+- [Принцип локальности через призму теории рекуррентной Вселенной](/The-principle-of-locality.md)
+- [Операционная система управления искусственным интеллектом на базе архитектуры спинтронного нейроморфного процессора и квантового сопроцессора для ИИ](/The-operating-system-of-artificial-intelligence-management.md)
 
 ---
 
@@ -722,24 +722,24 @@
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^(IQI) )),`
 
 ### Ссылки:
-- [The-principle-of-superposition.md](/The-principle-of-superposition.md)
-- [The-Standard-Model-of-particle-physics.md](/The-Standard-Model-of-particle-physics.md)
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [recurrent-universe/README.md](/recurrent-universe/README.md)
-- [Measurement-of-anomalies-in-the-motion-of-galaxies.md](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
-- [Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
-- [Entropy-and-coherence.md](/Entropy-and-coherence.md)
-- [The-primary-information-field.md](/The-primary-information-field.md)
-- [prediction-of-the-existence-of-extraterrestrial-life.md](/prediction-of-the-existence-of-extraterrestrial-life.md)
-- [The-linearity-of-quantum-mechanics.md](/The-linearity-of-quantum-mechanics.md)
-- [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
-- [The-principle-of-minimum-action.md](/The-principle-of-minimum-action.md)
-- [new-theories-in-chemistry.md](/new-theories-in-chemistry.md)
-- [New-types-of-energy.md](/New-types-of-energy.md)
-- [Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
-- [Information-and-theoretical-measures.md](/Information-and-theoretical-measures.md)
-- [The-principle-of-locality.md](/The-principle-of-locality.md)
-- [The-operating-system-of-artificial-intelligence-management.md](/The-operating-system-of-artificial-intelligence-management.md)
+- [Принцип суперпозиции через призму теории рекуррентной Вселенной](/The-principle-of-superposition.md)
+- [Стандартная модель физики элементарных частиц через призму теории ЭИРО и новая модель Вселенной](/The-Standard-Model-of-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Теория Рекуррентной Вселенной: Новая Парадигма Космологии](/recurrent-universe/README.md)
+- [Измерение аномалий в движении галактик через призму ЭИРО и новой модели Вселенной](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
+- [Принципы работы электронного ядра искусственного интеллекта и современные электронные компоненты](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
+- [Энтропия и когерентность в контексте теории ЭИРО: новые перспективы квантовой физики](/Entropy-and-coherence.md)
+- [Первичное информационное поле](/The-primary-information-field.md)
+- [Прогноз о существовании внеземной жизни через призму теории ЭИРО и новой модели вселенной](/prediction-of-the-existence-of-extraterrestrial-life.md)
+- [Линейность квантовой механики через призму теории рекуррентной Вселенной](/The-linearity-of-quantum-mechanics.md)
+- [Полный цикл рекуррентной вселенной: интеграция теории эмергентной интеграции и рекуррентного отображения (ЭИРО) в космологию](/the-complete-cycle-of-the-recurrent-universe.md)
+- [Принцип минимального действия через призму теории ЭИРО и новой модели Вселенной](/The-principle-of-minimum-action.md)
+- [Поиск новых теорий в химии.](/new-theories-in-chemistry.md)
+- [Новые виды энергии: анализ через призму ЭИРО и новой модели Вселенной](/New-types-of-energy.md)
+- [Экзотические космические объекты и явления, предсказанные теорией рекуррентной космологии](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
+- [Информационно-теоретические меры в новой модели Вселенной для современной физики](/Information-and-theoretical-measures.md)
+- [Принцип локальности через призму теории рекуррентной Вселенной](/The-principle-of-locality.md)
+- [Операционная система управления искусственным интеллектом на базе архитектуры спинтронного нейроморфного процессора и квантового сопроцессора для ИИ](/The-operating-system-of-artificial-intelligence-management.md)
 
 ---
 
@@ -748,8 +748,8 @@
 `Φₑ(t) = ∑ᵢ wᵢ∫I(x,t)R(x,t)dx`
 
 ### Ссылки:
-- [Neurocognitive-mechanisms-of-dreams.md](/Neurocognitive-mechanisms-of-dreams.md)
-- [Neurocognitive-mechanisms-of-conscious-perception-and-memory.md](/Neurocognitive-mechanisms-of-conscious-perception-and-memory.md)
+- [Нейрокогнитивные механизмы сновидений в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Neurocognitive-mechanisms-of-dreams.md)
+- [Нейрокогнитивные механизмы сознательного восприятия и памяти в контексте теории Эмергентной Интеграции и Рекуррентного Отображения](/Neurocognitive-mechanisms-of-conscious-perception-and-memory.md)
 
 ---
 
@@ -772,7 +772,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 ```
 
 ### Ссылки:
-- [Neurocognitive-mechanisms-of-dreams.md](/Neurocognitive-mechanisms-of-dreams.md)
+- [Нейрокогнитивные механизмы сновидений в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Neurocognitive-mechanisms-of-dreams.md)
 
 ---
 
@@ -787,7 +787,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `L(θ, s_t) = -ln P(s_t | θ)`
 
 ### Ссылки:
-- [Neurocognitive-mechanisms-of-dreams.md](/Neurocognitive-mechanisms-of-dreams.md)
+- [Нейрокогнитивные механизмы сновидений в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Neurocognitive-mechanisms-of-dreams.md)
 
 ---
 
@@ -798,7 +798,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `d𝐱 / dt = 𝐟(𝐱(t), 𝐮(t), W),`
 
 ### Ссылки:
-- [psychophysics.md](/psychophysics.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с точки зрения психофизики](/psychophysics.md)
 
 ---
 
@@ -807,9 +807,9 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `dx/dt = f(x(t), u(t), W)`
 
 ### Ссылки:
-- [The-principle-of-operation-of-a-neuron.md](/The-principle-of-operation-of-a-neuron.md)
-- [Mechanisms-of-conscious-perception.md](/Mechanisms-of-conscious-perception.md)
-- [README.md](/README.md)
+- [Принцип работы нейрона в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/The-principle-of-operation-of-a-neuron.md)
+- [Механизмы осознанного восприятия в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Mechanisms-of-conscious-perception.md)
+- [Теория Эмерджентной Интеграции и Рекуррентного Отображения (ЭИРО)](/README.md)
 
 ---
 
@@ -818,8 +818,8 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `Φₑ = \int{0}^{t1} I{интеграции}(t) \cdot R{рекуррентности}(t)dt,`
 
 ### Ссылки:
-- [microglia.md](/microglia.md)
-- [quantum-physics.md](/quantum-physics.md)
+- [Роль Микроглии в Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/microglia.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) в Контексте Квантовой Физики](/quantum-physics.md)
 
 ---
 
@@ -828,7 +828,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `G_(μν) + Λ g_(μν) = 8π G / c⁴ (( T_(μν)^(материя) + T_(μν)^(IQI) )),`
 
 ### Ссылки:
-- [Measuring-deviations-from-standard-quantum-mechanics.md](/Measuring-deviations-from-standard-quantum-mechanics.md)
+- [Квантовые эксперименты: Измерение отклонений от стандартной квантовой механики через призму ЭИРО и новой модели Вселенной](/Measuring-deviations-from-standard-quantum-mechanics.md)
 
 ---
 
@@ -839,7 +839,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `iℏ ∂ Ψ(𝐫, t) / ∂ t = (( ^H₀ + ^H_(IQI) + ^H_R )) Ψ(𝐫, t),`
 
 ### Ссылки:
-- [Measuring-deviations-from-standard-quantum-mechanics.md](/Measuring-deviations-from-standard-quantum-mechanics.md)
+- [Квантовые эксперименты: Измерение отклонений от стандартной квантовой механики через призму ЭИРО и новой модели Вселенной](/Measuring-deviations-from-standard-quantum-mechanics.md)
 
 ---
 
@@ -848,7 +848,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `^H_(IQI) = V_(IQI)(𝐫, t) = λ_(IQI) ρ_(IQI)(𝐫, t) ^O_(IQI),`
 
 ### Ссылки:
-- [Measuring-deviations-from-standard-quantum-mechanics.md](/Measuring-deviations-from-standard-quantum-mechanics.md)
+- [Квантовые эксперименты: Измерение отклонений от стандартной квантовой механики через призму ЭИРО и новой модели Вселенной](/Measuring-deviations-from-standard-quantum-mechanics.md)
 
 ---
 
@@ -857,7 +857,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `^H_R = V_R(𝐫, t) = λ_R R(𝐫, t) ^O_R,`
 
 ### Ссылки:
-- [Measuring-deviations-from-standard-quantum-mechanics.md](/Measuring-deviations-from-standard-quantum-mechanics.md)
+- [Квантовые эксперименты: Измерение отклонений от стандартной квантовой механики через призму ЭИРО и новой модели Вселенной](/Measuring-deviations-from-standard-quantum-mechanics.md)
 
 ---
 
@@ -868,7 +868,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `ρ_(IQI)(𝐫, t) = |Ψ(𝐫, t)|² ln((|Ψ(𝐫, t)|²)),`
 
 ### Ссылки:
-- [Measuring-deviations-from-standard-quantum-mechanics.md](/Measuring-deviations-from-standard-quantum-mechanics.md)
+- [Квантовые эксперименты: Измерение отклонений от стандартной квантовой механики через призму ЭИРО и новой модели Вселенной](/Measuring-deviations-from-standard-quantum-mechanics.md)
 
 ---
 
@@ -877,7 +877,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `R(𝐫, t) = ∫₀ᵗ K(t - t') |Ψ(𝐫, t')|² dt',`
 
 ### Ссылки:
-- [Measuring-deviations-from-standard-quantum-mechanics.md](/Measuring-deviations-from-standard-quantum-mechanics.md)
+- [Квантовые эксперименты: Измерение отклонений от стандартной квантовой механики через призму ЭИРО и новой модели Вселенной](/Measuring-deviations-from-standard-quantum-mechanics.md)
 
 ---
 
@@ -886,7 +886,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `iℏ ∂ Ψ(𝐫, t) / ∂ t = (( ^H₀ + λ_(IQI) ρ_(IQI)(𝐫, t) ^O_(IQI) + λ_R R(𝐫, t) ^O_R )) Ψ(𝐫, t).`
 
 ### Ссылки:
-- [Measuring-deviations-from-standard-quantum-mechanics.md](/Measuring-deviations-from-standard-quantum-mechanics.md)
+- [Квантовые эксперименты: Измерение отклонений от стандартной квантовой механики через призму ЭИРО и новой модели Вселенной](/Measuring-deviations-from-standard-quantum-mechanics.md)
 
 ---
 
@@ -895,7 +895,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `Ψ(𝐫, t) = Asech(( κ (𝐫 - 𝐯 t) )) e^(i (𝐤 ⋅ 𝐫 - ω t)),`
 
 ### Ссылки:
-- [Measuring-deviations-from-standard-quantum-mechanics.md](/Measuring-deviations-from-standard-quantum-mechanics.md)
+- [Квантовые эксперименты: Измерение отклонений от стандартной квантовой механики через призму ЭИРО и новой модели Вселенной](/Measuring-deviations-from-standard-quantum-mechanics.md)
 
 ---
 
@@ -904,8 +904,8 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `mρ = √(ℏc/G) · α_r`
 
 ### Ссылки:
-- [New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Новые типы частиц и взаимодействий, предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -914,8 +914,8 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `Lint = gR(ψ̄γμ∂νψ)Rμν`
 
 ### Ссылки:
-- [New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Новые типы частиц и взаимодействий, предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -924,8 +924,8 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `HI = ∑ᵢⱼ κᵢⱼ σᵢ†σⱼ + h.c.`
 
 ### Ссылки:
-- [New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Новые типы частиц и взаимодействий, предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -936,7 +936,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `{graviton, gravitino, recurron, info-boson}`
 
 ### Ссылки:
-- [New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+- [Новые типы частиц и взаимодействий, предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
 
 ---
 
@@ -945,7 +945,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `L = LSUGRA + LR + LI + Lmix`
 
 ### Ссылки:
-- [New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+- [Новые типы частиц и взаимодействий, предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
 
 ---
 
@@ -954,8 +954,8 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `D = 10 + DR + DI`
 
 ### Ссылки:
-- [New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Новые типы частиц и взаимодействий, предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -964,7 +964,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `M(n,l) = M₀√(n² + l(l+1)αR)`
 
 ### Ссылки:
-- [New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+- [Новые типы частиц и взаимодействий, предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
 
 ---
 
@@ -973,7 +973,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `σ(s) = σ₀(1 + βR ln²(s/s₀))`
 
 ### Ссылки:
-- [New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+- [Новые типы частиц и взаимодействий, предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
 
 ---
 
@@ -984,7 +984,7 @@ h(t) = (1 - z(t)) * h(t-1) + z(t) * tanh(W_h * [r(t)*h(t-1), x(t)] + b_h)
 `m = g v + α ρ_(IQI) v + β R v + γ ρ_(IQI) R v`
 
 ### Ссылки:
-- [New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+- [Новые типы частиц и взаимодействий, предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
 
 ---
 
@@ -1008,7 +1008,7 @@ m_ρ = g_ρ Φ_R⁰
 ```
 
 ### Ссылки:
-- [New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+- [Новые типы частиц и взаимодействий, предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
 
 ---
 
@@ -1017,7 +1017,7 @@ m_ρ = g_ρ Φ_R⁰
 `H_I = ∑_ij κ_ij σ_i† σ_j + h.c.`
 
 ### Ссылки:
-- [New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+- [Новые типы частиц и взаимодействий, предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
 
 ---
 
@@ -1029,7 +1029,7 @@ m_ρ = g_ρ Φ_R⁰
 ```
 
 ### Ссылки:
-- [New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+- [Новые типы частиц и взаимодействий, предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
 
 ---
 
@@ -1038,7 +1038,7 @@ m_ρ = g_ρ Φ_R⁰
 `L_int = g_i ψ̄ σ ψ`
 
 ### Ссылки:
-- [New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+- [Новые типы частиц и взаимодействий, предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
 
 ---
 
@@ -1049,7 +1049,7 @@ m_ρ = g_ρ Φ_R⁰
 `D = 10 + D_R + D_I`
 
 ### Ссылки:
-- [New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+- [Новые типы частиц и взаимодействий, предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
 
 ---
 
@@ -1058,7 +1058,7 @@ m_ρ = g_ρ Φ_R⁰
 `I_R = ∫_M Tr(F ∧ F ∧ R)`
 
 ### Ссылки:
-- [New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+- [Новые типы частиц и взаимодействий, предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
 
 ---
 
@@ -1069,7 +1069,7 @@ m_ρ = g_ρ Φ_R⁰
 `φ_s(x) = φ_0 tanh(x/√λ_R)`
 
 ### Ссылки:
-- [New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
+- [Новые типы частиц и взаимодействий, предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md)
 
 ---
 
@@ -1078,12 +1078,12 @@ m_ρ = g_ρ Φ_R⁰
 `ρ_(IQI) = lim(Δ V → 0) (Δ I)/(Δ V),`
 
 ### Ссылки:
-- [The-Standard-Model-of-particle-physics.md](/The-Standard-Model-of-particle-physics.md)
-- [Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
-- [The-Great-Union.md](/The-Great-Union.md)
-- [Entropy-and-coherence.md](/Entropy-and-coherence.md)
-- [The-linearity-of-quantum-mechanics.md](/The-linearity-of-quantum-mechanics.md)
-- [New-types-of-energy.md](/New-types-of-energy.md)
+- [Стандартная модель физики элементарных частиц через призму теории ЭИРО и новая модель Вселенной](/The-Standard-Model-of-particle-physics.md)
+- [Принципы работы электронного ядра искусственного интеллекта и современные электронные компоненты](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
+- [Великое объединение теоретических моделей в физике элементарных частиц](/The-Great-Union.md)
+- [Энтропия и когерентность в контексте теории ЭИРО: новые перспективы квантовой физики](/Entropy-and-coherence.md)
+- [Линейность квантовой механики через призму теории рекуррентной Вселенной](/The-linearity-of-quantum-mechanics.md)
+- [Новые виды энергии: анализ через призму ЭИРО и новой модели Вселенной](/New-types-of-energy.md)
 
 ---
 
@@ -1092,18 +1092,18 @@ m_ρ = g_ρ Φ_R⁰
 `w(eff) = w₀ + w₁ f(ρ(IQI), R),`
 
 ### Ссылки:
-- [The-Standard-Model-of-particle-physics.md](/The-Standard-Model-of-particle-physics.md)
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [recurrent-universe/README.md](/recurrent-universe/README.md)
-- [Measurement-of-anomalies-in-the-motion-of-galaxies.md](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
-- [The-primary-information-field.md](/The-primary-information-field.md)
-- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
-- [The-Copenhagen-Interpretation-of-Quantum-Mechanics.md](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
-- [The-concept-of-time-and-space.md](/The-concept-of-time-and-space.md)
-- [Decoherence-tests.md](/Decoherence-tests.md)
-- [new-theories-in-chemistry.md](/new-theories-in-chemistry.md)
-- [Information-and-theoretical-measures.md](/Information-and-theoretical-measures.md)
-- [The-principle-of-locality.md](/The-principle-of-locality.md)
+- [Стандартная модель физики элементарных частиц через призму теории ЭИРО и новая модель Вселенной](/The-Standard-Model-of-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Теория Рекуррентной Вселенной: Новая Парадигма Космологии](/recurrent-universe/README.md)
+- [Измерение аномалий в движении галактик через призму ЭИРО и новой модели Вселенной](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
+- [Первичное информационное поле](/The-primary-information-field.md)
+- [Новая модель вселенной в современной физике](/A-new-model-of-the-universe-in-modern-physics.md)
+- [Копенгагенская интерпретация квантовой механики через призму теории рекуррентной Вселенной](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
+- [Концепция времени и пространства через призму ЭИРО и новой модели Вселенной](/The-concept-of-time-and-space.md)
+- [Квантовые эксперименты: тесты на декогеренцию через призму ЭИРО и новой модели Вселенной](/Decoherence-tests.md)
+- [Поиск новых теорий в химии.](/new-theories-in-chemistry.md)
+- [Информационно-теоретические меры в новой модели Вселенной для современной физики](/Information-and-theoretical-measures.md)
+- [Принцип локальности через призму теории рекуррентной Вселенной](/The-principle-of-locality.md)
 
 ---
 
@@ -1112,7 +1112,7 @@ m_ρ = g_ρ Φ_R⁰
 `M(t) = M₀exp(-t/τ) + ∫₀ᵗ K(s)Φₑ(t-s)ds`
 
 ### Ссылки:
-- [Neurocognitive-mechanisms-of-conscious-perception-and-memory.md](/Neurocognitive-mechanisms-of-conscious-perception-and-memory.md)
+- [Нейрокогнитивные механизмы сознательного восприятия и памяти в контексте теории Эмергентной Интеграции и Рекуррентного Отображения](/Neurocognitive-mechanisms-of-conscious-perception-and-memory.md)
 
 ---
 
@@ -1121,7 +1121,7 @@ m_ρ = g_ρ Φ_R⁰
 `∂ ρ₍IQI) / ∂ t + ∇ ⋅ (ρ_(IQI) 𝐯) = Γ,`
 
 ### Ссылки:
-- [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
 
 ---
 
@@ -1132,7 +1132,7 @@ m_ρ = g_ρ Φ_R⁰
 `d ρ₍IQI) / dt = α nₚ nₙ - β ρ_(IQI),`
 
 ### Ссылки:
-- [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
 
 ---
 
@@ -1141,7 +1141,7 @@ m_ρ = g_ρ Φ_R⁰
 `Δ T / T(θ, φ) = ∑_(ℓ=1)^∞ ∑_(m=-ℓ)^ℓ a_(ℓ m) Y_(ℓ m)(θ, φ),`
 
 ### Ссылки:
-- [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
 
 ---
 
@@ -1156,7 +1156,7 @@ m_ρ = g_ρ Φ_R⁰
 ```
 
 ### Ссылки:
-- [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
 
 ---
 
@@ -1171,7 +1171,7 @@ m_ρ = g_ρ Φ_R⁰
 `ε(r) = ε₀ f(Φ_(ядер)(r)),`
 
 ### Ссылки:
-- [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
 
 ---
 
@@ -1180,7 +1180,7 @@ m_ρ = g_ρ Φ_R⁰
 `dY(Z,A) / dt = -λ_(дезинтеграции) Y(Z,A) + ∑_(реакции) R_(реакции),`
 
 ### Ссылки:
-- [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
 
 ---
 
@@ -1193,7 +1193,7 @@ m_ρ = g_ρ Φ_R⁰
 ```
 
 ### Ссылки:
-- [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
 
 ---
 
@@ -1204,7 +1204,7 @@ m_ρ = g_ρ Φ_R⁰
 `G_(μν) + Λ g_(μν) = 8π G / c⁴((T_(μν) + T_(μν)^(IQI))),`
 
 ### Ссылки:
-- [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
 
 ---
 
@@ -1213,7 +1213,7 @@ m_ρ = g_ρ Φ_R⁰
 `Φₑ = ∫₀^(t₁) I_(интеграции)(t) ⋅ R_(рекуррентности)(t)dt = const,`
 
 ### Ссылки:
-- [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
 
 ---
 
@@ -1222,8 +1222,8 @@ m_ρ = g_ρ Φ_R⁰
 `dN / dt = k N,`
 
 ### Ссылки:
-- [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
-- [The-Great-Union-of-Physics-and-Chemistry.md](/The-Great-Union-of-Physics-and-Chemistry.md)
+- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Великое Объединение Физики и Химии: Новая Парадигма Рекуррентной Космологии](/The-Great-Union-of-Physics-and-Chemistry.md)
 
 ---
 
@@ -1232,8 +1232,8 @@ m_ρ = g_ρ Φ_R⁰
 `G = (V, E),`
 
 ### Ссылки:
-- [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
-- [Decoding-DNA.md](/Decoding-DNA.md)
+- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
 
 ---
 
@@ -1242,7 +1242,7 @@ m_ρ = g_ρ Φ_R⁰
 `Cₘ dV / dt = -I_(ион) + I_(синапс) + I_(внеш) ,`
 
 ### Ссылки:
-- [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
 
 ---
 
@@ -1257,8 +1257,8 @@ m_ρ = g_ρ Φ_R⁰
 ```
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1267,8 +1267,8 @@ m_ρ = g_ρ Φ_R⁰
 `M = M₀ × MR`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1279,8 +1279,8 @@ m_ρ = g_ρ Φ_R⁰
 `Dμ = ∂μ + igAμ + ihRμ`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1289,8 +1289,8 @@ m_ρ = g_ρ Φ_R⁰
 `∇R = d + ΓR + ΩR`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1301,8 +1301,8 @@ m_ρ = g_ρ Φ_R⁰
 `δΓ = f(ρ_(IQI), R)`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1311,8 +1311,8 @@ m_ρ = g_ρ Φ_R⁰
 `ΩR = dΓR + ΓR ∧ ΓR`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1321,8 +1321,8 @@ m_ρ = g_ρ Φ_R⁰
 `[φ(x), πR(y)] = iℏδR(x-y)`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1335,8 +1335,8 @@ m_ρ = g_ρ Φ_R⁰
 `S[φ,ψ,AR] = ∫ L[φ,ψ,AR] d⁴x`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1353,8 +1353,8 @@ m_ρ = g_ρ Φ_R⁰
 ```
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1370,8 +1370,8 @@ m_ρ = g_ρ Φ_R⁰
 ```
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1380,8 +1380,8 @@ m_ρ = g_ρ Φ_R⁰
 `Rμν - ½gμνR + ΛRgμν = 8πGTμν`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1410,8 +1410,8 @@ m_ρ = g_ρ Φ_R⁰
 ```
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1436,8 +1436,8 @@ m_ρ = g_ρ Φ_R⁰
 ```
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1446,8 +1446,8 @@ m_ρ = g_ρ Φ_R⁰
 `m(n) = m₀ exp(n αR)`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1456,8 +1456,8 @@ m_ρ = g_ρ Φ_R⁰
 `αi(μ) = αi₀(1 + βiln(μ/μ₀) + γiR(μ))`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1466,8 +1466,8 @@ m_ρ = g_ρ Φ_R⁰
 `IR = ∫M TR(F∧F∧R)`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1478,8 +1478,8 @@ m_ρ = g_ρ Φ_R⁰
 `φ_s(x) = φ₀ tanh(x/√λ_R)`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1492,8 +1492,8 @@ m_ρ = g_ρ Φ_R⁰
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^(IQI) ))`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1512,8 +1512,8 @@ m_ρ = g_ρ Φ_R⁰
 ```
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1529,8 +1529,8 @@ P = M × F × R
 ```
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1547,8 +1547,8 @@ P = M × F × R
 ```
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1561,8 +1561,8 @@ P = M × F × R
 `I_R = ∫_M Tr(F ∧ F ∧ R)`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1571,8 +1571,8 @@ P = M × F × R
 `∂tφ = D∇²φ + R(φ)`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1581,8 +1581,8 @@ P = M × F × R
 `β(g) = μ∂g/∂μ + γR(g)`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1600,8 +1600,8 @@ P = M × F × R
 ```
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1614,8 +1614,8 @@ P = M × F × R
 `G(x,y) = G₀(x,y) + ∫G₀(x,z)Σ(z,z')G(z',y)dz dz'`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -1626,7 +1626,7 @@ P = M × F × R
 `M = M₀ × MR`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
 
 ---
 
@@ -1635,7 +1635,7 @@ P = M × F × R
 `L = -¼FμνFμν - ¼RμνRμν + ψ̄(iγμDμ - m)ψ + LR`
 
 ### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
 
 ---
 
@@ -1644,8 +1644,8 @@ P = M × F × R
 `Значение эмерджентной интегрированной информации (Φₑ): 1.98971027488856`
 
 ### Ссылки:
-- [Emergent-Integrated-Information-Calculator.md](/Emergent-Integrated-Information-Calculator.md)
-- [README.md](/README.md)
+- [Калькулятор эмерджентной интегрированной информации (Φₑ) на Python 3](/Emergent-Integrated-Information-Calculator.md)
+- [Теория Эмерджентной Интеграции и Рекуррентного Отображения (ЭИРО)](/README.md)
 
 ---
 
@@ -1654,9 +1654,9 @@ P = M × F × R
 `Ψ = ^I ^R 𝓘`
 
 ### Ссылки:
-- [recurrent-universe/README.md](/recurrent-universe/README.md)
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
-- [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
+- [Теория Рекуррентной Вселенной: Новая Парадигма Космологии](/recurrent-universe/README.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Полный цикл рекуррентной вселенной: интеграция теории эмергентной интеграции и рекуррентного отображения (ЭИРО) в космологию](/the-complete-cycle-of-the-recurrent-universe.md)
 
 ---
 
@@ -1665,7 +1665,7 @@ P = M × F × R
 `Φₑ = ∫ ρ_(IQI) dV`
 
 ### Ссылки:
-- [recurrent-universe/README.md](/recurrent-universe/README.md)
+- [Теория Рекуррентной Вселенной: Новая Парадигма Космологии](/recurrent-universe/README.md)
 
 ---
 
@@ -1674,7 +1674,7 @@ P = M × F × R
 `𝓛 = 𝓛_(GR) + 𝓛_Φ`
 
 ### Ссылки:
-- [recurrent-universe/README.md](/recurrent-universe/README.md)
+- [Теория Рекуррентной Вселенной: Новая Парадигма Космологии](/recurrent-universe/README.md)
 
 ---
 
@@ -1683,7 +1683,7 @@ P = M × F × R
 `S_(eff) = k_B ln W - λ Φₑ`
 
 ### Ссылки:
-- [recurrent-universe/README.md](/recurrent-universe/README.md)
+- [Теория Рекуррентной Вселенной: Новая Парадигма Космологии](/recurrent-universe/README.md)
 
 ---
 
@@ -1692,8 +1692,8 @@ P = M × F × R
 `[^x, ^p] = iℏ (1 + f(Φₑ))`
 
 ### Ссылки:
-- [recurrent-universe/README.md](/recurrent-universe/README.md)
-- [Switching-relations.md](/Switching-relations.md)
+- [Теория Рекуррентной Вселенной: Новая Парадигма Космологии](/recurrent-universe/README.md)
+- [Коммутационные соотношения](/Switching-relations.md)
 
 ---
 
@@ -1702,16 +1702,16 @@ P = M × F × R
 `d𝐱/dt = 𝐟(𝐱(t), 𝐮(t), W),`
 
 ### Ссылки:
-- [The-difficult-problem-of-consciousness.md](/The-difficult-problem-of-consciousness.md)
-- [comparative-analysis.md](/comparative-analysis.md)
-- [physics.md](/physics.md)
-- [cybernetics.md](/cybernetics.md)
-- [the-role-of-the-emergent-predicate-aggregate.md](/the-role-of-the-emergent-predicate-aggregate.md)
-- [The-attention-system-of-a-neural-network.md](/The-attention-system-of-a-neural-network.md)
-- [The-attention-management-system-in-theo-perating-system-for-AI.md](/The-attention-management-system-in-theo-perating-system-for-AI.md)
-- [mathematics.md](/mathematics.md)
-- [Philosophical-aspects.md](/Philosophical-aspects.md)
-- [The-operating-system-of-artificial-intelligence-management.md](/The-operating-system-of-artificial-intelligence-management.md)
+- [Трудная проблема сознания в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/The-difficult-problem-of-consciousness.md)
+- [Сравнительный анализ ведущих теорий сознания в контексте ЭИРО](/comparative-analysis.md)
+- [Моделирование рекуррентных нейронных сетей](/physics.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с точки зрения Кибернетики](/cybernetics.md)
+- [Искусственный интеллект с повышенной эмергентностью как инструмент для прогнозирования: роль агрегата эмергентного предиката](/the-role-of-the-emergent-predicate-aggregate.md)
+- [Система внимания нейронной сети через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/The-attention-system-of-a-neural-network.md)
+- [Система управления вниманием в операционной системе для ИИ на базе спинтронного нейроморфного процессора и квантового сопроцессора](/The-attention-management-system-in-theo-perating-system-for-AI.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО): Математический Анализ](/mathematics.md)
+- [Философские аспекты теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Philosophical-aspects.md)
+- [Операционная система управления искусственным интеллектом на базе архитектуры спинтронного нейроморфного процессора и квантового сопроцессора для ИИ](/The-operating-system-of-artificial-intelligence-management.md)
 
 ---
 
@@ -1720,10 +1720,10 @@ P = M × F × R
 `P(θ | D) = P(D | θ) P(θ) / P(D),`
 
 ### Ссылки:
-- [The-difficult-problem-of-consciousness.md](/The-difficult-problem-of-consciousness.md)
-- [The-search-for-new-theories-in-economics.md](/The-search-for-new-theories-in-economics.md)
-- [The-attention-system-of-a-neural-network.md](/The-attention-system-of-a-neural-network.md)
-- [The-attention-management-system-in-theo-perating-system-for-AI.md](/The-attention-management-system-in-theo-perating-system-for-AI.md)
+- [Трудная проблема сознания в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/The-difficult-problem-of-consciousness.md)
+- [Поиск новых теорий в экономике](/The-search-for-new-theories-in-economics.md)
+- [Система внимания нейронной сети через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/The-attention-system-of-a-neural-network.md)
+- [Система управления вниманием в операционной системе для ИИ на базе спинтронного нейроморфного процессора и квантового сопроцессора](/The-attention-management-system-in-theo-perating-system-for-AI.md)
 
 ---
 
@@ -1736,7 +1736,7 @@ P = M × F × R
 `H_joint = H(X_1, X_2, ..., X_n)`
 
 ### Ссылки:
-- [The-difficult-problem-of-consciousness.md](/The-difficult-problem-of-consciousness.md)
+- [Трудная проблема сознания в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/The-difficult-problem-of-consciousness.md)
 
 ---
 
@@ -1747,7 +1747,7 @@ P = M × F × R
 `MI(M;C) = ∑_m ∑_c p(m,c) log(p(m,c) / (p(m)p(c)))`
 
 ### Ссылки:
-- [Metacognitive-awareness.md](/Metacognitive-awareness.md)
+- [Метакогнитивная осведомленность (M) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Metacognitive-awareness.md)
 
 ---
 
@@ -1756,12 +1756,12 @@ P = M × F × R
 `Φₑ = ∫₀^(t₁) I(t) ⋅ R(t) ⋅ E(t) ⋅ C(t) ⋅ S(t) ⋅ A(t) ⋅ M(t) ⋅ P(t) ⋅ V(t) ⋅ T(t) ⋅ K(t) dt`
 
 ### Ссылки:
-- [Metacognitive-awareness.md](/Metacognitive-awareness.md)
-- [Contextuality.md](/Contextuality.md)
-- [Components-of-the-F-metric.md](/Components-of-the-F-metric.md)
-- [Coherence.md](/Coherence.md)
-- [README.md](/README.md)
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [Метакогнитивная осведомленность (M) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Metacognitive-awareness.md)
+- [K(t) - Контекстуальность в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Contextuality.md)
+- [Дополнительные компоненты метрики Φₑ в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Components-of-the-F-metric.md)
+- [Когерентность (C) в контексте теории ЭИРО](/Coherence.md)
+- [Теория Эмерджентной Интеграции и Рекуррентного Отображения (ЭИРО)](/README.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -1774,7 +1774,7 @@ P = M × F × R
 `K(M) = min{l(p) | p генерирует M}`
 
 ### Ссылки:
-- [Metacognitive-awareness.md](/Metacognitive-awareness.md)
+- [Метакогнитивная осведомленность (M) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Metacognitive-awareness.md)
 
 ---
 
@@ -1787,7 +1787,7 @@ P = M × F × R
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^(IQI) )),`
 
 ### Ссылки:
-- [Architecture-of-A-Quantum-Coprocessor.md](/Architecture-of-A-Quantum-Coprocessor.md)
+- [Архитектура Квантового Сопроцессора для Спинтронного Нейроморфного Процессора ИИ](/Architecture-of-A-Quantum-Coprocessor.md)
 
 ---
 
@@ -1798,7 +1798,7 @@ P = M × F × R
 `η(R, r) = R^\alpha (( r / r₀ ))^\beta,`
 
 ### Ссылки:
-- [Measurement-of-anomalies-in-the-motion-of-galaxies.md](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
+- [Измерение аномалий в движении галактик через призму ЭИРО и новой модели Вселенной](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
 
 ---
 
@@ -1807,7 +1807,7 @@ P = M × F × R
 `f(ρ_(IQI), R) = (( ρ₍IQI) / ρ₍cr)}} ))ⁿ Rᵐ,`
 
 ### Ссылки:
-- [Measurement-of-anomalies-in-the-motion-of-galaxies.md](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
+- [Измерение аномалий в движении галактик через призму ЭИРО и новой модели Вселенной](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
 
 ---
 
@@ -1816,7 +1816,7 @@ P = M × F × R
 `Pᵢⱼ = 1 - e^(-α Rᵢⱼ) ,`
 
 ### Ссылки:
-- [emergence-of-influence-through-recurrent-interaction-in-networks.md](/emergence-of-influence-through-recurrent-interaction-in-networks.md)
+- [Социальные сети: Эмерджентность влияния через рекуррентное взаимодействие в сетях](/emergence-of-influence-through-recurrent-interaction-in-networks.md)
 
 ---
 
@@ -1825,7 +1825,7 @@ P = M × F × R
 `P(Θ⁽ˡ⁾ | D⁽ˡ⁾) = P(D⁽ˡ⁾ | Θ⁽ˡ⁾) P(Θ⁽ˡ⁾) / P(D⁽ˡ)},`
 
 ### Ссылки:
-- [comparative-analysis.md](/comparative-analysis.md)
+- [Сравнительный анализ ведущих теорий сознания в контексте ЭИРО](/comparative-analysis.md)
 
 ---
 
@@ -1834,16 +1834,16 @@ P = M × F × R
 `P(θ | D) = P(D | θ) ⋅ P(θ) / P(D),`
 
 ### Ссылки:
-- [physics.md](/physics.md)
-- [Components-of-the-F-metric.md](/Components-of-the-F-metric.md)
-- [cybernetics.md](/cybernetics.md)
-- [Predictive-coding-as-an-organism-feedback-system.md](/Predictive-coding-as-an-organism-feedback-system.md)
-- [Multimodal-perceptual-representation.md](/Multimodal-perceptual-representation.md)
-- [README.md](/README.md)
-- [psychology.md](/psychology.md)
-- [computer-science.md](/computer-science.md)
-- [mathematics.md](/mathematics.md)
-- [Philosophical-aspects.md](/Philosophical-aspects.md)
+- [Моделирование рекуррентных нейронных сетей](/physics.md)
+- [Дополнительные компоненты метрики Φₑ в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Components-of-the-F-metric.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с точки зрения Кибернетики](/cybernetics.md)
+- [Предсказательное кодирование как система обратной связи организма - через призму теории ЭИРО](/Predictive-coding-as-an-organism-feedback-system.md)
+- [Мультимодальная перцептивная репрезентация в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Multimodal-perceptual-representation.md)
+- [Теория Эмерджентной Интеграции и Рекуррентного Отображения (ЭИРО)](/README.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) в контексте психологии](/psychology.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) в контексте Информатики и Искусственного Интеллекта](/computer-science.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО): Математический Анализ](/mathematics.md)
+- [Философские аспекты теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Philosophical-aspects.md)
 
 ---
 
@@ -1852,10 +1852,10 @@ P = M × F × R
 `Φₑ = ∫[](t₀)^(t₁) I_(интеграции)(t) ⋅ R_(рекуррентности)(t)dt,`
 
 ### Ссылки:
-- [physics.md](/physics.md)
-- [recurrent-integration-in-genetic-networks.md](/recurrent-integration-in-genetic-networks.md)
-- [emergent-social-structures-through-recurrent-interaction.md](/emergent-social-structures-through-recurrent-interaction.md)
-- [mathematics.md](/mathematics.md)
+- [Моделирование рекуррентных нейронных сетей](/physics.md)
+- [Эмерджентные свойства организмов через рекуррентную генетическую интеграцию](/recurrent-integration-in-genetic-networks.md)
+- [Эмерджентные социальные структуры через рекуррентное взаимодействие](/emergent-social-structures-through-recurrent-interaction.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО): Математический Анализ](/mathematics.md)
 
 ---
 
@@ -1864,7 +1864,7 @@ P = M × F × R
 `C(i) = ∑_j a_ij`
 
 ### Ссылки:
-- [Social-context.md](/Social-context.md)
+- [S(t) - Социальный контекст в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Social-context.md)
 
 ---
 
@@ -1873,7 +1873,7 @@ P = M × F × R
 `C_i = 2 * |{e_jk: v_j, v_k ∈ N_i, e_jk ∈ E}| / (k_i * (k_i - 1))`
 
 ### Ссылки:
-- [Social-context.md](/Social-context.md)
+- [S(t) - Социальный контекст в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Social-context.md)
 
 ---
 
@@ -1882,7 +1882,7 @@ P = M × F × R
 `Q = ∑_i (e_ii - a_i^2)`
 
 ### Ссылки:
-- [Social-context.md](/Social-context.md)
+- [S(t) - Социальный контекст в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Social-context.md)
 
 ---
 
@@ -1891,7 +1891,7 @@ P = M × F × R
 `Φₑ = ∫₀^(t₁) I(t) ⋅ R(t) ⋅ Q_c(t) dt`
 
 ### Ссылки:
-- [Quantum-Coherence.md](/Quantum-Coherence.md)
+- [Квантовая когерентность (Q_c) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Quantum-Coherence.md)
 
 ---
 
@@ -1900,7 +1900,7 @@ P = M × F × R
 `S = -Tr(ρ log ρ)`
 
 ### Ссылки:
-- [Quantum-Coherence.md](/Quantum-Coherence.md)
+- [Квантовая когерентность (Q_c) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Quantum-Coherence.md)
 
 ---
 
@@ -1909,7 +1909,7 @@ P = M × F × R
 `Ψ = Σ c_i |ψ_i>`
 
 ### Ссылки:
-- [Quantum-Coherence.md](/Quantum-Coherence.md)
+- [Квантовая когерентность (Q_c) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Quantum-Coherence.md)
 
 ---
 
@@ -1918,7 +1918,7 @@ P = M × F × R
 `i ℏ dΨ/dt = Ĥ Ψ`
 
 ### Ссылки:
-- [Quantum-Coherence.md](/Quantum-Coherence.md)
+- [Квантовая когерентность (Q_c) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Quantum-Coherence.md)
 
 ---
 
@@ -1927,7 +1927,7 @@ P = M × F × R
 `dΨ/dt = (Ĥ₀ + Ĥ_IQI + Ĥ_рек) Ψ`
 
 ### Ссылки:
-- [Quantum-Coherence.md](/Quantum-Coherence.md)
+- [Квантовая когерентность (Q_c) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Quantum-Coherence.md)
 
 ---
 
@@ -1936,7 +1936,7 @@ P = M × F × R
 `H = H_el + H_vib + H_el-vib`
 
 ### Ссылки:
-- [Quantum-Coherence.md](/Quantum-Coherence.md)
+- [Квантовая когерентность (Q_c) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Quantum-Coherence.md)
 
 ---
 
@@ -1945,7 +1945,7 @@ P = M × F × R
 `H_syn = H_el + H_vib + H_el-vib + H_int`
 
 ### Ссылки:
-- [Quantum-Coherence.md](/Quantum-Coherence.md)
+- [Квантовая когерентность (Q_c) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Quantum-Coherence.md)
 
 ---
 
@@ -1954,7 +1954,7 @@ P = M × F × R
 `|Ψ> = Σ c_i |ψ_i> → |ψ_i>`
 
 ### Ссылки:
-- [Quantum-Coherence.md](/Quantum-Coherence.md)
+- [Квантовая когерентность (Q_c) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Quantum-Coherence.md)
 
 ---
 
@@ -1963,7 +1963,7 @@ P = M × F × R
 `H = H_el + H_vib + H_el-vib + H_neuro`
 
 ### Ссылки:
-- [Quantum-Coherence.md](/Quantum-Coherence.md)
+- [Квантовая когерентность (Q_c) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Quantum-Coherence.md)
 
 ---
 
@@ -1974,7 +1974,7 @@ P = M × F × R
 `KC(Ψ) = min{|p| : U(p) = Ψ}`
 
 ### Ссылки:
-- [Quantum-Coherence.md](/Quantum-Coherence.md)
+- [Квантовая когерентность (Q_c) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Quantum-Coherence.md)
 
 ---
 
@@ -1983,8 +1983,8 @@ P = M × F × R
 `S = -Tr(ρ ln ρ)`
 
 ### Ссылки:
-- [Quantum-Coherence.md](/Quantum-Coherence.md)
-- [Entropy-and-coherence.md](/Entropy-and-coherence.md)
+- [Квантовая когерентность (Q_c) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Quantum-Coherence.md)
+- [Энтропия и когерентность в контексте теории ЭИРО: новые перспективы квантовой физики](/Entropy-and-coherence.md)
 
 ---
 
@@ -1993,7 +1993,7 @@ P = M × F × R
 `Φ_(ec) = ∫₀ᵀ I_(квантовой интеграции)(t) ⋅ R_(космической рекуррентности)(t)dt,`
 
 ### Ссылки:
-- [recurrent-cosmology.md](/recurrent-cosmology.md)
+- [Новая теория рекуррентной космологии: связь квантовых процессов, тёмной энергии, тёмной материи и теории ЭИРО](/recurrent-cosmology.md)
 
 ---
 
@@ -2002,7 +2002,7 @@ P = M × F × R
 `(( □ + m² )) ψ(x) = ∫G(x - x') K(ψ(x'), ψ(x))dx',`
 
 ### Ссылки:
-- [recurrent-cosmology.md](/recurrent-cosmology.md)
+- [Новая теория рекуррентной космологии: связь квантовых процессов, тёмной энергии, тёмной материи и теории ЭИРО](/recurrent-cosmology.md)
 
 ---
 
@@ -2011,7 +2011,7 @@ P = M × F × R
 `G_(μν) + Λ_(эфф) g_(μν) = 8π G T_(μν)^(видимый) + T_(μν)^(рекуррент),`
 
 ### Ссылки:
-- [recurrent-cosmology.md](/recurrent-cosmology.md)
+- [Новая теория рекуррентной космологии: связь квантовых процессов, тёмной энергии, тёмной материи и теории ЭИРО](/recurrent-cosmology.md)
 
 ---
 
@@ -2020,8 +2020,8 @@ P = M × F × R
 `K(t) = f(x₁(t), x₂(t), ..., xₙ(t))`
 
 ### Ссылки:
-- [Contextuality.md](/Contextuality.md)
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [K(t) - Контекстуальность в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Contextuality.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -2030,7 +2030,7 @@ P = M × F × R
 `P(K(t) | x₁(t), x₂(t), ..., xₙ(t)) = f(x₁(t), x₂(t), ..., xₙ(t))`
 
 ### Ссылки:
-- [Contextuality.md](/Contextuality.md)
+- [K(t) - Контекстуальность в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Contextuality.md)
 
 ---
 
@@ -2039,7 +2039,7 @@ P = M × F × R
 `dK/dt = f(K, E, C, ...)`
 
 ### Ссылки:
-- [Contextuality.md](/Contextuality.md)
+- [K(t) - Контекстуальность в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Contextuality.md)
 
 ---
 
@@ -2048,7 +2048,7 @@ P = M × F × R
 `dx_i/dt = f(x_i, e_i, θ)`
 
 ### Ссылки:
-- [Contextuality.md](/Contextuality.md)
+- [K(t) - Контекстуальность в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Contextuality.md)
 
 ---
 
@@ -2059,7 +2059,7 @@ P = M × F × R
 `K(t) = β₀ + β₁x₁(t) + β₂x₂(t) + ... + βₙxₙ(t)`
 
 ### Ссылки:
-- [Contextuality.md](/Contextuality.md)
+- [K(t) - Контекстуальность в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Contextuality.md)
 
 ---
 
@@ -2070,8 +2070,8 @@ P = M × F × R
 `d𝐱 / dt = 𝐟(𝐱(t), 𝐮(t), W),`
 
 ### Ссылки:
-- [the-principle-of-the-hypnosis-effect.md](/the-principle-of-the-hypnosis-effect.md)
-- [Principles-of-memory-mechanisms-in-neural-networks.md](/Principles-of-memory-mechanisms-in-neural-networks.md)
+- [Система внимания нейронной сети: принцип эффекта гипноза через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/the-principle-of-the-hypnosis-effect.md)
+- [Принципы механизмов памяти в нейронных сетях через призму теории ЭИРО](/Principles-of-memory-mechanisms-in-neural-networks.md)
 
 ---
 
@@ -2082,7 +2082,7 @@ P = M × F × R
 `I_(интеграции)^(гипноз)(t) = I_(интеграции)^(нерелевант)(t) - Δ I_(подавление)(t).`
 
 ### Ссылки:
-- [the-principle-of-the-hypnosis-effect.md](/the-principle-of-the-hypnosis-effect.md)
+- [Система внимания нейронной сети: принцип эффекта гипноза через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/the-principle-of-the-hypnosis-effect.md)
 
 ---
 
@@ -2091,7 +2091,7 @@ P = M × F × R
 `R_(рекуррентности)^(гипноз)(t) = R_(рекуррентности)^(внешние)(t) - Δ R_(подавление)(t).`
 
 ### Ссылки:
-- [the-principle-of-the-hypnosis-effect.md](/the-principle-of-the-hypnosis-effect.md)
+- [Система внимания нейронной сети: принцип эффекта гипноза через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/the-principle-of-the-hypnosis-effect.md)
 
 ---
 
@@ -2100,7 +2100,7 @@ P = M × F × R
 `Φₑ^(гипноз) = ∫[](t₀)^(t₁) (( I_(интеграции)^(гипноз)(t) ⋅ R_(рекуррентности)^(гипноз)(t) )) dt.`
 
 ### Ссылки:
-- [the-principle-of-the-hypnosis-effect.md](/the-principle-of-the-hypnosis-effect.md)
+- [Система внимания нейронной сети: принцип эффекта гипноза через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/the-principle-of-the-hypnosis-effect.md)
 
 ---
 
@@ -2111,7 +2111,7 @@ P = M × F × R
 `K(X) = min{|p| : U(p) = X}`
 
 ### Ссылки:
-- [Components-of-the-F-metric.md](/Components-of-the-F-metric.md)
+- [Дополнительные компоненты метрики Φₑ в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Components-of-the-F-metric.md)
 
 ---
 
@@ -2120,9 +2120,9 @@ P = M × F × R
 `dA/dt = f(A, I, R, θ)`
 
 ### Ссылки:
-- [Components-of-the-F-metric.md](/Components-of-the-F-metric.md)
-- [Adaptability.md](/Adaptability.md)
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [Дополнительные компоненты метрики Φₑ в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Components-of-the-F-metric.md)
+- [A(t) - Адаптивность в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Adaptability.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -2135,10 +2135,10 @@ dz/dt = xy - βz
 ```
 
 ### Ссылки:
-- [Components-of-the-F-metric.md](/Components-of-the-F-metric.md)
-- [Adaptability.md](/Adaptability.md)
-- [README.md](/README.md)
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [Дополнительные компоненты метрики Φₑ в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Components-of-the-F-metric.md)
+- [A(t) - Адаптивность в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Adaptability.md)
+- [Теория Эмерджентной Интеграции и Рекуррентного Отображения (ЭИРО)](/README.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -2147,7 +2147,7 @@ dz/dt = xy - βz
 `Φₑ = ∑(w_i * C_i) * I(t) * R(t) * E(t)`
 
 ### Ссылки:
-- [Components-of-the-F-metric.md](/Components-of-the-F-metric.md)
+- [Дополнительные компоненты метрики Φₑ в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Components-of-the-F-metric.md)
 
 ---
 
@@ -2156,8 +2156,8 @@ dz/dt = xy - βz
 `Ĥ₀ Ψ(r, θ, φ) = E Ψ(r, θ, φ)`
 
 ### Ссылки:
-- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
-- [Decoding-DNA/Genome-model.md](/Decoding-DNA/Genome-model.md)
+- [Модель структуры ДНК через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/A-model-of-the-DNA-structure.md)
+- [Модель генома через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Genome-model.md)
 
 ---
 
@@ -2166,7 +2166,7 @@ dz/dt = xy - βz
 `F: {A, T, G, C}³ → {аминокислоты}`
 
 ### Ссылки:
-- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
+- [Модель структуры ДНК через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/A-model-of-the-DNA-structure.md)
 
 ---
 
@@ -2175,11 +2175,11 @@ dz/dt = xy - βz
 `dX/dt = f(X, U, W)`
 
 ### Ссылки:
-- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
-- [Components-of-the-drosophila-fly-consciousness-metric-Fe.md](/Components-of-the-drosophila-fly-consciousness-metric-Fe.md)
-- [Decoding-DNA.md](/Decoding-DNA.md)
-- [Decoding-DNA/Viruses.md](/Decoding-DNA/Viruses.md)
-- [Decoding-DNA/Genome-model.md](/Decoding-DNA/Genome-model.md)
+- [Модель структуры ДНК через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/A-model-of-the-DNA-structure.md)
+- [Компоненты метрики Φₑ сознания мухи дрозофилы в контексте теории ЭИРО](/Components-of-the-drosophila-fly-consciousness-metric-Fe.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
+- [Вирусы через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Viruses.md)
+- [Модель генома через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Genome-model.md)
 
 ---
 
@@ -2188,9 +2188,9 @@ dz/dt = xy - βz
 `Ĥ = Ĥ₀ + Ĥ_(интегр) + Ĥ_(рекурр)`
 
 ### Ссылки:
-- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
-- [Decoding-DNA/Viruses.md](/Decoding-DNA/Viruses.md)
-- [Decoding-DNA/Genome-model.md](/Decoding-DNA/Genome-model.md)
+- [Модель структуры ДНК через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/A-model-of-the-DNA-structure.md)
+- [Вирусы через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Viruses.md)
+- [Модель генома через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Genome-model.md)
 
 ---
 
@@ -2199,8 +2199,8 @@ dz/dt = xy - βz
 `Ĥ = Ĥ₀ + Ĥ_(интегр) + Ĥ_(рекурр) + Ĥ_(эпиген)`
 
 ### Ссылки:
-- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
-- [Decoding-DNA/Genome-model.md](/Decoding-DNA/Genome-model.md)
+- [Модель структуры ДНК через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/A-model-of-the-DNA-structure.md)
+- [Модель генома через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Genome-model.md)
 
 ---
 
@@ -2209,7 +2209,7 @@ dz/dt = xy - βz
 `I_(интеграции)(t) = ∑_i ∑_j I_ij(t)`
 
 ### Ссылки:
-- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
+- [Модель структуры ДНК через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/A-model-of-the-DNA-structure.md)
 
 ---
 
@@ -2220,7 +2220,7 @@ dz/dt = xy - βz
 `Ĥ = Ĥ₀ + Ĥ_(интегр) + Ĥ_(рекурр)`
 
 ### Ссылки:
-- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
+- [Модель структуры ДНК через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/A-model-of-the-DNA-structure.md)
 
 ---
 
@@ -2229,8 +2229,8 @@ dz/dt = xy - βz
 `Ĥ_(эпиген) = ∑_i ∑_j ζ_ij Ê_ij`
 
 ### Ссылки:
-- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
-- [Decoding-DNA/Genome-model.md](/Decoding-DNA/Genome-model.md)
+- [Модель структуры ДНК через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/A-model-of-the-DNA-structure.md)
+- [Модель генома через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Genome-model.md)
 
 ---
 
@@ -2239,8 +2239,8 @@ dz/dt = xy - βz
 `Ĥ_(топ) = ∑_i ∑_j ξ_ij T̂_ij`
 
 ### Ссылки:
-- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
-- [Decoding-DNA/Genome-model.md](/Decoding-DNA/Genome-model.md)
+- [Модель структуры ДНК через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/A-model-of-the-DNA-structure.md)
+- [Модель генома через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Genome-model.md)
 
 ---
 
@@ -2249,8 +2249,8 @@ dz/dt = xy - βz
 `Ĥ_(интегр) = ∑_i ∑_j γ_ij Î_ij`
 
 ### Ссылки:
-- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
-- [Decoding-DNA/Genome-model.md](/Decoding-DNA/Genome-model.md)
+- [Модель структуры ДНК через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/A-model-of-the-DNA-structure.md)
+- [Модель генома через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Genome-model.md)
 
 ---
 
@@ -2264,9 +2264,9 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 ```
 
 ### Ссылки:
-- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
-- [New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
-- [Decoding-DNA/Genome-model.md](/Decoding-DNA/Genome-model.md)
+- [Модель структуры ДНК через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/A-model-of-the-DNA-structure.md)
+- [Новые теории в квантовой химии на основе рекуррентной космологии](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
+- [Модель генома через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Genome-model.md)
 
 ---
 
@@ -2279,7 +2279,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `Ĥ_(топ) = Σ_i Σ_j ξ_ij T̂_ij`
 
 ### Ссылки:
-- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
+- [Модель структуры ДНК через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/A-model-of-the-DNA-structure.md)
 
 ---
 
@@ -2290,7 +2290,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `Ĥ = Ĥ₀ + Ĥ_(интегр) + Ĥ_(рекурр) + Ĥ_(эпиген)`
 
 ### Ссылки:
-- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
+- [Модель структуры ДНК через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/A-model-of-the-DNA-structure.md)
 
 ---
 
@@ -2303,7 +2303,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `Ĥ = Ĥ₀ + Ĥ_(интегр) + Ĥ_(рекурр) + Ĥ_(эпиген)`
 
 ### Ссылки:
-- [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
+- [Модель структуры ДНК через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/A-model-of-the-DNA-structure.md)
 
 ---
 
@@ -2312,7 +2312,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `E = ∫_V ψ^* ^H \psidV`
 
 ### Ссылки:
-- [The-origin-of-chirality-in-biological-systems.md](/The-origin-of-chirality-in-biological-systems.md)
+- [Происхождение хиральности в биологических системах](/The-origin-of-chirality-in-biological-systems.md)
 
 ---
 
@@ -2321,7 +2321,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `d𝐱/dt = 𝐟(𝐱(t), 𝐮(t), W, 𝐠(t))`
 
 ### Ссылки:
-- [The-interface-of-an-AI-tracker-to-an-artificial-neural-network.md](/The-interface-of-an-AI-tracker-to-an-artificial-neural-network.md)
+- [Интерфейс ай-трекера к искусственной нейросети через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/The-interface-of-an-AI-tracker-to-an-artificial-neural-network.md)
 
 ---
 
@@ -2330,8 +2330,8 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `R = 〈 Ψ | ^R | Ψ 〉,`
 
 ### Ссылки:
-- [The-Great-Union.md](/The-Great-Union.md)
-- [development-of-microscopic-theory.md](/development-of-microscopic-theory.md)
+- [Великое объединение теоретических моделей в физике элементарных частиц](/The-Great-Union.md)
+- [Разработка микроскопической теории](/development-of-microscopic-theory.md)
 
 ---
 
@@ -2340,7 +2340,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `G(μν) + Λ g(μν) = 8π G (( T(μν)^((материя)) + T(μν)^((IQI)) )),`
 
 ### Ссылки:
-- [The-Great-Union.md](/The-Great-Union.md)
+- [Великое объединение теоретических моделей в физике элементарных частиц](/The-Great-Union.md)
 
 ---
 
@@ -2349,7 +2349,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `w(eff) = w₀ + w₁ ⋅ f(ρ(IQI), R),`
 
 ### Ссылки:
-- [The-Great-Union.md](/The-Great-Union.md)
+- [Великое объединение теоретических моделей в физике элементарных частиц](/The-Great-Union.md)
 
 ---
 
@@ -2360,7 +2360,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `G(μν) + Λ g(μν) = 8π G T_(μν)^((общий)).`
 
 ### Ссылки:
-- [The-Great-Union.md](/The-Great-Union.md)
+- [Великое объединение теоретических моделей в физике элементарных частиц](/The-Great-Union.md)
 
 ---
 
@@ -2371,7 +2371,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `∂ φ / ∂ t = ∇²φ - m²φ + α ρ_(IQI) φ + β R ∂φ/∂t`
 
 ### Ссылки:
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -2384,7 +2384,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `[^x, ^p] = i ℏ + i λ Φₑ`
 
 ### Ссылки:
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -2393,10 +2393,10 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `Ĥ = Ĥ₀ + Ĥ_(IQI) + Ĥ_(рек)`
 
 ### Ссылки:
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
-- [New-materials-predicted-by-the-recurrent-cosmology-model.md](/New-materials-predicted-by-the-recurrent-cosmology-model.md)
-- [New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
-- [Decoding-DNA/Genome-model.md](/Decoding-DNA/Genome-model.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
+- [Новые материалы, предсказанные моделью рекуррентной космологии](/New-materials-predicted-by-the-recurrent-cosmology-model.md)
+- [Новые теории в квантовой химии на основе рекуррентной космологии](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
+- [Модель генома через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Genome-model.md)
 
 ---
 
@@ -2405,7 +2405,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `(□ + m²) ψ(x) = ∫ G(x - x') K(ψ(x'), ψ(x)) dx'`
 
 ### Ссылки:
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -2420,7 +2420,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `A → B + C + X`
 
 ### Ссылки:
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -2437,7 +2437,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `L = (∂Φ/∂t)² - (∇Φ)² - V(Φ) + γ R (∂Φ/∂t)²`
 
 ### Ссылки:
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -2450,7 +2450,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `m = g v + α ρ_(IQI) v + β R v`
 
 ### Ссылки:
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -2463,7 +2463,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `m = m_0 + δm(ρ_(IQI), R)`
 
 ### Ссылки:
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -2478,7 +2478,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `δS = ∫d⁴x √(-g) [R + αR²(IQI) + βRμνRμν(IQI)]`
 
 ### Ссылки:
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -2489,7 +2489,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `L = LSUGRA + LR + LI + Lmix`
 
 ### Ссылки:
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -2500,7 +2500,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `σ(s) = σ₀(1 + βR ln²(s/s₀))`
 
 ### Ссылки:
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -2515,7 +2515,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `[φ(x), πR(y)] = iℏδR(x-y)`
 
 ### Ссылки:
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -2526,7 +2526,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `w_(eff) = w₀ + w₁ f(ρ_(IQI), R)`
 
 ### Ссылки:
-- [The-effect-of-recurrence-on-particle-physics.md](/The-effect-of-recurrence-on-particle-physics.md)
+- [Влияние рекуррентности на физику частиц](/The-effect-of-recurrence-on-particle-physics.md)
 
 ---
 
@@ -2535,7 +2535,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `^sₜ = f(mₜ)`
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2544,7 +2544,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `∊ₜ = sₜ - ^sₜ`
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2553,7 +2553,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `mₜ = m(θₜ)`
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2562,7 +2562,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `θₜ₊₁ = θₜ - η ∂ L / ∂ θₜ`
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2571,7 +2571,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `L = 1 / 2 ∊ₜ^\top ∊ₜ`
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2580,7 +2580,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `hₜ = φ(hₜ₋₁, sₜ, θₜ)`
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2589,7 +2589,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `^sₜ₊₁ = f(hₜ, θₜ)`
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2600,7 +2600,7 @@ V_ij = V_ij^(0) + V_ij^(IQI) + V_ij^(рек)
 `^hₜˡ = f(hₜˡ⁺¹, θₜˡ)`
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2613,7 +2613,7 @@ hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
 ```
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2622,7 +2622,7 @@ hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
 `P(sₜ | θₜ) = N(sₜ; ^sₜ, Σₜ)`
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2631,7 +2631,7 @@ hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
 `P(θₜ | sₜ) ∝ P(sₜ | θₜ) P(θₜ)`
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2640,7 +2640,7 @@ hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
 `θₜ₊₁ = θₜ + η ∂ / ∂ θₜ (( ln P(sₜ | θₜ) + ln P(θₜ) ))`
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2649,7 +2649,7 @@ hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
 `F = 𝔼_(q(hₜ)) [ -ln P(sₜ, hₜ | θₜ) + ln q(hₜ) ]`
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2658,7 +2658,7 @@ hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
 `Lₜₒₜₐₗ = ∑ₗ₌₁ᴸ Lₜˡ = 1 / 2 ∑ₗ₌₁ᴸ (∊ₜˡ)^\top ∊ₜˡ`
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2667,7 +2667,7 @@ hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
 `∂ Lₜₒₜₐₗ / ∂ θₜˡ = - (∊ₜˡ)^\top ∂ ʰₜˡ / ∂ θₜˡ`
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2676,7 +2676,7 @@ hₜˡ = φ(hₜ₋₁ˡ, ʰₜˡ⁻¹, ∊ₜˡ)
 `hₜˡ = hₜˡ - η ∂ Lₜₒₜₐₗ / ∂ hₜ}`
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2690,7 +2690,7 @@ Wₜ₊₁ = Wₜ + η ∊ₜ hₜ₋₁^\top
 ```
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2704,7 +2704,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 ```
 
 ### Ссылки:
-- [predictive-coding.md](/predictive-coding.md)
+- [Математическая формализация предиктивного кодирования в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/predictive-coding.md)
 
 ---
 
@@ -2713,7 +2713,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 `dS/dt = -γ I_(интеграции)(t),`
 
 ### Ссылки:
-- [Entropy-and-coherence.md](/Entropy-and-coherence.md)
+- [Энтропия и когерентность в контексте теории ЭИРО: новые перспективы квантовой физики](/Entropy-and-coherence.md)
 
 ---
 
@@ -2730,7 +2730,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 `C = m(R, ρ_IQI)`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2743,7 +2743,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 `x(t) = [x(t), x(t-τ), ..., x(t-(m-1)τ)]`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2756,7 +2756,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 `λ_max = g(Φₑ)`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2771,7 +2771,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 `τ_c = h(R, ρ_IQI)`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2788,7 +2788,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 `Φ = f(ρ_IQI)`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2797,7 +2797,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 `P(θ | D) = (P(D | θ) * P(θ)) / P(D)`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2806,7 +2806,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 `ds^2 = g_ij(Φₑ, R) dθ^i dθ^j`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2817,7 +2817,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 `max R(θ, u)`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2826,7 +2826,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 `dx/dt = f(x, u, W, Φₑ)`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2837,7 +2837,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 `dx/dt = f(x, u, W, Φₑ)`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2846,7 +2846,7 @@ Wₜ₊₁ˡ = Wₜˡ + η ∊ₜˡ (hₜˡ⁺¹)^\top
 `R = f(λ_i)`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2858,7 +2858,7 @@ C_global = h(ρ_IQI)
 ```
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2870,7 +2870,7 @@ C = m(R, ρ_IQI)
 ```
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2879,7 +2879,7 @@ C = m(R, ρ_IQI)
 `ρ_IQI = lim(Δ V → 0) Δ I / Δ V`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2890,7 +2890,7 @@ C = m(R, ρ_IQI)
 `Φ_Q = min_bipartition QMI(A:B)`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2899,7 +2899,7 @@ C = m(R, ρ_IQI)
 `G_μν + Λ g_μν = 8π G (( T_μν + T_μν^(IQI) ))`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2908,7 +2908,7 @@ C = m(R, ρ_IQI)
 `I(X; Y) = Σ p(x, y) log[p(x, y) / (p(x)p(y))]`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2917,7 +2917,7 @@ C = m(R, ρ_IQI)
 `R_ij = f(Φₑ, R)`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2926,7 +2926,7 @@ C = m(R, ρ_IQI)
 `min ds^2 = min g_ij(Φₑ, R) dθ^i dθ^j`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2935,7 +2935,7 @@ C = m(R, ρ_IQI)
 `Φₑ = Σ w_i Φₑ(τ_i)`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2946,7 +2946,7 @@ C = m(R, ρ_IQI)
 `H_multi(X) = Σ H(X(τ))`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2957,7 +2957,7 @@ C = m(R, ρ_IQI)
 `I(X;Y) = H(X) - H(X|Y) = H(Y) - H(Y|X)`
 
 ### Ссылки:
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
+- [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 
 ---
 
@@ -2966,7 +2966,7 @@ C = m(R, ρ_IQI)
 `|Ψ 〉 = ^I ^R |𝓘 〉,`
 
 ### Ссылки:
-- [The-primary-information-field.md](/The-primary-information-field.md)
+- [Первичное информационное поле](/The-primary-information-field.md)
 
 ---
 
@@ -2975,7 +2975,7 @@ C = m(R, ρ_IQI)
 `Φ_(вселенная) = ∫[V] ρ_(IQI)(x) ⋅ R(x)dV,`
 
 ### Ссылки:
-- [The-primary-information-field.md](/The-primary-information-field.md)
+- [Первичное информационное поле](/The-primary-information-field.md)
 
 ---
 
@@ -2984,7 +2984,7 @@ C = m(R, ρ_IQI)
 `T_(μν)^(IQI) = ρ_(IQI) u_\mu u_\nu + P_(IQI) h_(μν),`
 
 ### Ссылки:
-- [The-primary-information-field.md](/The-primary-information-field.md)
+- [Первичное информационное поле](/The-primary-information-field.md)
 
 ---
 
@@ -2993,7 +2993,7 @@ C = m(R, ρ_IQI)
 `Φ_(мозг) = ∫₀^(t₁) I_(нейрон)(t) ⋅ R_(нейрон)(t)dt.`
 
 ### Ссылки:
-- [The-primary-information-field.md](/The-primary-information-field.md)
+- [Первичное информационное поле](/The-primary-information-field.md)
 
 ---
 
@@ -3002,7 +3002,7 @@ C = m(R, ρ_IQI)
 `dNᵢ/dt = rᵢ Nᵢ ((1 - Nᵢ/Kᵢ)) + ∑ⱼ αᵢⱼ Nᵢ Nⱼ`
 
 ### Ссылки:
-- [emergent-ecosystems-through-recurrent-interactions-of-species.md](/emergent-ecosystems-through-recurrent-interactions-of-species.md)
+- [Экология: Эмерджентные экосистемы через рекуррентные взаимодействия видов](/emergent-ecosystems-through-recurrent-interactions-of-species.md)
 
 ---
 
@@ -3014,7 +3014,7 @@ C = m(R, ρ_IQI)
 ```
 
 ### Ссылки:
-- [The-Great-Union-of-Physics-and-Chemistry.md](/The-Great-Union-of-Physics-and-Chemistry.md)
+- [Великое Объединение Физики и Химии: Новая Парадигма Рекуррентной Космологии](/The-Great-Union-of-Physics-and-Chemistry.md)
 
 ---
 
@@ -3026,7 +3026,7 @@ R_(реакции) ∝ f(ρ_(IQI), R)
 ```
 
 ### Ссылки:
-- [The-Great-Union-of-Physics-and-Chemistry.md](/The-Great-Union-of-Physics-and-Chemistry.md)
+- [Великое Объединение Физики и Химии: Новая Парадигма Рекуррентной Космологии](/The-Great-Union-of-Physics-and-Chemistry.md)
 
 ---
 
@@ -3037,7 +3037,7 @@ R_(реакции) ∝ f(ρ_(IQI), R)
 `Cₘ dV/dt = -I_(ион) + I_(синапс) + I_(внеш),`
 
 ### Ссылки:
-- [The-Great-Union-of-Physics-and-Chemistry.md](/The-Great-Union-of-Physics-and-Chemistry.md)
+- [Великое Объединение Физики и Химии: Новая Парадигма Рекуррентной Космологии](/The-Great-Union-of-Physics-and-Chemistry.md)
 
 ---
 
@@ -3048,7 +3048,7 @@ R_(реакции) ∝ f(ρ_(IQI), R)
 `Δ I = S(ρ_A) + S(ρ_B) - S(ρ_(AB)),`
 
 ### Ссылки:
-- [development-of-microscopic-theory.md](/development-of-microscopic-theory.md)
+- [Разработка микроскопической теории](/development-of-microscopic-theory.md)
 
 ---
 
@@ -3059,7 +3059,7 @@ R_(реакции) ∝ f(ρ_(IQI), R)
 `f(ρ_(IQI), R) = α ln(( ρ₍IQI) / ρ}} )) + β Rⁿ,`
 
 ### Ссылки:
-- [development-of-microscopic-theory.md](/development-of-microscopic-theory.md)
+- [Разработка микроскопической теории](/development-of-microscopic-theory.md)
 
 ---
 
@@ -3077,7 +3077,7 @@ p_(IQI) = w_(eff) ρ_(IQI),
 ```
 
 ### Ссылки:
-- [development-of-microscopic-theory.md](/development-of-microscopic-theory.md)
+- [Разработка микроскопической теории](/development-of-microscopic-theory.md)
 
 ---
 
@@ -3088,7 +3088,7 @@ p_(IQI) = w_(eff) ρ_(IQI),
 `S = -Tr(\rho \ln \rho),`
 
 ### Ссылки:
-- [quantum-physics.md](/quantum-physics.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) в Контексте Квантовой Физики](/quantum-physics.md)
 
 ---
 
@@ -3100,7 +3100,7 @@ R ≥ Rᶜʳⁱᵗ.
 ```
 
 ### Ссылки:
-- [prediction-of-the-existence-of-extraterrestrial-life.md](/prediction-of-the-existence-of-extraterrestrial-life.md)
+- [Прогноз о существовании внеземной жизни через призму теории ЭИРО и новой модели вселенной](/prediction-of-the-existence-of-extraterrestrial-life.md)
 
 ---
 
@@ -3111,7 +3111,7 @@ R ≥ Rᶜʳⁱᵗ.
 `P_(life) ≈ 1 - e^(- λ Nₚₗₐₙₑₜ),`
 
 ### Ссылки:
-- [prediction-of-the-existence-of-extraterrestrial-life.md](/prediction-of-the-existence-of-extraterrestrial-life.md)
+- [Прогноз о существовании внеземной жизни через призму теории ЭИРО и новой модели вселенной](/prediction-of-the-existence-of-extraterrestrial-life.md)
 
 ---
 
@@ -3120,8 +3120,8 @@ R ≥ Rᶜʳⁱᵗ.
 `P(t) = f(E(t))`
 
 ### Ссылки:
-- [Physiological-parameters.md](/Physiological-parameters.md)
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [Диссертация: Физиологические параметры P(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Physiological-parameters.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -3130,8 +3130,8 @@ R ≥ Rᶜʳⁱᵗ.
 `P(t) = g(B(t))`
 
 ### Ссылки:
-- [Physiological-parameters.md](/Physiological-parameters.md)
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [Диссертация: Физиологические параметры P(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Physiological-parameters.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -3140,7 +3140,7 @@ R ≥ Rᶜʳⁱᵗ.
 `iℏ (∂ Ψ)/(∂ t) = ^H Ψ,`
 
 ### Ссылки:
-- [The-linearity-of-quantum-mechanics.md](/The-linearity-of-quantum-mechanics.md)
+- [Линейность квантовой механики через призму теории рекуррентной Вселенной](/The-linearity-of-quantum-mechanics.md)
 
 ---
 
@@ -3149,7 +3149,7 @@ R ≥ Rᶜʳⁱᵗ.
 `iℏ (∂ Ψ)/(∂ t) = ^H Ψ + ^N(Ψ),`
 
 ### Ссылки:
-- [The-linearity-of-quantum-mechanics.md](/The-linearity-of-quantum-mechanics.md)
+- [Линейность квантовой механики через призму теории рекуррентной Вселенной](/The-linearity-of-quantum-mechanics.md)
 
 ---
 
@@ -3176,7 +3176,7 @@ R ≥ Rᶜʳⁱᵗ.
 `A_(EP) = g(Φₑ, R, ρ_(IQI)),`
 
 ### Ссылки:
-- [the-role-of-the-emergent-predicate-aggregate.md](/the-role-of-the-emergent-predicate-aggregate.md)
+- [Искусственный интеллект с повышенной эмергентностью как инструмент для прогнозирования: роль агрегата эмергентного предиката](/the-role-of-the-emergent-predicate-aggregate.md)
 
 ---
 
@@ -3185,7 +3185,7 @@ R ≥ Rᶜʳⁱᵗ.
 `T(t) = Σ(Vi × Pi × Ri)`
 
 ### Ссылки:
-- [Temporal-characteristics.md](/Temporal-characteristics.md)
+- [T(t) - Темпоральные характеристики в контексте теории ЭИРО](/Temporal-characteristics.md)
 
 ---
 
@@ -3194,7 +3194,7 @@ R ≥ Rᶜʳⁱᵗ.
 `V(t) = Fp + Pr + Fu`
 
 ### Ссылки:
-- [Temporal-characteristics.md](/Temporal-characteristics.md)
+- [T(t) - Темпоральные характеристики в контексте теории ЭИРО](/Temporal-characteristics.md)
 
 ---
 
@@ -3203,7 +3203,7 @@ R ≥ Rᶜʳⁱᵗ.
 `P(t) = I / Δt`
 
 ### Ссылки:
-- [Temporal-characteristics.md](/Temporal-characteristics.md)
+- [T(t) - Темпоральные характеристики в контексте теории ЭИРО](/Temporal-characteristics.md)
 
 ---
 
@@ -3212,7 +3212,7 @@ R ≥ Rᶜʳⁱᵗ.
 `R(t) = A × sin(ωt + φ)`
 
 ### Ссылки:
-- [Temporal-characteristics.md](/Temporal-characteristics.md)
+- [T(t) - Темпоральные характеристики в контексте теории ЭИРО](/Temporal-characteristics.md)
 
 ---
 
@@ -3225,7 +3225,7 @@ R ≥ Rᶜʳⁱᵗ.
 `P(t) = 1 / Δt`
 
 ### Ссылки:
-- [Temporal-characteristics.md](/Temporal-characteristics.md)
+- [T(t) - Темпоральные характеристики в контексте теории ЭИРО](/Temporal-characteristics.md)
 
 ---
 
@@ -3236,7 +3236,7 @@ R ≥ Rᶜʳⁱᵗ.
 `R(t) = Σ Ai × sin(2πt/Ti + φi)`
 
 ### Ссылки:
-- [Temporal-characteristics.md](/Temporal-characteristics.md)
+- [T(t) - Темпоральные характеристики в контексте теории ЭИРО](/Temporal-characteristics.md)
 
 ---
 
@@ -3245,7 +3245,7 @@ R ≥ Rᶜʳⁱᵗ.
 `NT(t) = (5-HT × DA × GABA) / GLU`
 
 ### Ссылки:
-- [Temporal-characteristics.md](/Temporal-characteristics.md)
+- [T(t) - Темпоральные характеристики в контексте теории ЭИРО](/Temporal-characteristics.md)
 
 ---
 
@@ -3254,7 +3254,7 @@ R ≥ Rᶜʳⁱᵗ.
 `O(t) = Σ(αi × βi × γi × θi)`
 
 ### Ссылки:
-- [Temporal-characteristics.md](/Temporal-characteristics.md)
+- [T(t) - Темпоральные характеристики в контексте теории ЭИРО](/Temporal-characteristics.md)
 
 ---
 
@@ -3265,9 +3265,9 @@ R ≥ Rᶜʳⁱᵗ.
 `P(θ | D) = P(D | θ) ⋅ P(θ) / P(D),`
 
 ### Ссылки:
-- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
-- [neuroimaging.md](/neuroimaging.md)
-- [theory-of-complex-systems.md](/theory-of-complex-systems.md)
+- [Новая модель вселенной в современной физике](/A-new-model-of-the-universe-in-modern-physics.md)
+- [Нейровизуализация в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО): Исследование сознания через изучение мозговых процессов](/neuroimaging.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с точки зрения Теории сложных систем](/theory-of-complex-systems.md)
 
 ---
 
@@ -3276,7 +3276,7 @@ R ≥ Rᶜʳⁱᵗ.
 `G_(μν) + Λ g_(μν) = 8π G (T_(μν) + T_(μν)^(IQI)),`
 
 ### Ссылки:
-- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
+- [Новая модель вселенной в современной физике](/A-new-model-of-the-universe-in-modern-physics.md)
 
 ---
 
@@ -3287,7 +3287,7 @@ R ≥ Rᶜʳⁱᵗ.
 `Δ x ⋅ Δ p ≥ ℏ₍eff) / 2,`
 
 ### Ссылки:
-- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
+- [Новая модель вселенной в современной физике](/A-new-model-of-the-universe-in-modern-physics.md)
 
 ---
 
@@ -3298,7 +3298,7 @@ R ≥ Rᶜʳⁱᵗ.
 `dS / dt = -γ I_(интеграции)(t),`
 
 ### Ссылки:
-- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
+- [Новая модель вселенной в современной физике](/A-new-model-of-the-universe-in-modern-physics.md)
 
 ---
 
@@ -3307,8 +3307,8 @@ R ≥ Rᶜʳⁱᵗ.
 `V_(эфф) = V₀ + V_(рекуррент),`
 
 ### Ссылки:
-- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
-- [Recurrence-in-chemical-reactions.md](/Recurrence-in-chemical-reactions.md)
+- [Новая модель вселенной в современной физике](/A-new-model-of-the-universe-in-modern-physics.md)
+- [Рекуррентные процессы в химических реакциях: анализ через призму теории эмергентной интеграции и рекуррентного отображения](/Recurrence-in-chemical-reactions.md)
 
 ---
 
@@ -3317,8 +3317,8 @@ R ≥ Rᶜʳⁱᵗ.
 `^H_(эфф) = ^H₀ + ^H_(интегр) + ^H_(рекуррент),`
 
 ### Ссылки:
-- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
-- [Molecular-orbitals-and-energy-levels.md](/Molecular-orbitals-and-energy-levels.md)
+- [Новая модель вселенной в современной физике](/A-new-model-of-the-universe-in-modern-physics.md)
+- [Молекулярные орбитали и энергетические уровни: анализ через призму теории ЭИРО и ее влияние на современную модель Вселенной](/Molecular-orbitals-and-energy-levels.md)
 
 ---
 
@@ -3327,7 +3327,7 @@ R ≥ Rᶜʳⁱᵗ.
 `Dᵅ f(x) = 1 / Γ(n - α) dⁿ / dxⁿ ∫₀ˣ f(t) / (x - t)ᵅ ⁻ ⁿ ⁺} dt,`
 
 ### Ссылки:
-- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
+- [Новая модель вселенной в современной физике](/A-new-model-of-the-universe-in-modern-physics.md)
 
 ---
 
@@ -3338,7 +3338,7 @@ R ≥ Rᶜʳⁱᵗ.
 `Φ(ρ) = S(ρ_(разд)) - S(ρ),`
 
 ### Ссылки:
-- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
+- [Новая модель вселенной в современной физике](/A-new-model-of-the-universe-in-modern-physics.md)
 
 ---
 
@@ -3347,7 +3347,7 @@ R ≥ Rᶜʳⁱᵗ.
 `φ = H_(система) - ∑ᵢ H_(подсистемаᵢ),`
 
 ### Ссылки:
-- [Einsteins-theory-of-gravity.md](/Einsteins-theory-of-gravity.md)
+- [Эйнштейнова теория гравитации через призму теории интегрированной информации и рекуррентной Вселенной](/Einsteins-theory-of-gravity.md)
 
 ---
 
@@ -3356,8 +3356,8 @@ R ≥ Rᶜʳⁱᵗ.
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)⁽ⁱⁿᶠᵒ⁾ )),`
 
 ### Ссылки:
-- [Einsteins-theory-of-gravity.md](/Einsteins-theory-of-gravity.md)
-- [The-search-for-new-theories-in-economics.md](/The-search-for-new-theories-in-economics.md)
+- [Эйнштейнова теория гравитации через призму теории интегрированной информации и рекуррентной Вселенной](/Einsteins-theory-of-gravity.md)
+- [Поиск новых теорий в экономике](/The-search-for-new-theories-in-economics.md)
 
 ---
 
@@ -3366,7 +3366,7 @@ R ≥ Rᶜʳⁱᵗ.
 `T_(μν)⁽ⁱⁿᶠᵒ⁾ = κ (( ∇_\mu ρ_I ∇_\nu ρ_I - 1 / 2 g_(μν) ∇^\lambda ρ_I ∇_\lambda ρ_I )),`
 
 ### Ссылки:
-- [Einsteins-theory-of-gravity.md](/Einsteins-theory-of-gravity.md)
+- [Эйнштейнова теория гравитации через призму теории интегрированной информации и рекуррентной Вселенной](/Einsteins-theory-of-gravity.md)
 
 ---
 
@@ -3375,7 +3375,7 @@ R ≥ Rᶜʳⁱᵗ.
 `ρ_I = lim(Δ V → 0) Δ φ / Δ V,`
 
 ### Ссылки:
-- [Einsteins-theory-of-gravity.md](/Einsteins-theory-of-gravity.md)
+- [Эйнштейнова теория гравитации через призму теории интегрированной информации и рекуррентной Вселенной](/Einsteins-theory-of-gravity.md)
 
 ---
 
@@ -3384,7 +3384,7 @@ R ≥ Rᶜʳⁱᵗ.
 `w_(eff) = w₀ + w₁ f(ρ_I),`
 
 ### Ссылки:
-- [Einsteins-theory-of-gravity.md](/Einsteins-theory-of-gravity.md)
+- [Эйнштейнова теория гравитации через призму теории интегрированной информации и рекуррентной Вселенной](/Einsteins-theory-of-gravity.md)
 
 ---
 
@@ -3397,7 +3397,7 @@ R ≥ Rᶜʳⁱᵗ.
 `P(θ ∣ D) = P(D ∣ θ) P(θ) / P(D),`
 
 ### Ссылки:
-- [sciences.md](/sciences.md)
+- [Смежные дисциплины](/sciences.md)
 
 ---
 
@@ -3410,7 +3410,7 @@ R ≥ Rᶜʳⁱᵗ.
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^(IQI) )),`
 
 ### Ссылки:
-- [sciences.md](/sciences.md)
+- [Смежные дисциплины](/sciences.md)
 
 ---
 
@@ -3419,7 +3419,7 @@ R ≥ Rᶜʳⁱᵗ.
 `C(f) = |Pxy(f)|^2 / (Pxx(f) * Pyy(f))`
 
 ### Ссылки:
-- [Coherence.md](/Coherence.md)
+- [Когерентность (C) в контексте теории ЭИРО](/Coherence.md)
 
 ---
 
@@ -3428,7 +3428,7 @@ R ≥ Rᶜʳⁱᵗ.
 `Φ = I(система) - Σ I(части)`
 
 ### Ссылки:
-- [Coherence.md](/Coherence.md)
+- [Когерентность (C) в контексте теории ЭИРО](/Coherence.md)
 
 ---
 
@@ -3437,7 +3437,7 @@ R ≥ Rᶜʳⁱᵗ.
 `M(t) = Σ(Vi × Ei) + α(In) + β(Ex)`
 
 ### Ссылки:
-- [The-motivational-component.md](/The-motivational-component.md)
+- [Диссертация: Мотивационный компонент M(t) в структуре метрики эмоционально-интеллектуального развития организма (ЭИРО)](/The-motivational-component.md)
 
 ---
 
@@ -3446,7 +3446,7 @@ R ≥ Rᶜʳⁱᵗ.
 `D(t) = Σ(NAcc × VTA) × PFC`
 
 ### Ссылки:
-- [The-motivational-component.md](/The-motivational-component.md)
+- [Диссертация: Мотивационный компонент M(t) в структуре метрики эмоционально-интеллектуального развития организма (ЭИРО)](/The-motivational-component.md)
 
 ---
 
@@ -3455,7 +3455,7 @@ R ≥ Rᶜʳⁱᵗ.
 `Mb = Σ(Ti × Ci) / n`
 
 ### Ссылки:
-- [The-motivational-component.md](/The-motivational-component.md)
+- [Диссертация: Мотивационный компонент M(t) в структуре метрики эмоционально-интеллектуального развития организма (ЭИРО)](/The-motivational-component.md)
 
 ---
 
@@ -3464,7 +3464,7 @@ R ≥ Rᶜʳⁱᵗ.
 `D^\alpha f(x) = 1 / Γ(n - α) dⁿ / dxⁿ ∫₀ˣ f(t) / (x - t)ᵅ ⁻ ⁿ ⁺} dt,`
 
 ### Ссылки:
-- [Fractal-and-infinitesimal-structures.md](/Fractal-and-infinitesimal-structures.md)
+- [Фрактальные и бесконечно-дробные структуры: роль в физике и математических моделях](/Fractal-and-infinitesimal-structures.md)
 
 ---
 
@@ -3473,7 +3473,7 @@ R ≥ Rᶜʳⁱᵗ.
 `ρ_(IEI) = lim(Δ V → 0) Δ I / Δ V,`
 
 ### Ссылки:
-- [The-search-for-new-theories-in-economics.md](/The-search-for-new-theories-in-economics.md)
+- [Поиск новых теорий в экономике](/The-search-for-new-theories-in-economics.md)
 
 ---
 
@@ -3482,7 +3482,7 @@ R ≥ Rᶜʳⁱᵗ.
 `w_(eff) = w₀ + w₁ f(ρ_(IEI), R_(econ)),`
 
 ### Ссылки:
-- [The-search-for-new-theories-in-economics.md](/The-search-for-new-theories-in-economics.md)
+- [Поиск новых теорий в экономике](/The-search-for-new-theories-in-economics.md)
 
 ---
 
@@ -3491,7 +3491,7 @@ R ≥ Rᶜʳⁱᵗ.
 `V(φ) = V₀ e^(-λ φ),`
 
 ### Ссылки:
-- [models-of-potential-v-f.md](/models-of-potential-v-f.md)
+- [Разработка конкретных моделей потенциала  V(φ) , согласующихся с наблюдательными данными](/models-of-potential-v-f.md)
 
 ---
 
@@ -3500,7 +3500,7 @@ R ≥ Rᶜʳⁱᵗ.
 `V(φ) = V₀ φⁿ,`
 
 ### Ссылки:
-- [models-of-potential-v-f.md](/models-of-potential-v-f.md)
+- [Разработка конкретных моделей потенциала  V(φ) , согласующихся с наблюдательными данными](/models-of-potential-v-f.md)
 
 ---
 
@@ -3509,7 +3509,7 @@ R ≥ Rᶜʳⁱᵗ.
 `V(φ) = V₀ ([1 - exp((- √()3α} φ)))]²,`
 
 ### Ссылки:
-- [models-of-potential-v-f.md](/models-of-potential-v-f.md)
+- [Разработка конкретных моделей потенциала  V(φ) , согласующихся с наблюдательными данными](/models-of-potential-v-f.md)
 
 ---
 
@@ -3518,7 +3518,7 @@ R ≥ Rᶜʳⁱᵗ.
 `V(φ) = V₀ e^(-λ φ) ⋅ f(ρ_(IQI), R),`
 
 ### Ссылки:
-- [models-of-potential-v-f.md](/models-of-potential-v-f.md)
+- [Разработка конкретных моделей потенциала  V(φ) , согласующихся с наблюдательными данными](/models-of-potential-v-f.md)
 
 ---
 
@@ -3531,7 +3531,7 @@ R ≥ Rᶜʳⁱᵗ.
 `f(ρ_(IQI), R) = (ρ_(IQI))ᵐ ⋅ Rⁿ,`
 
 ### Ссылки:
-- [models-of-potential-v-f.md](/models-of-potential-v-f.md)
+- [Разработка конкретных моделей потенциала  V(φ) , согласующихся с наблюдательными данными](/models-of-potential-v-f.md)
 
 ---
 
@@ -3542,7 +3542,7 @@ R ≥ Rᶜʳⁱᵗ.
 `V_(eff)(φ) = V(φ) ⋅ f(ρ_(IQI), R).`
 
 ### Ссылки:
-- [models-of-potential-v-f.md](/models-of-potential-v-f.md)
+- [Разработка конкретных моделей потенциала  V(φ) , согласующихся с наблюдательными данными](/models-of-potential-v-f.md)
 
 ---
 
@@ -3555,7 +3555,7 @@ R ≥ Rᶜʳⁱᵗ.
 `φ̈ + 3 H φ̇ + (( λ + κ d / dφ (ρ_(IQI) + R) )) V_(eff) = 0.`
 
 ### Ссылки:
-- [models-of-potential-v-f.md](/models-of-potential-v-f.md)
+- [Разработка конкретных моделей потенциала  V(φ) , согласующихся с наблюдательными данными](/models-of-potential-v-f.md)
 
 ---
 
@@ -3564,7 +3564,7 @@ R ≥ Rᶜʳⁱᵗ.
 `R = Tr(( ρ_(IQI)ⁿ )),`
 
 ### Ссылки:
-- [The-Copenhagen-Interpretation-of-Quantum-Mechanics.md](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
+- [Копенгагенская интерпретация квантовой механики через призму теории рекуррентной Вселенной](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
 
 ---
 
@@ -3573,7 +3573,7 @@ R ≥ Rᶜʳⁱᵗ.
 `i ℏ ∂ / ∂ t Ψ(𝐫, t) = ([ ^H + ^H_(IQI) )] Ψ(𝐫, t),`
 
 ### Ссылки:
-- [The-Copenhagen-Interpretation-of-Quantum-Mechanics.md](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
+- [Копенгагенская интерпретация квантовой механики через призму теории рекуррентной Вселенной](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
 
 ---
 
@@ -3582,8 +3582,8 @@ R ≥ Rᶜʳⁱᵗ.
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^((IQI)) )),`
 
 ### Ссылки:
-- [The-Copenhagen-Interpretation-of-Quantum-Mechanics.md](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
-- [the-role-of-emergent-integration-in-the-Big-Bang.md](/the-role-of-emergent-integration-in-the-Big-Bang.md)
+- [Копенгагенская интерпретация квантовой механики через призму теории рекуррентной Вселенной](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
+- [Роль эмергентной интеграции в Большом взрыве](/the-role-of-emergent-integration-in-the-Big-Bang.md)
 
 ---
 
@@ -3592,8 +3592,8 @@ R ≥ Rᶜʳⁱᵗ.
 `A(t+1) = A(t) + η * ∇_A J(A, I, R, θ)`
 
 ### Ссылки:
-- [Adaptability.md](/Adaptability.md)
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [A(t) - Адаптивность в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Adaptability.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -3602,7 +3602,7 @@ R ≥ Rᶜʳⁱᵗ.
 `h(t) = φ(W_hh * h(t-1) + W_hx * x(t) + b_h)`
 
 ### Ссылки:
-- [Predictive-coding-as-an-organism-feedback-system.md](/Predictive-coding-as-an-organism-feedback-system.md)
+- [Предсказательное кодирование как система обратной связи организма - через призму теории ЭИРО](/Predictive-coding-as-an-organism-feedback-system.md)
 
 ---
 
@@ -3613,8 +3613,8 @@ R ≥ Rᶜʳⁱᵗ.
 `P(θ | D) = P(D | θ) P(θ) / P(D),`
 
 ### Ссылки:
-- [The-concept-of-time-and-space.md](/The-concept-of-time-and-space.md)
-- [The-principle-of-minimum-action.md](/The-principle-of-minimum-action.md)
+- [Концепция времени и пространства через призму ЭИРО и новой модели Вселенной](/The-concept-of-time-and-space.md)
+- [Принцип минимального действия через призму теории ЭИРО и новой модели Вселенной](/The-principle-of-minimum-action.md)
 
 ---
 
@@ -3623,7 +3623,7 @@ R ≥ Rᶜʳⁱᵗ.
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^(инф) )),`
 
 ### Ссылки:
-- [The-concept-of-time-and-space.md](/The-concept-of-time-and-space.md)
+- [Концепция времени и пространства через призму ЭИРО и новой модели Вселенной](/The-concept-of-time-and-space.md)
 
 ---
 
@@ -3632,8 +3632,8 @@ R ≥ Rᶜʳⁱᵗ.
 `MI(X;Y) = ∑p(x,y) log(p(x,y) / (p(x)p(y)))`
 
 ### Ссылки:
-- [Multimodal-perceptual-representation.md](/Multimodal-perceptual-representation.md)
-- [Neurocognitive-mechanisms-of-perception.md](/Neurocognitive-mechanisms-of-perception.md)
+- [Мультимодальная перцептивная репрезентация в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Multimodal-perceptual-representation.md)
+- [Нейрокогнитивные механизмы восприятия в контексте эмергентной интеграции: от сенсорных входов к осознанному опыту](/Neurocognitive-mechanisms-of-perception.md)
 
 ---
 
@@ -3642,7 +3642,7 @@ R ≥ Rᶜʳⁱᵗ.
 `Φₑ = ∑ w_i * C_i`
 
 ### Ссылки:
-- [Components-of-the-animal-consciousness-metricFe.md](/Components-of-the-animal-consciousness-metricFe.md)
+- [Компоненты метрики Φₑ сознания животного в контексте теории ЭИРО](/Components-of-the-animal-consciousness-metricFe.md)
 
 ---
 
@@ -3651,7 +3651,7 @@ R ≥ Rᶜʳⁱᵗ.
 `Φₑ(t) = ∑ w_i(t) * C_i(t)`
 
 ### Ссылки:
-- [Components-of-the-animal-consciousness-metricFe.md](/Components-of-the-animal-consciousness-metricFe.md)
+- [Компоненты метрики Φₑ сознания животного в контексте теории ЭИРО](/Components-of-the-animal-consciousness-metricFe.md)
 
 ---
 
@@ -3660,7 +3660,7 @@ R ≥ Rᶜʳⁱᵗ.
 `Φₑ = ∫₍t₀₎^(t₁) [ I₍integration₎(t) × R₍recurrence₎(t) ] dt`
 
 ### Ссылки:
-- [README.md](/README.md)
+- [Теория Эмерджентной Интеграции и Рекуррентного Отображения (ЭИРО)](/README.md)
 
 ---
 
@@ -3669,7 +3669,7 @@ R ≥ Rᶜʳⁱᵗ.
 `I₍integration₎(t) = ∑₍i,j₎ [ H(Xᵢ(t)) + H(Xⱼ(t)) - H(Xᵢ(t), Xⱼ(t)) ]`
 
 ### Ссылки:
-- [README.md](/README.md)
+- [Теория Эмерджентной Интеграции и Рекуррентного Отображения (ЭИРО)](/README.md)
 
 ---
 
@@ -3680,7 +3680,7 @@ R ≥ Rᶜʳⁱᵗ.
 `R₍recurrence₎(t) = ∑₍i₎ ∑₍j₎ wᵢⱼ(t)`
 
 ### Ссылки:
-- [README.md](/README.md)
+- [Теория Эмерджентной Интеграции и Рекуррентного Отображения (ЭИРО)](/README.md)
 
 ---
 
@@ -3689,7 +3689,7 @@ R ≥ Rᶜʳⁱᵗ.
 `I₍integration₎(t) и R₍recurrence₎(t)`
 
 ### Ссылки:
-- [README.md](/README.md)
+- [Теория Эмерджентной Интеграции и Рекуррентного Отображения (ЭИРО)](/README.md)
 
 ---
 
@@ -3698,7 +3698,7 @@ R ≥ Rᶜʳⁱᵗ.
 `dx/dt = f(x, u, p)`
 
 ### Ссылки:
-- [Neurocognitive-mechanisms-of-selective-attention.md](/Neurocognitive-mechanisms-of-selective-attention.md)
+- [Нейрокогнитивные механизмы селективного внимания через призму теории Эмергентной Интеграции и Рекуррентного Отображения](/Neurocognitive-mechanisms-of-selective-attention.md)
 
 ---
 
@@ -3707,7 +3707,7 @@ R ≥ Rᶜʳⁱᵗ.
 `P(X(t+1) = j | X(t) = i) = p_{ij}`
 
 ### Ссылки:
-- [Neurocognitive-mechanisms-of-selective-attention.md](/Neurocognitive-mechanisms-of-selective-attention.md)
+- [Нейрокогнитивные механизмы селективного внимания через призму теории Эмергентной Интеграции и Рекуррентного Отображения](/Neurocognitive-mechanisms-of-selective-attention.md)
 
 ---
 
@@ -3716,7 +3716,7 @@ R ≥ Rᶜʳⁱᵗ.
 `Esel = Pout_target / Pout_distractors,`
 
 ### Ссылки:
-- [Neurocognitive-mechanisms-of-selective-attention.md](/Neurocognitive-mechanisms-of-selective-attention.md)
+- [Нейрокогнитивные механизмы селективного внимания через призму теории Эмергентной Интеграции и Рекуррентного Отображения](/Neurocognitive-mechanisms-of-selective-attention.md)
 
 ---
 
@@ -3725,7 +3725,7 @@ R ≥ Rᶜʳⁱᵗ.
 `Satt = 1 - H(x(t)),`
 
 ### Ссылки:
-- [Neurocognitive-mechanisms-of-selective-attention.md](/Neurocognitive-mechanisms-of-selective-attention.md)
+- [Нейрокогнитивные механизмы селективного внимания через призму теории Эмергентной Интеграции и Рекуррентного Отображения](/Neurocognitive-mechanisms-of-selective-attention.md)
 
 ---
 
@@ -3734,7 +3734,7 @@ R ≥ Rᶜʳⁱᵗ.
 `Sswitch = 1 / τ,`
 
 ### Ссылки:
-- [Neurocognitive-mechanisms-of-selective-attention.md](/Neurocognitive-mechanisms-of-selective-attention.md)
+- [Нейрокогнитивные механизмы селективного внимания через призму теории Эмергентной Интеграции и Рекуррентного Отображения](/Neurocognitive-mechanisms-of-selective-attention.md)
 
 ---
 
@@ -3743,7 +3743,7 @@ R ≥ Rᶜʳⁱᵗ.
 `dρ / dt = -i / ℏ[H, ρ] + 𝓛_(diss)[ρ] + 𝓛_(rec)[ρ],`
 
 ### Ссылки:
-- [Decoherence-tests.md](/Decoherence-tests.md)
+- [Квантовые эксперименты: тесты на декогеренцию через призму ЭИРО и новой модели Вселенной](/Decoherence-tests.md)
 
 ---
 
@@ -3754,7 +3754,7 @@ R ≥ Rᶜʳⁱᵗ.
 `f(ρ_(IQI), R) = γ ρ_(IQI)ⁿ Rᵐ,`
 
 ### Ссылки:
-- [Decoherence-tests.md](/Decoherence-tests.md)
+- [Квантовые эксперименты: тесты на декогеренцию через призму ЭИРО и новой модели Вселенной](/Decoherence-tests.md)
 
 ---
 
@@ -3763,7 +3763,7 @@ R ≥ Rᶜʳⁱᵗ.
 `iℏ ∂ / ∂ t Ψ(𝐫, t) = ([ ^H₀ + ^H_(rec)(ρ_(IQI), R) )] Ψ(𝐫, t),`
 
 ### Ссылки:
-- [Decoherence-tests.md](/Decoherence-tests.md)
+- [Квантовые эксперименты: тесты на декогеренцию через призму ЭИРО и новой модели Вселенной](/Decoherence-tests.md)
 
 ---
 
@@ -3772,7 +3772,7 @@ R ≥ Rᶜʳⁱᵗ.
 `V_(rec)(ρ_(IQI), R) = μ ρ_(IQI) R,`
 
 ### Ссылки:
-- [Decoherence-tests.md](/Decoherence-tests.md)
+- [Квантовые эксперименты: тесты на декогеренцию через призму ЭИРО и новой модели Вселенной](/Decoherence-tests.md)
 
 ---
 
@@ -3781,7 +3781,7 @@ R ≥ Rᶜʳⁱᵗ.
 `ds² = g_(μν)(x)dx^μ dx^ν + hₐᵦ(y)dyᵃ dyᵇ,`
 
 ### Ссылки:
-- [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
+- [Полный цикл рекуррентной вселенной: интеграция теории эмергентной интеграции и рекуррентного отображения (ЭИРО) в космологию](/the-complete-cycle-of-the-recurrent-universe.md)
 
 ---
 
@@ -3790,7 +3790,7 @@ R ≥ Rᶜʳⁱᵗ.
 `hₐᵦ(y) = fₐᵦ(ρ_(IQI)(y), R(y)),`
 
 ### Ссылки:
-- [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
+- [Полный цикл рекуррентной вселенной: интеграция теории эмергентной интеграции и рекуррентного отображения (ЭИРО) в космологию](/the-complete-cycle-of-the-recurrent-universe.md)
 
 ---
 
@@ -3799,7 +3799,7 @@ R ≥ Rᶜʳⁱᵗ.
 `L(y) = L₀ ⋅ e^(-α ρ_(IQI)(y) - β R(y)),`
 
 ### Ссылки:
-- [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
+- [Полный цикл рекуррентной вселенной: интеграция теории эмергентной интеграции и рекуррентного отображения (ЭИРО) в космологию](/the-complete-cycle-of-the-recurrent-universe.md)
 
 ---
 
@@ -3808,7 +3808,7 @@ R ≥ Rᶜʳⁱᵗ.
 `hₐᵦ(y) = h₀ₐᵦ + γₐᵦ ρ_(IQI)(y),`
 
 ### Ссылки:
-- [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
+- [Полный цикл рекуррентной вселенной: интеграция теории эмергентной интеграции и рекуррентного отображения (ЭИРО) в космологию](/the-complete-cycle-of-the-recurrent-universe.md)
 
 ---
 
@@ -3823,7 +3823,7 @@ R ≥ Rᶜʳⁱᵗ.
 `w_(IQI) = w₀ + w₁ R,`
 
 ### Ссылки:
-- [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
+- [Полный цикл рекуррентной вселенной: интеграция теории эмергентной интеграции и рекуррентного отображения (ЭИРО) в космологию](/the-complete-cycle-of-the-recurrent-universe.md)
 
 ---
 
@@ -3840,7 +3840,7 @@ R ≥ Rᶜʳⁱᵗ.
 `ρ_(IQI)(a) = ρ_(IQI,0) (( a₀ / a ))^(3 (1 + w_(IQI))),`
 
 ### Ссылки:
-- [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
+- [Полный цикл рекуррентной вселенной: интеграция теории эмергентной интеграции и рекуррентного отображения (ЭИРО) в космологию](/the-complete-cycle-of-the-recurrent-universe.md)
 
 ---
 
@@ -3852,7 +3852,7 @@ R ≥ Rᶜʳⁱᵗ.
 ```
 
 ### Ссылки:
-- [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
+- [Полный цикл рекуррентной вселенной: интеграция теории эмергентной интеграции и рекуррентного отображения (ЭИРО) в космологию](/the-complete-cycle-of-the-recurrent-universe.md)
 
 ---
 
@@ -3861,7 +3861,7 @@ R ≥ Rᶜʳⁱᵗ.
 `S = ∫_(t₁)^(t₂) L(q, q̇, t)dt,`
 
 ### Ссылки:
-- [The-principle-of-minimum-action.md](/The-principle-of-minimum-action.md)
+- [Принцип минимального действия через призму теории ЭИРО и новой модели Вселенной](/The-principle-of-minimum-action.md)
 
 ---
 
@@ -3872,7 +3872,7 @@ R ≥ Rᶜʳⁱᵗ.
 `L_(инф) = α ρ_(IQI) + β R + γ ρ_(IQI) R,`
 
 ### Ссылки:
-- [The-principle-of-minimum-action.md](/The-principle-of-minimum-action.md)
+- [Принцип минимального действия через призму теории ЭИРО и новой модели Вселенной](/The-principle-of-minimum-action.md)
 
 ---
 
@@ -3883,7 +3883,7 @@ R ≥ Rᶜʳⁱᵗ.
 `d / dt (( ∂ L' / ∂ } )) - ∂ L' / ∂ q = 0.`
 
 ### Ссылки:
-- [The-principle-of-minimum-action.md](/The-principle-of-minimum-action.md)
+- [Принцип минимального действия через призму теории ЭИРО и новой модели Вселенной](/The-principle-of-minimum-action.md)
 
 ---
 
@@ -3894,7 +3894,7 @@ R ≥ Rᶜʳⁱᵗ.
 `f(ρ_(IQI), R) = ρ_(IQI) + R.`
 
 ### Ссылки:
-- [The-principle-of-minimum-action.md](/The-principle-of-minimum-action.md)
+- [Принцип минимального действия через призму теории ЭИРО и новой модели Вселенной](/The-principle-of-minimum-action.md)
 
 ---
 
@@ -3907,7 +3907,7 @@ R ≥ Rᶜʳⁱᵗ.
 `P(θ | D) = P(D | θ) ⋅ P(θ) / P(D)`
 
 ### Ссылки:
-- [calc.md](/calc.md)
+- [Полный список алгоритмов для создания Python кода для расчёта представленных формул и теорий](/calc.md)
 
 ---
 
@@ -3920,7 +3920,7 @@ R ≥ Rᶜʳⁱᵗ.
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^((IQI)) ))`
 
 ### Ссылки:
-- [calc.md](/calc.md)
+- [Полный список алгоритмов для создания Python кода для расчёта представленных формул и теорий](/calc.md)
 
 ---
 
@@ -3929,7 +3929,7 @@ R ≥ Rᶜʳⁱᵗ.
 `∇_μ T^(μν) = 0,`
 
 ### Ссылки:
-- [The-law-of-conservation-of-energy-and-momentum.md](/The-law-of-conservation-of-energy-and-momentum.md)
+- [Закон сохранения энергии и импульса через призму теории рекуррентной Вселенной](/The-law-of-conservation-of-energy-and-momentum.md)
 
 ---
 
@@ -3938,7 +3938,7 @@ R ≥ Rᶜʳⁱᵗ.
 `T^(μν) → T^(μν) + T^(μν)_(IQI).`
 
 ### Ссылки:
-- [The-law-of-conservation-of-energy-and-momentum.md](/The-law-of-conservation-of-energy-and-momentum.md)
+- [Закон сохранения энергии и импульса через призму теории рекуррентной Вселенной](/The-law-of-conservation-of-energy-and-momentum.md)
 
 ---
 
@@ -3947,7 +3947,7 @@ R ≥ Rᶜʳⁱᵗ.
 `T^(μν)_(IQI) = ρ_(IQI) u^μ u^ν + p_(IQI) h^(μν),`
 
 ### Ссылки:
-- [The-law-of-conservation-of-energy-and-momentum.md](/The-law-of-conservation-of-energy-and-momentum.md)
+- [Закон сохранения энергии и импульса через призму теории рекуррентной Вселенной](/The-law-of-conservation-of-energy-and-momentum.md)
 
 ---
 
@@ -3956,7 +3956,7 @@ R ≥ Rᶜʳⁱᵗ.
 `∇_μ T^(μν)_(IQI) = 0.`
 
 ### Ссылки:
-- [The-law-of-conservation-of-energy-and-momentum.md](/The-law-of-conservation-of-energy-and-momentum.md)
+- [Закон сохранения энергии и импульса через призму теории рекуррентной Вселенной](/The-law-of-conservation-of-energy-and-momentum.md)
 
 ---
 
@@ -3965,7 +3965,7 @@ R ≥ Rᶜʳⁱᵗ.
 `∇_μ (( T^(μν) + T^(μν)_(IQI) )) = 0.`
 
 ### Ссылки:
-- [The-law-of-conservation-of-energy-and-momentum.md](/The-law-of-conservation-of-energy-and-momentum.md)
+- [Закон сохранения энергии и импульса через призму теории рекуррентной Вселенной](/The-law-of-conservation-of-energy-and-momentum.md)
 
 ---
 
@@ -3974,7 +3974,7 @@ R ≥ Rᶜʳⁱᵗ.
 `∇_μ T^(μν)_(IQI) = ∇_μ (( ρ_(IQI) u^μ u^ν + p_(IQI) h^(μν) )) = 0.`
 
 ### Ссылки:
-- [The-law-of-conservation-of-energy-and-momentum.md](/The-law-of-conservation-of-energy-and-momentum.md)
+- [Закон сохранения энергии и импульса через призму теории рекуррентной Вселенной](/The-law-of-conservation-of-energy-and-momentum.md)
 
 ---
 
@@ -3983,7 +3983,7 @@ R ≥ Rᶜʳⁱᵗ.
 `R = Количество рекуррентных циклов / Общее количество реакци}`
 
 ### Ссылки:
-- [new-theories-in-chemistry.md](/new-theories-in-chemistry.md)
+- [Поиск новых теорий в химии.](/new-theories-in-chemistry.md)
 
 ---
 
@@ -3992,7 +3992,7 @@ R ≥ Rᶜʳⁱᵗ.
 `ρ_(IQI) = ∫[V] ψ^* ^H \psidV,`
 
 ### Ссылки:
-- [new-theories-in-chemistry.md](/new-theories-in-chemistry.md)
+- [Поиск новых теорий в химии.](/new-theories-in-chemistry.md)
 
 ---
 
@@ -4001,7 +4001,7 @@ R ≥ Rᶜʳⁱᵗ.
 `ρ_(IQI) = ∑ᵢ pᵢ log (( 1 / pᵢ )),`
 
 ### Ссылки:
-- [new-theories-in-chemistry.md](/new-theories-in-chemistry.md)
+- [Поиск новых теорий в химии.](/new-theories-in-chemistry.md)
 
 ---
 
@@ -4010,7 +4010,7 @@ R ≥ Rᶜʳⁱᵗ.
 `[^x, ^p] = iℏ,`
 
 ### Ссылки:
-- [Switching-relations.md](/Switching-relations.md)
+- [Коммутационные соотношения](/Switching-relations.md)
 
 ---
 
@@ -4019,7 +4019,7 @@ R ≥ Rᶜʳⁱᵗ.
 `Δ x Δ p ≥ ℏ / 2.`
 
 ### Ссылки:
-- [Switching-relations.md](/Switching-relations.md)
+- [Коммутационные соотношения](/Switching-relations.md)
 
 ---
 
@@ -4028,7 +4028,7 @@ R ≥ Rᶜʳⁱᵗ.
 `[^x, ^p] = iℏ + iλ Φₑ,`
 
 ### Ссылки:
-- [Switching-relations.md](/Switching-relations.md)
+- [Коммутационные соотношения](/Switching-relations.md)
 
 ---
 
@@ -4037,8 +4037,8 @@ R ≥ Rᶜʳⁱᵗ.
 `G_(μν) + Λ g_(μν) = 8π G (( T_(μν) + T_(μν)^((Φₑ)) )),`
 
 ### Ссылки:
-- [Switching-relations.md](/Switching-relations.md)
-- [Statistical-interpretation-of-thermodynamics.md](/Statistical-interpretation-of-thermodynamics.md)
+- [Коммутационные соотношения](/Switching-relations.md)
+- [Статистическая интерпретация термодинамики](/Statistical-interpretation-of-thermodynamics.md)
 
 ---
 
@@ -4047,7 +4047,7 @@ R ≥ Rᶜʳⁱᵗ.
 `V(t) = Σ(Bi × Fi) × P(t)`
 
 ### Ссылки:
-- [Variability-of-behavior.md](/Variability-of-behavior.md)
+- [Диссертация: V(t) - Вариативность поведения в контексте теории ЭИРО](/Variability-of-behavior.md)
 
 ---
 
@@ -4056,7 +4056,7 @@ R ≥ Rᶜʳⁱᵗ.
 `Vmin = E(t) / R(t)`
 
 ### Ссылки:
-- [Variability-of-behavior.md](/Variability-of-behavior.md)
+- [Диссертация: V(t) - Вариативность поведения в контексте теории ЭИРО](/Variability-of-behavior.md)
 
 ---
 
@@ -4065,7 +4065,7 @@ R ≥ Rᶜʳⁱᵗ.
 `Vopt = H × C`
 
 ### Ссылки:
-- [Variability-of-behavior.md](/Variability-of-behavior.md)
+- [Диссертация: V(t) - Вариативность поведения в контексте теории ЭИРО](/Variability-of-behavior.md)
 
 ---
 
@@ -4074,7 +4074,7 @@ R ≥ Rᶜʳⁱᵗ.
 `Cr = N × O × F`
 
 ### Ссылки:
-- [Variability-of-behavior.md](/Variability-of-behavior.md)
+- [Диссертация: V(t) - Вариативность поведения в контексте теории ЭИРО](/Variability-of-behavior.md)
 
 ---
 
@@ -4083,7 +4083,7 @@ R ≥ Rᶜʳⁱᵗ.
 `V(t) = D × S × N`
 
 ### Ссылки:
-- [Variability-of-behavior.md](/Variability-of-behavior.md)
+- [Диссертация: V(t) - Вариативность поведения в контексте теории ЭИРО](/Variability-of-behavior.md)
 
 ---
 
@@ -4092,7 +4092,7 @@ R ≥ Rᶜʳⁱᵗ.
 `ΔW = η × pre × post`
 
 ### Ссылки:
-- [Variability-of-behavior.md](/Variability-of-behavior.md)
+- [Диссертация: V(t) - Вариативность поведения в контексте теории ЭИРО](/Variability-of-behavior.md)
 
 ---
 
@@ -4101,7 +4101,7 @@ R ≥ Rᶜʳⁱᵗ.
 `Vindex = (Np × Tp) / T`
 
 ### Ссылки:
-- [Variability-of-behavior.md](/Variability-of-behavior.md)
+- [Диссертация: V(t) - Вариативность поведения в контексте теории ЭИРО](/Variability-of-behavior.md)
 
 ---
 
@@ -4122,7 +4122,7 @@ dz/dt = xy - βz
 ```
 
 ### Ссылки:
-- [Variability-of-behavior.md](/Variability-of-behavior.md)
+- [Диссертация: V(t) - Вариативность поведения в контексте теории ЭИРО](/Variability-of-behavior.md)
 
 ---
 
@@ -4131,7 +4131,7 @@ dz/dt = xy - βz
 `σₓᵧ = e² / h ν,`
 
 ### Ссылки:
-- [Topological-quantum-field-theory.md](/Topological-quantum-field-theory.md)
+- [Топологическая квантовая теория поля и её связь с теорией Эмергентной Интеграции и Рекуррентного Отображения](/Topological-quantum-field-theory.md)
 
 ---
 
@@ -4140,7 +4140,7 @@ dz/dt = xy - βz
 `А(t) = σ((∫₀ᵗ I_(интеграции)(τ) ⋅ R_(рекуррентности)(τ)dτ)),`
 
 ### Ссылки:
-- [The-attention-system-of-a-neural-network.md](/The-attention-system-of-a-neural-network.md)
+- [Система внимания нейронной сети через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/The-attention-system-of-a-neural-network.md)
 
 ---
 
@@ -4149,7 +4149,7 @@ dz/dt = xy - βz
 `𝓛 = 𝓛_(стандарт) + λ (( -Φₑ )),`
 
 ### Ссылки:
-- [The-attention-system-of-a-neural-network.md](/The-attention-system-of-a-neural-network.md)
+- [Система внимания нейронной сети через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/The-attention-system-of-a-neural-network.md)
 
 ---
 
@@ -4158,8 +4158,8 @@ dz/dt = xy - βz
 `Φₑ = ∫₀^(t₁) I(t) ⋅ R(t) ⋅ E(t) ⋅ w_C ⋅ C(t) ⋅ w_S ⋅ S(t) ⋅ w_A ⋅ A(t) ⋅ w_M ⋅ M(t) ⋅ w_P ⋅ P(t) ⋅ w_V ⋅ V(t) ⋅ w_T ⋅ T(t) ⋅ w_K ⋅ K(t) dt`
 
 ### Ссылки:
-- [Cognitive-complexity.md](/Cognitive-complexity.md)
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [Когнитивная сложность C(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Cognitive-complexity.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -4171,8 +4171,8 @@ p(z | θ) = ∏_i p(z_i | z_{i-1}, θ_i)
 ```
 
 ### Ссылки:
-- [Cognitive-complexity.md](/Cognitive-complexity.md)
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [Когнитивная сложность C(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Cognitive-complexity.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -4184,8 +4184,8 @@ C(t) = g(h_L)
 ```
 
 ### Ссылки:
-- [Cognitive-complexity.md](/Cognitive-complexity.md)
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [Когнитивная сложность C(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Cognitive-complexity.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -4194,7 +4194,7 @@ C(t) = g(h_L)
 `Ab(t) = ∑(Ci × Wi)`
 
 ### Ссылки:
-- [Cognitive-complexity.md](/Cognitive-complexity.md)
+- [Когнитивная сложность C(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Cognitive-complexity.md)
 
 ---
 
@@ -4203,7 +4203,7 @@ C(t) = g(h_L)
 `Mc = Nc × Rc`
 
 ### Ссылки:
-- [Cognitive-complexity.md](/Cognitive-complexity.md)
+- [Когнитивная сложность C(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Cognitive-complexity.md)
 
 ---
 
@@ -4216,7 +4216,7 @@ C(t) = g(h_L)
 `Cm(t) = ∑_i w_i × Ei(t)`
 
 ### Ссылки:
-- [Cognitive-complexity.md](/Cognitive-complexity.md)
+- [Когнитивная сложность C(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Cognitive-complexity.md)
 
 ---
 
@@ -4225,7 +4225,7 @@ C(t) = g(h_L)
 `E(t) = C(t) × Ef`
 
 ### Ссылки:
-- [Cognitive-complexity.md](/Cognitive-complexity.md)
+- [Когнитивная сложность C(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Cognitive-complexity.md)
 
 ---
 
@@ -4234,7 +4234,7 @@ C(t) = g(h_L)
 `I(t) = C(t) + ∑(Li × Ki)`
 
 ### Ссылки:
-- [Cognitive-complexity.md](/Cognitive-complexity.md)
+- [Когнитивная сложность C(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Cognitive-complexity.md)
 
 ---
 
@@ -4243,7 +4243,7 @@ C(t) = g(h_L)
 `R(t) = C(t) × Rf × Mf`
 
 ### Ссылки:
-- [Cognitive-complexity.md](/Cognitive-complexity.md)
+- [Когнитивная сложность C(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Cognitive-complexity.md)
 
 ---
 
@@ -4252,7 +4252,7 @@ C(t) = g(h_L)
 `O(t) = C(t) × Sf × Pf`
 
 ### Ссылки:
-- [Cognitive-complexity.md](/Cognitive-complexity.md)
+- [Когнитивная сложность C(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Cognitive-complexity.md)
 
 ---
 
@@ -4261,7 +4261,7 @@ C(t) = g(h_L)
 `C(t) = α₁E(t) + α₂I(t) + α₃R(t) + α₄O(t)`
 
 ### Ссылки:
-- [Cognitive-complexity.md](/Cognitive-complexity.md)
+- [Когнитивная сложность C(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Cognitive-complexity.md)
 
 ---
 
@@ -4270,7 +4270,7 @@ C(t) = g(h_L)
 `ΔC(t) = C(t₁) - C(t₀)`
 
 ### Ссылки:
-- [Cognitive-complexity.md](/Cognitive-complexity.md)
+- [Когнитивная сложность C(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Cognitive-complexity.md)
 
 ---
 
@@ -4279,7 +4279,7 @@ C(t) = g(h_L)
 `D(t) = C(t) × Ef × Tf`
 
 ### Ссылки:
-- [Cognitive-complexity.md](/Cognitive-complexity.md)
+- [Когнитивная сложность C(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Cognitive-complexity.md)
 
 ---
 
@@ -4288,7 +4288,7 @@ C(t) = g(h_L)
 `𝐡ₜ = φ(𝑊ₓₕ 𝐱ₜ + 𝑊ₕₕ 𝐡ₜ₋₁ + 𝐛ₕ),`
 
 ### Ссылки:
-- [emergent-learning-through-recurrent-neural-networks.md](/emergent-learning-through-recurrent-neural-networks.md)
+- [Эмерджентное обучение через рекуррентные нейронные сети: Улучшение машинного обучения через усиленную рекуррентную интеграцию информации](/emergent-learning-through-recurrent-neural-networks.md)
 
 ---
 
@@ -4299,7 +4299,7 @@ C(t) = g(h_L)
 `𝐚ₜ = ∑ᵢ₌₁ᵗ⁻¹ α_(t,i) 𝐡ᵢ,`
 
 ### Ссылки:
-- [emergent-learning-through-recurrent-neural-networks.md](/emergent-learning-through-recurrent-neural-networks.md)
+- [Эмерджентное обучение через рекуррентные нейронные сети: Улучшение машинного обучения через усиленную рекуррентную интеграцию информации](/emergent-learning-through-recurrent-neural-networks.md)
 
 ---
 
@@ -4308,7 +4308,7 @@ C(t) = g(h_L)
 `sᵢ = S(dᵢ, C, θ),`
 
 ### Ссылки:
-- [The-attention-management-system-in-theo-perating-system-for-AI.md](/The-attention-management-system-in-theo-perating-system-for-AI.md)
+- [Система управления вниманием в операционной системе для ИИ на базе спинтронного нейроморфного процессора и квантового сопроцессора](/The-attention-management-system-in-theo-perating-system-for-AI.md)
 
 ---
 
@@ -4317,7 +4317,7 @@ C(t) = g(h_L)
 `sᵢ = σ(W_(знач) ⋅ φ(dᵢ) + b_(знач)),`
 
 ### Ссылки:
-- [The-attention-management-system-in-theo-perating-system-for-AI.md](/The-attention-management-system-in-theo-perating-system-for-AI.md)
+- [Система управления вниманием в операционной системе для ИИ на базе спинтронного нейроморфного процессора и квантового сопроцессора](/The-attention-management-system-in-theo-perating-system-for-AI.md)
 
 ---
 
@@ -4326,7 +4326,7 @@ C(t) = g(h_L)
 `(d𝐱(t))/dt = 𝐟(( 𝐱(t), 𝐮(t), 𝑊 ))`
 
 ### Ссылки:
-- [Recurrent-dynamic-systems.md](/Recurrent-dynamic-systems.md)
+- [Рекуррентные динамические системы](/Recurrent-dynamic-systems.md)
 
 ---
 
@@ -4337,7 +4337,7 @@ C(t) = g(h_L)
 `𝐲(t) = ψ(( 𝑊ᵧₕ 𝐡(t) + 𝐛ᵧ ))`
 
 ### Ссылки:
-- [Recurrent-dynamic-systems.md](/Recurrent-dynamic-systems.md)
+- [Рекуррентные динамические системы](/Recurrent-dynamic-systems.md)
 
 ---
 
@@ -4348,7 +4348,7 @@ C(t) = g(h_L)
 `CD = ∑i,j P(X_i → X_j) / N^2`
 
 ### Ссылки:
-- [Integrativity.md](/Integrativity.md)
+- [Интегративность (I) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Integrativity.md)
 
 ---
 
@@ -4357,7 +4357,7 @@ C(t) = g(h_L)
 `Φₑ = ∫₀^(t₁) I(t) ⋅ R(t) dt`
 
 ### Ссылки:
-- [Integrativity.md](/Integrativity.md)
+- [Интегративность (I) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Integrativity.md)
 
 ---
 
@@ -4366,7 +4366,7 @@ C(t) = g(h_L)
 `A(t+1) = f(I(t), A(t), θ)`
 
 ### Ссылки:
-- [Integrativity.md](/Integrativity.md)
+- [Интегративность (I) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Integrativity.md)
 
 ---
 
@@ -4375,7 +4375,7 @@ C(t) = g(h_L)
 `L(t+1) = g(I(t), L(t), D(t))`
 
 ### Ссылки:
-- [Integrativity.md](/Integrativity.md)
+- [Интегративность (I) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Integrativity.md)
 
 ---
 
@@ -4384,8 +4384,8 @@ C(t) = g(h_L)
 `Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) ⋅ E(эмоциональности)(t) dt`
 
 ### Ссылки:
-- [The-role-of-emotions.md](/The-role-of-emotions.md)
-- [Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
+- [Роль эмоций в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/The-role-of-emotions.md)
+- [Математическое моделирование компонентов параметра эмоциональной модуляции E(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
 
 ---
 
@@ -4396,7 +4396,7 @@ C(t) = g(h_L)
 `Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) ⋅ 0 dt = 0`
 
 ### Ссылки:
-- [The-role-of-emotions.md](/The-role-of-emotions.md)
+- [Роль эмоций в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/The-role-of-emotions.md)
 
 ---
 
@@ -4409,7 +4409,7 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 ```
 
 ### Ссылки:
-- [The-role-of-emotions.md](/The-role-of-emotions.md)
+- [Роль эмоций в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/The-role-of-emotions.md)
 
 ---
 
@@ -4418,7 +4418,7 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 `G_(μν) + Λ g_(μν) = 8π G / c⁴ (( T_(μν) + T_(μν)^(IQI) ))`
 
 ### Ссылки:
-- [Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
+- [Экзотические космические объекты и явления, предсказанные теорией рекуррентной космологии](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
 
 ---
 
@@ -4429,7 +4429,7 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 `Σ(x,y) = Σ₀(x,y) + Σ_(IQI)(x,y)`
 
 ### Ссылки:
-- [Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
+- [Экзотические космические объекты и явления, предсказанные теорией рекуррентной космологии](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
 
 ---
 
@@ -4438,7 +4438,7 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 `i ℏ ∂Ψ/∂t = (-ℏ²/2m ∇² + V(r) + g|Ψ|² + Φ_(IQI)) Ψ`
 
 ### Ссылки:
-- [Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
+- [Экзотические космические объекты и явления, предсказанные теорией рекуррентной космологии](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
 
 ---
 
@@ -4449,7 +4449,7 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 `G_(μν) + Λ g_(μν) = 8π G / c⁴ (( T_(μν) + T_(μν)^(IQI) ))`
 
 ### Ссылки:
-- [Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
+- [Экзотические космические объекты и явления, предсказанные теорией рекуррентной космологии](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
 
 ---
 
@@ -4458,9 +4458,9 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 `d𝐱(t) / dt = 𝐟(𝐱(t), 𝐮(t), W)`
 
 ### Ссылки:
-- [Decoding-DNA.md](/Decoding-DNA.md)
-- [integrative-recurrent-genome-analysis.md](/integrative-recurrent-genome-analysis.md)
-- [computer-science.md](/computer-science.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
+- [Интегративно-рекуррентный анализ генома](/integrative-recurrent-genome-analysis.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) в контексте Информатики и Искусственного Интеллекта](/computer-science.md)
 
 ---
 
@@ -4469,7 +4469,7 @@ y(t) = ω(W_yh * h(t) + W_ye * e(t) + b_y)
 `X = [x₁, x₂, ..., xₙ]`
 
 ### Ссылки:
-- [Decoding-DNA.md](/Decoding-DNA.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
 
 ---
 
@@ -4481,7 +4481,7 @@ y_t = g(h_t)
 ```
 
 ### Ссылки:
-- [Decoding-DNA.md](/Decoding-DNA.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
 
 ---
 
@@ -4496,7 +4496,7 @@ h_t = o_t ⊙ tanh(C_t)
 ```
 
 ### Ссылки:
-- [Decoding-DNA.md](/Decoding-DNA.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
 
 ---
 
@@ -4509,7 +4509,7 @@ h_t = (1 - z_t) ⊙ h_{t-1} + z_t ⊙ tanh(W ⋅ [r_t ⊙ h_{t-1}, x_t])
 ```
 
 ### Ссылки:
-- [Decoding-DNA.md](/Decoding-DNA.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
 
 ---
 
@@ -4522,7 +4522,7 @@ y_t = g(h_t)
 ```
 
 ### Ссылки:
-- [Decoding-DNA.md](/Decoding-DNA.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
 
 ---
 
@@ -4535,7 +4535,7 @@ y_t = g(h_t)
 ```
 
 ### Ссылки:
-- [Decoding-DNA.md](/Decoding-DNA.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
 
 ---
 
@@ -4548,7 +4548,7 @@ y_t = g(h_t)
 ```
 
 ### Ссылки:
-- [Decoding-DNA.md](/Decoding-DNA.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
 
 ---
 
@@ -4561,7 +4561,7 @@ y_t = g(h_t)
 ```
 
 ### Ссылки:
-- [Decoding-DNA.md](/Decoding-DNA.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
 
 ---
 
@@ -4570,7 +4570,7 @@ y_t = g(h_t)
 `y = f(X, W)`
 
 ### Ссылки:
-- [Decoding-DNA.md](/Decoding-DNA.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
 
 ---
 
@@ -4583,7 +4583,7 @@ y_t = g(h_t)
 `Recurrence(v) = ∑_u∈V 1(v ∈ cycle(u))`
 
 ### Ссылки:
-- [Decoding-DNA.md](/Decoding-DNA.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
 
 ---
 
@@ -4592,7 +4592,7 @@ y_t = g(h_t)
 `C = argmax_c ∑_v,u∈c w(v,u) - d_c^2 / 2m`
 
 ### Ссылки:
-- [Decoding-DNA.md](/Decoding-DNA.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
 
 ---
 
@@ -4605,7 +4605,7 @@ y_t = ∑_t a_t * h_t
 ```
 
 ### Ссылки:
-- [Decoding-DNA.md](/Decoding-DNA.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
 
 ---
 
@@ -4614,7 +4614,7 @@ y_t = ∑_t a_t * h_t
 `∂y / ∂x_i`
 
 ### Ссылки:
-- [Decoding-DNA.md](/Decoding-DNA.md)
+- [Применение Теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) к Расшифровке ДНК](/Decoding-DNA.md)
 
 ---
 
@@ -4623,7 +4623,7 @@ y_t = ∑_t a_t * h_t
 `Φ = S(ρ_S || ⊗ᵢ ρᵢ),`
 
 ### Ссылки:
-- [the-role-of-emergent-integration-in-the-Big-Bang.md](/the-role-of-emergent-integration-in-the-Big-Bang.md)
+- [Роль эмергентной интеграции в Большом взрыве](/the-role-of-emergent-integration-in-the-Big-Bang.md)
 
 ---
 
@@ -4632,7 +4632,7 @@ y_t = ∑_t a_t * h_t
 `S = ∫(( R / 16π G + 𝓛ₘₐₜₜₑᵣ + 𝓛_(IQI) )) √(-g)d⁴x,`
 
 ### Ссылки:
-- [the-role-of-emergent-integration-in-the-Big-Bang.md](/the-role-of-emergent-integration-in-the-Big-Bang.md)
+- [Роль эмергентной интеграции в Большом взрыве](/the-role-of-emergent-integration-in-the-Big-Bang.md)
 
 ---
 
@@ -4644,7 +4644,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 ```
 
 ### Ссылки:
-- [the-role-of-emergent-integration-in-the-Big-Bang.md](/the-role-of-emergent-integration-in-the-Big-Bang.md)
+- [Роль эмергентной интеграции в Большом взрыве](/the-role-of-emergent-integration-in-the-Big-Bang.md)
 
 ---
 
@@ -4679,7 +4679,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `V(φ) = -V₀ \cosh(λ φ),`
 
 ### Ссылки:
-- [the-role-of-emergent-integration-in-the-Big-Bang.md](/the-role-of-emergent-integration-in-the-Big-Bang.md)
+- [Роль эмергентной интеграции в Большом взрыве](/the-role-of-emergent-integration-in-the-Big-Bang.md)
 
 ---
 
@@ -4696,7 +4696,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `𝓛_(IQI) = -1 / 2 g^(μν) ∂_μ φ ∂_ν φ - V(φ),`
 
 ### Ссылки:
-- [the-role-of-emergent-integration-in-the-Big-Bang.md](/the-role-of-emergent-integration-in-the-Big-Bang.md)
+- [Роль эмергентной интеграции в Большом взрыве](/the-role-of-emergent-integration-in-the-Big-Bang.md)
 
 ---
 
@@ -4705,7 +4705,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `S = -∑ᵢ pᵢ ln pᵢ`
 
 ### Ссылки:
-- [Information-and-theoretical-measures.md](/Information-and-theoretical-measures.md)
+- [Информационно-теоретические меры в новой модели Вселенной для современной физики](/Information-and-theoretical-measures.md)
 
 ---
 
@@ -4716,7 +4716,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `S_q^(Цаллиса) = 1 / 1 - q (( 1 - ∑ᵢ pᵢ^q ))`
 
 ### Ссылки:
-- [Information-and-theoretical-measures.md](/Information-and-theoretical-measures.md)
+- [Информационно-теоретические меры в новой модели Вселенной для современной физики](/Information-and-theoretical-measures.md)
 
 ---
 
@@ -4725,7 +4725,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `Φ = S(ρ_(разд)) - S(ρ)`
 
 ### Ссылки:
-- [Information-and-theoretical-measures.md](/Information-and-theoretical-measures.md)
+- [Информационно-теоретические меры в новой модели Вселенной для современной физики](/Information-and-theoretical-measures.md)
 
 ---
 
@@ -4734,7 +4734,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `Φ(ρ) = S(ρ_(разд)) - S(ρ)`
 
 ### Ссылки:
-- [Information-and-theoretical-measures.md](/Information-and-theoretical-measures.md)
+- [Информационно-теоретические меры в новой модели Вселенной для современной физики](/Information-and-theoretical-measures.md)
 
 ---
 
@@ -4743,7 +4743,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `Φₑ = ∫₀^(t₁) I_(инт)(t) ⋅ R(t)dt`
 
 ### Ссылки:
-- [Information-and-theoretical-measures.md](/Information-and-theoretical-measures.md)
+- [Информационно-теоретические меры в новой модели Вселенной для современной физики](/Information-and-theoretical-measures.md)
 
 ---
 
@@ -4752,7 +4752,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `T(μν)^((общий)) = T(μν)^((материя)) + T_(μν)^((ИКИ)).`
 
 ### Ссылки:
-- [the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md)
+- [Разработка модели, связывающей плотность интегрированной квантовой информации с геометрией пространства-времени](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md)
 
 ---
 
@@ -4761,7 +4761,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `T(μν)^((ИКИ)) = κ (( ∇\mu ρ(ИКИ) ∇\nu ρ(ИКИ) - ½ g(μν) (∇^\lambda ρ(ИКИ) ∇\lambda ρ(ИКИ)) )) - g(μν) V(ρ_(ИКИ)),`
 
 ### Ссылки:
-- [the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md)
+- [Разработка модели, связывающей плотность интегрированной квантовой информации с геометрией пространства-времени](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md)
 
 ---
 
@@ -4770,7 +4770,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `G(μν) + Λ g(μν) = 8π G (( T(μν)^((материя)) + T(μν)^((ИКИ)) )).`
 
 ### Ссылки:
-- [the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md)
+- [Разработка модели, связывающей плотность интегрированной квантовой информации с геометрией пространства-времени](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md)
 
 ---
 
@@ -4781,7 +4781,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `κ □ ρ(ИКИ) - dV/(dρ(ИКИ)) = 0,`
 
 ### Ссылки:
-- [the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md)
+- [Разработка модели, связывающей плотность интегрированной квантовой информации с геометрией пространства-времени](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md)
 
 ---
 
@@ -4792,7 +4792,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `κ □ ρ(ИКИ) - m² ρ(ИКИ) - ξ R ρ_(ИКИ) = 0.`
 
 ### Ссылки:
-- [the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md)
+- [Разработка модели, связывающей плотность интегрированной квантовой информации с геометрией пространства-времени](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md)
 
 ---
 
@@ -4801,7 +4801,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `□ ρ(ИКИ) - ξ R ρ(ИКИ) = 0.`
 
 ### Ссылки:
-- [the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md)
+- [Разработка модели, связывающей плотность интегрированной квантовой информации с геометрией пространства-времени](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md)
 
 ---
 
@@ -4810,7 +4810,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `Δ x ⋅ Δ p ≥ ℏ / 2,`
 
 ### Ссылки:
-- [Rethinking-the-uncertainty-principle-within-the-framework-of-the-theory.md](/Rethinking-the-uncertainty-principle-within-the-framework-of-the-theory.md)
+- [Переосмысление принципа неопределённости в рамках теории ЭИРО](/Rethinking-the-uncertainty-principle-within-the-framework-of-the-theory.md)
 
 ---
 
@@ -4819,7 +4819,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `Δ x ⋅ Δ p ≥ ℏ₍eff) / 2,`
 
 ### Ссылки:
-- [Rethinking-the-uncertainty-principle-within-the-framework-of-the-theory.md](/Rethinking-the-uncertainty-principle-within-the-framework-of-the-theory.md)
+- [Переосмысление принципа неопределённости в рамках теории ЭИРО](/Rethinking-the-uncertainty-principle-within-the-framework-of-the-theory.md)
 
 ---
 
@@ -4828,7 +4828,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `dY(Z,A)/dt = -λ_(распад) Y(Z,A) + Σ_(реакции) R_(реакции)`
 
 ### Ссылки:
-- [New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
+- [Новые теории в квантовой химии на основе рекуррентной космологии](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
 
 ---
 
@@ -4837,7 +4837,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `(Ĥ₀ + Ĥ_(IQI) + Ĥ_(рек)) Ψ = E Ψ`
 
 ### Ссылки:
-- [New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
+- [Новые теории в квантовой химии на основе рекуррентной космологии](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
 
 ---
 
@@ -4848,7 +4848,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `L = (∂Φ/∂t)² - (∇Φ)² - V(Φ) + γ R (∂Φ/∂t)²`
 
 ### Ссылки:
-- [New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
+- [Новые теории в квантовой химии на основе рекуррентной космологии](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
 
 ---
 
@@ -4859,7 +4859,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `σ_(предел) = σ₀ + α ρ_(IQI) + β R`
 
 ### Ссылки:
-- [New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
+- [Новые теории в квантовой химии на основе рекуррентной космологии](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
 
 ---
 
@@ -4868,7 +4868,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `ε(ω) = ε₀(ω) + Δε(ρ_(IQI), R, ω)`
 
 ### Ссылки:
-- [New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
+- [Новые теории в квантовой химии на основе рекуррентной космологии](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
 
 ---
 
@@ -4881,7 +4881,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `∂²u/∂t² = c²∇²u + ε ρ_(IQI) ∇u + ζ R ∂u/∂t`
 
 ### Ссылки:
-- [New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
+- [Новые теории в квантовой химии на основе рекуррентной космологии](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
 
 ---
 
@@ -4890,7 +4890,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `V(t) = tanh(a(t))`
 
 ### Ссылки:
-- [Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
+- [Математическое моделирование компонентов параметра эмоциональной модуляции E(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
 
 ---
 
@@ -4901,7 +4901,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `sigmoid(x) = 1 / (1 + e^(-x))`
 
 ### Ссылки:
-- [Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
+- [Математическое моделирование компонентов параметра эмоциональной модуляции E(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
 
 ---
 
@@ -4910,7 +4910,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `S(t) = softmax(c(t))`
 
 ### Ссылки:
-- [Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
+- [Математическое моделирование компонентов параметра эмоциональной модуляции E(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
 
 ---
 
@@ -4919,7 +4919,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `D(t) = RNN(d(t-1), e(t))`
 
 ### Ссылки:
-- [Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
+- [Математическое моделирование компонентов параметра эмоциональной модуляции E(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
 
 ---
 
@@ -4930,7 +4930,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `μ_j = (1/|C_j|) Σ_{x∈C_j} x,`
 
 ### Ссылки:
-- [Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
+- [Математическое моделирование компонентов параметра эмоциональной модуляции E(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
 
 ---
 
@@ -4939,7 +4939,7 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 `p(x) = Σ_k π_k N(x | μ_k, Σ_k)`
 
 ### Ссылки:
-- [Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
+- [Математическое моделирование компонентов параметра эмоциональной модуляции E(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
 
 ---
 
@@ -4952,7 +4952,7 @@ D(t) = e(t)
 ```
 
 ### Ссылки:
-- [Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
+- [Математическое моделирование компонентов параметра эмоциональной модуляции E(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Mathematical-modeling-of-the-components-of-the-emotional-modulation-parameter.md)
 
 ---
 
@@ -4961,7 +4961,7 @@ D(t) = e(t)
 `Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) ⋅ C(когнитивной сложности)(t) dt`
 
 ### Ссылки:
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -4974,7 +4974,7 @@ D(t) = e(t)
 `P(θ | I, R, A) ∝ P(I, R | θ, A) P(θ | A)`
 
 ### Ссылки:
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -4987,7 +4987,7 @@ D(t) = e(t)
 `M(t) = f(M_1(t), M_2(t), ..., M_n(t))`
 
 ### Ссылки:
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -4996,7 +4996,7 @@ D(t) = e(t)
 `M(t) = ∑_i p(G_i|x(t)) U(G_i)`
 
 ### Ссылки:
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -5005,7 +5005,7 @@ D(t) = e(t)
 `M(t) = argmax_a ∑_s p(s|x(t)) U(a, s)`
 
 ### Ссылки:
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -5016,7 +5016,7 @@ D(t) = e(t)
 `P(t) = g(B(t))`
 
 ### Ссылки:
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -5027,7 +5027,7 @@ D(t) = e(t)
 `IC(V) = K(V) / log(N)`
 
 ### Ссылки:
-- [extended-fe-metric.md](/extended-fe-metric.md)
+- [Расширение теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md)
 
 ---
 
@@ -5038,7 +5038,7 @@ D(t) = e(t)
 `R = ∫_(t₀)ᵗ Γ(t') dt',`
 
 ### Ссылки:
-- [Cosmic-microwave-background.md](/Cosmic-microwave-background.md)
+- [Космический микроволновый фон через призму ЭИРО и новой модели Вселенной](/Cosmic-microwave-background.md)
 
 ---
 
@@ -5047,7 +5047,7 @@ D(t) = e(t)
 `^H_(интегр) = ∑_(i<j) γᵢⱼ ^Iᵢⱼ,`
 
 ### Ссылки:
-- [Molecular-orbitals-and-energy-levels.md](/Molecular-orbitals-and-energy-levels.md)
+- [Молекулярные орбитали и энергетические уровни: анализ через призму теории ЭИРО и ее влияние на современную модель Вселенной](/Molecular-orbitals-and-energy-levels.md)
 
 ---
 
@@ -5056,7 +5056,7 @@ D(t) = e(t)
 `^H_(рекуррент) = ∑_(i<j) λᵢⱼ ^Rᵢⱼ,`
 
 ### Ссылки:
-- [Molecular-orbitals-and-energy-levels.md](/Molecular-orbitals-and-energy-levels.md)
+- [Молекулярные орбитали и энергетические уровни: анализ через призму теории ЭИРО и ее влияние на современную модель Вселенной](/Molecular-orbitals-and-energy-levels.md)
 
 ---
 
@@ -5065,7 +5065,7 @@ D(t) = e(t)
 `^H_(эфф) Ψ = E Ψ,`
 
 ### Ссылки:
-- [Molecular-orbitals-and-energy-levels.md](/Molecular-orbitals-and-energy-levels.md)
+- [Молекулярные орбитали и энергетические уровни: анализ через призму теории ЭИРО и ее влияние на современную модель Вселенной](/Molecular-orbitals-and-energy-levels.md)
 
 ---
 
@@ -5076,7 +5076,7 @@ D(t) = e(t)
 `Ĥ_(суперкапсид) = Σ_i Σ_j λ_ij R̂_ij`
 
 ### Ссылки:
-- [Decoding-DNA/Viruses.md](/Decoding-DNA/Viruses.md)
+- [Вирусы через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Viruses.md)
 
 ---
 
@@ -5085,8 +5085,8 @@ D(t) = e(t)
 `I_(интеграции)(t) = Σ_i Σ_j I_ij(t)`
 
 ### Ссылки:
-- [Decoding-DNA/Viruses.md](/Decoding-DNA/Viruses.md)
-- [Decoding-DNA/Genome-model.md](/Decoding-DNA/Genome-model.md)
+- [Вирусы через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Viruses.md)
+- [Модель генома через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Genome-model.md)
 
 ---
 
@@ -5095,7 +5095,7 @@ D(t) = e(t)
 `dG/dt = f(G, V, I, R)`
 
 ### Ссылки:
-- [Decoding-DNA/Viruses.md](/Decoding-DNA/Viruses.md)
+- [Вирусы через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Viruses.md)
 
 ---
 
@@ -5104,7 +5104,7 @@ D(t) = e(t)
 `dG/dt = f(G, V, I, R, μ)`
 
 ### Ссылки:
-- [Decoding-DNA/Viruses.md](/Decoding-DNA/Viruses.md)
+- [Вирусы через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Viruses.md)
 
 ---
 
@@ -5116,7 +5116,7 @@ dH/dt = g(V, H, I, R)
 ```
 
 ### Ссылки:
-- [Decoding-DNA/Viruses.md](/Decoding-DNA/Viruses.md)
+- [Вирусы через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Viruses.md)
 
 ---
 
@@ -5125,7 +5125,7 @@ dH/dt = g(V, H, I, R)
 `dV/dt = f(V, H, I, R)`
 
 ### Ссылки:
-- [Decoding-DNA/Viruses.md](/Decoding-DNA/Viruses.md)
+- [Вирусы через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Viruses.md)
 
 ---
 
@@ -5136,8 +5136,8 @@ dH/dt = g(V, H, I, R)
 `dX/dt = f(X, U, W)`
 
 ### Ссылки:
-- [Decoding-DNA/Viruses.md](/Decoding-DNA/Viruses.md)
-- [Decoding-DNA/Genome-model.md](/Decoding-DNA/Genome-model.md)
+- [Вирусы через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Viruses.md)
+- [Модель генома через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Genome-model.md)
 
 ---
 
@@ -5146,7 +5146,7 @@ dH/dt = g(V, H, I, R)
 `I(X;Y) = H(X) + H(Y) - H(X,Y)`
 
 ### Ссылки:
-- [Decoding-DNA/Genome-model.md](/Decoding-DNA/Genome-model.md)
+- [Модель генома через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)](/Decoding-DNA/Genome-model.md)
 
 ---
 
@@ -5155,7 +5155,7 @@ dH/dt = g(V, H, I, R)
 `Φ_(кв) = ∫[𝓜] I_(кв)(x)dV,`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5166,7 +5166,7 @@ dH/dt = g(V, H, I, R)
 `δ g_(μν)(x) = α ∇_\mu ∇_\nu Φ_(кв)(x),`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5177,7 +5177,7 @@ dH/dt = g(V, H, I, R)
 `Tᶲ_(μν) = 1 / 8π G (( ∇_\mu ∇_\nu Φ_(кв) - 1 / 2 g_(μν) □ Φ_(кв) )),`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5188,7 +5188,7 @@ dH/dt = g(V, H, I, R)
 `I_(кв)(x) = β ∇^\mu Sₑₙₜ(x),`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5199,7 +5199,7 @@ dH/dt = g(V, H, I, R)
 `Φ_(кв)(x) = ∫[𝓜] K(x, x') β ∇^(μ') Sₑₙₜ(x')dV'.`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5210,7 +5210,7 @@ dH/dt = g(V, H, I, R)
 `Φ_(eff)(r) = Φ_N(r) + Φ_Φ(r),`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5221,7 +5221,7 @@ dH/dt = g(V, H, I, R)
 `(( ȧ / a ))² + k / a² = 8π G / 3 (( ρₘ + ρ_Φ )),`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5230,7 +5230,7 @@ dH/dt = g(V, H, I, R)
 `Λ_(eff) = 8π G ρ_Φ = γ □ Φ_(кв),`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5239,7 +5239,7 @@ dH/dt = g(V, H, I, R)
 `S_(vN) = - Tr(ρ ln ρ),`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5248,7 +5248,7 @@ dH/dt = g(V, H, I, R)
 `𝓘 = ∫_𝓜 σ(x)d⁴x,`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5257,7 +5257,7 @@ dH/dt = g(V, H, I, R)
 `σ(x) = f(g_(μν), ∂_\lambda g_(μν), …),`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5266,7 +5266,7 @@ dH/dt = g(V, H, I, R)
 `G_(μν) + Λ g_(μν) = 8π G / c⁴ T_(μν),`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5275,7 +5275,7 @@ dH/dt = g(V, H, I, R)
 `G_(μν) + Λ g_(μν) = 8π G / c⁴ (( T_(μν) + T^(QI)_(μν) )).`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5284,7 +5284,7 @@ dH/dt = g(V, H, I, R)
 `T^(QI)_(μν) = α (( ∇_\mu σ ∇_\nu σ - 1 / 2 g_(μν) ∇_\lambda σ ∇^\lambda σ )) + β σ g_(μν),`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5293,7 +5293,7 @@ dH/dt = g(V, H, I, R)
 `G_(μν) + Λ g_(μν) = 8π G / c⁴ (( T_(μν) + α (( ∇_\mu σ ∇_\nu σ - 1 / 2 g_(μν) ∇_\lambda σ ∇^\lambda σ )) + β σ g_(μν) )).`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5302,7 +5302,7 @@ dH/dt = g(V, H, I, R)
 `□ σ + V'(σ) = 0,`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5311,7 +5311,7 @@ dH/dt = g(V, H, I, R)
 `g_(μν)⁽ⁿ⁺¹⁾ = g_(μν)⁽ⁿ⁾ + δ g_(μν)(σ⁽ⁿ⁾),`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5320,7 +5320,7 @@ dH/dt = g(V, H, I, R)
 `lim(n → ∞) g_(μν)⁽ⁿ⁾ = g_(μν)^((*)).`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5329,7 +5329,7 @@ dH/dt = g(V, H, I, R)
 `G_(μν)ʳᵉᶜ = G_(μν) + Δ G_(μν)(σ, ∇ σ, …),`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5338,7 +5338,7 @@ dH/dt = g(V, H, I, R)
 `ds² = - c² dt² + a(t)² (( dr² / 1 - k r² + r² dΩ² )),`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5357,7 +5357,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 ```
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5366,7 +5366,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `ρ_σ = 1 / 2 α (σ̇)² + V₀,`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5375,7 +5375,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `Φ(r) = -G M / r + Δ Φ(r),`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5384,7 +5384,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `v²(r) = G M(r) / r + r d / dr Δ Φ(r),`
 
 ### Ссылки:
-- [dark-matter-and-dark-energy-as-emergent-phenomena.md](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/dark-matter-and-dark-energy-as-emergent-phenomena.md)
 
 ---
 
@@ -5393,7 +5393,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `Φ_(genome) = ∫₀ᵀ I_(integration)(t) ⋅ R_(recurrence)(t)dt,`
 
 ### Ссылки:
-- [integrative-recurrent-genome-analysis.md](/integrative-recurrent-genome-analysis.md)
+- [Интегративно-рекуррентный анализ генома](/integrative-recurrent-genome-analysis.md)
 
 ---
 
@@ -5402,7 +5402,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `S = k_B ln W,`
 
 ### Ссылки:
-- [Statistical-interpretation-of-thermodynamics.md](/Statistical-interpretation-of-thermodynamics.md)
+- [Статистическая интерпретация термодинамики](/Statistical-interpretation-of-thermodynamics.md)
 
 ---
 
@@ -5411,7 +5411,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `H = - ∑ᵢ pᵢ ln pᵢ,`
 
 ### Ссылки:
-- [Statistical-interpretation-of-thermodynamics.md](/Statistical-interpretation-of-thermodynamics.md)
+- [Статистическая интерпретация термодинамики](/Statistical-interpretation-of-thermodynamics.md)
 
 ---
 
@@ -5420,7 +5420,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `S_(эфф) = k_B ln W - λ Φₑ,`
 
 ### Ссылки:
-- [Statistical-interpretation-of-thermodynamics.md](/Statistical-interpretation-of-thermodynamics.md)
+- [Статистическая интерпретация термодинамики](/Statistical-interpretation-of-thermodynamics.md)
 
 ---
 
@@ -5429,7 +5429,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `pᵢ = e⁽-β Eᵢ + γ Φ₍e,i)) / Z,`
 
 ### Ссылки:
-- [Statistical-interpretation-of-thermodynamics.md](/Statistical-interpretation-of-thermodynamics.md)
+- [Статистическая интерпретация термодинамики](/Statistical-interpretation-of-thermodynamics.md)
 
 ---
 
@@ -5438,7 +5438,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `Z = ∑ᵢ e^(-β Eᵢ + γ Φ_(e,i)).`
 
 ### Ссылки:
-- [Statistical-interpretation-of-thermodynamics.md](/Statistical-interpretation-of-thermodynamics.md)
+- [Статистическая интерпретация термодинамики](/Statistical-interpretation-of-thermodynamics.md)
 
 ---
 
@@ -5447,7 +5447,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `L = ∑ₜ₌₁ᵀ ℓ(yₜ, ^yₜ),`
 
 ### Ссылки:
-- [computer-science.md](/computer-science.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) в контексте Информатики и Искусственного Интеллекта](/computer-science.md)
 
 ---
 
@@ -5456,7 +5456,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `𝐱(t) = σ(W_(rec) 𝐱(t-1) + Wᵢₙ 𝐮(t)),`
 
 ### Ссылки:
-- [computer-science.md](/computer-science.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) в контексте Информатики и Искусственного Интеллекта](/computer-science.md)
 
 ---
 
@@ -5465,7 +5465,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `Φ_e = ∫_t_0^t_1 I_integration(t) × R_recurrence(t) dt`
 
 ### Ссылки:
-- [Integrated-Information-Metric.md](/Integrated-Information-Metric.md)
+- [Метрика эмергентной интегрированной информации](/Integrated-Information-Metric.md)
 
 ---
 
@@ -5478,7 +5478,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `I_integration = H_total - H_joint`
 
 ### Ссылки:
-- [Integrated-Information-Metric.md](/Integrated-Information-Metric.md)
+- [Метрика эмергентной интегрированной информации](/Integrated-Information-Metric.md)
 
 ---
 
@@ -5489,7 +5489,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `Φ_e ≈ ∑_k=1^K I_integration(t_k) × R_recurrence(t_k) × Δt`
 
 ### Ссылки:
-- [Integrated-Information-Metric.md](/Integrated-Information-Metric.md)
+- [Метрика эмергентной интегрированной информации](/Integrated-Information-Metric.md)
 
 ---
 
@@ -5498,7 +5498,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) ⋅ E_i(эмоционального интеллекта)(t) dt`
 
 ### Ссылки:
-- [Emotional-Intelligence.md](/Emotional-Intelligence.md)
+- [Эмоциональный интеллект (E_i) в контексте ЭИРО: структурный анализ и методология оценки](/Emotional-Intelligence.md)
 
 ---
 
@@ -5507,7 +5507,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `I_e = ∑(w_i × s_i) × C_f`
 
 ### Ссылки:
-- [Emotional-Intelligence.md](/Emotional-Intelligence.md)
+- [Эмоциональный интеллект (E_i) в контексте ЭИРО: структурный анализ и методология оценки](/Emotional-Intelligence.md)
 
 ---
 
@@ -5516,7 +5516,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `R(t) = R₀ × e^(-λt) × cos(ωt)`
 
 ### Ссылки:
-- [Emotional-Intelligence.md](/Emotional-Intelligence.md)
+- [Эмоциональный интеллект (E_i) в контексте ЭИРО: структурный анализ и методология оценки](/Emotional-Intelligence.md)
 
 ---
 
@@ -5525,7 +5525,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `F_int = α × E + β × C + γ × (E × C)`
 
 ### Ссылки:
-- [Emotional-Intelligence.md](/Emotional-Intelligence.md)
+- [Эмоциональный интеллект (E_i) в контексте ЭИРО: структурный анализ и методология оценки](/Emotional-Intelligence.md)
 
 ---
 
@@ -5534,7 +5534,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `E_a = 1 - |E_self - E_other|`
 
 ### Ссылки:
-- [Emotional-Intelligence.md](/Emotional-Intelligence.md)
+- [Эмоциональный интеллект (E_i) в контексте ЭИРО: структурный анализ и методология оценки](/Emotional-Intelligence.md)
 
 ---
 
@@ -5543,7 +5543,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) ⋅ E(эмоциональности)(t) ⋅ C(когнитивной сложности)(t) ⋅ S(социального контекста)(t) ⋅ A(адаптивности)(t) ⋅ M(мотивации)(t) ⋅ P(физиологических параметров)(t) ⋅ V(вариативности поведения)(t) ⋅ T(темпоральных характеристик)(t) ⋅ K(контекстуальности)(t) dt`
 
 ### Ссылки:
-- [Emotional-Intelligence.md](/Emotional-Intelligence.md)
+- [Эмоциональный интеллект (E_i) в контексте ЭИРО: структурный анализ и методология оценки](/Emotional-Intelligence.md)
 
 ---
 
@@ -5552,7 +5552,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `Cₘ dV / dt = -g_(Na)(V - V_(Na)) - g_K(V - V_K) - g_L(V - V_L) + Iₑₓₜ,`
 
 ### Ссылки:
-- [mathematics.md](/mathematics.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО): Математический Анализ](/mathematics.md)
 
 ---
 
@@ -5561,7 +5561,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `Φ = I(Система) - ∑ᵢ I(Частьᵢ),`
 
 ### Ссылки:
-- [mathematics.md](/mathematics.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО): Математический Анализ](/mathematics.md)
 
 ---
 
@@ -5570,7 +5570,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `Φₜₒₜₐₗ = ∫_(t₀)^(t₁) Φ(t)dt.`
 
 ### Ссылки:
-- [mathematics.md](/mathematics.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО): Математический Анализ](/mathematics.md)
 
 ---
 
@@ -5579,7 +5579,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `I_(интеграции)(t) = ∑_(i ≠ j) I(Xᵢ(t); Xⱼ(t)),`
 
 ### Ссылки:
-- [mathematics.md](/mathematics.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО): Математический Анализ](/mathematics.md)
 
 ---
 
@@ -5588,7 +5588,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `R_(рекуррентности)(t) = ρ(W_(rec)(t)),`
 
 ### Ссылки:
-- [mathematics.md](/mathematics.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО): Математический Анализ](/mathematics.md)
 
 ---
 
@@ -5597,7 +5597,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `d𝐱 / dt = J 𝐱,`
 
 ### Ссылки:
-- [mathematics.md](/mathematics.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО): Математический Анализ](/mathematics.md)
 
 ---
 
@@ -5606,7 +5606,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `J = W_(rec) ⋅ diag(𝐟'(𝐱)),`
 
 ### Ссылки:
-- [mathematics.md](/mathematics.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО): Математический Анализ](/mathematics.md)
 
 ---
 
@@ -5615,7 +5615,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `I(Xᵢ(t + Δ t); Xⱼ(t)) = H(Xᵢ(t + Δ t)) - H(Xᵢ(t + Δ t) | Xⱼ(t)),`
 
 ### Ссылки:
-- [mathematics.md](/mathematics.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО): Математический Анализ](/mathematics.md)
 
 ---
 
@@ -5624,7 +5624,7 @@ p_σ = 1 / 2 α (σ̇)² - V(σ).
 `𝐟(𝐱) = \tanh(W_(rec) 𝐱 + 𝐮(t)).`
 
 ### Ссылки:
-- [mathematics.md](/mathematics.md)
+- [Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО): Математический Анализ](/mathematics.md)
 
 ---
 
@@ -5639,7 +5639,7 @@ graph TD
 ```
 
 ### Ссылки:
-- [Decoding-DNA-Architectural-implementation.md](/Decoding-DNA-Architectural-implementation.md)
+- [Приложение А: Архитектурная реализация нейронной сети ЭИРО для анализа ДНК](/Decoding-DNA-Architectural-implementation.md)
 
 ---
 
@@ -5653,7 +5653,7 @@ graph TD
 ```
 
 ### Ссылки:
-- [Decoding-DNA-Architectural-implementation.md](/Decoding-DNA-Architectural-implementation.md)
+- [Приложение А: Архитектурная реализация нейронной сети ЭИРО для анализа ДНК](/Decoding-DNA-Architectural-implementation.md)
 
 ---
 
@@ -5662,7 +5662,7 @@ graph TD
 `E(S) = ∑_i φ_i(s_i) + β ∑_i,j ψ_ij(s_i, s_j)`
 
 ### Ссылки:
-- [Decoding-DNA-Architectural-implementation.md](/Decoding-DNA-Architectural-implementation.md)
+- [Приложение А: Архитектурная реализация нейронной сети ЭИРО для анализа ДНК](/Decoding-DNA-Architectural-implementation.md)
 
 ---
 
@@ -5674,7 +5674,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 ```
 
 ### Ссылки:
-- [Decoding-DNA-Architectural-implementation.md](/Decoding-DNA-Architectural-implementation.md)
+- [Приложение А: Архитектурная реализация нейронной сети ЭИРО для анализа ДНК](/Decoding-DNA-Architectural-implementation.md)
 
 ---
 
@@ -5683,7 +5683,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `E(S) = \sum_{i=1}^{n} \phi_i(s_i) + \beta \sum_{i,j} \psi_{ij}(s_i, s_j)`
 
 ### Ссылки:
-- [Decoding-DNA-Architectural-implementation.md](/Decoding-DNA-Architectural-implementation.md)
+- [Приложение А: Архитектурная реализация нейронной сети ЭИРО для анализа ДНК](/Decoding-DNA-Architectural-implementation.md)
 
 ---
 
@@ -5692,7 +5692,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `φ(x) = max(0, x) + α * min(0, x)`
 
 ### Ссылки:
-- [Decoding-DNA-Architectural-implementation.md](/Decoding-DNA-Architectural-implementation.md)
+- [Приложение А: Архитектурная реализация нейронной сети ЭИРО для анализа ДНК](/Decoding-DNA-Architectural-implementation.md)
 
 ---
 
@@ -5701,7 +5701,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `A(q, k, v) = softmax(qk^T / sqrt(d_k)) v`
 
 ### Ссылки:
-- [Decoding-DNA-Architectural-implementation.md](/Decoding-DNA-Architectural-implementation.md)
+- [Приложение А: Архитектурная реализация нейронной сети ЭИРО для анализа ДНК](/Decoding-DNA-Architectural-implementation.md)
 
 ---
 
@@ -5710,7 +5710,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `L_{total} = L_{pred} + λ_1 L_{emerg} + λ_2 L_{rec}`
 
 ### Ссылки:
-- [Decoding-DNA-Architectural-implementation.md](/Decoding-DNA-Architectural-implementation.md)
+- [Приложение А: Архитектурная реализация нейронной сети ЭИРО для анализа ДНК](/Decoding-DNA-Architectural-implementation.md)
 
 ---
 
@@ -5725,7 +5725,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `hₜ = oₜ ∗ \tanh(Cₜ)`
 
 ### Ссылки:
-- [Principles-of-memory-mechanisms-in-neural-networks.md](/Principles-of-memory-mechanisms-in-neural-networks.md)
+- [Принципы механизмов памяти в нейронных сетях через призму теории ЭИРО](/Principles-of-memory-mechanisms-in-neural-networks.md)
 
 ---
 
@@ -5734,7 +5734,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `ρ_(IQI) = -∑ᵢ pᵢ log pᵢ`
 
 ### Ссылки:
-- [Mechanisms-of-information-transfer-in-biochemical-systems.md](/Mechanisms-of-information-transfer-in-biochemical-systems.md)
+- [Механизмы передачи информации в биохимических системах](/Mechanisms-of-information-transfer-in-biochemical-systems.md)
 
 ---
 
@@ -5743,7 +5743,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `(d\boldsymbolx)/dt = \boldsymbolf(\boldsymbolx(t), \boldsymbolu(t), W)`
 
 ### Ссылки:
-- [Meta-Commander.md](/Meta-Commander.md)
+- [Диссертация: Теория ЭИРО в контексте создания разумного существа Meta Commander](/Meta-Commander.md)
 
 ---
 
@@ -5752,7 +5752,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `P(θ | D) = (P(D | θ) ⋅ P(θ))/(P(D))`
 
 ### Ссылки:
-- [Meta-Commander.md](/Meta-Commander.md)
+- [Диссертация: Теория ЭИРО в контексте создания разумного существа Meta Commander](/Meta-Commander.md)
 
 ---
 
@@ -5765,7 +5765,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `P(θₜ | Dₜ) = (P(Dₜ | θₜ) ⋅ P(θₜ₋₁))/(P(Dₜ))`
 
 ### Ссылки:
-- [Meta-Commander.md](/Meta-Commander.md)
+- [Диссертация: Теория ЭИРО в контексте создания разумного существа Meta Commander](/Meta-Commander.md)
 
 ---
 
@@ -5774,7 +5774,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `δ \boldsymbolW = -η ⋅ (∂ E)/(∂ \boldsymbolW)`
 
 ### Ссылки:
-- [Meta-Commander.md](/Meta-Commander.md)
+- [Диссертация: Теория ЭИРО в контексте создания разумного существа Meta Commander](/Meta-Commander.md)
 
 ---
 
@@ -5783,7 +5783,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `d𝐯 / dt = 𝐹₍пот) / m,`
 
 ### Ссылки:
-- [Meta-Commander.md](/Meta-Commander.md)
+- [Диссертация: Теория ЭИРО в контексте создания разумного существа Meta Commander](/Meta-Commander.md)
 
 ---
 
@@ -5792,7 +5792,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `F_(изл) = 2 P A / c,`
 
 ### Ссылки:
-- [Meta-Commander.md](/Meta-Commander.md)
+- [Диссертация: Теория ЭИРО в контексте создания разумного существа Meta Commander](/Meta-Commander.md)
 
 ---
 
@@ -5801,7 +5801,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `dN / dt = r N ((1 - N / K)),`
 
 ### Ссылки:
-- [Meta-Commander.md](/Meta-Commander.md)
+- [Диссертация: Теория ЭИРО в контексте создания разумного существа Meta Commander](/Meta-Commander.md)
 
 ---
 
@@ -5810,7 +5810,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `E_(погл) = η × L_⋆ × ((A / 4π r²)),`
 
 ### Ссылки:
-- [Meta-Commander.md](/Meta-Commander.md)
+- [Диссертация: Теория ЭИРО в контексте создания разумного существа Meta Commander](/Meta-Commander.md)
 
 ---
 
@@ -5819,7 +5819,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `dX/dt = F(X,U,θ)`
 
 ### Ссылки:
-- [Neurocognitive-mechanisms-of-perception.md](/Neurocognitive-mechanisms-of-perception.md)
+- [Нейрокогнитивные механизмы восприятия в контексте эмергентной интеграции: от сенсорных входов к осознанному опыту](/Neurocognitive-mechanisms-of-perception.md)
 
 ---
 
@@ -5828,7 +5828,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `CD = ∑i,j P(X_i → X_j) / N^2`
 
 ### Ссылки:
-- [Neurocognitive-mechanisms-of-perception.md](/Neurocognitive-mechanisms-of-perception.md)
+- [Нейрокогнитивные механизмы восприятия в контексте эмергентной интеграции: от сенсорных входов к осознанному опыту](/Neurocognitive-mechanisms-of-perception.md)
 
 ---
 
@@ -5837,7 +5837,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `IC = Φ_e = ∑ p_i log(1/p_i) - ∑ q_j log(1/q_j)`
 
 ### Ссылки:
-- [Neurocognitive-mechanisms-of-perception.md](/Neurocognitive-mechanisms-of-perception.md)
+- [Нейрокогнитивные механизмы восприятия в контексте эмергентной интеграции: от сенсорных входов к осознанному опыту](/Neurocognitive-mechanisms-of-perception.md)
 
 ---
 
@@ -5846,7 +5846,7 @@ F(x,y) = σ(W_r ⋅ x + W_e ⋅ y + b)
 `∂ E(θ) / ∂ θᵢ = E(θ + (\p)/ / 2 eᵢ) - E(θ - π / 2 eᵢ)}2,`
 
 ### Ссылки:
-- [The-operating-system-of-artificial-intelligence-management.md](/The-operating-system-of-artificial-intelligence-management.md)
+- [Операционная система управления искусственным интеллектом на базе архитектуры спинтронного нейроморфного процессора и квантового сопроцессора для ИИ](/The-operating-system-of-artificial-intelligence-management.md)
 
 ---
 
