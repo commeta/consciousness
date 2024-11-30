@@ -402,6 +402,7 @@
 
 - [List of Terms](/guide.md) Nov 26, 2024
 
+- [List of Formulas](/formulas.md) Nov 30, 2024
 
 ---
 
