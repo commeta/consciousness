@@ -19,19 +19,27 @@
 - [The-principle-of-superposition.md](/The-principle-of-superposition.md)
 - [psychophysics.md](/psychophysics.md)
 - [cognitive-science.md](/cognitive-science.md)
+- [The-Standard-Model-of-particle-physics.md](/The-Standard-Model-of-particle-physics.md)
 - [A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md](/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md)
+- [EIRM-in-the-context-of-connectomics.md](/EIRM-in-the-context-of-connectomics.md)
+- [The-difficult-problem-of-consciousness.md](/The-difficult-problem-of-consciousness.md)
 - [Architecture-of-A-Quantum-Coprocessor.md](/Architecture-of-A-Quantum-Coprocessor.md)
 - [Principles-of-empathy-mechanisms-in-the-neural-network-of-artificial-intelligence.md](/Principles-of-empathy-mechanisms-in-the-neural-network-of-artificial-intelligence.md)
+- [Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
 - [philosophy-of-consciousness.md](/philosophy-of-consciousness.md)
 - [comparative-analysis.md](/comparative-analysis.md)
 - [recurrent-cosmology.md](/recurrent-cosmology.md)
 - [A-model-of-the-DNA-structure.md](/A-model-of-the-DNA-structure.md)
+- [anthropology.md](/anthropology.md)
+- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
 - [The-primary-information-field.md](/The-primary-information-field.md)
 - [cybernetics.md](/cybernetics.md)
+- [The-linearity-of-quantum-mechanics.md](/The-linearity-of-quantum-mechanics.md)
 - [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
 - [The-Copenhagen-Interpretation-of-Quantum-Mechanics.md](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
 - [New-Types-Of-Engines.md](/New-Types-Of-Engines.md)
 - [The-concept-of-time-and-space.md](/The-concept-of-time-and-space.md)
+- [README.md](/README.md)
 - [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
 - [The-principle-of-minimum-action.md](/The-principle-of-minimum-action.md)
 - [psychology.md](/psychology.md)
@@ -39,6 +47,7 @@
 - [The-attention-system-of-a-neural-network.md](/The-attention-system-of-a-neural-network.md)
 - [emergent-learning-through-recurrent-neural-networks.md](/emergent-learning-through-recurrent-neural-networks.md)
 - [The-attention-management-system-in-theo-perating-system-for-AI.md](/The-attention-management-system-in-theo-perating-system-for-AI.md)
+- [The-role-of-emotions.md](/The-role-of-emotions.md)
 - [Decoding-DNA.md](/Decoding-DNA.md)
 - [neuroimaging.md](/neuroimaging.md)
 - [theory-of-complex-systems.md](/theory-of-complex-systems.md)
@@ -48,6 +57,7 @@
 - [Statistical-interpretation-of-thermodynamics.md](/Statistical-interpretation-of-thermodynamics.md)
 - [computer-science.md](/computer-science.md)
 - [The-principle-of-locality.md](/The-principle-of-locality.md)
+- [Philosophical-aspects.md](/Philosophical-aspects.md)
 - [The-operating-system-of-artificial-intelligence-management.md](/The-operating-system-of-artificial-intelligence-management.md)
 
 ---
@@ -94,14 +104,19 @@
 
 ### Ссылки:
 - [The-principle-of-superposition.md](/The-principle-of-superposition.md)
+- [The-Standard-Model-of-particle-physics.md](/The-Standard-Model-of-particle-physics.md)
 - [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
 - [recurrent-universe/README.md](/recurrent-universe/README.md)
 - [Measurement-of-anomalies-in-the-motion-of-galaxies.md](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
+- [Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
+- [Entropy-and-coherence.md](/Entropy-and-coherence.md)
 - [The-primary-information-field.md](/The-primary-information-field.md)
 - [prediction-of-the-existence-of-extraterrestrial-life.md](/prediction-of-the-existence-of-extraterrestrial-life.md)
+- [The-linearity-of-quantum-mechanics.md](/The-linearity-of-quantum-mechanics.md)
 - [the-complete-cycle-of-the-recurrent-universe.md](/the-complete-cycle-of-the-recurrent-universe.md)
 - [The-principle-of-minimum-action.md](/The-principle-of-minimum-action.md)
 - [new-theories-in-chemistry.md](/new-theories-in-chemistry.md)
+- [New-types-of-energy.md](/New-types-of-energy.md)
 - [Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md)
 - [Information-and-theoretical-measures.md](/Information-and-theoretical-measures.md)
 - [The-principle-of-locality.md](/The-principle-of-locality.md)
@@ -439,24 +454,6 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-##  3. Теория эмергентной интеграции и рекуррентного отображения (ЭИРО)
-
-`Φₑ = ∫₀^(t₁) I(интеграции)(t) ⋅ R(рекуррентности)(t) dt,`
-
-### Ссылки:
-- [The-Standard-Model-of-particle-physics.md](/The-Standard-Model-of-particle-physics.md)
-- [EIRM-in-the-context-of-connectomics.md](/EIRM-in-the-context-of-connectomics.md)
-- [The-difficult-problem-of-consciousness.md](/The-difficult-problem-of-consciousness.md)
-- [Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
-- [anthropology.md](/anthropology.md)
-- [Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md)
-- [The-linearity-of-quantum-mechanics.md](/The-linearity-of-quantum-mechanics.md)
-- [README.md](/README.md)
-- [The-role-of-emotions.md](/The-role-of-emotions.md)
-- [Philosophical-aspects.md](/Philosophical-aspects.md)
-
----
-
 ##  3.2. Плотность интегрированной квантовой информации
 
 `ρ_(IQI) = lim(Δ V → 0) (Δ I)/(Δ V),`
@@ -471,25 +468,23 @@ m_ρ = g_ρ Φ_R⁰
 
 ---
 
-##  4.1. Влияние на космологию и модель Вселенной
-
-`G(μν) + Λ g(μν) = 8π G (( T(μν) + T(μν)^(IQI) )),`
-
-### Ссылки:
-- [The-Standard-Model-of-particle-physics.md](/The-Standard-Model-of-particle-physics.md)
-- [Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
-- [Entropy-and-coherence.md](/Entropy-and-coherence.md)
-- [The-linearity-of-quantum-mechanics.md](/The-linearity-of-quantum-mechanics.md)
-- [New-types-of-energy.md](/New-types-of-energy.md)
-
----
-
 ##  4.2. Эффективное уравнение состояния
 
 `w(eff) = w₀ + w₁ f(ρ(IQI), R),`
 
 ### Ссылки:
 - [The-Standard-Model-of-particle-physics.md](/The-Standard-Model-of-particle-physics.md)
+- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
+- [recurrent-universe/README.md](/recurrent-universe/README.md)
+- [Measurement-of-anomalies-in-the-motion-of-galaxies.md](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
+- [The-primary-information-field.md](/The-primary-information-field.md)
+- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
+- [The-Copenhagen-Interpretation-of-Quantum-Mechanics.md](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
+- [The-concept-of-time-and-space.md](/The-concept-of-time-and-space.md)
+- [Decoherence-tests.md](/Decoherence-tests.md)
+- [new-theories-in-chemistry.md](/new-theories-in-chemistry.md)
+- [Information-and-theoretical-measures.md](/Information-and-theoretical-measures.md)
+- [The-principle-of-locality.md](/The-principle-of-locality.md)
 
 ---
 
@@ -1022,25 +1017,6 @@ P = M × F × R
 
 ### Ссылки:
 - [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-
----
-
-##  11.5.2. Эффективное уравнение состояния
-
-`w_(eff) = w₀ + w₁ f(ρ_(IQI), R)`
-
-### Ссылки:
-- [Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md)
-- [recurrent-universe/README.md](/recurrent-universe/README.md)
-- [Measurement-of-anomalies-in-the-motion-of-galaxies.md](/Measurement-of-anomalies-in-the-motion-of-galaxies.md)
-- [The-primary-information-field.md](/The-primary-information-field.md)
-- [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
-- [The-Copenhagen-Interpretation-of-Quantum-Mechanics.md](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md)
-- [The-concept-of-time-and-space.md](/The-concept-of-time-and-space.md)
-- [Decoherence-tests.md](/Decoherence-tests.md)
-- [new-theories-in-chemistry.md](/new-theories-in-chemistry.md)
-- [Information-and-theoretical-measures.md](/Information-and-theoretical-measures.md)
-- [The-principle-of-locality.md](/The-principle-of-locality.md)
 
 ---
 
@@ -2713,6 +2689,7 @@ R ≥ Rᶜʳⁱᵗ.
 
 ### Ссылки:
 - [A-new-model-of-the-universe-in-modern-physics.md](/A-new-model-of-the-universe-in-modern-physics.md)
+- [Recurrence-in-chemical-reactions.md](/Recurrence-in-chemical-reactions.md)
 
 ---
 
@@ -4286,15 +4263,6 @@ ä / a = -4π G / 3 (( ρ + 3p / c² )) + Λ c² / 3,
 
 ### Ссылки:
 - [New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md)
-
----
-
-##  3. Математическое описание
-
-`V(эфф) = V₀ + V(рекуррент),`
-
-### Ссылки:
-- [Recurrence-in-chemical-reactions.md](/Recurrence-in-chemical-reactions.md)
 
 ---
 
