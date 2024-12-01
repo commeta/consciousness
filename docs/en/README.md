@@ -188,6 +188,7 @@
 
   - [Mathematical apparatus developed within the framework of the theory of recurrent cosmology](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md) Nov 8, 2024
 
+[The Theory of Everything in the context of EIRM and recurrent cosmology](/The-Theory-of-Everything.md) Dec 1, 2024
 
 #### Neurophysiology
 
