@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="900" xmlns="http://www.w3.org/2000/svg">
+    <!-- Основные блоки -->
+    <defs>
+        <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+            <polygon points="0 0, 10 3.5, 0 7" fill="#000"/>
+        </marker>
+    </defs>
+    
+    <!-- Центральный блок -->
+    <rect x="500" y="400" width="200" height="100" rx="20" fill="#FFD700" stroke="#000" stroke-width="2"/>
+    <text x="600" y="440" text-anchor="middle" font-size="16" style="font-family: Arial;">
+        <tspan x="600" dy="0">ЭИРО</tspan>
+        <tspan x="600" dy="1.2em">Framework</tspan>
+    </text>
+
+    <!-- Квантовая механика -->
+    <rect x="200" y="200" width="180" height="80" rx="15" fill="#87CEEB" stroke="#000" stroke-width="2"/>
+    <text x="290" y="235" text-anchor="middle" font-size="14" style="font-family: Arial;">
+        <tspan x="290" dy="0">Квантовая</tspan>
+        <tspan x="290" dy="1.2em">механика</tspan>
+    </text>
+
+    <!-- Теория относительности -->
+    <rect x="800" y="200" width="180" height="80" rx="15" fill="#98FB98" stroke="#000" stroke-width="2"/>
+    <text x="890" y="235" text-anchor="middle" font-size="14" style="font-family: Arial;">
+        <tspan x="890" dy="0">Теория</tspan>
+        <tspan x="890" dy="1.2em">относительности</tspan>
+    </text>
+
+    <!-- Рекуррентная космология -->
+    <rect x="200" y="600" width="180" height="80" rx="15" fill="#DDA0DD" stroke="#000" stroke-width="2"/>
+    <text x="290" y="635" text-anchor="middle" font-size="14" style="font-family: Arial;">
+        <tspan x="290" dy="0">Рекуррентная</tspan>
+        <tspan x="290" dy="1.2em">космология</tspan>
+    </text>
+
+    <!-- Эмергентные поля -->
+    <rect x="800" y="600" width="180" height="80" rx="15" fill="#F08080" stroke="#000" stroke-width="2"/>
+    <text x="890" y="635" text-anchor="middle" font-size="14" style="font-family: Arial;">
+        <tspan x="890" dy="0">Эмергентные</tspan>
+        <tspan x="890" dy="1.2em">поля</tspan>
+    </text>
+
+    <!-- Соединительные линии -->
+    <line x1="380" y1="240" x2="500" y2="420" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <line x1="800" y1="240" x2="700" y2="420" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <line x1="380" y1="640" x2="500" y2="500" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <line x1="800" y1="640" x2="700" y2="500" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)"/>
+
+    <!-- Дополнительные элементы -->
+    <circle cx="600" cy="450" r="150" fill="none" stroke="#FFD700" stroke-width="1" stroke-dasharray="5,5"/>
+    
+    <!-- Подблоки -->
+    <rect x="450" y="300" width="120" height="40" rx="10" fill="#FFF" stroke="#000" stroke-width="1"/>
+    <text x="510" y="320" text-anchor="middle" font-size="12" style="font-family: Arial;">
+        <tspan x="510" dy="0">Информационное</tspan>
+        <tspan x="510" dy="1.2em">поле</tspan>
+    </text>
+
+    <rect x="630" y="300" width="120" height="40" rx="10" fill="#FFF" stroke="#000" stroke-width="1"/>
+    <text x="690" y="320" text-anchor="middle" font-size="12" style="font-family: Arial;">
+        <tspan x="690" dy="0">Квантовая</tspan>
+        <tspan x="690" dy="1.2em">запутанность</tspan>
+    </text>
+
+    <rect x="450" y="560" width="120" height="40" rx="10" fill="#FFF" stroke="#000" stroke-width="1"/>
+    <text x="510" y="580" text-anchor="middle" font-size="12" style="font-family: Arial;">
+        <tspan x="510" dy="0">Рекуррентные</tspan>
+        <tspan x="510" dy="1.2em">циклы</tspan>
+    </text>
+
+    <rect x="630" y="560" width="120" height="40" rx="10" fill="#FFF" stroke="#000" stroke-width="1"/>
+    <text x="690" y="580" text-anchor="middle" font-size="12" style="font-family: Arial;">
+        <tspan x="690" dy="0">Эмергентные</tspan>
+        <tspan x="690" dy="1.2em">свойства</tspan>
+    </text>
+</svg>
