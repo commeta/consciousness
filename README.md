@@ -192,6 +192,9 @@
   - [Новые типы частиц и взаимодействий предсказываемые моделью рекуррентной космологии](/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md) Nov 8, 2024
   - [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md) Nov 8, 2024
 
+  - [Теория Всего в контексте ЭИРО и рекуррентной космологии](/The-Theory-of-Everything.md) Dec 1, 2024
+
+
 #### Нейрофизиология
 
 - [Нейрофизиологические механизмы рекуррентной обработки и интеграции сигналов в сознании: анализ теории ЭИРО](/neurophysiology.md) Oct 19, 2024
