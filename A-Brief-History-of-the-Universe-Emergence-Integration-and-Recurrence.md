@@ -663,7 +663,9 @@ $$
 
 ---
 
-Оглавление: [ЭИРО framework](/README.md)
+Оглавление: 
+- [ЭИРО framework](/README.md)
+- [Справочник формул](/formulas.md)
 
 
 
