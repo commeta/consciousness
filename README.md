@@ -605,9 +605,9 @@
 **Подробное описание**: 
 
 - [Эмерджентная интегрированная информация](/Integrated-Information-Metric.md)
-- [Компоненты метрики $\Phi_e$](/Components-of-the-F-metric.md)
-- [Калькулятор эмерджентной интегрированной информации ($\Phi_e$)](/Emergent-Integrated-Information-Calculator.md)
-- [Калькулятор степени интеграции информации ($I_{\text{integration}}(t)$)](/Emergent-Integrated-Information-Calculator.md)
+- [Компоненты метрики](/Components-of-the-F-metric.md)
+- [Калькулятор эмерджентной интегрированной информации](/Emergent-Integrated-Information-Calculator.md)
+- [Калькулятор степени интеграции информации](/Emergent-Integrated-Information-Calculator.md)
 - Пункт 4.4. Эмерджентная интегрированная информация ($\Phi_e$)
 
 $\Phi$ — показатель степени интегрированной информации в системе. $\Phi_e$ — метрика эмерджентной интегрированной информации, учитывающая как количество, так и качество интегрированной информации в контексте рекуррентной обработки:
