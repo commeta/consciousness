@@ -193,7 +193,7 @@
 
 $\Phi_e$ определяется следующим образом:
 
-$$ \Phi_e(t) = \sum_i w_i \int I(x,t) \cdot R(x,t) , dx $$
+$\Phi_e(t) = \sum_i w_i \int I(x,t) \cdot R(x,t) , dx$
 
 Где:
 
@@ -721,7 +721,7 @@ $R(x,t)$ - рекуррентная активность в точке $x$ в м
 
 Базовая архитектура RNN описывается следующим уравнением обновления состояния:
 
-$$ h(t) = \phi(W_{hh} \cdot h(t-1) + W_{hx} \cdot x(t) + b_h) $$
+$h(t) = \phi(W_{hh} \cdot h(t-1) + W_{hx} \cdot x(t) + b_h)$
 
 где:
 
@@ -739,25 +739,15 @@ $\phi$ - функция активации (например, tanh)
 Для решения проблем простых RNN была разработана архитектура LSTM, которая вводит специальные "ячейки памяти" и механизмы управления потоками информации:
 
 
-$$
-i(t) = \sigma(W_i \cdot [h(t-1), x(t)] + b_i)
-$$
+$i(t) = \sigma(W_i \cdot [h(t-1), x(t)] + b_i)$
 
-$$
-f(t) = \sigma(W_f \cdot [h(t-1), x(t)] + b_f) 
-$$
+$f(t) = \sigma(W_f \cdot [h(t-1), x(t)] + b_f)$
 
-$$
-o(t) = \sigma(W_o \cdot [h(t-1), x(t)] + b_o)
-$$
+$o(t) = \sigma(W_o \cdot [h(t-1), x(t)] + b_o)$
 
-$$
-c(t) = f(t) \cdot c(t-1) + i(t) \cdot \tanh(W_c \cdot [h(t-1), x(t)] + b_c)
-$$
+$c(t) = f(t) \cdot c(t-1) + i(t) \cdot \tanh(W_c \cdot [h(t-1), x(t)] + b_c)$
 
-$$
-h(t) = o(t) \cdot \tanh(c(t))
-$$
+$h(t) = o(t) \cdot \tanh(c(t))$
 
 Где $i$, $f$, $o$ - входные, забывающие и выходные "ворота", управляющие потоками информации в ячейке памяти $c(t)$. Это позволяет LSTM эффективно моделировать долгосрочные зависимости.
 
@@ -767,17 +757,11 @@ $$
 GRU представляют собой упрощенную версию LSTM, объединяя некоторые "ворота" в единый механизм:
 
 
-$$
-z(t) = \sigma(W_z \cdot [h(t-1), x(t)] + b_z)
-$$
+$z(t) = \sigma(W_z \cdot [h(t-1), x(t)] + b_z)$
 
-$$
-r(t) = \sigma(W_r \cdot [h(t-1), x(t)] + b_r)
-$$
+$r(t) = \sigma(W_r \cdot [h(t-1), x(t)] + b_r)$
 
-$$
-h(t) = (1 - z(t)) \cdot h(t-1) + z(t) \cdot \tanh(W_h \cdot [r(t) \cdot h(t-1), x(t)] + b_h)
-$$
+$h(t) = (1 - z(t)) \cdot h(t-1) + z(t) \cdot \tanh(W_h \cdot [r(t) \cdot h(t-1), x(t)] + b_h)$
 
 
 GRU сохраняют эффективность LSTM, но имеют меньшую вычислительную сложность.
@@ -835,9 +819,7 @@ $P(s_t \mid \theta_t) = \mathcal{N}(s_t; \hat{s}_t, \Sigma_t)$
 
 Согласно правилу Байеса, апостериорная вероятность параметров модели $\theta_t$ обновляется следующим образом:
 
-$$
-P(\theta_t \mid s_t) \propto P(s_t \mid \theta_t) \cdot P(\theta_t)
-$$
+$P(\theta_t \mid s_t) \propto P(s_t \mid \theta_t) \cdot P(\theta_t)$
 
 Где:
 
@@ -847,9 +829,7 @@ $$
 
 Обновление параметров направлено на максимизацию апостериорной вероятности:
 
-$$
-\theta_{t+1} = \theta_t + \eta \nabla_{\theta} \left( \ln P(s_t \mid \theta_t) + \ln P(\theta_t) \right)
-$$
+$\theta_{t+1} = \theta_t + \eta \nabla_{\theta} \left( \ln P(s_t \mid \theta_t) + \ln P(\theta_t) \right)$
 
 Где $\eta$ - скорость обучения.
 
@@ -857,9 +837,7 @@ $$
 
 Минимизация отрицательного логарифма правдоподобия эквивалентна минимизации ошибки предсказания:
 
-$$
-L(\theta, s_t) = -\ln P(s_t \mid \theta)
-$$
+$L(\theta, s_t) = -\ln P(s_t \mid \theta)$
 
 Таким образом, мозг стремится обновлять свои внутренние модели $\theta_t$ таким образом, чтобы минимизировать ошибки предсказания $s_t - \hat{s}_t$ на всех уровнях иерархии.
 
