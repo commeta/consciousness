@@ -74,84 +74,73 @@
 
 ### 2. Компоненты метрики Φₑ
 
-![Components of the F metric](/Components-of-the-F-metric.svg "Components of the F metric")
+**Блок-схема: компоненты метрики**
 
+```mermaid
+flowchart TD
+  subgraph L1 ["I. Базовый уровень"]
+    A1[Физические процессы]
+    A2[Нейробиологические]
+  end
 
+  subgraph L2 ["II. Информационный"]
+    B1[Обработка информ.]
+    B2[Темпор. организация]
+  end
 
+  subgraph L3 ["III. Когнитивный"]
+    C1[Базовые процессы]
+    C2[Адапт. механизмы]
+  end
+
+  subgraph L4 ["IV. Соц.-эмоц."]
+    D1[Соц. компоненты]
+    D2[Эмоц. компоненты]
+  end
+
+  subgraph L5 ["V. Интегративный"]
+    E1[Сист. интеграция]
+    E2[Контекст. интеграция]
+  end
+
+  L1 --> L5
+  L2 --> L5
+  L3 --> L5
+  L4 --> L5
 ```
-┌───────────────────────────────────────┬───────────────────────────────────────┐
-│            Компонент метрики          │             Взаимосвязи               │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│ Когнитивная сложность/глубина (C(t))  │ Влияет на интеграцию информации (I)   │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│       Социальный контекст (S(t))      │ Модулирует рекуррентность (R)         │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│           Адаптивность (A(t))         │ Связана с гибкостью (F)               │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│     Мотивационный компонент (M(t))    │ Влияет на интеграцию (I) и рекур-     │
-│                                       │ рентность (R)                         │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│    Физиологические параметры (P(t))   │ Модулируют энергетическую эффек-      │
-│                                       │ тивность (E_eff)                      │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│    Вариативность поведения (V(t))     │ Связана с гибкостью (F) и креатив-    │
-│                                       │ ностью                                │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│   Темпоральные характеристики (T(t))  │ Влияют на интеграцию (I) и рекур-     │
-│                                       │ рентность (R)                         │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│         Контекстуальность (K(t))      │ Модулирует влияние среды на интегра-  │
-│                                       │ цию и рекуррентность                  │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│         Интегративность (I)           │ Основа целостности восприятия         │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│          Когерентность (C)            │ Связана с временной синхронизацией    │
-│                                       │ нейронной активности                  │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│             Гибкость (F)              │ Отражает адаптивность и креатив-      │
-│                                       │ ность системы                         │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│  Метакогнитивная осведомленность (M)  │ Влияет на саморегуляцию и осознан-    │
-│                                       │ ность                                 │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│   Социальная интерактивность (I_s)    │ Связана с теорией разума и эмпатией   │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│  Энергетическая эффективность (E_eff) │ Отражает оптимизацию когнитивных      │
-│                                       │ ресурсов                              │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│     Информационная емкость (I_c)      │ Характеризует объем обрабатываемой    │
-│                                       │ информации                            │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│           Стабильность (S_t)          │ Отражает устойчивость когнитивных     │
-│                                       │ процессов                             │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│     Семантическая глубина (D_s)       │ Связана с абстрагированием смыслов    │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│   Квантовая когерентность (Q_c)       │ Отражает квантовые эффекты в нейрон-  │
-│                                       │ ных процессах                         │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│    Эмерджентная сложность (E_c)       │ Характеризует возникновение новых     │
-│                                       │ системных свойств                     │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│     Нейропластичность (N_p)           │ Связана со структурными изменениями   │
-│                                       │ в нейронных сетях                     │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│  Информационная интеграция (I_i)      │ Отражает синтез различных типов       │
-│                                       │ информации                            │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│   Темпоральная интеграция (T_i)       │ Связана с объединением событий во     │
-│                                       │ времени                               │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│    Эмоциональный интеллект (E_i)      │ Включает распознавание, регуляцию     │
-│                                       │ и эмпатию                             │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│     Самоорганизация (S_o)             │ Отражает спонтанное упорядочивание    │
-│                                       │ и эмерджентные паттерны               │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│   Информационная связность (I_c)      │ Характеризует интеграцию модально-    │
-│                                       │ стей и информационный синтез          │
-└───────────────────────────────────────┴───────────────────────────────────────┘
-```
+
+
+
+
+**Таблица: компоненты метрики**
+
+| Компонент метрики                        | Взаимосвязи                                      |
+|------------------------------------------|--------------------------------------------------|
+| Когнитивная сложность/глубина (C(t))     | Влияет на интеграцию информации (I)              |
+| Социальный контекст (S(t))               | Модулирует рекуррентность (R)                    |
+| Адаптивность (A(t))                      | Связана с гибкостью (F)                          |
+| Мотивационный компонент (M(t))            | Влияет на интеграцию (I) и рекуррентность (R)     |
+| Физиологические параметры (P(t))         | Модулируют энергетическую эффективность (E_eff)   |
+| Вариативность поведения (V(t))           | Связана с гибкостью (F) и креативностью           |
+| Темпоральные характеристики (T(t))        | Влияют на интеграцию (I) и рекуррентность (R)     |
+| Контекстуальность (K(t))                  | Модулирует влияние среды на интеграцию и рекуррентность |
+| Интегративность (I)                       | Основа целостности восприятия                     |
+| Когерентность (C)                         | Связана с временной синхронизацией нейронной активности |
+| Гибкость (F)                              | Отражает адаптивность и креативность системы      |
+| Метакогнитивная осведомленность (M)       | Влияет на саморегуляцию и осознанность           |
+| Социальная интерактивность (I_s)          | Связана с теорией разума и эмпатией                |
+| Энергетическая эффективность (E_eff)       | Отражает оптимизацию когнитивных ресурсов         |
+| Информационная емкость (I_c)              | Характеризует объем обрабатываемой информации     |
+| Стабильность (S_t)                        | Отражает устойчивость когнитивных процессов       |
+| Семантическая глубина (D_s)               | Связана с абстрагированием смыслов                |
+| Квантовая когерентность (Q_c)             | Отражает квантовые эффекты в нейронных процессах  |
+| Эмерджентная сложность (E_c)              | Характеризует возникновение новых системных свойств |
+| Нейропластичность (N_p)                   | Связана со структурными изменениями в нейронных сетях |
+| Информационная интеграция (I_i)            | Отражает синтез различных типов информации         |
+| Темпоральная интеграция (T_i)              | Связана с объединением событий во времени          |
+| Эмоциональный интеллект (E_i)              | Включает распознавание, регуляцию и эмпатию        |
+| Самоорганизация (S_o)                      | Отражает спонтанное упорядочивание и эмерджентные паттерны |
+| Информационная связность (I_c)              | Характеризует интеграцию модальных и информационный синтез |
 
 #### 2.1. Когнитивная сложность/глубина (C(t))
 
@@ -287,19 +276,19 @@
 
 **Источники**:
 
-14. Lorenz, E. N. (1963). Deterministic nonperiodic flow. Journal of the atmospheric sciences, 20(2), 130-141.
-15. Rössler, O. E. (1976). An equation for continuous chaos. Physics Letters A, 57(5), 397-398.
-20. Siegelmann, H. T., & Sontag, E. D. (1991). Turing computability with neural nets. Applied Mathematics Letters, 4(6), 77-80.
-21. Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. American Psychologist, 34(10), 906–911.
-22. Shimamura, A. P. (2000). Toward a cognitive neuroscience of metacognition. Consciousness and Cognition, 9(2), 313–323.
-23. Frith, C. D. (2012). The role of metacognition in human social interactions. Philosophical Transactions of the Royal Society B: Biological Sciences, 367(1599), 2213–2223.
-24. Fleming, S. M., & Dolan, R. J. (2012). The neural basis of metacognitive ability. Philosophical Transactions of the Royal Society B: Biological Sciences, 367(1594), 1338–1349.
-25. Frith, C. D., & Frith, U. (2012). Mechanisms of social cognition. Annual review of psychology, 63, 287-313.
-26. Hari, R., & Kujala, M. V. (2009). Brain basis of human social interaction: from concepts to brain imaging. Physiological reviews, 89(2), 453-479.
-27. Raichle, M. E., & Gusnard, D. A. (2002). Appraising the brain's energy budget. Proceedings of the National Academy of Sciences, 99(16), 10237-10239.
-28. Dijk, D. J., & Czeisler, C. A. (1995). Contribution of the circadian pacemaker and the sleep homeostat to sleep propensity, sleep structure, electroencephalographic slow waves, and sleep spindle activity in humans. The Journal of neuroscience, 15(5), 3526-3538.
-29. Maass, W., & Markram, H. (2002). Synapses as dynamic memory buffers. Neural networks, 15(2), 155-161.
-30. Turrigiano, G. G. (2008). The self-tuning neuron: synaptic scaling of excitatory synapses. Cell, 135(3), 422-435.
+- [14]. Lorenz, E. N. (1963). Deterministic nonperiodic flow. Journal of the atmospheric sciences, 20(2), 130-141.
+- [15]. Rössler, O. E. (1976). An equation for continuous chaos. Physics Letters A, 57(5), 397-398.
+- [20]. Siegelmann, H. T., & Sontag, E. D. (1991). Turing computability with neural nets. Applied Mathematics Letters, 4(6), 77-80.
+- [21]. Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. American Psychologist, 34(10), 906–911.
+- [22]. Shimamura, A. P. (2000). Toward a cognitive neuroscience of metacognition. Consciousness and Cognition, 9(2), 313–323.
+- [23]. Frith, C. D. (2012). The role of metacognition in human social interactions. Philosophical Transactions of the Royal Society B: Biological Sciences, 367(1599), 2213–2223.
+- [24]. Fleming, S. M., & Dolan, R. J. (2012). The neural basis of metacognitive ability. Philosophical Transactions of the Royal Society B: Biological Sciences, 367(1594), 1338–1349.
+- [25]. Frith, C. D., & Frith, U. (2012). Mechanisms of social cognition. Annual review of psychology, 63, 287-313.
+- [26]. Hari, R., & Kujala, M. V. (2009). Brain basis of human social interaction: from concepts to brain imaging. Physiological reviews, 89(2), 453-479.
+- [27]. Raichle, M. E., & Gusnard, D. A. (2002). Appraising the brain's energy budget. Proceedings of the National Academy of Sciences, 99(16), 10237-10239.
+- [28]. Dijk, D. J., & Czeisler, C. A. (1995). Contribution of the circadian pacemaker and the sleep homeostat to sleep propensity, sleep structure, electroencephalographic slow waves, and sleep spindle activity in humans. The Journal of neuroscience, 15(5), 3526-3538.
+- [29]. Maass, W., & Markram, H. (2002). Synapses as dynamic memory buffers. Neural networks, 15(2), 155-161.
+- [30]. Turrigiano, G. G. (2008). The self-tuning neuron: synaptic scaling of excitatory synapses. Cell, 135(3), 422-435.
 
 
 #### 2.16. Стабильность (S_t)
@@ -423,10 +412,10 @@
 
 **Источники**:
 
-[16] Graves, A. (2013). Generating sequences with recurrent neural networks. arXiv preprint arXiv:1308.0850.
-[17] McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological review, 102(3), 419.
-[20] Scherer, K. R. (2005). What are emotions? And how can they be measured?. Social science information, 44(4), 695-729.
-[21] Russell, J. A. (1980). A circumplex model of affect. Journal of personality and social psychology, 39(6), 1161.
+- [16]. Graves, A. (2013). Generating sequences with recurrent neural networks. arXiv preprint arXiv:1308.0850.
+- [17]. McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological review, 102(3), 419.
+- [20]. Scherer, K. R. (2005). What are emotions? And how can they be measured?. Social science information, 44(4), 695-729.
+- [21]. Russell, J. A. (1980). A circumplex model of affect. Journal of personality and social psychology, 39(6), 1161.
 
 
 ### 3. Нейробиологические основы компонентов
@@ -456,16 +445,16 @@
 
 Таким образом, конвергенция сенсорных путей, мультисенсорные нейроны, топографическая организация связей, рекуррентные взаимодействия и синхронизация нейронной активности представляют собой ключевые нейронные механизмы, обеспечивающие интегративность, лежащую в основе формирования сознательного опыта согласно теории ЭИРО.
 
-**Источники:**
+**Источники**:
 
-20. Felleman, D.J., & Van Essen, D.C. (1991). Distributed hierarchical processing in the primate cerebral cortex. *Cerebral Cortex, 1*(1), 1-47.
-21. Tanaka, K. (1996). Inferotemporal cortex and object vision. *Annual Review of Neuroscience, 19*(1), 109-139.
-22. Stein, B. E., & Meredith, M. A. (1993). *The merging of the senses*. The MIT Press.
-23. Wandell, B. A., Dumoulin, S. O., & Brewer, A. A. (2007). Visual field maps in human cortex. *Neuron, 56*(2), 366-383.
-24. Lamme, V. A. F., & Roelfsema, P. R. (2000). The distinct modes of vision offered by feedforward and recurrent processing. *Trends in Neurosciences, 23*(11), 571-579.
-25. Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience, 11*(2), 127-138.
-26. Fries, P. (2015). Rhythms for Cognition: Communication through Coherence. *Neuron, 88*(1), 220-235.
-27. Womelsdorf, T., & Fries, P. (2007). The role of neuronal synchronization in selective attention. *Current Opinion in Neurobiology, 17*(2), 154-160.
+- [20]. Felleman, D.J., & Van Essen, D.C. (1991). Distributed hierarchical processing in the primate cerebral cortex. *Cerebral Cortex, 1*(1), 1-47.
+- [21]. Tanaka, K. (1996). Inferotemporal cortex and object vision. *Annual Review of Neuroscience, 19*(1), 109-139.
+- [22]. Stein, B. E., & Meredith, M. A. (1993). *The merging of the senses*. The MIT Press.
+- [23]. Wandell, B. A., Dumoulin, S. O., & Brewer, A. A. (2007). Visual field maps in human cortex. *Neuron, 56*(2), 366-383.
+- [24]. Lamme, V. A. F., & Roelfsema, P. R. (2000). The distinct modes of vision offered by feedforward and recurrent processing. *Trends in Neurosciences, 23*(11), 571-579.
+- [25]. Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience, 11*(2), 127-138.
+- [26]. Fries, P. (2015). Rhythms for Cognition: Communication through Coherence. *Neuron, 88*(1), 220-235.
+- [27]. Womelsdorf, T., & Fries, P. (2007). The role of neuronal synchronization in selective attention. *Current Opinion in Neurobiology, 17*(2), 154-160.
 
 
 
@@ -494,20 +483,20 @@
 
 Таким образом, нарушения в балансе различных нейромедиаторных систем, такие как дефицит серотонина при депрессии или избыток норадреналина при тревожных расстройствах, приводят к нарушениям в рекуррентной активности и интеграции эмоциональной информации. Это, в свою очередь, отражается на параметрах ЭИРО, включая снижение эмерджентной интегрированной информации Φₑ и дисбаланс в степени рекуррентности R(t) и эмоциональной модуляции E(t) [11, 12].
 
-**Источники:**
+**Источники**:
 
-1. Deakin, J.F. (1998). The role of serotonin in depression and anxiety. *European Psychiatry*, 13, 57s-63s.
-2. Drevets, W.C. (1999). Prefrontal cortical-amygdalar metabolism in major depression. *Annals of the New York Academy of Sciences*, 877(1), 614-637.
-3. Aston-Jones, G., & Cohen, J.D. (2005). An integrative theory of locus coeruleus-norepinephrine function: adaptive gain and optimal performance. *Annu. Rev. Neurosci.*, 28, 403-450.
-4. Arnsten, A.F. (2009). Stress signalling pathways that impair prefrontal cortex structure and function. *Nature reviews neuroscience*, 10(6), 410-422.
-5. Berridge, K.C., & Kringelbach, M.L. (2015). Pleasure systems in the brain. *Neuron*, 86(3), 646-664.
-6. Salamone, J.D., & Correa, M. (2012). The mysterious motivational functions of mesolimbic dopamine. *Neuron*, 76(3), 470-485.
-7. Hasselmo, M.E. (1999). Neuromodulation: acetylcholine and memory consolidation. *Trends in cognitive sciences*, 3(9), 351-359.
-8. Sarter, M., Hasselmo, M.E., Bruno, J.P., & Givens, B. (2005). Unraveling the attentional functions of cortical cholinergic inputs: interactions between signal-driven and cognitive modulation of signal detection. *Brain research reviews*, 48(1), 98-111.
-9. Everitt, B.J., & Robbins, T.W. (1997). Central cholinergic systems and cognition. *Annual review of psychology*, 48(1), 649-684.
-10. McGaughy, J., Dalley, J.W., Morrison, C.H., Everitt, B.J., & Robbins, T.W. (2002). Selective behavioral and neurochemical effects of cholinergic lesions produced by intrabasalis infusions of 192 IgG-saporin on attentional performance in a five-choice serial reaction time task. *Journal of Neuroscience*, 22(5), 1905-1913.
-11. Ressler, K.J., & Nemeroff, C.B. (2000). Role of serotonergic and noradrenergic systems in the pathophysiology of depression and anxiety disorders. *Depression and anxiety*, 12(S1), 2-19.
-12. Bremner, J.D., Krystal, J.H., Southwick, S.M., & Charney, D.S. (1996). Noradrenergic mechanisms in stress and anxiety: I. Preclinical studies. *Synapse*, 23(1), 28-38.
+- [1]. Deakin, J.F. (1998). The role of serotonin in depression and anxiety. *European Psychiatry*, 13, 57s-63s.
+- [2]. Drevets, W.C. (1999). Prefrontal cortical-amygdalar metabolism in major depression. *Annals of the New York Academy of Sciences*, 877(1), 614-637.
+- [3]. Aston-Jones, G., & Cohen, J.D. (2005). An integrative theory of locus coeruleus-norepinephrine function: adaptive gain and optimal performance. *Annu. Rev. Neurosci.*, 28, 403-450.
+- [4]. Arnsten, A.F. (2009). Stress signalling pathways that impair prefrontal cortex structure and function. *Nature reviews neuroscience*, 10(6), 410-422.
+- [5]. Berridge, K.C., & Kringelbach, M.L. (2015). Pleasure systems in the brain. *Neuron*, 86(3), 646-664.
+- [6]. Salamone, J.D., & Correa, M. (2012). The mysterious motivational functions of mesolimbic dopamine. *Neuron*, 76(3), 470-485.
+- [7]. Hasselmo, M.E. (1999). Neuromodulation: acetylcholine and memory consolidation. *Trends in cognitive sciences*, 3(9), 351-359.
+- [8]. Sarter, M., Hasselmo, M.E., Bruno, J.P., & Givens, B. (2005). Unraveling the attentional functions of cortical cholinergic inputs: interactions between signal-driven and cognitive modulation of signal detection. *Brain research reviews*, 48(1), 98-111.
+- [9]. Everitt, B.J., & Robbins, T.W. (1997). Central cholinergic systems and cognition. *Annual review of psychology*, 48(1), 649-684.
+- [10]. McGaughy, J., Dalley, J.W., Morrison, C.H., Everitt, B.J., & Robbins, T.W. (2002). Selective behavioral and neurochemical effects of cholinergic lesions produced by intrabasalis infusions of 192 IgG-saporin on attentional performance in a five-choice serial reaction time task. *Journal of Neuroscience*, 22(5), 1905-1913.
+- [11]. Ressler, K.J., & Nemeroff, C.B. (2000). Role of serotonergic and noradrenergic systems in the pathophysiology of depression and anxiety disorders. *Depression and anxiety*, 12(S1), 2-19.
+- [12]. Bremner, J.D., Krystal, J.H., Southwick, S.M., & Charney, D.S. (1996). Noradrenergic mechanisms in stress and anxiety: I. Preclinical studies. *Synapse*, 23(1), 28-38.
 
 
 
@@ -552,27 +541,33 @@
 
 **Энтропия**
 
-Энтропия H(X) является мерой неопределенности или хаотичности случайной величины X. В контексте ЭИРО, энтропия может применяться для оценки степени интегративности, когерентности и сложности различных компонентов сознательного опыта [1, 2]:
+Энтропия $H(X)$ является мерой неопределенности или хаотичности случайной величины $X$. В контексте ЭИРО, энтропия может применяться для оценки степени интегративности, когерентности и сложности различных компонентов сознательного опыта [1, 2]:
 
-`H(X) = -∑_i p(x_i) log p(x_i)`
+$$
+H(X) = -\sum_{i} p(x_i) \log p(x_i)
+$$
 
-Где p(x_i) - вероятность реализации значения x_i случайной величины X. Более высокие значения энтропии соответствуют большей неупорядоченности и разнообразию.
+Где $p(x_i)$ - вероятность реализации значения $x_i$ случайной величины $X$. Более высокие значения энтропии соответствуют большей неупорядоченности и разнообразию.
 
 **Взаимная информация**
 
-Взаимная информация I(X;Y) характеризует степень зависимости между двумя случайными величинами X и Y. Она отражает, насколько знание одной переменной позволяет предсказать значение другой [3, 4]:
+Взаимная информация $I(X;Y)$ характеризует степень зависимости между двумя случайными величинами $X$ и $Y$. Она отражает, насколько знание одной переменной позволяет предсказать значение другой [3, 4]:
 
-I(X;Y) = ∑_x,y p(x,y) log(p(x,y) / (p(x)p(y)))
+$$
+I(X;Y) = \sum_{x,y} p(x,y) \log\left(\frac{p(x,y)}{p(x)p(y)}\right)
+$$
 
-Где p(x,y) - совместное распределение, а p(x) и p(y) - маргинальные распределения. Высокая взаимная информация указывает на сильные информационные связи.
+Где $p(x,y)$ - совместное распределение, а $p(x)$ и $p(y)$ - маргинальные распределения. Высокая взаимная информация указывает на сильные информационные связи.
 
 **Сложность Колмогорова**
 
-Сложность Колмогорова K(X) определяется как минимальный объем информации, необходимый для описания объекта X. Она отражает степень структурной сложности и может применяться для оценки эмерджентных свойств [5, 6]:
+Сложность Колмогорова $K(X)$ определяется как минимальный объем информации, необходимый для описания объекта $X$. Она отражает степень структурной сложности и может применяться для оценки эмерджентных свойств [5, 6]:
 
-`K(X) = min{|p| : U(p) = X}`
+$$
+K(X) = \min \{ |p| : U(p) = X \}
+$$
 
-Где p - программа, вычисляющая X, а |p| - длина этой программы. Более сложные объекты требуют больших описаний.
+Где $p$ - программа, вычисляющая $X$, а $|p|$ - длина этой программы. Более сложные объекты требуют больших описаний.
 
 **Применение метрик**
 
@@ -587,12 +582,12 @@ I(X;Y) = ∑_x,y p(x,y) log(p(x,y) / (p(x)p(y)))
 
 **Источники**:
 
-1. Shannon, C. E. (1948). A mathematical theory of communication. *The Bell System Technical Journal, 27*(3), 379-423.
-2. Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience, 5*(1), 42.
-3. Cover, T. M., & Thomas, J. A. (2012). *Elements of information theory*. John Wiley & Sons.
-4. Fano, R. M. (1961). *Transmission of information: A statistical theory of communications*. MIT press.
-5. Kolmogorov, A. N. (1965). Three approaches to the quantitative definition of information. *International journal of computer mathematics, 2*(1-4), 157-168.
-6. Li, M., & Vitányi, P. (2008). *An introduction to Kolmogorov complexity and its applications*. Springer Science & Business Media.
+- [1]. Shannon, C. E. (1948). A mathematical theory of communication. *The Bell System Technical Journal, 27*(3), 379-423.
+- [2]. Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience, 5*(1), 42.
+- [3]. Cover, T. M., & Thomas, J. A. (2012). *Elements of information theory*. John Wiley & Sons.
+- [4]. Fano, R. M. (1961). *Transmission of information: A statistical theory of communications*. MIT press.
+- [5]. Kolmogorov, A. N. (1965). Three approaches to the quantitative definition of information. *International Journal of Computer Mathematics, 2*(1-4), 157-168.
+- [6]. Li, M., & Vitányi, P. (2008). *An introduction to Kolmogorov complexity and its applications*. Springer Science & Business Media.
 
 
 
@@ -602,41 +597,43 @@ I(X;Y) = ∑_x,y p(x,y) log(p(x,y) / (p(x)p(y)))
 
 ##### Модели на основе дифференциальных уравнений
 
-Динамические системы, описываемые дифференциальными уравнениями, представляют собой эффективный инструмент для моделирования временной эволюции различных компонентов, входящих в расширенную формулу Φₑ. Данный подход позволяет отразить нелинейные взаимодействия между параметрами и их влияние друг на друга.
+Динамические системы, описываемые дифференциальными уравнениями, представляют собой эффективный инструмент для моделирования временной эволюции различных компонентов, входящих в расширенную формулу $\Phi_e$. Данный подход позволяет отразить нелинейные взаимодействия между параметрами и их влияние друг на друга.
 
-Например, адаптивность A(t) может быть описана следующим дифференциальным уравнением:
+Например, адаптивность $A(t)$ может быть описана следующим дифференциальным уравнением:
 
-`dA/dt = f(A, I, R, θ)`
+$$
+\frac{dA}{dt} = f(A, I, R, \theta)
+$$
 
 Где:
 
-- A - текущее значение адаптивности
-- I - степень интеграции информации
-- R - степень рекуррентности
-- θ - вектор внутренних параметров системы
-- f - нелинейная функция, описывающая динамику адаптивности
+- $A$ - текущее значение адаптивности
+- $I$ - степень интеграции информации
+- $R$ - степень рекуррентности
+- $\theta$ - вектор внутренних параметров системы
+- $f$ - нелинейная функция, описывающая динамику адаптивности
 
-Функция f может включать механизмы обучения, такие как правило Хебба для усиления связей между коактивированными нейронами, а также гомеостатические процессы, поддерживающие оптимальный уровень адаптивности [15].
+Функция $f$ может включать механизмы обучения, такие как правило Хебба для усиления связей между коактивированными нейронами, а также гомеостатические процессы, поддерживающие оптимальный уровень адаптивности [15].
 
-Данный подход позволяет моделировать, как адаптивность A(t) изменяется во времени под влиянием процессов интеграции информации I(t) и рекуррентной обработки R(t), а также в зависимости от внутренних параметров системы θ.
+Данный подход позволяет моделировать, как адаптивность $A(t)$ изменяется во времени под влиянием процессов интеграции информации $I(t)$ и рекуррентной обработки $R(t)$, а также в зависимости от внутренних параметров системы $\theta$.
 
 ##### Нелинейная динамика и хаотические процессы
 
-Ряд компонентов метрики Φₑ, таких как вариативность поведения V(t), могут быть описаны с использованием моделей нелинейной динамики и хаотических процессов.
+Ряд компонентов метрики $\Phi_e$, таких как вариативность поведения $V(t)$, могут быть описаны с использованием моделей нелинейной динамики и хаотических процессов.
 
 Модели, основанные на уравнениях Лоренца и Рёсслера, способны воспроизводить сложное, вихреобразное поведение, отражающее высокую степень вариативности реакций [14, 15]:
 
-```
-dx/dt = σ(y - x)
-dy/dt = x(ρ - z) - y
-dz/dt = xy - βz
-```
+$\frac{dx}{dt} = \sigma(y - x) $
 
-Где σ, ρ, β - параметры, определяющие характер нелинейной динамики системы. Анализ показателей Ляпунова, фрактальной размерности и энтропии таких моделей позволяет количественно оценивать уровень вариативности поведения V(t).
+$\frac{dy}{dt} = x(\rho - z) - y $
 
-Использование нелинейных динамических систем отражает ключевую роль рекуррентных процессов в формировании сложной, хаотической динамики, характерной для высоких значений V(t) в расширенной формуле Φₑ.
+$\frac{dz}{dt} = xy - \beta z $
 
-Источники:
+Где $\sigma$, $\rho$, $\beta$ - параметры, определяющие характер нелинейной динамики системы. Анализ показателей Ляпунова, фрактальной размерности и энтропии таких моделей позволяет количественно оценивать уровень вариативности поведения $V(t)$.
+
+Использование нелинейных динамических систем отражает ключевую роль рекуррентных процессов в формировании сложной, хаотической динамики, характерной для высоких значений $V(t)$ в расширенной формуле $\Phi_e$.
+
+**Источники:**
 
 - [14] Lorenz, E. N. (1963). Deterministic nonperiodic flow. Journal of the atmospheric sciences, 20(2), 130-141.
 - [15] Siegelmann, H. T., & Sontag, E. D. (1991). Turing computability with neural nets. Applied Mathematics Letters, 4(6), 77-80.
@@ -659,16 +656,16 @@ dz/dt = xy - βz
 
 Согласно этому подходу, мозг постоянно генерирует предсказания о сенсорных входах и обновляет свои внутренние модели на основе ошибок предсказания. Данный процесс может быть представлен в виде байесовского обновления, где апостериорное распределение параметров модели вычисляется с учетом наблюдаемых данных:
 
-`P(θ | D) = P(D | θ) * P(θ) / P(D)`
+$P(\theta \mid D) = P(D \mid \theta) * P(\theta) / P(D)$
 
-Здесь θ - параметры модели, D - наблюдаемые данные, а P(θ | D) - апостериорное распределение параметров после учета новой информации. Такой подход позволяет моделировать, как мозг обновляет свои внутренние представления в соответствии с принципами предиктивного кодирования, что влияет на процессы интеграции информации и рекуррентной обработки, отраженные в метрике Φₑ.
+Здесь $\theta$ - параметры модели, $D$ - наблюдаемые данные, а $P(\theta \mid D)$ - апостериорное распределение параметров после учета новой информации. Такой подход позволяет моделировать, как мозг обновляет свои внутренние представления в соответствии с принципами предиктивного кодирования, что влияет на процессы интеграции информации и рекуррентной обработки, отраженные в метрике $\Phi_e$.
 
 **Источники:**
 
-[7] Koller, D., & Friedman, N. (2009). Probabilistic graphical models: principles and techniques. MIT press.
-[16] Rao, R. P., & Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. Nature Neuroscience, 2(1), 79-87.
-[17] Friston, K. (2010). The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 11(2), 127-138.
-[20] Hohwy, J. (2013). The predictive mind. Oxford University Press.
+- [7] Koller, D., & Friedman, N. (2009). Probabilistic graphical models: principles and techniques. MIT press.
+- [16] Rao, R. P., & Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. Nature Neuroscience, 2(1), 79-87.
+- [17] Friston, K. (2010). The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 11(2), 127-138.
+- [20] Hohwy, J. (2013). The predictive mind. Oxford University Press.
 
 
 
@@ -702,18 +699,18 @@ dz/dt = xy - βz
 
 Полученные данные о нейронных коррелятах дополнительных параметров, включенных в расширенную версию теории ЭИРО, служат важной экспериментальной базой для верификации и уточнения математических моделей, описывающих их взаимодействие с процессами интеграции информации и рекуррентной обработки.
 
-**Источники:**
+**Источники**:
 
-1. Tenenbaum, J. B., Griffiths, T. L., & Kemp, C. (2006). Theory-based Bayesian models of inductive learning and reasoning. Trends in cognitive sciences, 10(7), 309-318.
-2. LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. nature, 521(7553), 436-444.
-3. Boccaletti, S., Latora, V., Moreno, Y., Chavez, M., & Hwang, D. U. (2006). Complex networks: Structure and dynamics. Physics reports, 424(4-5), 175-308.
-4. Borgatti, S. P., Mehra, A., Brass, D. J., & Labianca, G. (2009). Network analysis in the social sciences. science, 323(5916), 892-895.
-5. Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. MIT press.
-6. Siegelmann, H. T., & Sontag, E. D. (1991). Turing computability with neural nets. Applied Mathematics Letters, 4(6), 77-80.
-7. Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47(2), 263-291.
-8. Botvinick, M. M., Niv, Y., & Barto, A. C. (2009). Hierarchically organized behavior and its neural foundations: a reinforcement learning perspective. Cognition, 113(3), 262-280.
-9. Raichle, M. E., & Gusnard, D. A. (2002). Appraising the brain's energy budget. Proceedings of the National Academy of Sciences, 99(16), 10237-10239.
-10. Dijk, D. J., & Czeisler, C. A. (1995). Contribution of the circadian pacemaker and the sleep homeostat to sleep propensity, sleep structure, electroencephalographic slow waves, and sleep spindle activity in humans. The Journal of neuroscience, 15(5), 3526-3538.
+- [1]. Tenenbaum, J. B., Griffiths, T. L., & Kemp, C. (2006). Theory-based Bayesian models of inductive learning and reasoning. *Trends in Cognitive Sciences, 10*(7), 309-318.
+- [2]. LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature, 521*(7553), 436-444.
+- [3]. Boccaletti, S., Latora, V., Moreno, Y., Chavez, M., & Hwang, D. U. (2006). Complex networks: Structure and dynamics. *Physics Reports, 424*(4-5), 175-308.
+- [4]. Borgatti, S. P., Mehra, A., Brass, D. J., & Labianca, G. (2009). Network analysis in the social sciences. *Science, 323*(5916), 892-895.
+- [5]. Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning: An Introduction*. MIT Press.
+- [6]. Siegelmann, H. T., & Sontag, E. D. (1991). Turing computability with neural nets. *Applied Mathematics Letters, 4*(6), 77-80.
+- [7]. Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica, 47*(2), 263-291.
+- [8]. Botvinick, M. M., Niv, Y., & Barto, A. C. (2009). Hierarchically organized behavior and its neural foundations: a reinforcement learning perspective. *Cognition, 113*(3), 262-280.
+- [9]. Raichle, M. E., & Gusnard, D. A. (2002). Appraising the brain's energy budget. *Proceedings of the National Academy of Sciences, 99*(16), 10237-10239.
+- [10]. Dijk, D. J., & Czeisler, C. A. (1995). Contribution of the circadian pacemaker and the sleep homeostat to sleep propensity, sleep structure, electroencephalographic slow waves, and sleep spindle activity in humans. *The Journal of Neuroscience, 15*(5), 3526-3538.
 
 
 #### 5.2. Поведенческие эксперименты
@@ -786,18 +783,18 @@ dz/dt = xy - βz
 
 Таким образом, поведенческие эксперименты, направленные на оценку дополнительных параметров, включенных в расширенную модель ЭИРО, играют ключевую роль в экспериментальной верификации данной теории.
 
-**Источники:**
+**Источники**:
 
-6. Borgatti, S. P., Mehra, A., Brass, D. J., & Labianca, G. (2009). Network analysis in the social sciences. science, 323(5916), 892-895.
-7. Koller, D., & Friedman, N. (2009). Probabilistic graphical models: principles and techniques. MIT press.
-8. Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. MIT press.
-9. Siegelmann, H. T., & Sontag, E. D. (1991). Turing computability with neural nets. Applied Mathematics Letters, 4(6), 77-80.
-10. Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47(2), 263-291.
-11. Botvinick, M. M., Niv, Y., & Barto, A. C. (2009). Hierarchically organized behavior and its neural foundations: a reinforcement learning perspective. Cognition, 113(3), 262-280.
-12. Raichle, M. E., & Gusnard, D. A. (2002). Appraising the brain's energy budget. Proceedings of the National Academy of Sciences, 99(16), 10237-10239.
-13. Dijk, D. J., & Czeisler, C. A. (1995). Contribution of the circadian pacemaker and the sleep homeostat to sleep propensity, sleep structure, electroencephalographic slow waves, and sleep spindle activity in humans. The Journal of neuroscience, 15(5), 3526-3538.
-16. Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid, reliable individual-differences metric. Journal of personality and social psychology, 77(6), 1271.
-17. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. Trends in cognitive sciences, 20(7), 512-534.
+- [6]. Borgatti, S. P., Mehra, A., Brass, D. J., & Labianca, G. (2009). Network analysis in the social sciences. *Science, 323*(5916), 892-895.
+- [7]. Koller, D., & Friedman, N. (2009). Probabilistic graphical models: principles and techniques. *MIT Press*.
+- [8]. Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning: An Introduction*. MIT Press.
+- [9]. Siegelmann, H. T., & Sontag, E. D. (1991). Turing computability with neural nets. *Applied Mathematics Letters, 4*(6), 77-80.
+- [10]. Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica, 47*(2), 263-291.
+- [11]. Botvinick, M. M., Niv, Y., & Barto, A. C. (2009). Hierarchically organized behavior and its neural foundations: a reinforcement learning perspective. *Cognition, 113*(3), 262-280.
+- [12]. Raichle, M. E., & Gusnard, D. A. (2002). Appraising the brain's energy budget. *Proceedings of the National Academy of Sciences, 99*(16), 10237-10239.
+- [13]. Dijk, D. J., & Czeisler, C. A. (1995). Contribution of the circadian pacemaker and the sleep homeostat to sleep propensity, sleep structure, electroencephalographic slow waves, and sleep spindle activity in humans. *The Journal of Neuroscience, 15*(5), 3526-3538.
+- [16]. Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid, reliable individual-differences metric. *Journal of Personality and Social Psychology, 77*(6), 1271.
+- [17]. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. *Trends in Cognitive Sciences, 20*(7), 512-534.
 
 
 #### 5.3. Оптогенетические методы
@@ -861,9 +858,11 @@ dz/dt = xy - βz
 
 Количественная оценка этих дополнительных параметров с помощью математических моделей, основанных на методах кластеризации, вероятностных подходах и рекуррентных нейронных сетях, позволяет получить объективные диагностические критерии для выявления и мониторинга эмоциональных нарушений [5, 6].
 
-Согласно расширенной теории ЭИРО, психические расстройства могут быть связаны с дисбалансом между различными компонентами, входящими в формулу эмерджентной интегрированной информации Φₑ:
+Согласно расширенной теории ЭИРО, психические расстройства могут быть связаны с дисбалансом между различными компонентами, входящими в формулу эмерджентной интегрированной информации $\Phi_e$:
 
-`Φₑ = ∫₀^(t₁) I(t) ⋅ R(t) ⋅ E(t) ⋅ C(t) ⋅ S(t) ⋅ A(t) ⋅ M(t) ⋅ P(t) ⋅ V(t) ⋅ T(t) ⋅ K(t) dt`
+$$
+\Phi_e = \int_0^{t_1} I(t) \cdot R(t) \cdot E(t) \cdot C(t) \cdot S(t) \cdot A(t) \cdot M(t) \cdot P(t) \cdot V(t) \cdot T(t) \cdot K(t)\, dt
+$$
 
 Например, при шизофрении могут наблюдаться нарушения в параметрах когнитивной сложности C(t) и социального контекста S(t), что приводит к искажениям в интеграции информации I(t) и рекуррентной обработке R(t). Аналогично, при посттравматическом стрессовом расстройстве могут быть затронуты параметры эмоциональной модуляции E(t), адаптивности A(t) и темпоральных характеристик T(t) [7, 8].
 
@@ -871,14 +870,14 @@ dz/dt = xy - βz
 
 **Источники**:
 
-1. Deakin, J.F. (1998). The role of serotonin in depression and anxiety. *European Psychiatry*, 13, 57s-63s.
-2. Bremner, J.D., Krystal, J.H., Southwick, S.M., & Charney, D.S. (1996). Noradrenergic mechanisms in stress and anxiety: I. Preclinical studies. *Synapse*, 23(1), 28-38.
-3. Hasselmo, M.E. (1999). Neuromodulation: acetylcholine and memory consolidation. *Trends in cognitive sciences*, 3(9), 351-359.
-4. Hofmann, S.G., Asnaani, A., Vonk, I.J., Sawyer, A.T., & Fang, A. (2012). The efficacy of cognitive behavioral therapy: A review of meta-analyses. *Cognitive therapy and research*, 36(5), 427-440.
-5. Schoenberg, P.L., & David, A.S. (2014). Biofeedback for psychiatric disorders: a systematic review. *Applied psychophysiology and biofeedback*, 39(2), 109-135.
-6. Koller, D., & Friedman, N. (2009). Probabilistic graphical models: principles and techniques. MIT press.
-7. Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5(1), 42.
-8. Dehaene, S., & Changeux, J. P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
+- [1]. Deakin, J.F. (1998). The role of serotonin in depression and anxiety. *European Psychiatry*, 13, 57s-63s.
+- [2]. Bremner, J.D., Krystal, J.H., Southwick, S.M., & Charney, D.S. (1996). Noradrenergic mechanisms in stress and anxiety: I. Preclinical studies. *Synapse*, 23(1), 28-38.
+- [3]. Hasselmo, M.E. (1999). Neuromodulation: acetylcholine and memory consolidation. *Trends in Cognitive Sciences*, 3(9), 351-359.
+- [4]. Hofmann, S.G., Asnaani, A., Vonk, I.J., Sawyer, A.T., & Fang, A. (2012). The efficacy of cognitive behavioral therapy: A review of meta-analyses. *Cognitive Therapy and Research*, 36(5), 427-440.
+- [5]. Schoenberg, P.L., & David, A.S. (2014). Biofeedback for psychiatric disorders: a systematic review. *Applied Psychophysiology and Biofeedback*, 39(2), 109-135.
+- [6]. Koller, D., & Friedman, N. (2009). *Probabilistic Graphical Models: Principles and Techniques*. MIT Press.
+- [7]. Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5(1), 42.
+- [8]. Dehaene, S., & Changeux, J.P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
 
 
 
@@ -917,13 +916,13 @@ dz/dt = xy - βz
 
 Данные комплексные подходы, сочетающие фармакологическое и психотерапевтическое воздействие, направлены на восстановление сбалансированного взаимодействия между эмоциональными и когнитивными компонентами, отраженными в расширенной теории ЭИРО.
 
-**Источники:**
+**Источники**:
 
-1. Deakin, J.F. (1998). The role of serotonin in depression and anxiety. *European Psychiatry*, 13, 57s-63s.
-2. Bremner, J.D., Krystal, J.H., Southwick, S.M., & Charney, D.S. (1996). Noradrenergic mechanisms in stress and anxiety: I. Preclinical studies. *Synapse*, 23(1), 28-38.
-3. Hasselmo, M.E. (1999). Neuromodulation: acetylcholine and memory consolidation. *Trends in cognitive sciences*, 3(9), 351-359.
-4. Hofmann, S.G., Asnaani, A., Vonk, I.J., Sawyer, A.T., & Fang, A. (2012). The efficacy of cognitive behavioral therapy: A review of meta-analyses. *Cognitive therapy and research*, 36(5), 427-440.
-5. Schoenberg, P.L., & David, A.S. (2014). Biofeedback for psychiatric disorders: a systematic review. *Applied psychophysiology and biofeedback*, 39(2), 109-135.
+- [1]. Deakin, J.F. (1998). The role of serotonin in depression and anxiety. *European Psychiatry*, 13, 57s-63s.
+- [2]. Bremner, J.D., Krystal, J.H., Southwick, S.M., & Charney, D.S. (1996). Noradrenergic mechanisms in stress and anxiety: I. Preclinical studies. *Synapse*, 23(1), 28-38.
+- [3]. Hasselmo, M.E. (1999). Neuromodulation: acetylcholine and memory consolidation. *Trends in Cognitive Sciences*, 3(9), 351-359.
+- [4]. Hofmann, S.G., Asnaani, A., Vonk, I.J., Sawyer, A.T., & Fang, A. (2012). The efficacy of cognitive behavioral therapy: A review of meta-analyses. *Cognitive Therapy and Research*, 36(5), 427-440.
+- [5]. Schoenberg, P.L., & David, A.S. (2014). Biofeedback for psychiatric disorders: a systematic review. *Applied Psychophysiology and Biofeedback*, 39(2), 109-135.
 
 
 
@@ -949,10 +948,10 @@ dz/dt = xy - βz
 
 **Источники:**
 
-7. Koller, D., & Friedman, N. (2009). Probabilistic graphical models: principles and techniques. MIT press.
-8. Graves, A. (2013). Generating sequences with recurrent neural networks. arXiv preprint arXiv:1308.0850.
-10. Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47(2), 263-291.
-15. Siegelmann, H. T., & Sontag, E. D. (1991). Turing computability with neural nets. Applied Mathematics Letters, 4(6), 77-80.
+- [7]. Koller, D., & Friedman, N. (2009). Probabilistic graphical models: principles and techniques. MIT press.
+- [8]. Graves, A. (2013). Generating sequences with recurrent neural networks. arXiv preprint arXiv:1308.0850.
+- [10]. Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47(2), 263-291.
+- [15]. Siegelmann, H. T., & Sontag, E. D. (1991). Turing computability with neural nets. Applied Mathematics Letters, 4(6), 77-80.
 
 
 ### 7. Заключение
@@ -1057,21 +1056,25 @@ dz/dt = xy - βz
 
 #### Математическая формализация:
 
-`Φₑ = ∑(w_i * C_i) * I(t) * R(t) * E(t)`
+$$
+\Phi_e = \sum (w_i \cdot C_i) \cdot I(t) \cdot R(t) \cdot E(t)
+$$
 
 где:
 
-- w_i - весовые коэффициенты компонентов
-- C_i - значения компонентов
-- I(t) - интеграционный фактор
-- R(t) - рекуррентный фактор
-- E(t) - эмоциональный фактор
+- $w_i$ - весовые коэффициенты компонентов
+- $C_i$ - значения компонентов
+- $I(t)$ - интеграционный фактор
+- $R(t)$ - рекуррентный фактор
+- $E(t)$ - эмоциональный фактор
 
 #### Динамические характеристики:
 
 1. Временная эволюция:
-dΦₑ/dt = f(состояние системы, внешние воздействия)
 
+$$
+\frac{d\Phi_e}{dt} = f(\text{system state}, \text{external influences})
+$$
 
 2. Фазовые переходы:
 - Критические точки
@@ -1134,5 +1137,7 @@ dΦₑ/dt = f(состояние системы, внешние воздейст
 
 ---
 
-Оглавление: [Теория Эмергентной Интеграции и Рекуррентного Отображения](/README.md)
+Оглавление: 
+- [ЭИРО framework](/README.md)
+- [Справочник формул](/formulas.md)
 
