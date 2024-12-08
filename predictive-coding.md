@@ -133,7 +133,7 @@
 
 Пусть $s_t$ — вектор сенсорных данных в момент времени $t$. Мозг строит предсказание $\hat{s}_t$ на основе внутренней модели $m_t$:
 
-$$ \hat{s}_t = f(m_t) $$
+$\hat{s}_t = f(m_t)$
 
 где $f$ — функция предсказания, определяемая внутренней моделью.
 
@@ -141,7 +141,7 @@ $$ \hat{s}_t = f(m_t) $$
 
 Ошибка предсказания $\epsilon_t$ определяется как разница между фактическим сенсорным вводом и предсказанием:
 
-$$ \epsilon_t = s_t - \hat{s}_t $$
+$\epsilon_t = s_t - \hat{s}_t$
 
 
 ### 2. Внутренние модели и их обновление
@@ -150,13 +150,13 @@ $$ \epsilon_t = s_t - \hat{s}_t $$
 
 Внутреннюю модель можно представить как набор параметров $\theta_t$:
 
-$$ m_t = m(\theta_t) $$
+$m_t = m(\theta_t)$
 
 #### 2.2. Обновление параметров модели
 
 Обновление параметров производится с учетом ошибки предсказания, с целью минимизации функции потерь $L$:
 
-$$ \theta_{t+1} = \theta_t - \eta \frac{\partial L}{\partial \theta_t} $$
+$\theta_{t+1} = \theta_t - \eta \frac{\partial L}{\partial \theta_t}$
 
 где $\eta$ — скорость обучения.
 
@@ -164,7 +164,7 @@ $$ \theta_{t+1} = \theta_t - \eta \frac{\partial L}{\partial \theta_t} $$
 
 Обычно используется квадратичная функция потерь:
 
-$$ L = \frac{1}{2} \epsilon_t^\top \epsilon_t $$
+$L = \frac{1}{2} \epsilon_t^\top \epsilon_t$
 
 
 ### 3. Рекуррентное отображение в ЭИРО
@@ -177,7 +177,7 @@ $$ L = \frac{1}{2} \epsilon_t^\top \epsilon_t $$
 
 Состояние модели $h_t$ определяется рекуррентно:
 
-$$ h_t = \phi(h_{t-1}, s_t, \theta_t) $$
+$h_t = \phi(h_{t-1}, s_t, \theta_t)$
 
 где $\phi$ — рекуррентная функция активации.
 
@@ -185,7 +185,7 @@ $$ h_t = \phi(h_{t-1}, s_t, \theta_t) $$
 
 Предсказание теперь зависит от рекуррентного состояния:
 
-$$ \hat{s}_{t+1} = f(h_t, \theta_t) $$
+$\hat{s}_{t+1} = f(h_t, \theta_t)$
 
 
 ### 4. Эмергентная интеграция информации
@@ -204,13 +204,13 @@ $$ \hat{s}_{t+1} = f(h_t, \theta_t) $$
 
   Ошибки предсказания передаются вверх по иерархии:
 
-  $$\epsilon_t^l = h_t^l - \hat{h}_t^l$$
+  $\epsilon_t^l = h_t^l - \hat{h}_t^l$
 
 - Нисходящая передача (top-down):
 
   Предсказания передаются вниз:
 
-  $$\hat{h}_t^l = f(h_t^{l+1}, \theta_t^l)$$
+  $\hat{h}_t^l = f(h_t^{l+1}, \theta_t^l)$
 
 
 ### 5. Математическая формализация рекуррентного отображения
@@ -219,9 +219,9 @@ $$ \hat{s}_{t+1} = f(h_t, \theta_t) $$
 
 Рекуррентное обновление состояний и предсказаний можно описать системой уравнений:
 
-$$ h_t^l = \phi(h_{t-1}^l, \hat{h}_t^l, \epsilon_t^l) $$
-$$ \hat{h}_t^l = f(h_t^{l+1}, \theta_t^l) $$
-$$ \epsilon_t^l = h_t^{l-1} - \hat{h}_t^l $$
+$h_t^l = \phi(h_{t-1}^l, \hat{h}_t^l, \epsilon_t^l)$
+$\hat{h}_t^l = f(h_t^{l+1}, \theta_t^l)$
+$\epsilon_t^l = h_t^{l-1} - \hat{h}_t^l$
 
 где $h_t^0 = s_t$ — входные сенсорные данные.
 
@@ -229,7 +229,7 @@ $$ \epsilon_t^l = h_t^{l-1} - \hat{h}_t^l $$
 
 Параметры обновляются с учетом ошибки предсказания на соответствующем уровне:
 
-$$ \theta_{t+1}^l = \theta_t^l - \eta \frac{\partial L_t^l}{\partial \theta_t^l} $$
+$\theta_{t+1}^l = \theta_t^l - \eta \frac{\partial L_t^l}{\partial \theta_t^l}$
 
 где $L_t^l = \frac{1}{2} (\epsilon_t^l)^\top \epsilon_t^l$.
 
@@ -240,7 +240,7 @@ $$ \theta_{t+1}^l = \theta_t^l - \eta \frac{\partial L_t^l}{\partial \theta_t^l}
 
 Рассмотрим вероятностную модель, где предсказание и ошибки трактуются в терминах вероятностей:
 
-$$ P(s_t | \theta_t) = N(s_t; \hat{s}_t, \Sigma_t) $$
+$P(s_t | \theta_t) = N(s_t; \hat{s}_t, \Sigma_t)$
 
 где $N$ — нормальное распределение с математическим ожиданием $\hat{s}_t$ и ковариацией $\Sigma_t$.
 
@@ -248,13 +248,13 @@ $$ P(s_t | \theta_t) = N(s_t; \hat{s}_t, \Sigma_t) $$
 
 Апостериорная вероятность:
 
-$$ P(\theta_t | s_t) \propto P(s_t | \theta_t) P(\theta_t) $$
+$P(\theta_t | s_t) \propto P(s_t | \theta_t) P(\theta_t)$
 
 #### 6.3. Максимизация апостериорной вероятности
 
 Обновление параметров направлено на максимизацию $P(\theta_t | s_t)$, что эквивалентно минимизации отрицательного логарифма вероятности:
 
-$$ \theta_{t+1} = \theta_t + \eta \frac{\partial}{\partial \theta_t} \left( \ln P(s_t | \theta_t) + \ln P(\theta_t) \right) $$
+$\theta_{t+1} = \theta_t + \eta \frac{\partial}{\partial \theta_t} \left( \ln P(s_t | \theta_t) + \ln P(\theta_t) \right)$
 
 
 ### 7. Принцип минимизации свободной энергии в ЭИРО
@@ -263,7 +263,7 @@ $$ \theta_{t+1} = \theta_t + \eta \frac{\partial}{\partial \theta_t} \left( \ln 
 
 Свободная энергия $F$ связывает апостериорное и априорное распределения:
 
-$$ F = \mathbb{E}_{q(h_t)} \left[ -\ln P(s_t, h_t | \theta_t) + \ln q(h_t) \right] $$
+$F = \mathbb{E}_{q(h_t)} \left[ -\ln P(s_t, h_t | \theta_t) + \ln q(h_t) \right]$
 
 где $q(h_t)$ — приближенное распределение скрытых переменных.
 
@@ -289,7 +289,7 @@ $$ F = \mathbb{E}_{q(h_t)} \left[ -\ln P(s_t, h_t | \theta_t) + \ln q(h_t) \righ
 
 Общая функция потерь для всей системы:
 
-$$ L_{\text{total}} = \sum_{l=1}^{L} L^l = \frac{1}{2} \sum_{l=1}^{L} (\epsilon_t^l)^\top \epsilon_t^l $$
+$L_{\text{total}} = \sum_{l=1}^{L} L^l = \frac{1}{2} \sum_{l=1}^{L} (\epsilon_t^l)^\top \epsilon_t^l$
 
 Цель — минимизировать $L_{\text{total}}$ по всем $h_t^l$ и $\theta_t^l$.
 
@@ -299,19 +299,19 @@ $$ L_{\text{total}} = \sum_{l=1}^{L} L^l = \frac{1}{2} \sum_{l=1}^{L} (\epsilon_
 
 Используя градиентный спуск, мы обновляем параметры:
 
-$$ \theta_{t+1}^l = \theta_t^l - \eta \frac{\partial L_{\text{total}}}{\partial \theta_t^l} $$
+$\theta_{t+1}^l = \theta_t^l - \eta \frac{\partial L_{\text{total}}}{\partial \theta_t^l}$
 
 #### 9.2. Вычисление градиентов
 
 Градиент функции потерь по параметрам:
 
-$$ \frac{\partial L_{\text{total}}}{\partial \theta_t^l} = - (\epsilon_t^l)^\top \frac{\partial h_t^l}{\partial \theta_t^l} $$
+$\frac{\partial L_{\text{total}}}{\partial \theta_t^l} = - (\epsilon_t^l)^\top \frac{\partial h_t^l}{\partial \theta_t^l}$
 
 #### 9.3. Обновление состояний
 
 Аналогично, состояния обновляются с учетом градиентов по состояниям:
 
-$$ h_t^l = h_t^l - \eta \frac{\partial L_{\text{total}}}{\partial h_t^l} $$
+$h_t^l = h_t^l - \eta \frac{\partial L_{\text{total}}}{\partial h_t^l}$
 
 
 ### 10. Взаимодействие между уровнями в контексте ЭИРО
@@ -335,13 +335,13 @@ $$ h_t^l = h_t^l - \eta \frac{\partial L_{\text{total}}}{\partial h_t^l} $$
 
 Рассмотрим простую модель с одним уровнем:
 
-$$ s_t = W_t h_{t-1} $$  
+$s_t = W_t h_{t-1}$  
 
-$$ \epsilon_t = s_t - \hat{s}_t $$  
+$\epsilon_t = s_t - \hat{s}_t$  
 
-$$ h_t = h_{t-1} + \eta W_t^\top \epsilon_t $$  
+$h_t = h_{t-1} + \eta W_t^\top \epsilon_t$  
 
-$$ W_{t+1} = W_t + \eta \epsilon_t h_{t-1}^\top $$
+$W_{t+1} = W_t + \eta \epsilon_t h_{t-1}^\top$
 
 где $W_t$ — матрица весов.
 
@@ -349,13 +349,13 @@ $$ W_{t+1} = W_t + \eta \epsilon_t h_{t-1}^\top $$
 
 Для нескольких уровней:
 
-$$ \hat{h}_t^l = W_t^l h_t^{l+1} $$  
+$\hat{h}_t^l = W_t^l h_t^{l+1}$  
 
-$$ \epsilon_t^l = h_t^l - \hat{h}_t^l $$  
+$\epsilon_t^l = h_t^l - \hat{h}_t^l$  
 
-$$ h_t^l = h_t^l + \eta \left( \epsilon_t^l - (W_t^{l-1})^\top \epsilon_t^{l-1} \right) $$  
+$h_t^l = h_t^l + \eta \left( \epsilon_t^l - (W_t^{l-1})^\top \epsilon_t^{l-1} \right)$  
 
-$$ W_{t+1}^l = W_t^l + \eta \epsilon_t^l (h_t^{l+1})^\top $$
+$W_{t+1}^l = W_t^l + \eta \epsilon_t^l (h_t^{l+1})^\top$
 
 
 ### 12. Анализ стабильности и сходимости
