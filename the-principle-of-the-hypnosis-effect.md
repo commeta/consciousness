@@ -77,9 +77,7 @@
 
 Эмергентная интегрированная информация определяется как:
 
-$$
-\Phi_e = \int_{t_0}^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) \, dt,
-$$
+$\Phi_e = \int_{t_0}^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) \, dt,$
 
 где:
 
@@ -88,9 +86,7 @@ $$
 
 Динамика нейронной сети описывается уравнением состояния:
 
-$$
-\frac{dx}{dt} = f(x(t), u(t), W),
-$$
+$\frac{dx}{dt} = f(x(t), u(t), W),$
 
 где:
 
@@ -150,9 +146,7 @@ $$
 
 С учетом измененных $I_{\text{integration}}(t)$ и $R_{\text{recurrence}}(t)$, эмергентная интегрированная информация во время гипноза рассчитывается как:
 
-$$
-\Phi_e^{\text{hypnosis}} = \int_{t_0}^{t_1} \left( I_{\text{integration}}^{\text{hypnosis}}(t) \cdot R_{\text{recurrence}}^{\text{hypnosis}}(t) \right) dt.
-$$
+$\Phi_e^{\text{hypnosis}} = \int_{t_0}^{t_1} \left( I_{\text{integration}}^{\text{hypnosis}}(t) \cdot R_{\text{recurrence}}^{\text{hypnosis}}(t) \right) dt.$
 
 Перераспределение $\Phi_e$ фокусируется на тех нейронных сетях и процессах, которые связаны с внушаемым содержанием, усиливая их вклад в общую интегрированную информацию. Это объясняет специфические когнитивные и перцептивные эффекты, наблюдаемые при гипнозе, с точки зрения теории ЭИРО.
 
