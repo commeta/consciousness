@@ -18,9 +18,7 @@
 
 Математически это выражается как:
 
-$$
-\Phi_e = \int_{0}^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) \, dt,
-$$
+$\Phi_e = \int_{0}^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) \, dt,$
 
 где:
 
@@ -47,9 +45,7 @@ $d\mathbf{x} / dt = \mathbf{f}(\mathbf{x}(t), \mathbf{u}(t), W),$
 
 Прогностические модели в нейронных сетях обновляются с помощью байесовского обновления:
 
-$$
-P(\theta \mid D) = \frac{P(D \mid \theta) P(\theta)}{P(D)},
-$$
+$P(\theta \mid D) = \frac{P(D \mid \theta) P(\theta)}{P(D)},$
 
 где:
 
