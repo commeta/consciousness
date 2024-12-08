@@ -192,9 +192,7 @@ $P(\theta|D) = \frac{P(D \mid \theta) \cdot P(\theta)}{P(D)}$
 
 В RNN-моделях, предсказания генерируются на основе текущих входных данных и предыдущих состояний сети:
 
-$$
-h(t) = \phi(W_{hh} \cdot h(t-1) + W_{hx} \cdot x(t) + b_h)
-$$
+$h(t) = \phi(W_{hh} \cdot h(t-1) + W_{hx} \cdot x(t) + b_h)$
 
 Где:
 
