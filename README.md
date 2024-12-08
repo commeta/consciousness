@@ -66,10 +66,6 @@ graph TD
 
 - [ReadMe English](/docs/en/README.md) Oct 17, 2024. upd: Nov 20, 2024 
 
-- [Review](/review.md) Oct 27, 2024
-
-- [Смежные дисциплины](/sciences.md) Oct 17, 2024
-
 ### Аналитика:
 
 - [Теория Сознания](/README.md) Oct 17, 2024. upd: Nov 27, 2024
@@ -410,9 +406,9 @@ graph TD
 
   - [Архитектурная реализация нейронной сети ЭИРО для анализа ДНК](/Decoding-DNA-Architectural-implementation.md) Nov 14, 2024
 
-[Модель структуры ДНК через призму теории ЭИРО](/A-model-of-the-DNA-structure.md) Nov 19, 2024
+- [Модель структуры ДНК через призму теории ЭИРО](/A-model-of-the-DNA-structure.md) Nov 19, 2024
 
-[Концептуальная модель структуры ДНК через призму теории ЭИРО](/Decoding-DNA/README.md) Nov 22, 2024
+- [Концептуальная модель структуры ДНК через призму теории ЭИРО](/Decoding-DNA/README.md) Nov 22, 2024
 
 - [Вирусы через призму теории ЭИРО](/Decoding-DNA/Viruses.md) Nov 22, 2024
 
@@ -455,17 +451,22 @@ graph TD
 
 #### Прочее
 
+- [Смежные дисциплины](/sciences.md) Oct 17, 2024
+
 - [Сравнительный анализ ведущих теорий сознания в контексте ЭИРО](/comparative-analysis.md) Oct 19, 2024
   
 - [Прогноз о существовании внеземной жизни через призму теории ЭИРО и новой модели вселенной](/prediction-of-the-existence-of-extraterrestrial-life.md) Oct 22, 2024
   
 - [ЭИРО: От нейронов к звездам](/mission.md) Oct 19, 2024
 
+- [Review](/review.md) Oct 27, 2024
+
 - [Список используемой литературы](/bibliography.md) Nov 18, 2024
 
 - [Справочник терминов](/guide.md) Nov 26, 2024
 
 - [Справочник формул](/formulas.md) Nov 30, 2024
+
 
 ---
 
