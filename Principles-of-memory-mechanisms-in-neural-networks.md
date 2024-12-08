@@ -130,13 +130,13 @@
 
 Эмергентная интегрированная информация:
 
-$$ \Phi_e = \int_{t_0}^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) \, dt, $$
+$\Phi_e = \int_{t_0}^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) \, dt,$
 
 где $I_{\text{integration}}(t)$ — мера объединения информации в момент времени $t$, а $R_{\text{recurrence}}(t)$ — степень рекуррентной обработки.
 
 Динамика нейронной сети:
 
-$$ \frac{d\mathbf{x}}{dt} = \mathbf{f}(\mathbf{x}(t), \mathbf{u}(t), W), $$
+$\frac{d\mathbf{x}}{dt} = \mathbf{f}(\mathbf{x}(t), \mathbf{u}(t), W),$
 
 где $\mathbf{x}(t)$ — состояние сети, $\mathbf{u}(t)$ — входные сигналы, $W$ — матрица весов синаптических связей, включая рекуррентные.
 
@@ -169,23 +169,23 @@ $$ \frac{d\mathbf{x}}{dt} = \mathbf{f}(\mathbf{x}(t), \mathbf{u}(t), W), $$
 
 - Входной ворота:
 
-$$ i_t = \sigma(W_i \cdot [h_{t-1}, x_t] + b_i) $$
+  $i_t = \sigma(W_i \cdot [h_{t-1}, x_t] + b_i)$
 
 - Ворота забывания:
 
-$$ f_t = \sigma(W_f \cdot [h_{t-1}, x_t] + b_f) $$
+  $f_t = \sigma(W_f \cdot [h_{t-1}, x_t] + b_f)$
 
 - Ворота вывода:
 
-$$ o_t = \sigma(W_o \cdot [h_{t-1}, x_t] + b_o) $$
+  $o_t = \sigma(W_o \cdot [h_{t-1}, x_t] + b_o)$
 
 - Обновление состояния ячейки:
 
-$$ C_t = f_t \ast C_{t-1} + i_t \ast \tanh(W_C \cdot [h_{t-1}, x_t] + b_C) $$
+  $C_t = f_t \ast C_{t-1} + i_t \ast \tanh(W_C \cdot [h_{t-1}, x_t] + b_C)$
 
 - Выходное состояние:
 
-$$ h_t = o_t \ast \tanh(C_t) $$
+  $h_t = o_t \ast \tanh(C_t)$
 
 
 [14]
