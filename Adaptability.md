@@ -10,31 +10,31 @@
 
 Математически, способность к обучению может быть описана с помощью динамических систем, демонстрирующих пластичность:
 
-`dA/dt = f(A, I, R, θ)`
+$\frac{dA}{dt} = f(A, I, R, \theta)$
 
 Где:
 
-- A - текущее значение адаптивности
-- I - степень интеграции информации
-- R - степень рекуррентности
-- θ - вектор внутренних параметров системы
-- f - нелинейная функция, описывающая динамику адаптивности
+- $A$ — текущее значение адаптивности
+- $I$ — степень интеграции информации
+- $R$ — степень рекуррентности
+- $\theta$ — вектор внутренних параметров системы
+- $f$ — нелинейная функция, описывающая динамику адаптивности
 
 Функция f может включать механизмы обучения, такие как правило Хебба для усиления связей между коактивированными нейронами, а также гомеостатические процессы, поддерживающие оптимальный уровень адаптивности [1, 2].
 
 ### 3. Гибкость реакций
 
-Адаптивность A(t) также отражает способность системы демонстрировать разнообразие реакций и нестандартные решения в ответ на изменяющиеся условия. Данная гибкость поведения позволяет эффективно взаимодействовать с динамичной окружающей средой, находить оригинальные способы достижения целей и адаптироваться к новым ситуациям.
+Адаптивность $A(t)$ также отражает способность системы демонстрировать разнообразие реакций и нестандартные решения в ответ на изменяющиеся условия. Данная гибкость поведения позволяет эффективно взаимодействовать с динамичной окружающей средой, находить оригинальные способы достижения целей и адаптироваться к новым ситуациям.
 
 Математическое моделирование гибкости реакций может быть осуществлено с использованием нелинейных динамических систем, таких как модели Лоренца и Рёсслера [3, 4]:
 
-```
-dx/dt = σ(y - x)
-dy/dt = x(ρ - z) - y
-dz/dt = xy - βz
-```
+$\frac{dx}{dt} = \sigma \cdot (y - x)$
 
-Анализ показателей Ляпунова, фрактальной размерности и энтропии данных моделей позволяет количественно оценивать уровень вариативности поведения, отражаемый параметром A(t).
+$\frac{dy}{dt} = x \cdot (\rho - z) - y$
+
+$\frac{dz}{dt} = x \cdot y - \beta \cdot z$
+
+Анализ показателей Ляпунова, фрактальной размерности и энтропии данных моделей позволяет количественно оценивать уровень вариативности поведения, отражаемый параметром $A(t)$.
 
 ### 4. Скорость приспособления
 
@@ -42,12 +42,12 @@ dz/dt = xy - βz
 
 Математически, скорость адаптации может быть смоделирована с использованием алгоритмов обучения с подкреплением (reinforcement learning):
 
-`A(t+1) = A(t) + η * ∇_A J(A, I, R, θ)`
+$A(t+1) = A(t) + \eta * \nabla_A J(A, I, R, \theta)$
 
 Где:
 
-- η - скорость обучения
-- J - целевая функция, отражающая эффективность поведения системы
+- $\eta$ — скорость обучения
+- $J$ — целевая функция, отражающая эффективность поведения системы
 
 Такие модели позволяют системе динамически адаптировать свое поведение в соответствии с меняющимися условиями, что отражается в параметре A(t) расширенной теории ЭИРО [5, 6].
 
@@ -73,11 +73,13 @@ dz/dt = xy - βz
 
 Таким образом, префронтальная кора играет центральную роль в обеспечении адаптивности, отраженной в параметре A(t) расширенной теории ЭИРО. Она осуществляет мониторинг окружающей среды, гибкое переключение между стратегиями и формирование новых моделей поведения, что позволяет системе эффективно адаптироваться к динамичным условиям.
 
-**Источники:**
+<details>
+<summary>Источники</summary>
 
-7. Miller, E. K., & Cohen, J. D. (2001). An integrative theory of prefrontal cortex function. Annual review of neuroscience, 24(1), 167-202.
-8. Fuster, J. M. (2001). The prefrontal cortex—an update: time is of the essence. Neuron, 30(2), 319-333.
+- [7]. Miller, E. K., & Cohen, J. D. (2001). An integrative theory of prefrontal cortex function. Annual review of neuroscience, 24(1), 167-202.
+- [8]. Fuster, J. M. (2001). The prefrontal cortex—an update: time is of the essence. Neuron, 30(2), 319-333.
 
+</details>
 
 #### 5.2. Гиппокамп
 
@@ -97,11 +99,13 @@ dz/dt = xy - βz
 
 Таким образом, гиппокамп играет ключевую роль в кодировании новых данных, консолидации памяти и взаимодействии с префронтальной корой, что обеспечивает адаптивность, отраженную в параметре A(t) теории Эмергентной Интеграции и Рекуррентного Отображения.
 
-**Источники:**
+<details>
+<summary>Источники</summary>
 
-9. Squire, L. R., & Zola, S. M. (1996). Structure and function of declarative and nondeclarative memory systems. Proceedings of the National Academy of Sciences, 93(24), 13515-13522.
-10. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. Trends in Cognitive Sciences, 20(7), 512-534.
+- [9]. Squire, L. R., & Zola, S. M. (1996). Structure and function of declarative and nondeclarative memory systems. Proceedings of the National Academy of Sciences, 93(24), 13515-13522.
+- [10]. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. Trends in Cognitive Sciences, 20(7), 512-534.
 
+</details>
 
 
 #### 5.3. Базальные ганглии
@@ -122,11 +126,13 @@ dz/dt = xy - βz
 
 Нарушения в функционировании базальных ганглий могут приводить к дефицитам в адаптивности, что отражается на параметре A(t) в теории ЭИРО. Это, в свою очередь, оказывает влияние на процессы интеграции информации I(t) и рекуррентной обработки R(t), лежащие в основе формирования сознательного опыта.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-11. Graybiel, A. M. (2008). Habits, rituals, and the evaluative brain. Annual Review of Neuroscience, 31, 359-387.
-12. Yin, H. H., & Knowlton, B. J. (2006). The role of the basal ganglia in habit formation. Nature Reviews Neuroscience, 7(6), 464-476.
+- [11]. Graybiel, A. M. (2008). Habits, rituals, and the evaluative brain. Annual Review of Neuroscience, 31, 359-387.
+- [12]. Yin, H. H., & Knowlton, B. J. (2006). The role of the basal ganglia in habit formation. Nature Reviews Neuroscience, 7(6), 464-476.
 
+</details>
 
 Нарушения в функционировании данных областей мозга могут приводить к дефицитам в адаптивности, что отражается на параметре A(t) в теории ЭИРО и, как следствие, на процессах интеграции информации и рекуррентной обработки.
 
@@ -221,19 +227,24 @@ dz/dt = xy - βz
 
 Таким образом, адаптивность, как ключевой параметр ЭИРО, имеет глубокие нейробиологические основания, отражающие фундаментальные свойства нервной системы, такие как пластичность, нейромодуляция и взаимодействие между различными областями мозга.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-1. Markram, H., Gerstner, W., & Sjöström, P. J. (2011). A history of spike-timing-dependent plasticity. Frontiers in synaptic neuroscience, 3, 4.
-2. Maass, W., & Markram, H. (2002). Synapses as dynamic memory buffers. Neural networks, 15(2), 155-161.
-3. Robbins, T. W., & Arnsten, A. F. (2009). The neuropsychopharmacology of fronto-executive function: monoaminergic modulation. Annual Review of Neuroscience, 32, 267-287.
-4. Hasselmo, M. E. (1999). Neuromodulation: acetylcholine and memory consolidation. Trends in cognitive sciences, 3(9), 351-359.
-5. Miller, E.K., & Cohen, J.D. (2001). An integrative theory of prefrontal cortex function. Annual Review of Neuroscience.
-6. Baddeley, A. (1986). Working memory. Oxford University Press.
-7. Pessoa, L. (2008). On the relationship between emotion and cognition. Nature Reviews Neuroscience, 9(2), 148-158.
-8. Dolcos, F., LaBar, K. S., & Cabeza, R. (2004). Interaction between the amygdala and the medial temporal lobe memory system predicts better memory for emotional events. Neuron, 42(5), 855-863.
+- [1]. Markram, H., Gerstner, W., & Sjöström, P. J. (2011). A history of spike-timing-dependent plasticity. Frontiers in synaptic neuroscience, 3, 4.
+- [2]. Maass, W., & Markram, H. (2002). Synapses as dynamic memory buffers. Neural networks, 15(2), 155-161.
+- [3]. Robbins, T. W., & Arnsten, A. F. (2009). The neuropsychopharmacology of fronto-executive function: monoaminergic modulation. Annual Review of Neuroscience, 32, 267-287.
+- [4]. Hasselmo, M. E. (1999). Neuromodulation: acetylcholine and memory consolidation. Trends in cognitive sciences, 3(9), 351-359.
+- [5]. Miller, E.K., & Cohen, J.D. (2001). An integrative theory of prefrontal cortex function. Annual Review of Neuroscience.
+- [6]. Baddeley, A. (1986). Working memory. Oxford University Press.
+- [7]. Pessoa, L. (2008). On the relationship between emotion and cognition. Nature Reviews Neuroscience, 9(2), 148-158.
+- [8]. Dolcos, F., LaBar, K. S., & Cabeza, R. (2004). Interaction between the amygdala and the medial temporal lobe memory system predicts better memory for emotional events. Neuron, 42(5), 855-863.
 
+</details>
 
 
 ---
 
-Оглавление: [Теория Эмергентной Интеграции и Рекуррентного Отображения](/README.md)
+Оглавление:
+
+- [ЭИРО framework](/README.md)
+- [Справочник формул](/formulas.md)
