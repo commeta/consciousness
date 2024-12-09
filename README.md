@@ -45,7 +45,12 @@ graph TD
 
 - [ReadMe English](/docs/en/README.md) Oct 17, 2024. upd: Nov 20, 2024 
 
+- [Справочник формул](/formulas.md) Nov 30, 2024
+
 ### Аналитика:
+
+<details>
+<summary>Список документов</summary>
 
 - [Теория Сознания](/README.md) Oct 17, 2024. upd: Nov 27, 2024
   
@@ -444,8 +449,8 @@ graph TD
 
 - [Справочник терминов](/guide.md) Nov 26, 2024
 
-- [Справочник формул](/formulas.md) Nov 30, 2024
 
+</details>
 
 ---
 
