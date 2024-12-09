@@ -3,6 +3,12 @@
 
 ```mermaid
 graph TD
+    %% Стиль для узла A
+    style A height:200px;
+    style B2 height:200px;
+    style B1 height:200px;
+    style B height:200px;
+
     A[Основные принципы теории ЭИРО]
     A --> B[Эмерджентность сознания]
     B --> B1[Сложные взаимодействия нейронных сетей]
