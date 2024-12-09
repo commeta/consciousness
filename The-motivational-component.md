@@ -27,24 +27,30 @@
 
 ### 2. Теоретические основы
 
-Базовая формула мотивационного компонента M(t) в структуре метрики эмоционально-интеллектуального развития организма (ЭИРО) имеет следующий вид:
+Базовая формула мотивационного компонента $M(t)$ в структуре метрики эмоционально-интеллектуального развития организма (ЭИРО) имеет следующий вид:
 
-`M(t) = Σ(Vi × Ei) + α(In) + β(Ex)`
+$M(t) = \sum V_i \cdot E_i + \alpha In + \beta Ex$
 
 Где:
 
-- Vi - значимость i-того внутреннего стимула для индивида;
-- Ei - эффективность реализации i-того внутреннего стимула;
-- α - коэффициент, отражающий влияние внутренних факторов In на мотивацию;
-- In - совокупность внутренних факторов, таких как потребности, интересы, ценности личности;
-- β - коэффициент, отражающий влияние внешних факторов Ex на мотивацию;
-- Ex - совокупность внешних факторов, включающих социальное окружение, вознаграждения, конкуренцию.
+- $V_i$ — значимость i-того внутреннего стимула для индивида;
+- $E_i$ — эффективность реализации i-того внутреннего стимула;
+- $\alpha$ — коэффициент, отражающий влияние внутренних факторов $In$ на мотивацию;
+- $In$ — совокупность внутренних факторов, таких как потребности, интересы, ценности личности;
+- $\beta$ — коэффициент, отражающий влияние внешних факторов $Ex$ на мотивацию;
+- $Ex$ — совокупность внешних факторов, включающих социальное окружение, вознаграждения, конкуренцию.
 
 Согласно исследованиям Райана и Деси [1], внутренняя мотивация, основанная на собственных интересах и ценностях индивида, является более устойчивой и эффективной для долгосрочного развития эмоционального интеллекта и когнитивных способностей в рамках теории ЭИРО. В отличие от внешней мотивации, внутренняя мотивация способствует более глубокому вовлечению, творческому подходу и устойчивым изменениям личности.
 
 Таким образом, мотивационный компонент M(t) играет ключевую роль в динамике развития эмоционально-интеллектуальных характеристик организма, описываемых метрикой ЭИРО.
 
+<details>
+<summary>Источники</summary>
+
 - [1] Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68-78.
+
+</details>
+
 
 
 ### 3. Структура мотивационного компонента
@@ -67,12 +73,16 @@
 
 Таким образом, внутренние стимулы, основанные на базовых психологических потребностях, являются ключевыми компонентами мотивационного фактора M(t) в структуре метрики ЭИРО. Их количественная оценка и взаимодействие с другими элементами модели играют важную роль в понимании и прогнозировании эмоционально-интеллектуального развития организма.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
 1. Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68-78.
 2. Knutson, B., & Gibbs, S. E. B. (2007). Linking nucleus accumbens dopamine and blood oxygenation. Psychopharmacology, 191(3), 813-822.
 3. Maslow, A. H. (1943). A theory of human motivation. Psychological Review, 50(4), 370-396.
 4. Salamone, J. D., & Correa, M. (2012). The mysterious motivational functions of mesolimbic dopamine. Neuron, 76(3), 470-485.
+
+</details>
+
 
 
 #### 3.2. Внешние факторы
@@ -93,11 +103,15 @@
 
 Таким образом, внешние факторы, такие как социальное признание, материальное вознаграждение и конкурентная среда, оказывают значительное влияние на формирование мотивационного компонента M(t) в структуре метрики ЭИРО. Однако для обеспечения устойчивого и эффективного развития необходимо поддерживать баланс между внешними и внутренними мотивирующими факторами.
 
-**Источники:**
+<details>
+<summary>Источники</summary>
 
 1. Izuma, K., Saito, D. N., & Sadato, N. (2008). Processing of social and monetary rewards in the human striatum. Neuron, 58(2), 284-294.
 2. Knutson, B., & Gibbs, S. E. B. (2007). Linking nucleus accumbens dopamine and blood oxygenation. Psychopharmacology, 191(3), 813-822.
 3. Boksem, M. A., Tops, M., Kostermans, E., & De Cremer, D. (2008). Sensitivity to punishment and reward omission: Evidence from error-related ERP components. Biological psychology, 79(2), 185-192.
+
+</details>
+
 
 
 #### 3.3. Регуляторные механизмы
@@ -118,7 +132,8 @@
 
 Таким образом, регуляторные механизмы самоконтроля, целеполагания и волевых качеств являются неотъемлемой частью мотивационного компонента M(t) в структуре метрики эмоционально-интеллектуального развития организма (ЭИРО), обеспечивая эффективную реализацию внутренних и внешних мотивационных факторов.
 
-**Источники:**
+<details>
+<summary>Источники</summary>
 
 1. Duckworth, A. L., & Seligman, M. E. (2005). Self-discipline outdoes IQ in predicting academic performance of adolescents. Psychological science, 16(12), 939-944.
 2. Tangney, J. P., Baumeister, R. F., & Boone, A. L. (2004). High self‐control predicts good adjustment, less pathology, better grades, and interpersonal success. Journal of personality, 72(2), 271-324.
@@ -126,6 +141,9 @@
 4. Bandura, A. (1991). Social cognitive theory of self-regulation. Organizational behavior and human decision processes, 50(2), 248-287.
 5. Duckworth, A. L., & Gross, J. J. (2014). Self-control and grit: Related but separable determinants of success. Current Directions in Psychological Science, 23(5), 319-325.
 6. Muraven, M., & Baumeister, R. F. (2000). Self-regulation and depletion of limited resources: Does self-control resemble a muscle?. Psychological bulletin, 126(2), 247.
+
+</details>
+
 
 
 ### 4. Нейробиологические механизмы
@@ -142,24 +160,28 @@
 
 Префронтальная кора (PFC): Префронтальная кора оказывает модулирующее влияние на дофаминергическую систему. Она участвует в регуляции мотивации, целеполагании и принятии решений. Взаимодействие PFC с VTA и NAcc определяет динамику мотивационного компонента M(t) [3].
 
-Математически, влияние дофаминергической системы на мотивационный компонент M(t) может быть представлено следующим образом:
+Математически, влияние дофаминергической системы на мотивационный компонент $M(t)$ может быть представлено следующим образом:
 
-`D(t) = Σ(NAcc × VTA) × PFC`
+$D(t) = \sum (NAcc \cdot VTA) \cdot PFC$
 
 Где:
 
-- NAcc - активность прилежащего ядра
-- VTA - активность вентральной области покрышки
-- PFC - модулирующее влияние префронтальной коры
+- $NAcc$ — активность прилежащего ядра;
+- $VTA$ — активность вентральной области покрышки;
+- $PFC$ — модулирующее влияние префронтальной коры.
 
 Исследования [4] показывают прямую корреляцию между уровнем дофамина и силой мотивации, что подтверждает важность дофаминергической системы в формировании мотивационного компонента M(t) в структуре метрики ЭИРО.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
 1. Schultz, W. (2015). Neuronal reward and decision signals: From theories to data. Physiological Reviews, 95(3), 853-951.
 2. Knutson, B., & Gibbs, S. E. B. (2007). Linking nucleus accumbens dopamine and blood oxygenation. Psychopharmacology, 191(3), 813-822.
 3. Salamone, J. D., & Correa, M. (2012). The mysterious motivational functions of mesolimbic dopamine. Neuron, 76(3), 470-485.
 4. Berridge, K. C., & Kringelbach, M. L. (2015). Pleasure systems in the brain. Neuron, 86(3), 646-664.
+
+</details>
+
 
 
 #### 4.2. Лимбическая система
@@ -180,7 +202,8 @@
 
 Таким образом, лимбическая система, включающая миндалину, гиппокамп и поясную кору, является ключевым нейробиологическим субстратом, лежащим в основе формирования мотивационного компонента M(t) в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО).
 
-**Источники:**
+<details>
+<summary>Источники</summary>
 
 1. Sander, D., Grafman, J., & Zalla, T. (2003). The human amygdala: an evolved system for relevance detection. Reviews in the Neurosciences, 14(4), 303-316.
 2. Pessoa, L., & Adolphs, R. (2010). Emotion processing and the amygdala: from a 'low road' to 'many roads' of evaluating biological significance. Nature reviews neuroscience, 11(11), 773-783.
@@ -189,6 +212,9 @@
 5. Botvinick, M. M., Cohen, J. D., & Carter, C. S. (2004). Conflict monitoring and anterior cingulate cortex: an update. Trends in cognitive sciences, 8(12), 539-546.
 6. Shenhav, A., Botvinick, M. M., & Cohen, J. D. (2013). The expected value of control: an integrative theory of anterior cingulate cortex function. Neuron, 79(2), 217-240.
 
+</details>
+
+
 
 ### 5. Методология измерения
 
@@ -196,17 +222,17 @@
 
 #### 5.1. Поведенческие маркеры мотивационного компонента M(t)
 
-Для количественной оценки мотивационного компонента M(t) в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) могут быть использованы поведенческие маркеры, отражающие силу и направленность мотивации.
+Для количественной оценки мотивационного компонента $M(t)$ в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) могут быть использованы поведенческие маркеры, отражающие силу и направленность мотивации.
 
-Ключевым показателем является интегральный поведенческий маркер мотивации Mb, который рассчитывается по следующей формуле:
+Ключевым показателем является интегральный поведенческий маркер мотивации $Mb$, который рассчитывается по следующей формуле:
 
-`Mb = Σ(Ti × Ci) / n`
+$Mb = \frac{\sum (T_i \cdot C_i)}{n}$
 
 Где:
 
-- Ti - время, затраченное на i-тую деятельность или задачу
-- Ci - оценка сложности или трудности i-той деятельности
-- n - общее количество наблюдаемых активностей
+- $T_i$ — время, затраченное на $i$-тую деятельность или задачу
+- $C_i$ — оценка сложности или трудности $i$-той деятельности
+- $n$ — общее количество наблюдаемых активностей
 
 Данный показатель Mb отражает, насколько сильно и продолжительно индивид вовлечен в выполнение деятельностей, требующих различного уровня сложности и усилий. Более высокие значения Mb свидетельствуют о более выраженной мотивации.
 
@@ -220,11 +246,15 @@
 
 Использование поведенческих маркеров для количественной оценки мотивационного компонента M(t) в рамках теории ЭИРО дает возможность объективно измерять силу и направленность мотивации в различных контекстах, что имеет важное практическое значение.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
 1. Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. Psychological Inquiry, 11(4), 227-268.
 2. Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. American Psychologist, 57(9), 705-717.
 3. Bandura, A. (1997). Self-efficacy: The exercise of control. New York: Freeman.
+
+</details>
+
 
 
 
@@ -278,7 +308,8 @@
 
 Комплексное использование фМРТ, нейрохимического анализа и ЭЭГ-методов дает возможность всесторонне исследовать нейробиологические механизмы, лежащие в основе мотивационного компонента M(t) в структуре метрики эмоционально-интеллектуального развития организма.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
 1. Schultz, W. (2015). Neuronal reward and decision signals: From theories to data. Physiological Reviews, 95(3), 853-951.
 2. Knutson, B., & Gibbs, S. E. B. (2007). Linking nucleus accumbens dopamine and blood oxygenation. Psychopharmacology, 191(3), 813-822.
@@ -292,6 +323,9 @@
 10. Engel, A. K., & Fries, P. (2010). Beta-band oscillations—signalling the status quo?. Current opinion in neurobiology, 20(2), 156-165.
 11. Cavanagh, J. F., & Frank, M. J. (2014). Frontal theta as a mechanism for cognitive control. Trends in cognitive sciences, 18(8), 414-421.
 12. Hajcak, G., Moser, J. S., Holroyd, C. B., & Simons, R. F. (2007). It's worse than you thought: The feedback negativity and violations of reward prediction in gambling tasks. Psychophysiology, 44(6), 905-912.
+
+</details>
+
 
 
 
@@ -371,7 +405,8 @@
 
 Таким образом, применение метрики ЭИРО, в частности мотивационного компонента M(t), в психотерапевтической практике позволяет повысить эффективность диагностики, терапии и профилактики рецидивов психических расстройств.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
 1. Vansteenkiste, M., Sierens, E., Goossens, L., Soenens, B., & Dochy, F. (2012). Identifying configurations of perceived teacher autonomy support and structure: Associations with self-regulated learning, motivation and problem behavior. Learning and Instruction, 22(6), 431-439.
 2. Deci, E. L., & Ryan, R. M. (2008). Self-determination theory: A macrotheory of human motivation, development, and health. Canadian psychology/Psychologie canadienne, 49(3), 182.
@@ -407,6 +442,9 @@
 32. Bandura, A. (1997). Self-efficacy: The exercise of control. Macmillan.
 
 
+</details>
+
+
 
    
 
@@ -435,18 +473,18 @@ M(t) представляет собой динамическую систему
 
 #### 9.1. Математическое моделирование мотивационного компонента M(t)
 
-Мотивационный компонент M(t) в структуре метрики эмоционально-интеллектуального развития организма (ЭИРО) может быть представлен в виде следующей математической модели:
+Мотивационный компонент $M(t)$ в структуре метрики эмоционально-интеллектуального развития организма (ЭИРО) может быть представлен в виде следующей математической модели:
 
-`M(t) = Σ(Vi × Ei) + α(In) + β(Ex)`
+$M(t) = \sum V_i \cdot E_i + \alpha In + \beta Ex$
 
 Где:
 
-- Vi - значимость i-того внутреннего стимула для индивида;
-- Ei - эффективность реализации i-того внутреннего стимула;
-- α - коэффициент, отражающий влияние внутренних факторов In на мотивацию;
-- In - совокупность внутренних факторов, таких как потребности, интересы, ценности личности;
-- β - коэффициент, отражающий влияние внешних факторов Ex на мотивацию;
-- Ex - совокупность внешних факторов, включающих социальное окружение, вознаграждения, конкуренцию.
+- $V_i$ — значимость $i$-того внутреннего стимула для индивида;
+- $E_i$ — эффективность реализации $i$-того внутреннего стимула;
+- $\alpha$ — коэффициент, отражающий влияние внутренних факторов $In$ на мотивацию;
+- $In$ — совокупность внутренних факторов, таких как потребности, интересы, ценности личности;
+- $\beta$ — коэффициент, отражающий влияние внешних факторов $Ex$ на мотивацию;
+- $Ex$ — совокупность внешних факторов, включающих социальное окружение, вознаграждения, конкуренцию.
 
 Данная модель позволяет количественно оценить вклад внутренних и внешних мотивационных факторов в формирование мотивационного компонента M(t), который, в свою очередь, оказывает влияние на параметры интеграции информации I(t) и рекуррентной обработки R(t) в рамках теории ЭИРО.
 
@@ -520,7 +558,7 @@ M(t) представляет собой динамическую систему
 1. Дофаминергическая система:
 
    - Вентральная область покрышки (VTA), прилежащее ядро (NAcc) и префронтальная кора (PFC) [8-10].
-   - Математическая модель: D(t) = Σ(NAcc × VTA) × PFC
+   - Математическая модель: $D(t) = \sum (NAcc \cdot VTA) \cdot PFC$
 
 2. Лимбическая система:
 
@@ -529,7 +567,8 @@ M(t) представляет собой динамическую систему
 
 Данные нейробиологические механизмы лежат в основе формирования мотивационного компонента M(t) в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО).
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
 1. Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68-78.
 2. Tangney, J. P., Baumeister, R. F., & Boone, A. L. (2004). High self‐control predicts good adjustment, less pathology, better grades, and interpersonal success. Journal of personality, 72(2), 271-324.
@@ -545,8 +584,14 @@ M(t) представляет собой динамическую систему
 12. Phelps, E. A. (2004). Human emotion and memory: interactions of the amygdala and hippocampal complex. Current opinion in neurobiology, 14(2), 198-202.
 13. Botvinick, M. M., Cohen, J. D., & Carter, C. S. (2004). Conflict monitoring and anterior cingulate cortex: an update. Trends in cognitive sciences, 8(12), 539-546.
 
+</details>
+
+
    
 ---
 
 
-Оглавление: [Теория Эмергентной Интеграции и Рекуррентного Отображения](/README.md)
+Оглавление:
+
+- [ЭИРО framework](/README.md)
+- [Справочник формул](/formulas.md)
