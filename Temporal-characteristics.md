@@ -11,13 +11,13 @@
 7. Заключение
 
 
-
+---
 
 ### 1. Введение
 
 #### 1.1. Актуальность исследования
 
-Темпоральные характеристики играют ключевую роль в формировании сознательного опыта согласно теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО). Они отражают фундаментальные аспекты временной организации психических процессов, определяющие эффективность когнитивной деятельности и адаптации организма к динамичной среде.
+Темпоральные характеристики играют ключевую роль в формировании сознательного опыта согласно теории ЭИРО. Они отражают фундаментальные аспекты временной организации психических процессов, определяющие эффективность когнитивной деятельности и адаптации организма к динамичной среде.
 
 #### 1.2. Комплексный показатель временной организации психических процессов
 
@@ -25,20 +25,20 @@
 
 Базовая формула:
 
-`T(t) = Σ(Vi × Pi × Ri)`
+$T(t) = \sum (V_i \cdot P_i \cdot R_i)$
 
 где:
 
-Vi - временная перспектива
-Pi - скорость обработки информации
-Ri - ритмичность процессов
+- $V_i$ - временная перспектива
+- $P_i$ - скорость обработки информации
+- $R_i$ - ритмичность процессов
 
 
-1.2.1. **Временная перспектива (Vi)**: Отражает субъективное восприятие и ориентацию человека на прошлое, настоящее и будущее, что влияет на планирование, принятие решений и интеграцию опыта [1].
+1. **Временная перспектива (Vi)**: Отражает субъективное восприятие и ориентацию человека на прошлое, настоящее и будущее, что влияет на планирование, принятие решений и интеграцию опыта [1].
 
-1.2.2. **Скорость обработки информации (Pi)**: Характеризует эффективность когнитивных процессов, такую как латентность реакций, темп деятельности и скорость принятия решений [2].
+2. **Скорость обработки информации (Pi)**: Характеризует эффективность когнитивных процессов, такую как латентность реакций, темп деятельности и скорость принятия решений [2].
 
-1.2.3. **Ритмичность процессов (Ri)**: Связана с биологическими ритмами различного диапазона (циркадные, ультрадианные, инфрадианные), модулирующими физиологические и психические функции [3, 4].
+3. **Ритмичность процессов (Ri)**: Связана с биологическими ритмами различного диапазона (циркадные, ультрадианные, инфрадианные), модулирующими физиологические и психические функции [3, 4].
 
 Данные компоненты T(t) оказывают существенное влияние на процессы интеграции информации и рекуррентной обработки, лежащие в основе формирования сознательного опыта в рамках теории ЭИРО.
 
@@ -48,40 +48,44 @@ Ri - ритмичность процессов
 
 #### 2.1. Временная перспектива
 
-Временная перспектива является ключевым компонентом темпоральных характеристик T(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО). Она отражает субъективное восприятие и ориентацию человека на прошлое, настоящее и будущее, что оказывает существенное влияние на процессы планирования, принятия решений и интеграции опыта [1].
+Временная перспектива является ключевым компонентом темпоральных характеристик T(t) в теории ЭИРО. Она отражает субъективное восприятие и ориентацию человека на прошлое, настоящее и будущее, что оказывает существенное влияние на процессы планирования, принятия решений и интеграции опыта [1].
 
 Математически, временная перспектива V(t) может быть представлена как сумма трех составляющих:
 
-`V(t) = Fp + Pr + Fu`
+$V(t) = F_p + P_r + F_u$
 
 где:
 
-- Fp - ориентация на прошлое, характеризующая степень, в которой человек фокусируется на событиях и опыте из своего прошлого;
-- Pr - ориентация на настоящее, отражающая степень сосредоточенности на текущих переживаниях и ситуациях;
-- Fu - ориентация на будущее, показывающая степень, в которой человек планирует, ставит цели и ориентируется на перспективы.
+- $F_p$ - ориентация на прошлое, характеризующая степень, в которой человек фокусируется на событиях и опыте из своего прошлого;
+- $P_r$ - ориентация на настоящее, отражающая степень сосредоточенности на текущих переживаниях и ситуациях;
+- $F_u$ - ориентация на будущее, показывающая степень, в которой человек планирует, ставит цели и ориентируется на перспективы.
 
 Данные компоненты временной перспективы оказывают существенное влияние на когнитивные процессы, такие как принятие решений, целеполагание и интеграция опыта, что в свою очередь определяет характеристики сознательного опыта в рамках теории ЭИРО [1, 5].
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-1. Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid, reliable individual-differences metric. Journal of Personality and Social Psychology, 77(6), 1271-1288.
-5. Van Wassenhove, V. (2009). Minding time in an amodal representational space. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1525), 1815-1830.
+- [1]. Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid, reliable individual-differences metric. Journal of Personality and Social Psychology, 77(6), 1271-1288.
+- [5]. Van Wassenhove, V. (2009). Minding time in an amodal representational space. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1525), 1815-1830.
+
+
+</details>
 
 
 
 
 #### 2.2. Скорость обработки информации
 
-Скорость обработки информации P(t) является важным компонентом темпоральных характеристик T(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО). Этот параметр характеризует эффективность когнитивных процессов, таких как латентность реакций, темп деятельности и скорость принятия решений.
+Скорость обработки информации P(t) является важным компонентом темпоральных характеристик T(t) в теории ЭИРО. Этот параметр характеризует эффективность когнитивных процессов, таких как латентность реакций, темп деятельности и скорость принятия решений.
 
 Математически, скорость обработки информации P(t) может быть представлена следующим образом:
 
-`P(t) = I / Δt`
+$P(t) = \frac{I}{\Delta t}$
 
 Где:
 
-- I - объем обработанной информации
-- Δt - затраченное время
+- $I$ - объем обработанной информации
+- $\Delta t$ - затраченное время
 
 Таким образом, данный показатель отражает, насколько быстро система способна обрабатывать и интегрировать поступающую информацию в единицу времени. Более высокие значения P(t) соответствуют более эффективной когнитивной обработке.
 
@@ -95,30 +99,34 @@ Ri - ритмичность процессов
 
 Включение параметра P(t) в общую формулу темпоральных характеристик T(t) теории ЭИРО отражает важную роль скоростных характеристик в процессах интеграции информации и рекуррентной обработки, лежащих в основе формирования сознательного опыта.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-2. Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
-3. Czeisler, C. A., & Klerman, E. B. (1999). Circadian and sleep-dependent regulation of hormone release in humans. Recent Progress in Hormone Research, 54, 97-130.
-5. Van Wassenhove, V. (2009). Minding time in an amodal representational space. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1525), 1815-1830.
-6. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences, 12(1), 7-12.
-7. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
-8. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
+- [2]. Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
+- [3]. Czeisler, C. A., & Klerman, E. B. (1999). Circadian and sleep-dependent regulation of hormone release in humans. Recent Progress in Hormone Research, 54, 97-130.
+- [5]. Van Wassenhove, V. (2009). Minding time in an amodal representational space. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1525), 1815-1830.
+- [6]. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences, 12(1), 7-12.
+- [7]. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
+- [8]. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
+
+</details>
+
 
 
 
 #### 2.3. Ритмичность
 
-Ритмичность, как компонент темпоральных характеристик T(t) в теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО), отражает влияние биологических ритмов различных частотных диапазонов на когнитивные процессы и формирование сознательного опыта.
+Ритмичность, как компонент темпоральных характеристик T(t) в теории ЭИРО, отражает влияние биологических ритмов различных частотных диапазонов на когнитивные процессы и формирование сознательного опыта.
 
 Математически, ритмичность R(t) может быть представлена в виде синусоидальной функции:
 
-`R(t) = A × sin(ωt + φ)`
+$R(t) = A \cdot sin(\omega t + \phi)$
 
 Где:
 
-- A - амплитуда ритма, характеризующая интенсивность колебаний.
-- ω - частота ритма, определяющая период и скорость осцилляций.
-- φ - фазовый сдвиг, отражающий временное смещение ритма относительно начальной точки.
+- $A$ - амплитуда ритма, характеризующая интенсивность колебаний.
+- $\omega$ - частота ритма, определяющая период и скорость осцилляций.
+- $\phi$ - фазовый сдвиг, отражающий временное смещение ритма относительно начальной точки.
 
 Данная математическая модель позволяет описывать широкий спектр биологических ритмов, влияющих на психические функции:
 
@@ -139,14 +147,18 @@ Ri - ритмичность процессов
 
 Таким образом, ритмичность R(t), описываемая математической моделью синусоидальных колебаний, является важным компонентом темпоральных характеристик в теории ЭИРО, отражающим влияние биологических ритмов на психические процессы и формирование сознательного опыта.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-1. Czeisler, C. A., & Klerman, E. B. (1999). Circadian and sleep-dependent regulation of hormone release in humans. Recent Progress in Hormone Research, 54, 97-130.
-2. Dijk, D. J., & Czeisler, C. A. (1995). Contribution of the circadian pacemaker and the sleep homeostat to sleep propensity, sleep structure, electroencephalographic slow waves, and sleep spindle activity in humans. The Journal of Neuroscience, 15(5), 3526-3538.
-3. Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
-4. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(10), 755-765.
-5. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences, 12(1), 7-12.
-6. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
+- [1]. Czeisler, C. A., & Klerman, E. B. (1999). Circadian and sleep-dependent regulation of hormone release in humans. Recent Progress in Hormone Research, 54, 97-130.
+- [2]. Dijk, D. J., & Czeisler, C. A. (1995). Contribution of the circadian pacemaker and the sleep homeostat to sleep propensity, sleep structure, electroencephalographic slow waves, and sleep spindle activity in humans. The Journal of Neuroscience, 15(5), 3526-3538.
+- [3]. Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
+- [4]. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(10), 755-765.
+- [5]. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences, 12(1), 7-12.
+- [6]. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
+
+</details>
+
 
 
 
@@ -155,17 +167,17 @@ Ri - ритмичность процессов
 
 #### 3.1. Временная перспектива
 
-Компонент временной перспективы V(t) в рамках параметра темпоральных характеристик T(t) теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) отражает субъективное восприятие и ориентацию человека на прошлое, настоящее и будущее. Этот аспект временной организации психических процессов оказывает существенное влияние на планирование, принятие решений и интеграцию опыта.
+Компонент временной перспективы V(t) в рамках параметра темпоральных характеристик T(t) теории ЭИРО отражает субъективное восприятие и ориентацию человека на прошлое, настоящее и будущее. Этот аспект временной организации психических процессов оказывает существенное влияние на планирование, принятие решений и интеграцию опыта.
 
 Математически временная перспектива может быть представлена следующим образом:
 
-`V(t) = Fp + Pr + Fu`
+$V(t) = F_p + P_r + F_u$
 
-Где:
+где:
 
-- Fp - ориентация на прошлое
-- Pr - ориентация на настоящее 
-- Fu - ориентация на будущее
+- $F_p$ - ориентация на прошлое
+- $P_r$ - ориентация на настоящее 
+- $F_u$ - ориентация на будущее
 
 Согласно модели временной перспективы Зимбардо [1], индивидуальные различия в балансе этих трех компонентов определяют, как человек воспринимает и интерпретирует течение времени, что влияет на его когнитивные, эмоциональные и поведенческие паттерны.
 
@@ -175,122 +187,141 @@ Ri - ритмичность процессов
 
 Таким образом, временная перспектива V(t) как компонент темпоральных характеристик T(t) в теории ЭИРО отражает фундаментальные аспекты субъективного восприятия времени, планирования и интеграции опыта, оказывающие ключевое влияние на когнитивные процессы и сознательный опыт.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-1. Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid, reliable individual-differences metric. Journal of Personality and Social Psychology, 77(6), 1271-1288.
-2. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(10), 755-765.
-3. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. Trends in Cognitive Sciences, 20(7), 512-534.
-4. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
+- [1]. Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid, reliable individual-differences metric. Journal of Personality and Social Psychology, 77(6), 1271-1288.
+- [2]. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(10), 755-765.
+- [3]. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. Trends in Cognitive Sciences, 20(7), 512-534.
+- [4]. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
+
+</details>
+
 
 
 #### 3.2. Скоростные характеристики
 
-Скоростные характеристики являются важным компонентом темпоральных характеристик T(t) в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО). Они отражают эффективность когнитивных процессов, связанных с обработкой информации и принятием решений.
+Скоростные характеристики являются важным компонентом темпоральных характеристик T(t) в рамках теории ЭИРО. Они отражают эффективность когнитивных процессов, связанных с обработкой информации и принятием решений.
 
-**3.2.1. Латентность реакции**
+##### 3.2.1. Латентность реакции
 
 Латентность реакции характеризует время, необходимое для обработки стимула и выдачи ответа. Она отражает скорость сенсорно-перцептивных, когнитивных и моторных процессов. Низкая латентность реакции свидетельствует об эффективной обработке информации и быстроте реагирования [5, 6].
 
 Математически латентность реакции можно представить как:
 
-`P(t) = Δt`
+$P(t) = \Delta t$
 
-где Δt - время между предъявлением стимула и ответом испытуемого.
+где $\Delta t$ - время между предъявлением стимула и ответом испытуемого.
 
-**3.2.2. Темп деятельности**
+##### 3.2.2. Темп деятельности
 
 Темп деятельности характеризует скорость выполнения когнитивных и моторных задач. Он отражает способность поддерживать высокий уровень активности и производительности в течение определенного времени. Высокий темп деятельности свидетельствует об эффективности обработки информации и переключения между задачами [2, 7].
 
 Темп деятельности можно рассчитать как:
 
-`P(t) = I / Δt`
+$P(t) = \frac{I}{\Delta t}$
 
-где I - объем выполненной работы, Δt - затраченное время.
+где $I$ - объем выполненной работы, $\Delta t$ - затраченное время.
 
-**3.2.3. Скорость принятия решений**
+##### 3.2.3. Скорость принятия решений
 
 Скорость принятия решений характеризует время, необходимое для выбора оптимального варианта действия на основе имеющейся информации. Она отражает эффективность процессов оценки альтернатив, прогнозирования последствий и выбора ответа. Высокая скорость принятия решений свидетельствует об оперативности когнитивных процессов [6, 8].
 
 Скорость принятия решений можно представить как:
 
-`P(t) = 1 / Δt`
+$P(t) = \frac{1}{\Delta t}$
 
-где Δt - время, затраченное на принятие решения.
+где $\Delta t$ - время, затраченное на принятие решения.
 
 Скоростные характеристики, такие как латентность реакции, темп деятельности и скорость принятия решений, являются важными показателями эффективности когнитивных процессов. Они оказывают существенное влияние на процессы интеграции информации и рекуррентной обработки, лежащие в основе формирования сознательного опыта согласно теории ЭИРО.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-5. Van Wassenhove, V. (2009). Minding time in an amodal representational space. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1525), 1815-1830.
-6. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences, 12(1), 7-12.
-2. Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
-7. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
-8. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
+- [5]. Van Wassenhove, V. (2009). Minding time in an amodal representational space. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1525), 1815-1830.
+- [6]. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences, 12(1), 7-12.
+- [2]. Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
+- [7]. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
+- [8]. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
+
+</details>
+
 
 
 
 #### 3.3. Биологические ритмы
 
-Биологические ритмы играют ключевую роль в модуляции темпоральных характеристик T(t) в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО). Данные ритмические процессы синхронизируют физиологические и психические функции организма с циклическими изменениями во внешней среде, обеспечивая адаптацию к динамичным условиям.
+Биологические ритмы играют ключевую роль в модуляции темпоральных характеристик T(t) в рамках теории ЭИРО. Данные ритмические процессы синхронизируют физиологические и психические функции организма с циклическими изменениями во внешней среде, обеспечивая адаптацию к динамичным условиям.
 
-**3.3.1. Циркадные ритмы**
+##### 3.3.1. Циркадные ритмы
 
 Циркадные ритмы - это эндогенные колебания с периодом около 24 часов, регулирующие множество физиологических и поведенческих процессов, таких как сон-бодрствование, температура тела, секреция гормонов и когнитивная активность [3, 4]. Они генерируются супрахиазматическим ядром гипоталамуса, "биологическими часами" организма, и синхронизируются с суточными циклами окружающей среды.
 
 Математически циркадные ритмы могут быть описаны следующим образом:
 
-`R(t) = A × sin(2πt/T + φ)`
+$R(t) = A \cdot sin(2\pi t / T + \phi)$
 
 Где:
 
-- A - амплитуда ритма
-- T - период (около 24 часов)
-- φ - фазовый сдвиг
+- $A$ - амплитуда ритма
+- $T$ - период (около 24 часов)
+- $\phi$ - фазовый сдвиг
 
 Нарушения циркадных ритмов, например, при десинхронизации с внешними циклами (jet lag, сменная работа), могут приводить к снижению когнитивных функций, ухудшению настроения и нарушению процессов интеграции информации, отраженных в теории ЭИРО.
 
-**3.3.2. Ультрадианные ритмы**
+##### 3.3.2. Ультрадианные ритмы
 
 Ультрадианные ритмы - это биологические колебания с периодом менее 24 часов, такие как ритмы сна (циклы REM и NREM), секреции гормонов и физиологических функций. Данные ритмы оказывают влияние на кратковременные изменения в когнитивной продуктивности, эмоциональном состоянии и процессах внимания [5, 6].
 
 Математическая модель ультрадианных ритмов:
 
-`R(t) = Σ Ai × sin(2πt/Ti + φi)`
+$R(t) = \sum A_i \cdot \sin\left(2\pi \frac{t}{T_i} + \phi_i\right)$
 
 Где:
 
-- Ai - амплитуда отдельных ритмов
-- Ti - периоды ультрадианных колебаний (от 90 до 120 минут)
-- φi - фазовые сдвиги
+- $A_i$ - амплитуда отдельных ритмов
+- $T_i$ - периоды ультрадианных колебаний (от 90 до 120 минут)
+- $\phi_i$ - фазовые сдвиги
+
 
 Синхронизация когнитивных процессов с ультрадианными ритмами является важным аспектом темпоральной организации сознательного опыта в рамках теории ЭИРО.
 
-**3.3.3. Инфрадианные ритмы**
+
+
+
+
+
+
+##### 3.3.3. Инфрадианные ритмы
 
 Инфрадианные ритмы - биологические колебания с периодом более 24 часов, включая менструальные, сезонные и годовые циклы. Данные ритмы связаны с более медленными физиологическими и психологическими изменениями, влияющими на настроение, активность и когнитивные функции [7, 8].
 
 Математическое описание инфрадианных ритмов:
 
-`R(t) = Σ Ai × sin(2πt/Ti + φi)`
+$R(t) = \sum A_i \cdot \sin\left(2\pi \frac{t}{T_i} + \phi_i\right)$
 
 Где:
 
-- Ai - амплитуда отдельных инфрадианных ритмов
-- Ti - периоды колебаний (от 28 дней до 1 года)
-- φi - фазовые сдвиги
+- $A_i$ - амплитуда отдельных инфрадианных ритмов
+- $T_i$ - периоды колебаний (от 28 дней до 1 года)
+- $\phi_i$ - фазовые сдвиги
 
 Нарушения инфрадианных ритмов, например, при сезонных аффективных расстройствах, могут оказывать значительное влияние на процессы интеграции информации и рекуррентной обработки, лежащие в основе теории ЭИРО.
 
 Таким образом, биологические ритмы различных диапазонов (циркадные, ультрадианные, инфрадианные) являются важным компонентом темпоральных характеристик T(t) в рамках теории Эмергентной Интеграции и Рекуррентного Отображения, модулируя физиологические и психические процессы, определяющие формирование сознательного опыта.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-3. Czeisler, C. A., & Klerman, E. B. (1999). Circadian and sleep-dependent regulation of hormone release in humans. Recent Progress in Hormone Research, 54, 97-130.
-4. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(10), 755-765.
-5. Van Wassenhove, V. (2009). Minding time in an amodal representational space. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1525), 1815-1830.
-6. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences, 12(1), 7-12.
-7. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
-8. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
+- [3]. Czeisler, C. A., & Klerman, E. B. (1999). Circadian and sleep-dependent regulation of hormone release in humans. Recent Progress in Hormone Research, 54, 97-130.
+- [4]. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(10), 755-765.
+- [5]. Van Wassenhove, V. (2009). Minding time in an amodal representational space. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1525), 1815-1830.
+- [6]. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences, 12(1), 7-12.
+- [7]. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
+- [8]. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
+
+</details>
+
 
 
 
@@ -298,51 +329,53 @@ Ri - ритмичность процессов
 
 #### 4.1.  Нейронные системы, участвующие в формировании темпоральных характеристик
 
-Согласно современным нейробиологическим исследованиям, формирование темпоральных характеристик T(t) в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) связано с функционированием ряда ключевых нейронных структур мозга.
+Согласно современным нейробиологическим исследованиям, формирование темпоральных характеристик T(t) в рамках теории ЭИРО связано с функционированием ряда ключевых нейронных структур мозга.
 
-**4.1.1. Супрахиазматическое ядро**
+##### 4.1.1. Супрахиазматическое ядро
 
 Супрахиазматическое ядро (СХЯ) гипоталамуса является центральным "биологическим часами" организма, генерирующим эндогенные циркадные ритмы с периодом около 24 часов [1, 2]. Нейроны СХЯ демонстрируют самоподдерживающиеся колебания активности, синхронизируя физиологические и поведенческие процессы с суточными циклами окружающей среды. Повреждения или дисфункция СХЯ приводят к нарушениям циркадных ритмов, что оказывает негативное влияние на темпоральные характеристики T(t), в частности, на ритмичность R(t).
 
-**4.1.2. Префронтальная кора**
+##### 4.1.2. Префронтальная кора
 
 Префронтальная кора (ПФК) играет ключевую роль в формировании временной перспективы V(t) и скоростных характеристик P(t) темпоральных параметров T(t) [3, 4]. Дорсолатеральные отделы ПФК участвуют в планировании, целеполагании и принятии решений, определяя ориентацию человека на прошлое, настоящее или будущее. Вентромедиальные области ПФК связаны с оценкой вознаграждений и временных интервалов, влияя на скорость когнитивных процессов.
 
-**4.1.3. Гиппокамп**
+##### 4.1.3. Гиппокамп
 
 Гиппокамп вносит важный вклад в формирование темпоральных характеристик T(t) за счет своей роли в эпизодической памяти и пространственно-временной обработке информации [5, 6]. Нейроны гиппокампа демонстрируют активность, связанную с кодированием и воспроизведением временных последовательностей событий, что влияет на временную перспективу V(t) и интеграцию опыта в рамках теории ЭИРО.
 
-**4.1.4. Базальные ганглии**
+##### 4.1.4. Базальные ганглии
 
 Базальные ганглии, включающие структуры, такие как стриатум и бледный шар, участвуют в регуляции темпа и ритма моторных и когнитивных процессов, формируя скоростные характеристики P(t) и ритмичность R(t) темпоральных параметров [7, 8]. Нарушения в функционировании базальных ганглий приводят к расстройствам восприятия времени и нарушениям темпоральной организации поведения.
 
-Таким образом, ключевые нейронные структуры, включая супрахиазматическое ядро, префронтальную кору, гиппокамп и базальные ганглии, образуют функциональную нейробиологическую основу для формирования темпоральных характеристик T(t), лежащих в основе сознательного опыта согласно теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО).
+Таким образом, ключевые нейронные структуры, включая супрахиазматическое ядро, префронтальную кору, гиппокамп и базальные ганглии, образуют функциональную нейробиологическую основу для формирования темпоральных характеристик T(t), лежащих в основе сознательного опыта согласно теории ЭИРО.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-1. Czeisler, C. A., & Klerman, E. B. (1999). Circadian and sleep-dependent regulation of hormone release in humans. Recent Progress in Hormone Research, 54, 97-130.
-2. Dijk, D. J., & Czeisler, C. A. (1995). Contribution of the circadian pacemaker and the sleep homeostat to sleep propensity, sleep structure, electroencephalographic slow waves, and sleep spindle activity in humans. The Journal of Neuroscience, 15(5), 3526-3538.
-3. Miller, E. K., & Cohen, J. D. (2001). An integrative theory of prefrontal cortex function. Annual Review of Neuroscience, 24, 167-202.
-4. Fuster, J. M. (2001). The prefrontal cortex—an update: time is of the essence. Neuron, 30(2), 319-333.
-5. Eichenbaum, H. (2014). Time cells in the hippocampus: a new dimension for mapping memories. Nature Reviews Neuroscience, 15(11), 732-744.
-6. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. Trends in Cognitive Sciences, 20(7), 512-534.
-7. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
-8. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
+- [1]. Czeisler, C. A., & Klerman, E. B. (1999). Circadian and sleep-dependent regulation of hormone release in humans. Recent Progress in Hormone Research, 54, 97-130.
+- [2]. Dijk, D. J., & Czeisler, C. A. (1995). Contribution of the circadian pacemaker and the sleep homeostat to sleep propensity, sleep structure, electroencephalographic slow waves, and sleep spindle activity in humans. The Journal of Neuroscience, 15(5), 3526-3538.
+- [3]. Miller, E. K., & Cohen, J. D. (2001). An integrative theory of prefrontal cortex function. Annual Review of Neuroscience, 24, 167-202.
+- [4]. Fuster, J. M. (2001). The prefrontal cortex—an update: time is of the essence. Neuron, 30(2), 319-333.
+- [5]. Eichenbaum, H. (2014). Time cells in the hippocampus: a new dimension for mapping memories. Nature Reviews Neuroscience, 15(11), 732-744.
+- [6]. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. Trends in Cognitive Sciences, 20(7), 512-534.
+- [7]. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
+- [8]. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
 
+</details>
 
 
 #### 4.2. Нейромедиаторные системы
 
-Нейромедиаторные системы играют ключевую роль в модуляции темпоральных характеристик T(t) в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО). Математически, влияние нейромедиаторов на параметр T(t) может быть представлено следующим образом:
+Нейромедиаторные системы играют ключевую роль в модуляции темпоральных характеристик $T(t)$ в рамках теории ЭИРО. Математически, влияние нейромедиаторов на параметр $T(t)$ может быть представлено следующим образом:
 
-`NT(t) = (5-HT × DA × GABA) / GLU`
+$NT(t) = \frac{(5\text{-HT} \cdot DA \cdot GABA)}{GLU}$
 
 Где:
 
-- 5-HT - серотонин
-- DA - дофамин 
-- GABA - гамма-аминомасляная кислота
-- GLU - глутамат
+- $5\text{-HT}$ - серотонин
+- $DA$ - дофамин 
+- $GABA$ - гамма-аминомасляная кислота
+- $GLU$ - глутамат
 
 Данная формула отражает, что баланс между основными нейромедиаторными системами оказывает модулирующее влияние на темпоральные характеристики, определяющие формирование сознательного опыта в рамках теории ЭИРО.
 
@@ -362,33 +395,37 @@ Ri - ритмичность процессов
 
 Глутамат, основной возбуждающий нейромедиатор, участвует в регуляции скорости обработки информации и синаптической пластичности, связанной с темпоральными аспектами когнитивной деятельности [7, 8]. Дисбаланс глутаматергической передачи может отражаться на параметре P(t) в формуле T(t).
 
-Таким образом, баланс между основными нейромедиаторными системами, отраженный в математическом выражении NT(t), оказывает комплексное модулирующее влияние на темпоральные характеристики, лежащие в основе формирования сознательного опыта согласно теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО).
+Таким образом, баланс между основными нейромедиаторными системами, отраженный в математическом выражении NT(t), оказывает комплексное модулирующее влияние на темпоральные характеристики, лежащие в основе формирования сознательного опыта согласно теории ЭИРО.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-1. Olivier, B. (2015). Serotonin: a never-ending story. European journal of pharmacology, 753, 2-18.
-2. Owens, M. J., & Nemeroff, C. B. (1994). Role of serotonin in the pathophysiology of depression: focus on the serotonin transporter. Clinical chemistry, 40(2), 288-295.
-3. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
-4. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
-5. Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
-6. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(10), 755-765.
-7. Hasselmo, M. E. (1999). Neuromodulation: acetylcholine and memory consolidation. Trends in cognitive sciences, 3(9), 351-359.
-8. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
+- [1]. Olivier, B. (2015). Serotonin: a never-ending story. European journal of pharmacology, 753, 2-18.
+- [2]. Owens, M. J., & Nemeroff, C. B. (1994). Role of serotonin in the pathophysiology of depression: focus on the serotonin transporter. Clinical chemistry, 40(2), 288-295.
+- [3]. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
+- [4]. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
+- [5]. Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
+- [6]. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(10), 755-765.
+- [7]. Hasselmo, M. E. (1999). Neuromodulation: acetylcholine and memory consolidation. Trends in cognitive sciences, 3(9), 351-359.
+- [8]. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
+
+
+</details>
 
 
 
 #### 4.3. Осцилляторные процессы
 
-Ритмические колебания нейронной активности, или мозговые ритмы, играют ключевую роль в темпоральной организации психических процессов в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО). Эти осцилляторные процессы можно математически представить в виде:
+Ритмические колебания нейронной активности, или мозговые ритмы, играют ключевую роль в темпоральной организации психических процессов в рамках теории ЭИРО. Эти осцилляторные процессы можно математически представить в виде:
 
-`O(t) = Σ(αi × βi × γi × θi)`
+$O(t) = \sum (\alpha_i \cdot \beta_i \cdot \gamma_i \cdot \theta_i)$
 
 Где:
 
-- α - альфа-ритм (8-13 Гц)
-- β - бета-ритм (13-30 Гц) 
-- γ - гамма-ритм (30-100 Гц)
-- θ - тета-ритм (4-8 Гц)
+- $\alpha$ - альфа-ритм (8-13 Гц)
+- $\beta$ - бета-ритм (13-30 Гц) 
+- $\gamma$ - гамма-ритм (30-100 Гц)
+- $\theta$ - тета-ритм (4-8 Гц)
 
 Данные ритмические компоненты отражают синхронизацию активности нейронных популяций на различных частотах, что оказывает существенное влияние на процессы интеграции информации и рекуррентной обработки, лежащие в основе формирования сознательного опыта согласно теории ЭИРО.
 
@@ -396,16 +433,20 @@ Ri - ритмичность процессов
 
 Взаимодействие и синхронизация этих различных ритмических компонентов O(t) обеспечивает темпоральную координацию нейронных процессов, что критически важно для эффективной интеграции информации и рекуррентной обработки в рамках теории ЭИРО. Нарушения в ритмической активности мозга могут приводить к искажениям сознательного опыта, наблюдаемым при различных психических расстройствах.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-9. Klimesch, W. (1999). EEG alpha and theta oscillations reflect cognitive and memory performance: a review and analysis. Brain research reviews, 29(2-3), 169-195.
-10. Jensen, O., & Mazaheri, A. (2010). Shaping functional architecture by oscillatory alpha activity: gating by inhibition. Frontiers in human neuroscience, 4, 186.
-11. Engel, A. K., & Fries, P. (2010). Beta-band oscillations—signalling the status quo?. Current opinion in neurobiology, 20(2), 156-165.
-12. Bressler, S. L., & Richter, C. G. (2015). Interareal oscillatory synchronization in top-down neocortical processing. Current opinion in neurobiology, 31, 62-66.
-13. Fries, P. (2009). Neuronal gamma-band synchronization as a fundamental process in cortical computation. Annual review of neuroscience, 32, 209-224.
-14. Tallon-Baudry, C., & Bertrand, O. (1999). Oscillatory gamma activity in humans and its role in object representation. Trends in cognitive sciences, 3(4), 151-162.
-15. Hasselmo, M. E., & Stern, C. E. (2014). Theta rhythm and the encoding and retrieval of space and time. Neuroimage, 85, 656-666.
-16. Fuentemilla, L., Penny, W. D., Cashdollar, N., Bunzeck, N., & Düzel, E. (2010). Theta-coupled periodic replay in working memory. Current Biology, 20(7), 606-612.
+- [9]. Klimesch, W. (1999). EEG alpha and theta oscillations reflect cognitive and memory performance: a review and analysis. Brain research reviews, 29(2-3), 169-195.
+- [10]. Jensen, O., & Mazaheri, A. (2010). Shaping functional architecture by oscillatory alpha activity: gating by inhibition. Frontiers in human neuroscience, 4, 186.
+- [11]. Engel, A. K., & Fries, P. (2010). Beta-band oscillations—signalling the status quo?. Current opinion in neurobiology, 20(2), 156-165.
+- [12]. Bressler, S. L., & Richter, C. G. (2015). Interareal oscillatory synchronization in top-down neocortical processing. Current opinion in neurobiology, 31, 62-66.
+- [13]. Fries, P. (2009). Neuronal gamma-band synchronization as a fundamental process in cortical computation. Annual review of neuroscience, 32, 209-224.
+- [14]. Tallon-Baudry, C., & Bertrand, O. (1999). Oscillatory gamma activity in humans and its role in object representation. Trends in cognitive sciences, 3(4), 151-162.
+- [15]. Hasselmo, M. E., & Stern, C. E. (2014). Theta rhythm and the encoding and retrieval of space and time. Neuroimage, 85, 656-666.
+- [16]. Fuentemilla, L., Penny, W. D., Cashdollar, N., Bunzeck, N., & Düzel, E. (2010). Theta-coupled periodic replay in working memory. Current Biology, 20(7), 606-612.
+
+</details>
+
 
 
 
@@ -414,9 +455,9 @@ Ri - ритмичность процессов
 
 #### 5.1. Психофизиологические методы
 
-Для измерения темпоральных характеристик T(t) в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) могут быть использованы следующие психофизиологические методы:
+Для измерения темпоральных характеристик T(t) в рамках теории ЭИРО могут быть использованы следующие психофизиологические методы:
 
-**5.1.1. ЭЭГ-картирование**
+##### 5.1.1. ЭЭГ-картирование
 
 Электроэнцефалография (ЭЭГ) позволяет регистрировать электрическую активность мозга с высоким временным разрешением, что дает возможность исследовать ритмические процессы, связанные с темпоральными характеристиками [1, 2]. 
 
@@ -428,7 +469,7 @@ Ri - ритмичность процессов
 
 Данные ЭЭГ-картирования позволяют получить детальную информацию о нейрофизиологических механизмах, лежащих в основе темпоральных аспектов сознательного опыта в рамках теории ЭИРО.
 
-**5.1.2. Вызванные потенциалы**
+##### 5.1.2. Вызванные потенциалы
 
 Анализ вызванных потенциалов (ВП) дает возможность исследовать временные характеристики когнитивных процессов с высоким временным разрешением [5, 6]. Различные компоненты ВП (P1, N1, P3) отражают специфические этапы обработки информации и могут быть связаны с параметрами T(t) теории ЭИРО:
 
@@ -438,7 +479,7 @@ Ri - ритмичность процессов
 
 Таким образом, исследование вызванных потенциалов дает возможность оценить темпоральные аспекты сенсорно-перцептивной и когнитивной обработки информации в контексте теории ЭИРО.
 
-**5.1.3. Вариабельность сердечного ритма**
+##### 5.1.3. Вариабельность сердечного ритма
 
 Анализ вариабельности сердечного ритма (ВСР) позволяет косвенно судить о состоянии автономной нервной системы и ее влиянии на темпоральные характеристики [7, 8]. Показатели ВСР, такие как:
 
@@ -450,24 +491,28 @@ Ri - ритмичность процессов
 
 Комплексное использование ЭЭГ-картирования, анализа вызванных потенциалов и оценки вариабельности сердечного ритма позволяет получить всестороннюю информацию о нейрофизиологических механизмах, лежащих в основе темпоральных характеристик T(t) в рамках теории Эмергентной Интеграции и Рекуррентного Отображения.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-1. Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
-2. Klimesch, W. (1999). EEG alpha and theta oscillations reflect cognitive and memory performance: a review and analysis. Brain research reviews, 29(2-3), 169-195.
-3. Fries, P. (2015). Rhythms for Cognition: Communication through Coherence. Neuron, 88(1), 220-235.
-4. Womelsdorf, T., & Fries, P. (2007). The role of neuronal synchronization in selective attention. Current opinion in neurobiology, 17(2), 154-160.
-5. Luck, S. J. (2014). An introduction to the event-related potential technique. MIT press.
-6. Hillyard, S. A., Vogel, E. K., & Luck, S. J. (1998). Sensory gain control (amplification) as a mechanism of selective attention: electrophysiological and neuroimaging evidence. Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences, 353(1373), 1257-1270.
-7. Berntson, G. G., Bigger, J. T., Eckberg, D. L., Grossman, P., Kaufmann, P. G., Malik, M., ... & van der Molen, M. W. (1997). Heart rate variability: origins, methods, and interpretive caveats. Psychophysiology, 34(6), 623-648.
-8. Shaffer, F., & Ginsberg, J. P. (2017). An overview of heart rate variability metrics and norms. Frontiers in public health, 5, 258.
+- [1]. Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
+- [2]. Klimesch, W. (1999). EEG alpha and theta oscillations reflect cognitive and memory performance: a review and analysis. Brain research reviews, 29(2-3), 169-195.
+- [3]. Fries, P. (2015). Rhythms for Cognition: Communication through Coherence. Neuron, 88(1), 220-235.
+- [4]. Womelsdorf, T., & Fries, P. (2007). The role of neuronal synchronization in selective attention. Current opinion in neurobiology, 17(2), 154-160.
+- [5]. Luck, S. J. (2014). An introduction to the event-related potential technique. MIT press.
+- [6]. Hillyard, S. A., Vogel, E. K., & Luck, S. J. (1998). Sensory gain control (amplification) as a mechanism of selective attention: electrophysiological and neuroimaging evidence. Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences, 353(1373), 1257-1270.
+- [7]. Berntson, G. G., Bigger, J. T., Eckberg, D. L., Grossman, P., Kaufmann, P. G., Malik, M., ... & van der Molen, M. W. (1997). Heart rate variability: origins, methods, and interpretive caveats. Psychophysiology, 34(6), 623-648.
+- [8]. Shaffer, F., & Ginsberg, J. P. (2017). An overview of heart rate variability metrics and norms. Frontiers in public health, 5, 258.
+
+</details>
+
 
 
 
 #### 5.2. Поведенческие тесты
 
-Для оценки темпоральных характеристик T(t) в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) широко применяются различные поведенческие тесты.
+Для оценки темпоральных характеристик T(t) в контексте теории ЭИРО широко применяются различные поведенческие тесты.
 
-**5.2.1. Тест временной перспективы Зимбардо**
+##### 5.2.1. Тест временной перспективы Зимбардо
 
 Тест временной перспективы Зимбардо (Zimbardo Time Perspective Inventory, ZTPI) является одним из наиболее распространенных методов оценки компонента временной перспективы V(t) в рамках темпоральных характеристик T(t) [1]. 
 
@@ -483,7 +528,7 @@ Ri - ритмичность процессов
 
 Применение ZTPI позволяет исследовать, как различные профили временной перспективы влияют на когнитивные процессы, принятие решений и формирование сознательного опыта в рамках теории ЭИРО.
 
-**5.2.2. Тест критической частоты слияния мельканий**
+##### 5.2.2. Тест критической частоты слияния мельканий
 
 Тест критической частоты слияния мельканий (Critical Flicker Fusion Threshold, CFF) используется для оценки скоростных характеристик P(t) темпоральных параметров T(t) [2].
 
@@ -493,7 +538,7 @@ Ri - ритмичность процессов
 
 Более высокие значения CFF свидетельствуют о более быстрой обработке информации и, следовательно, более высоких значениях параметра P(t) темпоральных характеристик.
 
-**5.2.3. Тест на оценку временных интервалов**
+##### 5.2.3. Тест на оценку временных интервалов
 
 Тесты на оценку временных интервалов позволяют измерять способность человека воспринимать и оценивать длительность различных временных промежутков [3, 4]. Данные методики являются важным инструментом для изучения ритмичности R(t) как компонента темпоральных характеристик T(t) в теории ЭИРО.
 
@@ -503,19 +548,23 @@ Ri - ритмичность процессов
 
 Применение данных поведенческих методик в контексте теории ЭИРО позволяет получить комплексную оценку темпоральных характеристик T(t) и их влияния на процессы интеграции информации и рекуррентной обработки, лежащие в основе формирования сознательного опыта.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-1. Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid, reliable individual-differences metric. Journal of Personality and Social Psychology, 77(6), 1271-1288.
-2. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences, 12(1), 7-12.
-3. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(10), 755-765.
-4. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
+- [1]. Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid, reliable individual-differences metric. Journal of Personality and Social Psychology, 77(6), 1271-1288.
+- [2]. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences, 12(1), 7-12.
+- [3]. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(10), 755-765.
+- [4]. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
+
+</details>
+
 
 
 #### 5.3. Нейровизуализационные методы
 
-Нейровизуализационные методы играют ключевую роль в исследовании нейробиологических механизмов, лежащих в основе темпоральных характеристик T(t) в рамках теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО). Данные подходы позволяют получить пространственно-временную картину активации мозговых структур, связанных с различными аспектами восприятия и обработки временной информации.
+Нейровизуализационные методы играют ключевую роль в исследовании нейробиологических механизмов, лежащих в основе темпоральных характеристик T(t) в рамках теории ЭИРО. Данные подходы позволяют получить пространственно-временную картину активации мозговых структур, связанных с различными аспектами восприятия и обработки временной информации.
 
-**5.3.1. Функциональная магнитно-резонансная томография (фМРТ)**
+##### 5.3.1. Функциональная магнитно-резонансная томография (фМРТ)
 
 Функциональная МРТ является мощным инструментом для изучения пространственной локализации и динамики активности мозговых областей, вовлеченных в процессы временной обработки. Данный метод основан на регистрации изменений в кровотоке и оксигенации крови, отражающих нейрональную активность [9, 10].
 
@@ -527,7 +576,7 @@ Ri - ритмичность процессов
 
 Данные фМРТ-исследований позволяют верифицировать математические модели, описывающие компоненты темпоральных характеристик T(t) в рамках теории ЭИРО.
 
-**5.3.2. Магнитоэнцефалография (МЭГ)**
+##### 5.3.2. Магнитоэнцефалография (МЭГ)
 
 Магнитоэнцефалография обеспечивает высокое временное разрешение при регистрации магнитных полей, генерируемых нейрональной активностью. Данный метод дает возможность:
 
@@ -537,7 +586,7 @@ Ri - ритмичность процессов
 
 Данные МЭГ-исследований позволяют дополнить пространственную информацию, полученную с помощью фМРТ, временной динамикой нейрональных процессов, лежащих в основе темпоральных характеристик T(t) в теории ЭИРО.
 
-**5.3.3. Позитронно-эмиссионная томография (ПЭТ)**
+##### 5.3.3. Позитронно-эмиссионная томография (ПЭТ)
 
 Позитронно-эмиссионная томография дает возможность исследовать метаболические и нейрохимические аспекты темпоральной обработки. Данный метод позволяет:
 
@@ -547,35 +596,39 @@ Ri - ритмичность процессов
 
 Комплексное использование методов нейровизуализации, таких как фМРТ, МЭГ и ПЭТ, позволяет получить всестороннее представление о нейробиологических механизмах, лежащих в основе темпоральных характеристик, и их роли в процессах интеграции информации и рекуррентной обработки, описываемых теорией Эмергентной Интеграции и Рекуррентного Отображения.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-9. Logothetis, N. K. (2008). What we can do and what we cannot do with fMRI. Nature, 453(7197), 869-878.
-10. Huettel, S. A., Song, A. W., & McCarthy, G. (2004). Functional magnetic resonance imaging (Vol. 1). Sunderland: Sinauer Associates.
-11. Rao, S. M., Mayer, A. R., & Harrington, D. L. (2001). The evolution of brain activation during temporal processing. Nature neuroscience, 4(3), 317-323.
-12. Coull, J. T., Vidal, F., Nazarian, B., & Macar, F. (2004). Functional anatomy of the attentional modulation of time estimation. Science, 303(5663), 1506-1508.
-13. Luce, R. D. (1986). Response times: Their role in inferring elementary mental organization (No. 8). Oxford University Press on Demand.
-14. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in cognitive sciences, 12(1), 7-12.
-15. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature reviews neuroscience, 6(10), 755-765.
-16. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual review of neuroscience, 36, 313-336.
-17. Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
-18. Klimesch, W. (1999). EEG alpha and theta oscillations reflect cognitive and memory performance: a review and analysis. Brain research reviews, 29(2-3), 169-195.
-19. Fries, P. (2015). Rhythms for Cognition: Communication through Coherence. Neuron, 88(1), 220-235.
-20. Womelsdorf, T., & Fries, P. (2007). The role of neuronal synchronization in selective attention. Current opinion in neurobiology, 17(2), 154-160.
-21. Macar, F., Lejeune, H., Bonnet, M., Ferrara, A., Pouthas, V., Vidal, F., & Maquet, P. (2002). Activation of the supplementary motor area and of attentional networks during temporal processing. Experimental brain research, 142(4), 475-485.
-22. Coull, J. T., Cheng, R. K., & Meck, W. H. (2011). Neuroanatomical and neurochemical substrates of timing. Neuropsychopharmacology, 36(1), 3-25.
-23. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
-24. Meck, W. H., Cheng, R. K., MacDonald, C. J., Gainetdinov, R. R., Caron, M. G., & Cevik, M. Ö. (2012). Gene-dose dependent effects of methamphetamine on interval timing in dopamine-transporter knockout mice. Neuropharmacology, 62(3), 1221-1229.
-25. Drijvers, L., Bachman, C., Santens, P., & Van Wassenhove, V. (2015). Electrophysiological correlates of time estimation and motor preparation in Parkinson's disease. Cortex, 71, 322-331.
-26. Rubia, K., Overmeyer, S., Taylor, E., Brammer, M., Williams, S. C., Simmons, A., & Bullmore, E. T. (1998). Prefrontal involvement in "temporal bridging" and timing movement. Neuropsychologia, 36(12), 1283-1293.
+- [9]. Logothetis, N. K. (2008). What we can do and what we cannot do with fMRI. Nature, 453(7197), 869-878.
+- [10]. Huettel, S. A., Song, A. W., & McCarthy, G. (2004). Functional magnetic resonance imaging (Vol. 1). Sunderland: Sinauer Associates.
+- [11]. Rao, S. M., Mayer, A. R., & Harrington, D. L. (2001). The evolution of brain activation during temporal processing. Nature neuroscience, 4(3), 317-323.
+- [12]. Coull, J. T., Vidal, F., Nazarian, B., & Macar, F. (2004). Functional anatomy of the attentional modulation of time estimation. Science, 303(5663), 1506-1508.
+- [13]. Luce, R. D. (1986). Response times: Their role in inferring elementary mental organization (No. 8). Oxford University Press on Demand.
+- [14]. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in cognitive sciences, 12(1), 7-12.
+- [15]. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature reviews neuroscience, 6(10), 755-765.
+- [16]. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual review of neuroscience, 36, 313-336.
+- [17]. Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
+- [18]. Klimesch, W. (1999). EEG alpha and theta oscillations reflect cognitive and memory performance: a review and analysis. Brain research reviews, 29(2-3), 169-195.
+- [19]. Fries, P. (2015). Rhythms for Cognition: Communication through Coherence. Neuron, 88(1), 220-235.
+- [20]. Womelsdorf, T., & Fries, P. (2007). The role of neuronal synchronization in selective attention. Current opinion in neurobiology, 17(2), 154-160.
+- [21]. Macar, F., Lejeune, H., Bonnet, M., Ferrara, A., Pouthas, V., Vidal, F., & Maquet, P. (2002). Activation of the supplementary motor area and of attentional networks during temporal processing. Experimental brain research, 142(4), 475-485.
+- [22]. Coull, J. T., Cheng, R. K., & Meck, W. H. (2011). Neuroanatomical and neurochemical substrates of timing. Neuropsychopharmacology, 36(1), 3-25.
+- [23]. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
+- [24]. Meck, W. H., Cheng, R. K., MacDonald, C. J., Gainetdinov, R. R., Caron, M. G., & Cevik, M. Ö. (2012). Gene-dose dependent effects of methamphetamine on interval timing in dopamine-transporter knockout mice. Neuropharmacology, 62(3), 1221-1229.
+- [25]. Drijvers, L., Bachman, C., Santens, P., & Van Wassenhove, V. (2015). Electrophysiological correlates of time estimation and motor preparation in Parkinson's disease. Cortex, 71, 322-331.
+- [26]. Rubia, K., Overmeyer, S., Taylor, E., Brammer, M., Williams, S. C., Simmons, A., & Bullmore, E. T. (1998). Prefrontal involvement in "temporal bridging" and timing movement. Neuropsychologia, 36(12), 1283-1293.
+
+</details>
+
 
 
 ### 6. Практическое применение
 
 #### 6.1. Клиническая практика
 
-Темпоральные характеристики T(t), включающие временную перспективу, скорость обработки информации и ритмичность, играют ключевую роль в формировании сознательного опыта согласно теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО). Данные параметры могут быть использованы в клинической практике для диагностики и коррекции различных нарушений.
+Темпоральные характеристики T(t), включающие временную перспективу, скорость обработки информации и ритмичность, играют ключевую роль в формировании сознательного опыта согласно теории ЭИРО. Данные параметры могут быть использованы в клинической практике для диагностики и коррекции различных нарушений.
 
-**6.1.1. Хронотерапия**
+##### 6.1.1. Хронотерапия
 
 Хронотерапия представляет собой подход, основанный на модуляции биологических ритмов для лечения психических и соматических расстройств. Данный метод заключается в синхронизации циркадных, ультрадианных и инфрадианных ритмов пациента с помощью различных воздействий, таких как:
 
@@ -586,7 +639,7 @@ Ri - ритмичность процессов
 
 Восстановление нарушенных биоритмов, отраженных в параметре ритмичности R(t) теории ЭИРО, способствует нормализации когнитивных функций, эмоционального состояния и процессов интеграции информации [3, 4].
 
-**6.1.2. Коррекция циркадных ритмов**
+##### 6.1.2. Коррекция циркадных ритмов
 
 Нарушения циркадных ритмов, такие как десинхронизация с внешними циклами (jet lag, сменная работа), могут приводить к снижению когнитивных способностей, ухудшению настроения и нарушению процессов интеграции информации, отраженных в теории ЭИРО. Коррекция циркадных ритмов с помощью:
 
@@ -596,7 +649,7 @@ Ri - ритмичность процессов
 
 позволяет восстановить нормальное функционирование организма и улучшить качество сознательного опыта [1, 3].
 
-**6.1.3. Оптимизация когнитивных функций**
+##### 6.1.3. Оптимизация когнитивных функций
 
 Темпоральные характеристики T(t), включающие скорость обработки информации P(t) и ритмичность R(t), оказывают существенное влияние на эффективность когнитивных процессов, таких как внимание, память и принятие решений. Оптимизация данных параметров с помощью:
 
@@ -608,14 +661,18 @@ Ri - ритмичность процессов
 
 Таким образом, применение подходов, основанных на модуляции темпоральных характеристик T(t), открывает новые возможности для диагностики, коррекции и оптимизации когнитивных функций в клинической практике.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-3. Czeisler, C. A., & Klerman, E. B. (1999). Circadian and sleep-dependent regulation of hormone release in humans. Recent Progress in Hormone Research, 54, 97-130.
-4. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(10), 755-765.
-1. Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid, reliable individual-differences metric. Journal of Personality and Social Psychology, 77(6), 1271-1288.
-2. Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
-5. Van Wassenhove, V. (2009). Minding time in an amodal representational space. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1525), 1815-1830.
-6. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences, 12(1), 7-12.
+- [3]. Czeisler, C. A., & Klerman, E. B. (1999). Circadian and sleep-dependent regulation of hormone release in humans. Recent Progress in Hormone Research, 54, 97-130.
+- [4]. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(10), 755-765.
+- [1]. Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid, reliable individual-differences metric. Journal of Personality and Social Psychology, 77(6), 1271-1288.
+- [2]. Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
+- [5]. Van Wassenhove, V. (2009). Minding time in an amodal representational space. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1525), 1815-1830.
+- [6]. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences, 12(1), 7-12.
+
+</details>
+
 
 
 #### 6.2. Образование
@@ -636,14 +693,18 @@ Ri - ритмичность процессов
 
 Таким образом, интеграция темпоральных характеристик T(t) в образовательную практику открывает новые возможности для повышения эффективности обучения за счет более рационального управления временем, оптимизации учебных графиков и индивидуализации темпа освоения материала.
 
-**Источники:**
+<details>
+<summary>Источники</summary>
 
-1. Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid, reliable individual-differences metric. Journal of Personality and Social Psychology, 77(6), 1271-1288.
-2. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(10), 755-765.
-3. Van Wassenhove, V. (2009). Minding time in an amodal representational space. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1525), 1815-1830.
-4. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences, 12(1), 7-12.
-5. Czeisler, C. A., & Klerman, E. B. (1999). Circadian and sleep-dependent regulation of hormone release in humans. Recent Progress in Hormone Research, 54, 97-130.
-6. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
+- [1]. Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid, reliable individual-differences metric. Journal of Personality and Social Psychology, 77(6), 1271-1288.
+- [2]. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(10), 755-765.
+- [3]. Van Wassenhove, V. (2009). Minding time in an amodal representational space. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1525), 1815-1830.
+- [4]. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences, 12(1), 7-12.
+- [5]. Czeisler, C. A., & Klerman, E. B. (1999). Circadian and sleep-dependent regulation of hormone release in humans. Recent Progress in Hormone Research, 54, 97-130.
+- [6]. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
+
+
+</details>
 
 
 
@@ -651,7 +712,7 @@ Ri - ритмичность процессов
 
 Темпоральные характеристики T(t), включающие временную перспективу, скорость обработки информации и ритмичность, играют ключевую роль в оптимизации профессиональной деятельности и повышении эффективности трудовых процессов.
 
-**6.3.1. Организация рабочих циклов**
+##### 6.3.1. Организация рабочих циклов
 
 Учет биологических ритмов, отраженных в компоненте ритмичности R(t) теории ЭИРО, позволяет организовывать рабочие циклы, синхронизированные с естественными колебаниями физиологических и когнитивных функций. Например:
 
@@ -661,7 +722,7 @@ Ri - ритмичность процессов
 
 Математическое моделирование биологических ритмов R(t) позволяет разрабатывать оптимальные графики работы, учитывающие индивидуальные особенности сотрудников и специфику профессиональной деятельности.
 
-**6.3.2. Профилактика утомления**
+##### 6.3.2. Профилактика утомления
 
 Скоростные характеристики P(t), отражающие эффективность когнитивных процессов, играют важную роль в предотвращении профессионального утомления и снижения производительности. Например:
 
@@ -671,7 +732,7 @@ Ri - ритмичность процессов
 
 Математическое моделирование скоростных параметров P(t) дает возможность разрабатывать индивидуальные программы профилактики утомления, учитывающие особенности когнитивных функций сотрудников.
 
-**6.3.3. Оптимизация производительности**
+##### 6.3.3. Оптимизация производительности
 
 Темпоральные характеристики T(t) оказывают существенное влияние на общую производительность и эффективность профессиональной деятельности. Например:
 
@@ -683,16 +744,20 @@ Ri - ритмичность процессов
 
 Таким образом, применение теории ЭИРО и, в частности, темпоральных характеристик T(t) в организации профессиональной деятельности открывает новые возможности для оптимизации рабочих циклов, профилактики утомления и повышения общей производительности.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-3. Czeisler, C. A., & Klerman, E. B. (1999). Circadian and sleep-dependent regulation of hormone release in humans. Recent Progress in Hormone Research, 54, 97-130.
-4. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(10), 755-765.
-5. Van Wassenhove, V. (2009). Minding time in an amodal representational space. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1525), 1815-1830.
-6. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences, 12(1), 7-12.
-7. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
-8. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
-1. Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid, reliable individual-differences metric. Journal of Personality and Social Psychology, 77(6), 1271-1288.
-2. Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
+- [3]. Czeisler, C. A., & Klerman, E. B. (1999). Circadian and sleep-dependent regulation of hormone release in humans. Recent Progress in Hormone Research, 54, 97-130.
+- [4]. Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(10), 755-765.
+- [5]. Van Wassenhove, V. (2009). Minding time in an amodal representational space. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1525), 1815-1830.
+- [6]. Wittmann, M., & Paulus, M. P. (2008). Decision making, impulsivity and time perception. Trends in Cognitive Sciences, 12(1), 7-12.
+- [7]. Agostino, P. V., & Cheng, R. K. (2016). Contributions of dopaminergic signaling to timing accuracy and precision. Current Opinion in Behavioral Sciences, 8, 153-160.
+- [8]. Merchant, H., Harrington, D. L., & Meck, W. H. (2013). Neural basis of the perception and estimation of time. Annual Review of Neuroscience, 36, 313-336.
+- [1]. Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid, reliable individual-differences metric. Journal of Personality and Social Psychology, 77(6), 1271-1288.
+- [2]. Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
+
+
+</details>
 
 
 
@@ -722,4 +787,7 @@ Ri - ритмичность процессов
 
 ---
 
-Оглавление: [Теория Эмергентной Интеграции и Рекуррентного Отображения](/README.md)
+Оглавление:
+
+- [ЭИРО framework](/README.md)
+- [Справочник формул](/formulas.md)
