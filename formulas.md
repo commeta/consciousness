@@ -1,6 +1,6 @@
 # Справочник формул
 
-[Справочник формул LaTeX mathjax](https://dcs-spb.ru/formulas.php)
+Справочник формул LaTeX mathjax [https://dcs-spb.ru/math/](https://dcs-spb.ru/math/)
 
 ## Классификатор формул
 
