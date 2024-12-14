@@ -205,5 +205,8 @@ graph TD
 ---
 
 
+Оглавление:
 
-Оглавление: [ЭИРО framework](/README.md)
+- [ЭИРО framework](/README.md)
+- [Справочник формул](/formulas.md)
+
