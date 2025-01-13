@@ -1,5 +1,8 @@
 # Краткая история Вселенной: Эмергентность, интеграция и рекуррентность
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A["Рождение Вселенной"] -->|Квантовые флуктуации| B["Инфляция"]
@@ -25,6 +28,8 @@ graph TD
     S --> T["Развитие разума"]
 ```
 
+</details>
+
 ---
 
 ## Рекуррентная космология
@@ -33,6 +38,9 @@ graph TD
 
 
 ### 1. Рождение Вселенной и квантовые флуктуации
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -50,6 +58,8 @@ graph TD
     K --> L[Анизотропии КМФ]
     L --> I
 ```
+
+</details>
 
 #### 1.1. Большой взрыв и инфляция
 
@@ -96,6 +106,8 @@ $\frac{\partial \rho_{\text{IQI}}}{\partial t} + \nabla \cdot (\rho_{\text{IQI}}
 
 ---
 
+<details>
+<summary>Источники</summary>
 
 - [1]: Bennett, C. L. et al. (2013). Nine-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Final Maps and Results. *The Astrophysical Journal Supplement Series*, 208(2), 20.
 - [2]: Guth, A. H.,  Kaiser, D. I. (2005). Inflationary cosmology: Exploring the universe from the smallest to the largest scales. *Science*, 307(5711), 884-890.
@@ -108,11 +120,16 @@ $\frac{\partial \rho_{\text{IQI}}}{\partial t} + \nabla \cdot (\rho_{\text{IQI}}
 - [9]: Penzias, A. A.,  Wilson, R. W. (1965). A measurement of excess antenna temperature at 4080 Mc/s. *The Astrophysical Journal*, 142, 419-421.
 - [10]: Planck Collaboration. (2018). Planck 2018 results. VI. Cosmological parameters. *Astronomy  Astrophysics*, 641, A6.
 
+</details>
+
 
 ---
 
 
 ### 2. Формирование элементарных частиц и атомов
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -137,6 +154,8 @@ graph TD
     S --> T[Обогащение межзвездного пространства]
     T --> U[Условия для формирования планет и жизни]
 ```
+
+</details>
 
 #### 2.1. Симметрийные превращения и рекуррентность
 
@@ -199,6 +218,8 @@ $\frac{d \rho_{\text{IQI}}}{dt} = \alpha n_p n_n - \beta \rho_{\text{IQI}},$
 
 ---
 
+<details>
+<summary>Источники</summary>
 
 - [1]: Weinberg, S. (1977). *The First Three Minutes: A Modern View of the Origin of the Universe*. Basic Books.
 - [2]: Wilczek, F. (2005). *The Universe Is a Strange Place*. *International Journal of Modern Physics A*, 20(14), 2528-2531.
@@ -216,6 +237,7 @@ $\frac{d \rho_{\text{IQI}}}{dt} = \alpha n_p n_n - \beta \rho_{\text{IQI}},$
 - [14]: Burbidge, E. M., Burbidge, G. R., Fowler, W. A.,  Hoyle, F. (1957). Synthesis of the Elements in Stars. *Reviews of Modern Physics*, 29(4), 547-650.
 - [15]: Woosley, S. E.,  Weaver, T. A. (1986). The evolution and explosion of massive stars. II. Explosive hydrodynamics and nucleosynthesis. *The Astrophysical Journal Supplement Series*, 101, 181-235.
 
+</details>
 
 
 ---
@@ -223,6 +245,9 @@ $\frac{d \rho_{\text{IQI}}}{dt} = \alpha n_p n_n - \beta \rho_{\text{IQI}},$
 ### 3. Формирование крупномасштабной структуры
 
 #### 3.1. Рекомбинация и возникновение реликтового излучения
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -245,6 +270,8 @@ graph TD
     L --> O[Мультипольные моменты]
     M --> P[Растяжение во время инфляции]
 ```
+
+</details>
 
 ##### 3.1.1. Процесс рекомбинации в контексте ЭИРО
 
@@ -270,6 +297,9 @@ $\frac{\Delta T}{T}(\theta, \phi) = \sum_{\ell=1}^{\infty} \sum_{m=-\ell}^{\ell}
 
 
 #### 3.2. Гравитационная рекуррентность и формирование галактик
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -297,6 +327,8 @@ graph TD
     Q --> S[Плотность интегрированной информации]
     Q --> T[Источник интеграции информации]
 ```
+
+</details>
 
 ##### 3.2.1. Начало гравитационной неустойчивости
 
@@ -335,6 +367,9 @@ $\frac{\partial \rho_{\text{IQI}}}{\partial t} + \nabla \cdot (\rho_{\text{IQI}}
 
 #### 3.3. Эмерджентные свойства и дальнейшая эволюция
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A[Эмерджентные свойства и эволюция] --> B[Образование звёзд и планет]
@@ -365,6 +400,8 @@ graph TD
     W --> X[Высшая форма интеграции информации]
 ```
 
+</details>
+
 ##### 3.3.1. Образование звёзд и планет
 
 Внутри протогалактик газовые облака продолжали коллапсировать под действием гравитации, что приводило к образованию звёзд [18]. Ядерные реакции в ядрах звёзд синтезировали более тяжёлые элементы из водорода и гелия, обогащая межзвёздную среду. Этот процесс является ярким примером эмерджентности, где на каждом новом уровне организации материи возникают новые свойства и законы [19].
@@ -388,6 +425,8 @@ graph TD
 
 ---
 
+<details>
+<summary>Источники</summary>
 
 - [1]: Peebles, P. J. E. (1993). *Principles of Physical Cosmology*. Princeton University Press.
 - [2]: Laughlin, R. B.,  Pines, D. (2000). The theory of everything. *Proceedings of the National Academy of Sciences*, 97(1), 28-31.
@@ -416,13 +455,16 @@ graph TD
 - [25]: Dawkins, R. (1976). *The Selfish Gene*. Oxford University Press.
 - [26]: Dehaene, S.,  Changeux, J. P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
 
-
+</details>
 
 
 
 ### 4. Звёздная эволюция и появление новых элементов
 
 #### 4.1. Рождение звёзд и термоядерные реакции
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -456,6 +498,8 @@ graph TD
     X --> Y[Синтез тяжёлых элементов до железа]
     X --> Z[Взрыв сверхновой]
 ```
+
+</details>
 
 ##### 4.1.1. Области звездообразования и гравитационный коллапс
 
@@ -509,6 +553,9 @@ $\epsilon(r) = \epsilon_0 f(\Phi_{\text{ядер}}(r)),$
 
 #### 4.2. Сверхновые и распространение элементов
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A[Сверхновые и распространение элементов] --> B[Механизм взрыва сверхновой]
@@ -529,6 +576,8 @@ graph TD
     C --> O[Уравнения кинетики ядерных реакций]
     O --> P[Модификация с учётом интеграции ядерной информации]
 ```
+
+</details>
 
 ##### 4.2.1. Механизм взрыва сверхновой
 
@@ -552,6 +601,9 @@ $\frac{dY(Z,A)}{dt} = -\lambda_{\text{дезинтеграции}} Y(Z,A) + \sum
 
 #### 4.3. Распространение элементов в межзвёздной среде
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A[Распространение элементов в межзвёздной среде] --> B[Взрыв сверхновой]
@@ -569,6 +621,8 @@ graph TD
     H --> M[Уравнения гидродинамики]
     M --> N[Источники массы, импульса и энергии]
 ```
+
+</details>
 
 Взрыв сверхновой выбрасывает синтезированные элементы в окружающее пространство со скоростями, достигающими тысяч километров в секунду [17]. Эта обогащённая материя смешивается с межзвёздным газом, становясь основой для формирования новых звёзд и планетных систем.
 
@@ -600,6 +654,9 @@ $\frac{\partial E}{\partial t} + \nabla \cdot ((E + P) \mathbf{v}) = \rho \mathb
 
 ---
 
+<details>
+<summary>Источники</summary>
+
 - [1]: Lin, D. N. C.,  Pringle, J. E. (1990). Star formation in molecular clouds. *The Astrophysical Journal*, 358, 515-528.
 - [2]: Laughlin, R. B.,  Pines, D. (2000). The theory of everything. *Proceedings of the National Academy of Sciences*, 97(1), 28-31.
 - [3]: Kippenhahn, R.,  Weigert, A. (1990). *Stellar Structure and Evolution*. Springer-Verlag.
@@ -622,6 +679,8 @@ $\frac{\partial E}{\partial t} + \nabla \cdot ((E + P) \mathbf{v}) = \rho \mathb
 - [20]: Mac Low, M.-M.,  Klessen, R. S. (2004). Control of star formation by supersonic turbulence. *Reviews of Modern Physics*, 76(1), 125-194.
 - [21]: Strickland, D. K.,  Stevens, I. R. (2000). Starburst-driven galactic winds — I. Energetics and intrinsic X-ray emission. *Monthly Notices of the Royal Astronomical Society*, 314(3), 511-545.
 
+</details>
+
 ---
 
 
@@ -630,6 +689,8 @@ $\frac{\partial E}{\partial t} + \nabla \cdot ((E + P) \mathbf{v}) = \rho \mathb
 #### 5.1. Чёрные дыры и квантовая информация
 
 
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -668,6 +729,8 @@ graph TD
     I --> I1[Обмен информацией через рекуррентные процессы]
     I --> I2[Динамическая система с информационными каналами]
 ```
+
+</details>
 
 ##### 5.1.1. Образование чёрных дыр
 
@@ -740,6 +803,9 @@ $\Phi_e = \int_0^{t_1} I_{\text{интеграции}}(t) \cdot R_{\text{рек�
 
 ---
 
+<details>
+<summary>Источники</summary>
+
 - [1]: Shapiro, S. L.,  Teukolsky, S. A. (1983). *Black Holes, White Dwarfs, and Neutron Stars: The Physics of Compact Objects*. John Wiley  Sons.
 - [2]: Oppenheimer, J. R.,  Snyder, H. (1939). On Continued Gravitational Contraction. *Physical Review*, 56(5), 455–459.
 - [3]: Laughlin, R. B.,  Pines, D. (2000). The theory of everything. *Proceedings of the National Academy of Sciences*, 97(1), 28–31.
@@ -758,12 +824,16 @@ $\Phi_e = \int_0^{t_1} I_{\text{интеграции}}(t) \cdot R_{\text{рек�
 - [16]: Abbott, B. P., et al. (2016). Observation of Gravitational Waves from a Binary Black Hole Merger. *Physical Review Letters*, 116(6), 061102.
 - [17]: Maldacena, J. (1998). The Large-N Limit of Superconformal Field Theories and Supergravity. *Advances in Theoretical and Mathematical Physics*, 2(2), 231–252.
 
+</details>
 
 ---
 
 
 ### 6. Эмерджентность жизни и сознания
 
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -796,6 +866,8 @@ flowchart TD
         T --> O
     end
 ```
+
+</details>
 
 #### 6.1. Химическая эволюция и появление жизни
 
@@ -878,6 +950,9 @@ $\Phi_e = \int_0^{t_1} I_{\text{интеграции}}(t) \cdot R_{\text{рек�
 
 ---
 
+<details>
+<summary>Источники</summary>
+
 - [1]: Lazcano, A.,  Miller, S. L. (1994). How long did it take for life to begin and evolve to cyanobacteria? *Journal of Molecular Evolution*, 39(6), 546-554.
 - [2]: Deacon, T. W. (2011). *Incomplete Nature: How Mind Emerged from Matter*. W. W. Norton  Company.
 - [3]: Kasting, J. F.,  Catling, D. (2003). Evolution of a habitable planet. *Annual Review of Astronomy and Astrophysics*, 41(1), 429-463.
@@ -897,6 +972,8 @@ $\Phi_e = \int_0^{t_1} I_{\text{интеграции}}(t) \cdot R_{\text{рек�
 - [17]: Balduzzi, D.,  Tononi, G. (2008). Integrated information in discrete dynamical systems: motivation and theoretical framework. *PLOS Computational Biology*, 4(6), e1000091.
 - [18]: Dehaene, S.,  Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
 - [19]: Lamme, V. A. F.,  Roelfsema, P. R. (2000). The distinct modes of vision offered by feedforward and recurrent processing. *Trends in Neurosciences*, 23(11), 571-579.
+
+</details>
 
 
 ---
