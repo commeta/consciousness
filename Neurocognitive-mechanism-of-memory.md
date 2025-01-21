@@ -1,5 +1,8 @@
 # Нейрокогнитивные механизмы памяти в контексте теории ЭИРО
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 flowchart TD
     A[Методология исследования] --> B[Электрофизиология]
@@ -66,26 +69,20 @@ flowchart TD
     Q --> Q3["Оптимизация Ψ обучения"]
 ```
 
+</details>
+
 ---
 
-
-## ОГЛАВЛЕНИЕ
-
-1. Введение
-2. Методология исследования
-3. Архитектура нейронных сетей памяти
-4. Механизмы синаптической пластичности
-5. Эмпирическая валидация
-6. Выводы
-7. Библиография
-
-### 1. ВВЕДЕНИЕ
+## 1. ВВЕДЕНИЕ
 
 Понимание механизмов, лежащих в основе формирования и хранения памяти, является одной из ключевых задач когнитивной нейробиологии. Теория Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО) предлагает новый подход к изучению этих процессов, рассматривая память как результат интеграции информации в рекуррентных нейронных сетях. В данной работе мы исследуем, как принципы ЭИРО могут объяснить организацию и функционирование мнемонических систем человеческого мозга.
 
 ### 2. МЕТОДОЛОГИЯ ИССЛЕДОВАНИЯ
 
 #### 2.1 Методы исследования:
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -136,6 +133,9 @@ flowchart TD
     E3 --> E3b[Предиктивное кодирование]
 ```
 
+</details>
+
+
 ##### 2.1.1 Электрофизиология:
 
 **Многоканальная внутриклеточная и внеклеточная регистрация**
@@ -167,15 +167,22 @@ flowchart TD
 
 Для получения комплексной картины нейронных механизмов памяти данные фМРТ высокого разрешения были совмещены с результатами МЭГ/ЭЭГ исследований. Это позволило осуществить пространственно-временное картирование активности мозга, связанной с формированием, хранением и воспроизведением мнемонических следов. Интеграция методов нейровизуализации с высокими пространственными и временными характеристиками дала возможность детально изучить динамику эмергентной интеграции информации и рекуррентных взаимодействий в распределенных нейронных сетях памяти [5,6].
 
-Источники:
+<details>
+<summary>Источники</summary>
 
-1. Fell, J., & Axmacher, N. (2011). The role of phase synchronization in memory processes. Nature Reviews Neuroscience, 12(2), 105-118.
-2. Sperling, R. A., Aisen, P. S., Beckett, L. A., Bennett, D. A., Craft, S., Fagan, A. M., ... & Phelps, C. H. (2011). Toward defining the preclinical stages of Alzheimer's disease: Recommendations from the National Institute on Aging-Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease. Alzheimer's & Dementia, 7(3), 280-292.
-3. Hasselmo, M. E., & Stern, C. E. (2014). Theta rhythm and the encoding and retrieval of space and time. Neuroimage, 85, 656-666.
-4. Fuentemilla, L., Penny, W. D., Cashdollar, N., Bunzeck, N., & Düzel, E. (2010). Theta-coupled periodic replay in working memory. Current Biology, 20(7), 606-612.
-5. Bressler, S. L., & Menon, V. (2010). Large-scale brain networks in cognition: emerging methods and principles. Trends in Cognitive Sciences, 14(6), 277-290.
-6. Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). A default mode of brain function. Proceedings of the National Academy of Sciences, 98(2), 676-682.
+- [1]. Fell, J., & Axmacher, N. (2011). The role of phase synchronization in memory processes. Nature Reviews Neuroscience, 12(2), 105-118.
 
+- [2]. Sperling, R. A., Aisen, P. S., Beckett, L. A., Bennett, D. A., Craft, S., Fagan, A. M., ... & Phelps, C. H. (2011). Toward defining the preclinical stages of Alzheimer's disease: Recommendations from the National Institute on Aging-Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease. Alzheimer's & Dementia, 7(3), 280-292.
+
+- [3]. Hasselmo, M. E., & Stern, C. E. (2014). Theta rhythm and the encoding and retrieval of space and time. Neuroimage, 85, 656-666.
+
+- [4]. Fuentemilla, L., Penny, W. D., Cashdollar, N., Bunzeck, N., & Düzel, E. (2010). Theta-coupled periodic replay in working memory. Current Biology, 20(7), 606-612.
+
+- [5]. Bressler, S. L., & Menon, V. (2010). Large-scale brain networks in cognition: emerging methods and principles. Trends in Cognitive Sciences, 14(6), 277-290.
+
+- [6]. Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). A default mode of brain function. Proceedings of the National Academy of Sciences, 98(2), 676-682.
+
+</details>
 
 ##### 2.1.3 Оптогенетика:
 
@@ -212,23 +219,22 @@ flowchart TD
 
 Интеграция этих математических моделей с экспериментальными данными, полученными с помощью электрофизиологических, нейровизуализационных и оптогенетических методов, позволяет получить комплексное понимание нейрокогнитивных механизмов памяти на различных пространственно-временных масштабах - от динамики активности отдельных нейронов до функционирования распределенных нейронных сетей.
 
-Источники:
+<details>
+<summary>Источники</summary>
 
-1. Markram, H., Gerstner, W., & Sjöström, P. J. (2011). A history of spike-timing-dependent plasticity. Frontiers in synaptic neuroscience, 3, 4.
+- [1]. Markram, H., Gerstner, W., & Sjöström, P. J. (2011). A history of spike-timing-dependent plasticity. Frontiers in synaptic neuroscience, 3, 4.
+- [2]. Maass, W., & Markram, H. (2002). Synapses as dynamic memory buffers. Neural networks, 15(2), 155-161.
+- [3]. Turrigiano, G. G. (2008). The self-tuning neuron: synaptic scaling of excitatory synapses. Cell, 135(3), 422-435.
+- [4]. Desai, N. S., Rutherford, L. C., & Turrigiano, G. G. (1999). Plasticity in the intrinsic excitability of cortical pyramidal neurons. Nature neuroscience, 2(6), 515-520.
+- [5]. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. Trends in cognitive sciences, 20(7), 512-534.
+- [6]. McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological review, 102(3), 419.
 
-2. Maass, W., & Markram, H. (2002). Synapses as dynamic memory buffers. Neural networks, 15(2), 155-161.
-
-3. Turrigiano, G. G. (2008). The self-tuning neuron: synaptic scaling of excitatory synapses. Cell, 135(3), 422-435.
-
-4. Desai, N. S., Rutherford, L. C., & Turrigiano, G. G. (1999). Plasticity in the intrinsic excitability of cortical pyramidal neurons. Nature neuroscience, 2(6), 515-520.
-
-5. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. Trends in cognitive sciences, 20(7), 512-534.
-
-6. McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological review, 102(3), 419.
-
+</details>
 
 #### 2.2 Выборка:
 
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -265,6 +271,8 @@ flowchart TD
     E --> E3[Высокая валидность исследования]
 ```
 
+</details>
+
 ##### 2.2.1 Здоровые добровольцы (n=150)
 
 Группа здоровых добровольцев включала 150 человек в возрасте от 18 до 65 лет (средний возраст 35,2 ± 12,4 года), не имеющих в анамнезе неврологических или психических заболеваний. Все участники прошли тщательное клиническое обследование, включающее сбор анамнеза, неврологический осмотр, а также оценку когнитивных функций с помощью стандартизированных нейропсихологических тестов. Результаты показали, что участники этой группы демонстрировали нормативные показатели по всем исследуемым когнитивным доменам, включая память, внимание, исполнительные функции и скорость обработки информации.
@@ -284,6 +292,8 @@ flowchart TD
 
 #### 3.1 Иерархическая организация:
 
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -306,6 +316,8 @@ graph TD
     B4 --> B42[Предиктивное кодирование: ожидания, модели]
 ```
 
+</details>
+
 ##### 3.1.1 Сенсорные и ассоциативные области
 
 Нейронные сети, лежащие в основе памяти человека, имеют четко выраженную иерархическую структуру. На самом нижнем уровне находятся первичные сенсорные области коры, которые кодируют элементарные признаки воспринимаемой информации.
@@ -326,6 +338,9 @@ graph TD
 
 #### 3.2 Рекуррентные связи:
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A[Архитектура нейронных сетей памяти] --> B[Рекуррентные связи]
@@ -342,6 +357,8 @@ graph TD
     B --> B3[Обратные проекции]
     B3 --> B31[Предиктивное кодирование: внутренние модели]
 ```
+
+</details>
 
 ##### 3.2.1 Локальные рекуррентные контуры
 
@@ -365,14 +382,20 @@ graph TD
 
 Ключевую роль в организации рекуррентных связей играют обратные (нисходящие) проекции, обеспечивающие взаимодействие между иерархическими уровнями обработки информации [Lamme & Roelfsema, 2000]. Эти механизмы лежат в основе предиктивного кодирования, позволяющего формировать внутренние модели восприятия и действия.
 
-Источники:
+<details>
+<summary>Источники</summary>
 
-- Felleman, D.J., & Van Essen, D.C. (1991). Distributed hierarchical processing in the primate cerebral cortex. Cerebral Cortex, 1(1), 1-47.
-- Goldman-Rakic, P.S. (1988). Topography of cognition: parallel distributed networks in primate association cortex. Annual Review of Neuroscience, 11(1), 137-156.
-- Dehaene, S., & Changeux, J.P. (2011). Experimental and theoretical approaches to conscious processing. Neuron, 70(2), 200-227.
-- Bressler, S.L., & Menon, V. (2010). Large-scale brain networks in cognition: emerging methods and principles. Trends in Cognitive Sciences, 14(6), 277-290.
+- [1]. Felleman, D.J., & Van Essen, D.C. (1991). Distributed hierarchical processing in the primate cerebral cortex. Cerebral Cortex, 1(1), 1-47.
+- [2]. Goldman-Rakic, P.S. (1988). Topography of cognition: parallel distributed networks in primate association cortex. Annual Review of Neuroscience, 11(1), 137-156.
+- [3]. Dehaene, S., & Changeux, J.P. (2011). Experimental and theoretical approaches to conscious processing. Neuron, 70(2), 200-227.
+- [4]. Bressler, S.L., & Menon, V. (2010). Large-scale brain networks in cognition: emerging methods and principles. Trends in Cognitive Sciences, 14(6), 277-290.
+
+</details>
 
 ### 4. МЕХАНИЗМЫ СИНАПТИЧЕСКОЙ ПЛАСТИЧНОСТИ
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -395,6 +418,8 @@ graph TD
     D --> D1[Предотвращение чрезмерной активации нейронов]
     D --> D2[Сохранение специфики нейронных представлений]
 ```
+
+</details>
 
 #### 4.1 NMDA-зависимая потенциация:
 
@@ -430,7 +455,8 @@ NMDA-зависимая потенциация является важным м�
 
 Таким образом, взаимодействие NMDA-зависимой потенциации, отвечающей за обучение и формирование новых связей, и гомеостатических механизмов, обеспечивающих стабильность активности, лежит в основе способности нейронных сетей к адаптивному обучению, хранению и воспроизведению информации.
 
-Источники:
+<details>
+<summary>Источники</summary>
 
 - [1] Turrigiano, G. G. (2008). The self-tuning neuron: synaptic scaling of excitatory synapses. Cell, 135(3), 422-435.
 
@@ -438,14 +464,15 @@ NMDA-зависимая потенциация является важным м�
 
 - [3] Marder, E., & Goaillard, J. M. (2006). Variability, compensation and homeostasis in neuron and network function. Nature Reviews Neuroscience, 7(7), 563-574.
 
-- Kandel, E. R. (2001). The molecular biology of memory storage: a dialogue between genes and synapses. Science, 294(5544), 1030-1038.
+- [4] Turrigiano, G. G. (2008). The self-tuning neuron: synaptic scaling of excitatory synapses. Cell, 135(3), 422-435.
 
-- Turrigiano, G. G. (2008). The self-tuning neuron: synaptic scaling of excitatory synapses. Cell, 135(3), 422-435.
-
-- Markram, H., Gerstner, W., & Sjöström, P. J. (2011). A history of spike-timing-dependent plasticity. Frontiers in synaptic neuroscience, 3, 4.
+</details>
 
 
 ### 5. ЭМПИРИЧЕСКАЯ ВАЛИДАЦИЯ
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -466,6 +493,8 @@ graph TD
     C21 --> C22[Дефициты при подавлении обратных проекций]
 ```
 
+</details>
+
 #### 5.1 Роль Φₑ в формировании памяти:
 
 ##### 5.1.1 Корреляция Φₑ с эпизодической памятью
@@ -476,7 +505,8 @@ graph TD
 
 Дальнейшие исследования с использованием фМРТ высокого разрешения показали, что у пациентов с различными расстройствами памяти, такими как болезнь Альцгеймера или травматическое повреждение мозга, наблюдается значительное снижение Φₑ в медиальных височных структурах [2,3]. Причем степень этого снижения Φₑ коррелировала с тяжестью когнитивных нарушений, включая дефициты в области эпизодической памяти. Эти данные свидетельствуют о том, что нарушение механизмов эмергентной интеграции информации в медиальной височной коре лежит в основе дефицитов памяти при различных неврологических заболеваниях.
 
-Источники:
+<details>
+<summary>Источники</summary>
 
 - [1] Fell, J., & Axmacher, N. (2011). The role of phase synchronization in memory processes. Nature Reviews Neuroscience, 12(2), 105-118.
 
@@ -484,6 +514,8 @@ graph TD
 
 - [3] Gilboa, A., Alain, C., Stuss, D. T., Picton, T. W., & Craik, F. I. (2006). Mechanisms of spontaneous confabulations: a strategic retrieval account. Brain, 129(6), 1399-1414.
  
+</details>
+
 
 #### 5.2 Роль рекуррентных связей:
 
@@ -501,7 +533,8 @@ graph TD
 
 Таким образом, полученные результаты подтверждают ключевую роль механизмов эмергентной интеграции и рекуррентной обработки информации в функционировании мнемонических процессов.
 
-Источники:
+<details>
+<summary>Источники</summary>
 
 - [1] Fell, J., & Axmacher, N. (2011). The role of phase synchronization in memory processes. Nature Reviews Neuroscience, 12(2), 105-118.
 
@@ -514,6 +547,8 @@ graph TD
 - [5] Fuentemilla, L., Penny, W. D., Cashdollar, N., Bunzeck, N., & Düzel, E. (2010). Theta-coupled periodic replay in working memory. Current Biology, 20(7), 606-612.
 
 - [6] Ramirez, S., Liu, X., Lin, P. A., Suh, J., Pignatelli, M., Redondo, R. L., ... & Tonegawa, S. (2013). Creating a false memory in the hippocampus. Science, 341(6144), 387-391.
+
+</details>
 
 ### 6. ВЫВОДЫ
 
@@ -545,5 +580,6 @@ graph TD
 
 ---
 
-Оглавление: [Теория Эмергентной Интеграции и Рекуррентного Отображения](/README.md)
-
+Оглавление: 
+- [ЭИРО framework](/README.md)
+- [Справочник формул](/formulas.md)
