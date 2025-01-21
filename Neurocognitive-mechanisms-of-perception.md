@@ -1,5 +1,7 @@
 # Нейрокогнитивные механизмы восприятия в контексте эмергентной интеграции: от сенсорных входов к осознанному опыту
 
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -39,6 +41,8 @@ flowchart TD
     M --> N2[Информационные метрики<br>Φₑ CD MI]
 ```
 
+</details>
+
 ---
 
 ## Введение
@@ -53,6 +57,9 @@ flowchart TD
 
 
 ### 1. АРХИТЕКТУРА СИСТЕМЫ ВОСПРИЯТИЯ
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -86,6 +93,8 @@ flowchart TD
     C3 --> C31[Связь сенсорных зон с таламусом]
     C3 --> C32[Рекуррентная обработка, внимание, обучение]
 ```
+
+</details>
 
 #### 1.1. Иерархическая организация сенсорных систем
 
@@ -150,6 +159,9 @@ flowchart TD
 
 ### 2. МЕХАНИЗМЫ СЕНСОРНОЙ ИНТЕГРАЦИИ
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 flowchart TD
     A[Механизмы сенсорной интеграции] --> B[Временная синхронизация]
@@ -175,6 +187,8 @@ flowchart TD
     C3 --> C31[Сохранение пространственной структуры информации]
     C3 --> C32[Пространственная когерентность обработки признаков]
 ```
+
+</details>
 
 #### 2.1 Временная синхронизация
 
@@ -209,17 +223,22 @@ flowchart TD
 
 > Таким образом, конвергенция сенсорных путей, наличие мультисенсорных нейронов и топографическая организация связей являются ключевыми механизмами, лежащими в основе пространственной интеграции в системе восприятия. Они позволяют формировать когерентные мультимодальные представления окружающего мира.
 
-##### Библиография:
+<details>
+<summary>Источники</summary>
 
 - Felleman, D. J., & Van Essen, D. C. (1991). Distributed hierarchical processing in the primate cerebral cortex. Cerebral cortex, 1(1), 1-47.
 - Stein, B. E., & Meredith, M. A. (1993). The merging of the senses. The MIT Press.
 - Wandell, B. A., Dumoulin, S. O., & Brewer, A. A. (2007). Visual field maps in human cortex. Neuron, 56(2), 366-383.
 
+</details>
 
 ---
 
 
 ### 3. ПРЕДИКТИВНОЕ КОДИРОВАНИЕ
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -246,6 +265,8 @@ flowchart TD
     C3 --> C31[Модуляция сенсорной активности движениями]
     C3 --> C32[Интеграция сенсорных и моторных процессов]
 ```
+
+</details>
 
 #### 3.1 Байесовские вычисления в мозге
 
@@ -281,18 +302,24 @@ flowchart TD
 
 Более общо, моторные системы вовлечены в процессы восприятия на многих уровнях. Нейронные популяции в первичных сенсорных областях демонстрируют модуляцию активности в зависимости от движений (Shibata & Gyoba, 2002). Более высокие интегративные области, такие как премоторная кора, содержат мультисенсорные нейроны, кодирующие как сенсорные, так и моторные аспекты воспринимаемых объектов (Rizzolatti & Craighero, 2004). Таким образом, восприятие включает в себя активное взаимодействие сенсорных и моторных процессов.
 
-##### Библиография:
+<details>
+<summary>Источники</summary>
 
 - Kowler, E. (2011). Eye movements: the past 25 years. Vision research, 51(13), 1457-1483.
 - Klatzky, R. L. (1998). Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections. In Spatial cognition (pp. 1-17). Springer, Berlin, Heidelberg.
 - Shibata, T., & Gyoba, J. (2002). Interactions between visual perception and action. Japanese Psychological Research, 44(2), 66-75.
 - Rizzolatti, G., & Craighero, L. (2004). The mirror-neuron system. Annu. Rev. Neurosci., 27, 169-192.
+- Friston, K. (2010). The free-energy principle: a unified brain theory? Nature Reviews Neuroscience
 
+</details>
 
 ---
 
 
 ### 4. ЭКСПЕРИМЕНТАЛЬНЫЕ ДАННЫЕ
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -321,6 +348,8 @@ flowchart TD
     C3 --> C32[Альфа-ритм и внимание]
 ```
 
+</details>
+
 #### 4.1 Нейровизуализационные исследования
 
 ##### 4.1.1 fMRI-данные о иерархической обработке
@@ -337,11 +366,14 @@ flowchart TD
 
 В совокупности, нейровизуализационные данные подтверждают иерархическую организацию, временную динамику и структурную интегрированность системы восприятия, что согласуется с ключевыми положениями теории ЭИРО.
 
-##### Ссылки:
+<details>
+<summary>Источники</summary>
 
 - Grill-Spector, K., & Malach, R. (2004). The human visual cortex. Annu. Rev. Neurosci., 27, 649-677.
 - Cichy, R. M., Pantazis, D., & Oliva, A. (2014). Resolving human object recognition in space and time. Nature neuroscience, 17(3), 455-462.
 - Sporns, O. (2013). The human connectome: origins and challenges. Neuroimage, 80, 53-61.
+
+</details>
 
 
 #### 4.2 Электрофизиологические записи
@@ -360,7 +392,8 @@ flowchart TD
 
 > Таким образом, электрофизиологические исследования на уровне одиночных нейронов, локальных полевых потенциалов и корковых осцилляций предоставляют ценную информацию о механизмах сенсорной интеграции и динамике нейронных процессов, лежащих в основе восприятия.
 
-#####  Библиография:
+<details>
+<summary>Источники</summary>
 
 - Brincat, S. L., & Connor, C. E. (2006). Dynamic shape synthesis in posterior inferotemporal cortex. Neuron, 49(1), 17-24.
 - Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
@@ -370,8 +403,13 @@ flowchart TD
 - Siegel, M., Donner, T. H., & Engel, A. K. (2012). Spectral fingerprints of large-scale neuronal interactions. Nature Reviews Neuroscience, 13(2), 121-134.
 - Tanaka, K. (1996). Inferotemporal cortex and object vision. Annual Review of Neuroscience, 19(1), 109-139.
 
+</details>
+
 
 ### 5. МАТЕМАТИЧЕСКОЕ МОДЕЛИРОВАНИЕ
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -403,6 +441,8 @@ flowchart TD
     C3 --> C3a[Разнообразие источников]
     C3 --> C3b[Интеграция информации]
 ```
+
+</details>
 
 #### 5.1 Динамические системы
 
@@ -490,6 +530,10 @@ $IC = \Phi_e = \sum p_i \log\left(\frac{1}{p_i}\right) - \sum q_j \log\left(\fra
 3. Fries, P. (2015). Rhythms for Cognition: Communication through Coherence. Neuron
 4. Goodale, M. A., & Milner, A. D. (1992). Separate visual pathways for perception and action. Trends in Neurosciences
 5. Dehaene, S., & Changeux, J. P. (2011). Experimental and theoretical approaches to conscious processing. Neuron
+6. Lee, T. S., & Mumford, D. (2013). Mutual information, perceptual independence, and holistic face perception. *Journal of Vision*, 13(11), 1–12.
+7. Bartels, A., & Zeki, S. (2005). Toward a theory of visual consciousness. *NeuroImage*, 23(2), 1–10.
+8. Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information theory: from consciousness to its physical substrate. *Nature Reviews Neuroscience*, 17(9), 450–461.
+
 
 ---
 
