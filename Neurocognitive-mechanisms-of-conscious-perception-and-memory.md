@@ -1,5 +1,8 @@
 # Нейрокогнитивные механизмы сознательного восприятия и памяти в контексте теории Эмергентной Интеграции и Рекуррентного Отображения
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 flowchart TD
   A["Нейрокогнитивные механизмы восприятия и памяти"] --> B["Сенсорная память"]
@@ -34,6 +37,7 @@ flowchart TD
   G --> G2["Рекуррентность и пластичность<br>• Влияние на внутриклеточные изменения<br>• Динамическая интеграция"]
 ```
 
+</details>
 
 ---
 
@@ -51,6 +55,8 @@ flowchart TD
 
 #### 2.1 Архитектура памяти
 
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -113,6 +119,8 @@ flowchart TD
     AU --> AW[Механизм: усиление синаптических связей]
     AU --> AX["Консолидация: синаптическая (часы)"]
 ```
+
+</details>
 
 ##### 2.1.1 Сенсорная память
 
@@ -193,6 +201,9 @@ flowchart TD
 
 ### 3. ЭИРО-МОДЕЛЬ ВОСПРИЯТИЯ И ПАМЯТИ
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A[ЭИРО-МОДЕЛЬ ВОСПРИЯТИЯ И ПАМЯТИ] --> B[Математическая формализация]
@@ -211,6 +222,8 @@ graph TD
     L --> N[Корреляция Φₑ с уровнем сознания]
     L --> O[Нарушение интеграции при амнезии]
 ```
+
+</details>
 
 #### 3.1 Математическая формализация
 
@@ -247,6 +260,8 @@ $\Phi_e(t) = \sum_{i} w_i \int I(x, t) R(x, t) \, dx$
 
 ### 4. МЕХАНИЗМЫ ПАМЯТИ В КОНТЕКСТЕ ЭИРО
 
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -275,6 +290,8 @@ flowchart TD
     W --> Y[Начальная сила M₀]
     W --> Z[Вклад Φₑ в укрепление памяти]
 ```
+
+</details>
 
 #### 4.1 Консолидация памяти
 
@@ -321,7 +338,7 @@ $M(t) = M_0 \exp\left(-\frac{t}{\tau}\right) + \int_{0}^{t} K(s) \Phi_e(t-s) \, 
 - 2. Dehaene, S., et al. (2006). Conscious, preconscious, and subliminal processing: a testable taxonomy. Trends in Cognitive Sciences, 10(5), 204-211.
 - 3. Kandel, E.R. (2001). The molecular biology of memory storage: a dialogue between genes and synapses. Science, 294(5544), 1030-1038.
 - 4. Squire, L.R. (2009). Memory systems of the brain: A brief history and current perspective. Neurobiology of Learning and Memory, 82(3), 171-177.
-- 5. Kandel, E.R. (2001). The molecular biology of memory storage: A dialogue between genes and synapses. Science, 294(5544), 1030-1038.
+- 5. Sperling, G. (1960). The information available in brief visual presentations. Psychological Monographs: General and Applied, 74(11), 1–29.
 - 6. Mayford, M., Barzilai, A., Keller, F., Schacher, S., & Kandel, E.R. (1992). Modulation of an NCAM-related adhesion molecule with long-term synaptic plasticity in Aplysia. Science, 256(5057), 638-644.
 - 7. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0. PLoS Computational Biology, 10(5), e1003588.
 - 8. Tononi, G., & Cirelli, C. (2006). Sleep function and synaptic homeostasis. Sleep Medicine Reviews, 10(1), 49-62.
@@ -334,10 +351,9 @@ $M(t) = M_0 \exp\left(-\frac{t}{\tau}\right) + \int_{0}^{t} K(s) \Phi_e(t-s) \, 
 - 15. Scoville, W.B., & Milner, B. (1957). Loss of recent memory after bilateral hippocampal lesions. Journal of Neurology, Neurosurgery, and Psychiatry, 20(1), 11-21.
 - 16. Squire, L.R., & Alvarez, P. (1995). Retrograde amnesia and memory consolidation: a neurobiological perspective. Current Opinion in Neurobiology, 5, 169-177.
 - 17. Cowan, N. (1984). On short and long auditory stores. Psychological Bulletin, 96, 341-370.
-- 18. Kandel, E.R. (2001). The molecular biology of memory storage: A dialogue between genes and synapses. Science, 294, 1030-1038.
+- 18. Mayford, M., Baranes, D., Podsypanina, K., & Kandel, E.R. (1996). The 3' untranslated region of CaMKIIα is a cis-acting signal for the localization and translation of mRNA in dendrites. Proceedings of the National Academy of Sciences, 93(4), 13250–13255.
 - 19. Luck, S.J., & Vogel, E.K. (1997). The capacity of visual working memory for features and conjunctions. Nature, 390, 279-281.
 - 20. Miller, G.A. (1956). The magical number seven, plus or minus two. Psychological Review, 63, 81-97.
-
 
 
 ---
