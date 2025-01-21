@@ -1,5 +1,8 @@
 # Система внимания нейронной сети: принцип эффекта гипноза через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A["Гипноз и внимание"] --> B["Определение гипноза"]
@@ -54,6 +57,7 @@ graph TD
     S --> S1["Rᵢ внешнее - ΔR подавление"]
 ```
 
+</details>
 
 
 ---
@@ -67,6 +71,8 @@ graph TD
 
 ### 1. Механизмы гипноза и его влияние на внимание человека
 
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -112,6 +118,8 @@ flowchart TD
     H3 --> H31[Модификация корково-подкорковых взаимодействий]
     H31 --> H311[Усиление когнитивных процессов]
 ```
+
+</details>
 
 #### 1.1. Определение и характеристики гипноза
 
@@ -199,6 +207,8 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
 ### 3. Применение теории ЭИРО к пониманию эффекта гипноза
 
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -224,6 +234,8 @@ flowchart TD
     D --> D3["Формула $\Phi_e^{hypnosis} = \int_{t_0}^{t_1} ( I_integration \cdot R_recurrence ) dt$"]
     D3 --> D31[Фокусировка на внушаемом содержании]
 ```
+
+</details>
 
 #### 3.1. Изменение интеграции информации при гипнозе
 
@@ -353,7 +365,6 @@ $\Phi_e^{\text{hypnosis}} = \int_{t_0}^{t_1} \left( I_{\text{integration}}^{\tex
 4. Jamieson, G. A.,  Woody, E. Z. Dissociated control as a model of hypnotic responsiveness and hypnosis. *Consciousness and Cognition*, 16(2), 475-483 (2007).
 
 ---
-
 
 Оглавление: 
 - [ЭИРО framework](/README.md)
