@@ -1,5 +1,8 @@
 # Нейрокогнитивные механизмы селективного внимания через призму теории Эмергентной Интеграции и Рекуррентного Отображения
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 flowchart TD
     A["Система внимания: многослойная архитектура"]
@@ -65,21 +68,11 @@ flowchart TD
     X --> BB
 ```
 
----
-
-## Оглавление
-1. ВВЕДЕНИЕ
-2. АРХИТЕКТУРА СИСТЕМЫ ВНИМАНИЯ
-3. МЕХАНИЗМЫ СЕЛЕКЦИИ
-4. РЕКУРРЕНТНЫЕ ПРОЦЕССЫ
-5. ЭКСПЕРИМЕНТАЛЬНЫЕ ДАННЫЕ
-6. МАТЕМАТИЧЕСКОЕ МОДЕЛИРОВАНИЕ
-7. ЗАКЛЮЧЕНИЕ
-8. Библиография
+</details>
 
 ---
 
-### 1. ВВЕДЕНИЕ
+## 1. ВВЕДЕНИЕ
 
 #### 1.1 Актуальность исследования
 
@@ -95,6 +88,8 @@ flowchart TD
 
 #### 2.1 Иерархическая организация
 
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -120,6 +115,8 @@ flowchart TD
     Q --> U[Взаимодействие подсистем для адаптации]
 ```
 
+</details>
+
 Система внимания в мозге человека организована в виде иерархической структуры, состоящей из нескольких взаимосвязанных уровней обработки информации:
 
 **Нижний уровень**: первичная сенсорная обработка
@@ -144,6 +141,9 @@ flowchart TD
 
 
 #### 2.2 Нейронные сети внимания
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -172,6 +172,8 @@ flowchart TD
     S --> V[Модулирующее влияние на кору]
 ```
 
+</details>
+
 ##### 2.2.1 Фронтопариетальная сеть
 
 Фронтопариетальная сеть включает в себя области префронтальной коры и теменной коры, которые тесно взаимодействуют при реализации произвольного внимания. Исследования с использованием функциональной нейровизуализации показывают, что эта сеть активируется при выполнении задач, требующих сознательного контроля и целенаправленного распределения внимания (Corbetta & Shulman, 2002). Ключевые области, входящие в состав фронтопариетальной сети:
@@ -197,6 +199,9 @@ flowchart TD
 
 #### 3.1 Bottom-up и Top-down процессы
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 flowchart TD
     A[Механизмы селекции] --> B[Bottom-up процессы]
@@ -215,6 +220,8 @@ flowchart TD
     N --> O[Селективное внимание]
 ```
 
+</details>
+
 Согласно исследованиям Роберта Десимоне и Джона Дункана (1995), процессы селективного внимания осуществляются через взаимодействие двух основных механизмов:
 
 **Восходящие (bottom-up) сигналы**:
@@ -229,6 +236,9 @@ flowchart TD
 
 
 #### 3.2 Интеграция информации
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -247,6 +257,8 @@ flowchart TD
     M --> N[Формирование целостных репрезентаций событий]
 ```
 
+</details>
+
 Одним из ключевых механизмов селективного внимания является интеграция информации из различных источников. Это позволяет объединять разрозненные сенсорные сигналы в целостные репрезентации, на основе которых принимаются решения и формируется осознанное восприятие.
 
 ##### 3.2.1 Временная синхронизация нейронных ансамблей
@@ -263,21 +275,26 @@ flowchart TD
 
 Таким образом, механизмы интеграции информации, включающие синхронизацию нейронных ансамблей, пространственное объединение признаков и кросс-модальную интеграцию, играют ключевую роль в процессах селективного внимания.
 
-**Список литературы**:
+<details>
+<summary>Источники</summary>
 
-1. Fries, P. (2015). Rhythms for Cognition: Communication through Coherence. Neuron.
-2. Womelsdorf, T., & Fries, P. (2007). The role of neuronal synchronization in selective attention. Current opinion in neurobiology.
-3. Engel, A. K., Fries, P., & Singer, W. (2001). Dynamic predictions: oscillations and synchrony in top-down processing. Nature Reviews Neuroscience.
-4. Salinas, E., & Sejnowski, T. J. (2001). Correlated neuronal activity and the flow of neural information. Nature Reviews Neuroscience.
-5. Treisman, A. M., & Gelade, G. (1980). A feature-integration theory of attention. Cognitive psychology.
-6. Desimone, R., & Duncan, J. (1995). Neural mechanisms of selective visual attention. Annual review of neuroscience.
-7. Calvert, G. A. (2001). Crossmodal processing in the human brain: insights from functional neuroimaging studies. Cerebral cortex.
-8. Stein, B. E., & Meredith, M. A. (1993). The merging of the senses. The MIT Press.
+- [1]. Fries, P. (2015). Rhythms for Cognition: Communication through Coherence. Neuron.
+- [2]. Womelsdorf, T., & Fries, P. (2007). The role of neuronal synchronization in selective attention. Current opinion in neurobiology.
+- [3]. Engel, A. K., Fries, P., & Singer, W. (2001). Dynamic predictions: oscillations and synchrony in top-down processing. Nature Reviews Neuroscience.
+- [4]. Salinas, E., & Sejnowski, T. J. (2001). Correlated neuronal activity and the flow of neural information. Nature Reviews Neuroscience.
+- [5]. Treisman, A. M., & Gelade, G. (1980). A feature-integration theory of attention. Cognitive psychology.
+- [6]. Desimone, R., & Duncan, J. (1995). Neural mechanisms of selective visual attention. Annual review of neuroscience.
+- [7]. Calvert, G. A. (2001). Crossmodal processing in the human brain: insights from functional neuroimaging studies. Cerebral cortex.
+- [8]. Stein, B. E., & Meredith, M. A. (1993). The merging of the senses. The MIT Press.
 
+</details>
 
 ### 4. РЕКУРРЕНТНЫЕ ПРОЦЕССЫ
 
 #### 4.1 Локальные рекуррентные связи
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -296,6 +313,8 @@ flowchart TD
     M --> N[Непрерывность восприятия]
     N --> O[Сохранение информации в рабочей памяти]
 ```
+
+</details>
 
 Ключевую роль в механизмах селективного внимания играют локальные рекуррентные связи в нейронных сетях мозга. Эти внутренние обратные связи позволяют усиливать релевантные сигналы, подавлять нерелевантную информацию и стабилизировать формирующиеся репрезентации.
 
@@ -316,6 +335,8 @@ flowchart TD
 
 #### 4.2. Глобальные рекуррентные сети
 
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -339,6 +360,8 @@ flowchart TD
     L --> Q[Нарушения: фрагментация внимания, дезорганизация поведения]
 ```
 
+</details>
+
 Помимо локальных рекуррентных связей, селективное внимание также опирается на глобальные рекуррентные сети, объединяющие распределенные области мозга.
 
 ##### 4.2.1. Долговременное поддержание внимания
@@ -355,17 +378,22 @@ flowchart TD
 
 В целом, глобальные рекуррентные сети обеспечивают долговременное поддержание фокуса внимания, гибкое переключение между задачами, а также координацию распределенных процессов, лежащих в основе селективного внимания. Они играют ключевую роль в обеспечении целостности и адаптивности когнитивного контроля.
 
-**Список литературы**:
+<details>
+<summary>Источники</summary>
 
-- 1. Miller, E.K., & Cohen, J.D. (2001). An integrative theory of prefrontal cortex function. Annual Review of Neuroscience.
-- 2. Baddeley, A. (1986). Working memory. Oxford University Press.
-- 3. Monsell, S. (2003). Task switching. Trends in Cognitive Sciences.
-- 4. Miyake, A., & Friedman, N.P. (2012). The nature and organization of individual differences in executive functions. Current Directions in Psychological Science.
-- 5. Posner, M.I., & Petersen, S.E. (1990). The attention system of the human brain. Annual Review of Neuroscience.
-- 6. Corbetta, M., & Shulman, G.L. (2002). Control of goal-directed and stimulus-driven attention in the brain. Nature Reviews Neuroscience.
+- [1]. Miller, E.K., & Cohen, J.D. (2001). An integrative theory of prefrontal cortex function. Annual Review of Neuroscience.
+- [2]. Baddeley, A. (1986). Working memory. Oxford University Press.
+- [3]. Monsell, S. (2003). Task switching. Trends in Cognitive Sciences.
+- [4]. Miyake, A., & Friedman, N.P. (2012). The nature and organization of individual differences in executive functions. Current Directions in Psychological Science.
+- [5]. Posner, M.I., & Petersen, S.E. (1990). The attention system of the human brain. Annual Review of Neuroscience.
+- [6]. Corbetta, M., & Shulman, G.L. (2002). Control of goal-directed and stimulus-driven attention in the brain. Nature Reviews Neuroscience.
 
+</details>
 
 ### 5. ЭКСПЕРИМЕНТАЛЬНЫЕ ДАННЫЕ
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -395,6 +423,8 @@ flowchart TD
     U --> X[Динамика нейронной активности при внимании]
 ```
 
+</details>
+
 #### 5.1 Нейровизуализационные исследования
 
 Многочисленные fMRI-исследования подтверждают ключевую роль рекуррентных процессов в реализации селективного внимания. Было показано, что направленное внимание к определенным стимулам или пространственным локациям сопровождается характерными изменениями в паттернах активности мозга:
@@ -418,19 +448,21 @@ flowchart TD
 
 > Таким образом, нейровизуализационные данные свидетельствуют, что селективное внимание реализуется через комплексные механизмы, включающие как усиление активности в релевантных областях, так и подавление нерелевантной информации, а также динамическую модуляцию взаимодействий между распределенными нейронными сетями.
 
-**Список литературы**:
+<details>
+<summary>Источники</summary>
 
-- 1. Corbetta, M., Miezin, F. M., Dobmeyer, S., Shulman, G. L., & Petersen, S. E. (1990). Attentional modulation of neural processing of shape, color, and velocity in humans. Science.
-- 2. Kastner, S., Pinsk, M. A., De Weerd, P., Desimone, R., & Ungerleider, L. G. (1999). Increased activity in human visual cortex during directed attention in the absence of visual stimulation. Neuron.
-- 3. Corbetta, M., Kincade, J. M., Ollinger, J. M., McAvoy, M. P., & Shulman, G. L. (2000). Voluntary orienting is dissociated from target detection in human posterior parietal cortex. Nature neuroscience.
-- 4. Yantis, S., Schwarzbach, J., Serences, J. T., Carlson, R. L., Steinmetz, M. A., Pekar, J. J., & Courtney, S. M. (2002). Transient neural activity in human parietal cortex during spatial attention shifts. Nature neuroscience.
-- 5. Giesbrecht, B., Woldorff, M. G., Song, A. W., & Mangun, G. R. (2003). Neural mechanisms of top-down control during spatial and feature attention. Neuroimage.
-- 6. Serences, J. T., & Yantis, S. (2006). Selective visual attention and perceptual coherence. Trends in cognitive sciences.
-- 7. Pinsk, M. A., Kastner, S., Desimone, R., & Ungerleider, L. G. (2004). Modulation of neural responses by attention in the human lateral geniculate nucleus. Proceedings of the National Academy of Sciences.
-- 8. Hopfinger, J. B., Buonocore, M. H., & Mangun, G. R. (2000). The neural mechanisms of top-down attentional control. Nature neuroscience.
-- 9. Bressler, S. L., Tang, W., Sylvester, C. M., Shulman, G. L., & Corbetta, M. (2008). Top-down control of human visual cortex by frontal and parietal cortex in anticipatory visual spatial attention. Journal of Neuroscience.
-- 10. Friston, K. J. (2011). Functional and effective connectivity: a review. Brain connectivity.
+- [1]. Corbetta, M., Miezin, F. M., Dobmeyer, S., Shulman, G. L., & Petersen, S. E. (1990). Attentional modulation of neural processing of shape, color, and velocity in humans. Science.
+- [2]. Kastner, S., Pinsk, M. A., De Weerd, P., Desimone, R., & Ungerleider, L. G. (1999). Increased activity in human visual cortex during directed attention in the absence of visual stimulation. Neuron.
+- [3]. Corbetta, M., Kincade, J. M., Ollinger, J. M., McAvoy, M. P., & Shulman, G. L. (2000). Voluntary orienting is dissociated from target detection in human posterior parietal cortex. Nature neuroscience.
+- [4]. Yantis, S., Schwarzbach, J., Serences, J. T., Carlson, R. L., Steinmetz, M. A., Pekar, J. J., & Courtney, S. M. (2002). Transient neural activity in human parietal cortex during spatial attention shifts. Nature neuroscience.
+- [5]. Giesbrecht, B., Woldorff, M. G., Song, A. W., & Mangun, G. R. (2003). Neural mechanisms of top-down control during spatial and feature attention. Neuroimage.
+- [6]. Serences, J. T., & Yantis, S. (2006). Selective visual attention and perceptual coherence. Trends in cognitive sciences.
+- [7]. Pinsk, M. A., Kastner, S., Desimone, R., & Ungerleider, L. G. (2004). Modulation of neural responses by attention in the human lateral geniculate nucleus. Proceedings of the National Academy of Sciences.
+- [8]. Hopfinger, J. B., Buonocore, M. H., & Mangun, G. R. (2000). The neural mechanisms of top-down attentional control. Nature neuroscience.
+- [9]. Bressler, S. L., Tang, W., Sylvester, C. M., Shulman, G. L., & Corbetta, M. (2008). Top-down control of human visual cortex by frontal and parietal cortex in anticipatory visual spatial attention. Journal of Neuroscience.
+- [10]. Friston, K. J. (2011). Functional and effective connectivity: a review. Brain connectivity.
 
+</details>
 
 #### 5.2 Электрофизиологические данные
 
@@ -453,22 +485,26 @@ flowchart TD
 
 Эти изменения ВП отражают динамику нейронной активности, связанной с процессами селекции, интеграции и принятия решений в ходе направленного внимания. Они демонстрируют, что рекуррентные взаимодействия между сенсорными, ассоциативными и исполнительными областями коры лежат в основе гибкого управления вниманием.
 
-**Список литературы**:
+<details>
+<summary>Источники</summary>
 
-- 1. Fries, P. (2015). Rhythms for Cognition: Communication through Coherence. Neuron.
-- 2. Womelsdorf, T., & Fries, P. (2007). The role of neuronal synchronization in selective attention. Current opinion in neurobiology.
-- 3. Engel, A. K., Fries, P., & Singer, W. (2001). Dynamic predictions: oscillations and synchrony in top-down processing. Nature Reviews Neuroscience.
-- 4. Salinas, E., & Sejnowski, T. J. (2001). Correlated neuronal activity and the flow of neural information. Nature Reviews Neuroscience.
-- 5. Buschman, T. J., & Miller, E. K. (2007). Top-down versus bottom-up control of attention in the prefrontal and posterior parietal cortices. Science.
-- 6. Gregoriou, G. G., Gotts, S. J., Zhou, H., & Desimone, R. (2009). High-frequency, long-range coupling between prefrontal and visual cortex during attention. Science.
-- 7. Dehaene, S., Changeux, J. P., Naccache, L., Sackur, J., & Sergent, C. (2006). Conscious, preconscious, and subliminal processing: a testable taxonomy. Trends in cognitive sciences.
-- 8. Schroeder, C. E., & Lakatos, P. (2009). Low-frequency neuronal oscillations as instruments of sensory selection. Trends in neurosciences.
-- 9. Hillyard, S. A., Vogel, E. K., & Luck, S. J. (1998). Sensory gain control (amplification) as a mechanism of selective attention: electrophysiological and neuroimaging evidence. Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences.
-- 10. Luck, S. J., Woodman, G. F., & Vogel, E. K. (2000). Event-related potential studies of attention. Trends in cognitive sciences.
+- [1]. Fries, P. (2015). Rhythms for Cognition: Communication through Coherence. Neuron.
+- [2]. Womelsdorf, T., & Fries, P. (2007). The role of neuronal synchronization in selective attention. Current opinion in neurobiology.
+- [3]. Engel, A. K., Fries, P., & Singer, W. (2001). Dynamic predictions: oscillations and synchrony in top-down processing. Nature Reviews Neuroscience.
+- [4]. Salinas, E., & Sejnowski, T. J. (2001). Correlated neuronal activity and the flow of neural information. Nature Reviews Neuroscience.
+- [5]. Buschman, T. J., & Miller, E. K. (2007). Top-down versus bottom-up control of attention in the prefrontal and posterior parietal cortices. Science.
+- [6]. Gregoriou, G. G., Gotts, S. J., Zhou, H., & Desimone, R. (2009). High-frequency, long-range coupling between prefrontal and visual cortex during attention. Science.
+- [7]. Dehaene, S., Changeux, J. P., Naccache, L., Sackur, J., & Sergent, C. (2006). Conscious, preconscious, and subliminal processing: a testable taxonomy. Trends in cognitive sciences.
+- [8]. Schroeder, C. E., & Lakatos, P. (2009). Low-frequency neuronal oscillations as instruments of sensory selection. Trends in neurosciences.
+- [9]. Hillyard, S. A., Vogel, E. K., & Luck, S. J. (1998). Sensory gain control (amplification) as a mechanism of selective attention: electrophysiological and neuroimaging evidence. Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences.
+- [10]. Luck, S. J., Woodman, G. F., & Vogel, E. K. (2000). Event-related potential studies of attention. Trends in cognitive sciences.
 
+</details>
 
 ### 6. МАТЕМАТИЧЕСКОЕ МОДЕЛИРОВАНИЕ
 
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -488,6 +524,8 @@ flowchart TD
   C --> C2[Стабильность внимания]
   C --> C3[Скорость переключения]
 ```
+
+</details>
 
 #### 6.1 Динамические модели
 
@@ -520,13 +558,13 @@ $\frac{dx}{dt} = f(x, u, p)$
 
 Такие модели аттракторной динамики позволяют объяснить механизмы селективного внимания, его устойчивость, а также гибкость переключения между различными объектами или задачами.
 
-**Источники**:
+<details>
+<summary>Источники</summary>
 
-- 1. Deco, G., & Rolls, E. T. (2005). Attention, short-term memory, and action selection: a unifying theory. *Progress in neurobiology*, 76(4), 236-256.
-- 2. Ardid, S., Wang, X. J., & Compte, A. (2007). An integrated microcircuit model of attentional processing in the neocortex. *Journal of Neuroscience*, 27(32), 8486-8495.
+- [1]. Deco, G., & Rolls, E. T. (2005). Attention, short-term memory, and action selection: a unifying theory. *Progress in neurobiology*, 76(4), 236-256.
+- [2]. Ardid, S., Wang, X. J., & Compte, A. (2007). An integrated microcircuit model of attentional processing in the neocortex. *Journal of Neuroscience*, 27(32), 8486-8495.
 
-
-
+</details>
 
 ##### 6.1.2 Стохастические процессы
 
@@ -544,13 +582,15 @@ $P(X(t+1) = j \mid X(t) = i) = p_{ij}$
 
 Таким образом, в каждый момент времени система выбирает новый фокус внимания в соответствии с вероятностными переходами между различными альтернативами. Параметры $p_{ij}$ могут быть связаны с нейрофизиологическими механизмами, лежащими в основе процессов переключения внимания.
 
-**Ключевые источники:**
+<details>
+<summary>Источники</summary>
 
-- 1. Itti, L., & Baldi, P. (2009). Bayesian surprise attracts human attention. Vision research, 49(10), 1295-1306.
-- 2. Fecteau, J. H., & Munoz, D. P. (2006). Salience, relevance, and firing: a priority map for target selection. Trends in cognitive sciences, 10(8), 382-390.
-- 3. Markov chains: https://en.wikipedia.org/wiki/Markov_chain
-- 4. Rao, R. P., & Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. Nature neuroscience, 2(1), 79-87.
+- [1]. Itti, L., & Baldi, P. (2009). Bayesian surprise attracts human attention. Vision research, 49(10), 1295-1306.
+- [2]. Fecteau, J. H., & Munoz, D. P. (2006). Salience, relevance, and firing: a priority map for target selection. Trends in cognitive sciences, 10(8), 382-390.
+- [3]. Markov chains: https://en.wikipedia.org/wiki/Markov_chain
+- [4]. Rao, R. P., & Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. Nature neuroscience, 2(1), 79-87.
 
+</details>
 
 ##### 6.1.3 Осцилляторные модели
 
@@ -588,14 +628,17 @@ $P(X(t+1) = j \mid X(t) = i) = p_{ij}$
 
 
 
-**Список литературы**:
+<details>
+<summary>Источники</summary>
 
-- 1. Deco, G., & Rolls, E. T. (2005). Attention, short-term memory, and action selection: a unifying theory. Progress in neurobiology.
-- 2. Ardid, S., Wang, X. J., & Compte, A. (2007). An integrated microcircuit model of attentional processing in the neocortex. Journal of Neuroscience.
-- 3. Itti, L., & Baldi, P. (2009). Bayesian surprise attracts human attention. Vision research.
-- 4. Fecteau, J. H., & Munoz, D. P. (2006). Salience, relevance, and firing: a priority map for target selection. Trends in cognitive sciences.
-- 5. Tiesinga, P., & Sejnowski, T. J. (2010). Mechanisms for phase shifting in cortical networks and their role in communication through coherence. Frontiers in human neuroscience.
-- 6. Börgers, C., & Kopell, N. (2008). Gamma oscillations and stimulus selection. Neural computation.
+- [1]. Deco, G., & Rolls, E. T. (2005). Attention, short-term memory, and action selection: a unifying theory. Progress in neurobiology.
+- [2]. Ardid, S., Wang, X. J., & Compte, A. (2007). An integrated microcircuit model of attentional processing in the neocortex. Journal of Neuroscience.
+- [3]. Itti, L., & Baldi, P. (2009). Bayesian surprise attracts human attention. Vision research.
+- [4]. Fecteau, J. H., & Munoz, D. P. (2006). Salience, relevance, and firing: a priority map for target selection. Trends in cognitive sciences.
+- [5]. Tiesinga, P., & Sejnowski, T. J. (2010). Mechanisms for phase shifting in cortical networks and their role in communication through coherence. Frontiers in human neuroscience.
+- [6]. Börgers, C., & Kopell, N. (2008). Gamma oscillations and stimulus selection. Neural computation.
+
+</details>
 
 #### 6.2. Информационные метрики
 
@@ -636,11 +679,11 @@ $E_{\text{sel}} = \frac{P_{\text{out,target}}}{P_{\text{out,distractors}}}$,
 
 ### 8. Библиография:
 
-- 1. Posner, M.I., & Petersen, S.E. (1990). The attention system of the human brain. Annual Review of Neuroscience
-- 2. Desimone, R., & Duncan, J. (1995). Neural mechanisms of selective visual attention. Annual Review of Neuroscience
-- 3. Corbetta, M., & Shulman, G.L. (2002). Control of goal-directed and stimulus-driven attention in the brain. Nature Reviews Neuroscience
-- 4. Fries, P. (2015). Rhythms for Cognition: Communication through Coherence. Neuron
-- 5. Miller, E.K., & Cohen, J.D. (2001). An integrative theory of prefrontal cortex function. Annual Review of Neuroscience
+- [1]. Posner, M.I., & Petersen, S.E. (1990). The attention system of the human brain. Annual Review of Neuroscience
+- [2]. Desimone, R., & Duncan, J. (1995). Neural mechanisms of selective visual attention. Annual Review of Neuroscience
+- [3]. Corbetta, M., & Shulman, G.L. (2002). Control of goal-directed and stimulus-driven attention in the brain. Nature Reviews Neuroscience
+- [4]. Fries, P. (2015). Rhythms for Cognition: Communication through Coherence. Neuron
+- [5]. Miller, E.K., & Cohen, J.D. (2001). An integrative theory of prefrontal cortex function. Annual Review of Neuroscience
 
 ---
 
