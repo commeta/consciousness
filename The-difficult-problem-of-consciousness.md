@@ -1,6 +1,9 @@
 # Трудная проблема сознания в контексте теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)
 
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 flowchart TD
     A["Ψ Трудная проблема сознания"] --> B["λᵢⱼ Теория Эмергентной Интеграции и Рекуррентного Отображения"]
@@ -59,6 +62,8 @@ flowchart TD
     class A,B,C,D,E,F centerText
 ```
 
+</details>
+
 ---
 
 ## Аннотация
@@ -78,6 +83,9 @@ flowchart TD
 Данная работа направлена на исследование того, как принципы ЭИРО могут пролить свет на природу сознания и предоставить новые инструменты для решения трудной проблемы. Мы рассмотрим математическую формализацию теории, ее нейробиологические основы, а также проанализируем, как ЭИРО может объяснить ключевые аспекты сознательного опыта.
 
 ### 2. Математическая формализация ЭИРО
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -99,6 +107,8 @@ graph TD
     L --> M[Математическая модель]
     M --> M1["P(θ|D) = (P(D|θ) ⋅ P(θ)) / P(D)"]
 ```
+
+</details>
 
 #### 2.1. Эмерджентная интегрированная информация (Φₑ)
 
@@ -143,6 +153,9 @@ $P(\theta \mid D) = \frac{P(D \mid \theta) \cdot P(\theta)}{P(D)},$
 Это позволяет мозгу адаптировать свои внутренние модели к изменяющимся условиям, что важно для формирования сознательного опыта.
 
 ### 3. Нейробиологические основы ЭИРО
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -190,6 +203,8 @@ flowchart TD
     F2 --> F23[Модуляция плотности ионных каналов]
     F --> F3[Роль рекуррентности]
 ```
+
+</details>
 
 #### 3.1. Иерархическая организация мозга
 
@@ -360,6 +375,9 @@ LTP представляет собой устойчивое усиление с
 
 ### 4. Решение трудной проблемы сознания через призму ЭИРО
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A[Эмерджентность сознания] --> B[Коллективная динамика нейронных сетей]
@@ -391,6 +409,8 @@ graph TD
     Q --> T[Оптогенетика]
     Q --> U[Математическое моделирование]
 ```
+
+</details>
 
 #### 4.1. Эмерджентность сознания
 
@@ -500,14 +520,14 @@ $P(\theta \mid D) = \frac{P(D \mid \theta) \cdot P(\theta)}{P(D)}$
 
 ### 6. Библиография
 
-- 1. Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5(1), 42.
-- 2. Dehaene, S., & Changeux, J. P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
-- 3. Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127-138.
-- 4. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0. *PLoS Computational Biology*, 10(5), e1003588.
-- 5. Boly, M., Massimini, M., Garrido, M. I., Gosseries, O., Noirhomme, Q., Laureys, S., & Soddu, A. (2012). Brain connectivity in disorders of consciousness. *Brain connectivity*, 2(1), 1-10.
-- 6. Chalmers, D. J. (1995). Facing up to the problem of consciousness. *Journal of Consciousness Studies*, 2(3), 200-219.
-- 7. Koch, C. (2019). The feeling of life itself: Why consciousness is widespread but can't be computed. *MIT Press*.
-- 8. Searle, J. R. (1997). The mystery of consciousness. *New York Review of Books*.
+- [1]. Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5(1), 42.
+- [2]. Dehaene, S., & Changeux, J. P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
+- [3]. Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127-138.
+- [4]. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0. *PLoS Computational Biology*, 10(5), e1003588.
+- [5]. Boly, M., Massimini, M., Garrido, M. I., Gosseries, O., Noirhomme, Q., Laureys, S., & Soddu, A. (2012). Brain connectivity in disorders of consciousness. *Brain connectivity*, 2(1), 1-10.
+- [6]. Chalmers, D. J. (1995). Facing up to the problem of consciousness. *Journal of Consciousness Studies*, 2(3), 200-219.
+- [7]. Koch, C. (2019). The feeling of life itself: Why consciousness is widespread but can't be computed. *MIT Press*.
+- [8]. Searle, J. R. (1997). The mystery of consciousness. *New York Review of Books*.
 
 ---
 
