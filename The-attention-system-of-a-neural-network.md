@@ -1,5 +1,8 @@
 # Система внимания нейронной сети через призму теории Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО)
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A["Эмергентная интеграция и рекуррентное отображение (ЭИРО)"]
@@ -60,6 +63,8 @@ graph TD
     D --> D3
 ```
 
+</details>
+
 
 ## Аннотация
 
@@ -117,6 +122,8 @@ $P(\theta \mid D) = \frac{P(D \mid \theta) P(\theta)}{P(D)},$
 
 ### 2. Механизмы внимания у человека
 
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -169,6 +176,8 @@ graph TD
     D3 --> D3b[Гибкость внимания]
     D3 --> D3c[Применение в ИНС]
 ```
+
+</details>
 
 #### 2.1. Нейрофизиологические основы
 
@@ -302,6 +311,9 @@ graph TD
 
 ---
 
+<details>
+<summary>Источники</summary>
+
 **Литература**:
 
 1. Posner, M. I.,  Petersen, S. E. The attention system of the human brain. *Annual Review of Neuroscience*, 13(1), 25-42 (1990).
@@ -313,6 +325,8 @@ graph TD
 4. Breitmeyer, B. G.,  Ogmen, H. Visual masking: Time slices through conscious and unconscious vision. *Oxford University Press* (2006).
 
 5. Corbetta, M.,  Shulman, G. L. Control of goal-directed and stimulus-driven attention in the brain. *Nature Reviews Neuroscience*, 3(3), 201-215 (2002).
+
+</details>
 
 ---
 
@@ -374,6 +388,7 @@ $\mathcal{L} = \mathcal{L}_{standard} + \lambda (-\Phi_e),$
 ### Заключение
 
 Теория Эмергентной Интеграции и Рекуррентного Отображения предоставляет ценные инсайты для понимания механизмов внимания в человеческом мозге и их применения в искусственных нейронных сетях. Усиление рекуррентных связей и интеграции информации может привести к развитию более эффективных и осознанных систем искусственного интеллекта. Дальнейшие исследования в этой области способны раскрыть новые возможности для создания продвинутых когнитивных систем.
+
 
 ### Список литературы
 
