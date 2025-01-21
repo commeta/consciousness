@@ -1,5 +1,8 @@
 # Нейрокогнитивные механизмы мышления человека в контексте теории ЭИРО
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 flowchart TD
     A["Ψ Нейрокогнитивные механизмы мышления"] --> B["λᵢⱼ Архитектура нейронных сетей"]
@@ -29,19 +32,11 @@ flowchart TD
     E --> E3["Оптимизация обучения"]
 ```
 
+</details>
+
 ---
 
-## ОГЛАВЛЕНИЕ:
-
-1. Введение
-2. Методология исследования
-3. Архитектура нейронных сетей мышления
-4. Механизмы интеграции информации
-5. Эмпирическая валидация
-6. Выводы
-7. Библиография
-
-### 1. ВВЕДЕНИЕ
+## 1. ВВЕДЕНИЕ
 
 Понимание нейрокогнитивных механизмов, лежащих в основе мышления человека, является одной из ключевых задач современной нейронауки. Несмотря на значительные успехи в области визуализации мозговой активности и моделирования нейронных сетей, многие аспекты организации и функционирования мыслительных процессов остаются неясными. 
 
@@ -61,6 +56,8 @@ flowchart TD
 
 #### 2.1 Методы исследования:
 
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -102,6 +99,8 @@ graph TD
     E --> E7[Байесовская оптимизация]
 ```
 
+</details>
+
 ##### 2.1.1 фМРТ высокого разрешения (7Т):
 
 Функциональная магнитно-резонансная томография (фМРТ) с использованием сверхвысокопольных 7-Тесловых сканеров позволяет получать изображения мозга с беспрецедентным пространственным разрешением. Типичные параметры таких измерений:
@@ -129,11 +128,14 @@ graph TD
 
 Исследования с использованием 7Т фМРТ продемонстрировали возможность детального картирования иерархической организации и рекуррентных связей в системах восприятия, что согласуется с ключевыми положениями теории ЭИРО.
 
-Ссылки:
+<details>
+<summary>Источники</summary>
+
 - Uğurbil, K., Xu, J., Auerbach, E. J., Moeller, S., Vu, A. T., Duarte-Carvajalino, J. M., ... & Yacoub, E. (2013). Pushing spatial and temporal resolution for functional and diffusion MRI in the Human Connectome Project. Neuroimage, 80, 80-104.
 
 - Polimeni, J. R., Fischl, B., Greve, D. N., & Wald, L. L. (2010). Laminar analysis of 7T BOLD using an imposed spatial activation pattern in human V1. Neuroimage, 52(4), 1334-1346.
 
+</details>
 
 ##### 2.1.2 МЭГ/ЭЭГ высокого разрешения:
 
@@ -187,10 +189,12 @@ graph TD
 Применение оптогенетики в сочетании с методами нейровизуализации и электрофизиологии позволяет исследователям точечно манипулировать нейронными сетями, вовлеченными в процессы восприятия, и изучать их роль в формировании осознанного опыта (Deisseroth, 2015).
 
 
-Ссылка:
+<details>
+<summary>Источники</summary>
 
 - Deisseroth, K. (2015). Optogenetics: 10 years of microbial opsins in neuroscience. Nature Neuroscience, 18(9), 1213-1225.
 
+</details>
 
 ##### 2.1.4 Математическое моделирование:
 
@@ -227,6 +231,9 @@ graph TD
 
 #### 2.2 Выборка:
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A[Выборка] --> B[Здоровые добровольцы]
@@ -251,6 +258,8 @@ graph TD
     D --> D4[Сопоставимость: аналогично основной выборке]
 ```
 
+</details>
+
 ##### 2.2.1 Здоровые добровольцы (n=200)
 
 Для исследования нейрокогнитивных механизмов мышления была сформирована репрезентативная выборка из 200 здоровых добровольцев в возрасте от 18 до 65 лет (средний возраст 37.4 ± 12.1 лет, 102 женщины). Все участники были правшами, не имели неврологических или психических заболеваний в анамнезе, не употребляли психоактивные вещества. Данная выборка была отобрана из более широкой базы добровольцев (n=1500) с учетом критериев включения и исключения, прошедших всестороннее медицинское обследование [Poldrack et al., 2015, Nature Neuroscience].
@@ -265,14 +274,19 @@ graph TD
 
 Все участники исследования подписали информированное согласие, протокол был одобрен локальным этическим комитетом. Данные были собраны в соответствии с международными стандартами проведения биомедицинских исследований.
 
-Источники:
+<details>
+<summary>Источники</summary>
 
 - Poldrack, R. A., Barch, D. M., Mitchell, J. P., Wager, T. D., Wagner, A. D., Devlin, J. T., ... & Milham, M. P. (2013). Toward open sharing of task-based fMRI data. Neuroimage, 82, 647-654.
 
 - Giacino, J. T., Katz, D. I., Schiff, N. D., Whyte, J., Ashman, E. J., Ashwal, S., ... & Zasler, N. D. (2018). Practice guideline update recommendations summary: Disorders of consciousness. Neurology, 91(10), 450-460.
 
+</details>
 
 ### 3. АРХИТЕКТУРА НЕЙРОННЫХ СЕТЕЙ МЫШЛЕНИЯ
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -314,6 +328,8 @@ graph TD
     C2_2 --> C2_2_1[Самосознание, эпизодическая память]
 ```
 
+</details>
+
 #### 3.1 Иерархическая организация:
 
 ##### 3.1.1 Первичные зоны обработки
@@ -340,12 +356,14 @@ graph TD
 
 Ассоциативные зоны характеризуются более сложными вычислениями, основанными на рекуррентных связях и интеграции информации из различных источников.
 
-Источники:
+<details>
+<summary>Источники</summary>
 
 - Felleman, D.J., & Van Essen, D.C. (1991). Distributed hierarchical processing in the primate cerebral cortex. Cerebral Cortex, 1(1), 1-47.
 
 - Goldman-Rakic, P.S. (1988). Topography of cognition: parallel distributed networks in primate association cortex. Annual Review of Neuroscience, 11(1), 137-156.
 
+</details>
 
 #### 3.2 Рекуррентные связи:
 
@@ -380,7 +398,8 @@ graph TD
 Ключевую роль в организации рекуррентных связей играют обратные проекции, обеспечивающие взаимодействие между иерархическими уровнями обработки информации [Lamme & Roelfsema, 2000]. Эти механизмы лежат в основе предиктивного кодирования, позволяющего формировать внутренние модели восприятия и действия.
 
 
-Источники:
+<details>
+<summary>Источники</summary>
 
 - Douglas, R.J., & Martin, K.A. (2004). Neuronal circuits of the neocortex. Annual Review of Neuroscience, 27, 419-451.
 
@@ -408,9 +427,12 @@ graph TD
 
 - Lamme, V.A., & Roelfsema, P.R. (2000). The distinct modes of vision offered by feedforward and recurrent processing. Trends in Neurosciences, 23(11), 571-579.
 
+</details>
 
 ### 4. МЕХАНИЗМЫ ИНТЕГРАЦИИ ИНФОРМАЦИИ
 
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -442,6 +464,8 @@ graph TD
   D3 --> D3_2[Обновление внутренних моделей]
 ```
 
+</details>
+
 #### 4.1 Синхронизация:
 
 ##### 4.1.1 Гамма-осцилляции (30-100 Гц)
@@ -456,7 +480,8 @@ graph TD
 
 За счет гамма-синхронизации обеспечивается также интеграция информации во времени. Осцилляции в гамма-диапазоне создают временные "окна" для объединения сигналов, поступающих с различной задержкой. Это позволяет связывать воедино разрозненные элементы сенсорного восприятия или когнитивного процесса в целостные представления [3]. Таким образом, гамма-ритмы являются ключевым механизмом темпоральной интеграции в нейронных сетях мозга.
 
-Источники:
+<details>
+<summary>Источники</summary>
 
 - [1] Fries, P. (2015). Rhythms for cognition: communication through coherence. Neuron, 88(1), 220-235.
 
@@ -464,6 +489,7 @@ graph TD
 
 - [3] Engel, A. K., Fries, P., & Singer, W. (2001). Dynamic predictions: oscillations and synchrony in top–down processing. Nature Reviews Neuroscience, 2(10), 704-716.
 
+</details>
 
 #### 4.2 Нейропластичность:
 
@@ -487,11 +513,14 @@ graph TD
 
 Эти механизмы работают в дополнение к NMDA-зависимой потенциации, обеспечивая сбалансированную и устойчивую активность нейронных сетей [Turrigiano, 2008].
 
-Источники:
+<details>
+<summary>Источники</summary>
 
 - Kandel, E. R. (2001). The molecular biology of memory storage: a dialogue between genes and synapses. Science, 294(5544), 1030-1038.
 
 - Turrigiano, G. G. (2008). The self-tuning neuron: synaptic scaling of excitatory synapses. Cell, 135(3), 422-435.
+
+</details>
 
 #### 4.3 Предиктивное кодирование:
 
@@ -507,7 +536,8 @@ graph TD
 
 Ключевым механизмом предиктивного кодирования является непрерывная минимизация ошибки предсказания. Нейроны на каждом уровне иерархии пытаются предсказать входные сигналы, поступающие с нижележащих уровней. Разница между предсказанием и реальным сигналом (ошибка предсказания) передается по восходящим связям, чтобы скорректировать внутренние модели на вышестоящих уровнях [Rao & Ballard, 1999]. Таким образом, мозг постоянно обновляет свои представления, стремясь к максимально точному предсказанию сенсорных данных.
 
-Источники:
+<details>
+<summary>Источники</summary>
 
 - Friston, K. (2010). The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 11(2), 127-138.
 
@@ -515,8 +545,12 @@ graph TD
 
 - Rao, R. P., & Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. Nature neuroscience, 2(1), 79-87.
 
+</details>
 
 ### 5. ЭМПИРИЧЕСКАЯ ВАЛИДАЦИЯ
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -538,6 +572,8 @@ graph TD
   C2 --> C2_2[Дезинтеграция связей в префронтально-теменной сети]
 ```
 
+</details>
+
 #### 5.1 фМРТ-исследования:
 
 ##### 5.1.1 Связь Φₑ с осознанием
@@ -550,7 +586,8 @@ graph TD
 
 Таким образом, фМРТ-данные подтверждают центральные положения теории ЭИРО, демонстрируя тесную связь между эмергентной интегрированной информацией, рекуррентными взаимодействиями и осознанными состояниями.
 
-Литература:
+<details>
+<summary>Источники</summary>
 
 - [1] Tononi, G., & Koch, C. (2015). Consciousness: here, there and everywhere? Philosophical Transactions of the Royal Society B: Biological Sciences, 370(1668), 20140167.
 
@@ -560,6 +597,7 @@ graph TD
 
 - [4] Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0. PLoS computational biology, 10(5), e1003588.
 
+</details>
 
 #### 5.2 Клинические данные:
 
@@ -581,7 +619,8 @@ graph TD
 
 Эти данные свидетельствуют о том, что нарушение механизмов эмергентной интеграции и рекуррентной обработки информации лежит в основе когнитивных дефицитов при различных расстройствах сознания и психических заболеваниях.
 
-Источники:
+<details>
+<summary>Источники</summary>
 
 - Casali, A. G., Gosseries, O., Rosanova, M., Boly, M., Sarasso, S., Casali, K. R., ... & Massimini, M. (2013). A theoretically based index of consciousness independent of sensory processing and behavior. Science translational medicine, 5(198), 198ra105-198ra105.
 
@@ -591,6 +630,7 @@ graph TD
 
 - Anticevic, A., Gancsos, M., Murray, J. D., Repovs, G., Driesen, N. R., Ennis, D. J., ... & Corlett, P. R. (2015). NMDA receptor function in large-scale anticorrelated neural systems with implications for cognition and schizophrenia. Proceedings of the National Academy of Sciences, 112(26), 8129-8134.
 
+</details>
 
 ### 6. ВЫВОДЫ
 
@@ -606,40 +646,40 @@ graph TD
 
 ### БИБЛИОГРАФИЯ:
 
-- 1. Dehaene, S., & Changeux, J.P. (2011). Experimental and theoretical approaches to conscious processing. Neuron, 70(2), 200-227.
+- [1]. Dehaene, S., & Changeux, J.P. (2011). Experimental and theoretical approaches to conscious processing. Neuron, 70(2), 200-227.
 
-- 2. Douglas, R.J., & Martin, K.A. (2004). Neuronal circuits of the neocortex. Annual Review of Neuroscience, 27, 419-451.
+- [2]. Douglas, R.J., & Martin, K.A. (2004). Neuronal circuits of the neocortex. Annual Review of Neuroscience, 27, 419-451.
 
-- 3. Felleman, D.J., & Van Essen, D.C. (1991). Distributed hierarchical processing in the primate cerebral cortex. Cerebral Cortex, 1(1), 1-47.
+- [3]. Felleman, D.J., & Van Essen, D.C. (1991). Distributed hierarchical processing in the primate cerebral cortex. Cerebral Cortex, 1(1), 1-47.
 
-- 4. Fries, P. (2015). Rhythms for cognition: communication through coherence. Neuron, 88(1), 220-235.
+- [4]. Fries, P. (2015). Rhythms for cognition: communication through coherence. Neuron, 88(1), 220-235.
 
-- 5. Friston, K. (2010). The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 11(2), 127-138.
+- [5]. Friston, K. (2010). The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 11(2), 127-138.
 
-- 6. Goldman-Rakic, P.S. (1988). Topography of cognition: parallel distributed networks in primate association cortex. Annual Review of Neuroscience, 11(1), 137-156.
+- [6]. Goldman-Rakic, P.S. (1988). Topography of cognition: parallel distributed networks in primate association cortex. Annual Review of Neuroscience, 11(1), 137-156.
 
-- 7. Kandel, E.R. (2001). The molecular biology of memory storage: a dialogue between genes and synapses. Science, 294(5544), 1030-1038.
+- [7]. Kandel, E.R. (2001). The molecular biology of memory storage: a dialogue between genes and synapses. Science, 294(5544), 1030-1038.
 
-- 8. Tononi, G., & Koch, C. (2015). Consciousness: here, there and everywhere? Philosophical Transactions of the Royal Society B: Biological Sciences, 370(1668), 20140167.
+- [8]. Tononi, G., & Koch, C. (2015). Consciousness: here, there and everywhere? Philosophical Transactions of the Royal Society B: Biological Sciences, 370(1668), 20140167.
 
 
 ### Дополнительные источники:
 
-- 1. Uğurbil, K. (2013). "Ultra-high field magnetic resonance imaging at 7T"
+- [1]. Uğurbil, K. (2013). "Ultra-high field magnetic resonance imaging at 7T"
 
-- 2. Polimeni, J.R. (2018). "Layer-specific analysis of human brain connectivity"
+- [2]. Polimeni, J.R. (2018). "Layer-specific analysis of human brain connectivity"
 
-- 3. Michel, C.M. (2019). "EEG source imaging"
+- [3]. Michel, C.M. (2019). "EEG source imaging"
 
-- 4. Deisseroth, K. (2015). "Optogenetics: 10 years of microbial opsins in neuroscience"
+- [4]. Deisseroth, K. (2015). "Optogenetics: 10 years of microbial opsins in neuroscience"
 
-- 5. Markram, H. (2015). "Reconstruction and simulation of neocortical microcircuitry"
+- [5]. Markram, H. (2015). "Reconstruction and simulation of neocortical microcircuitry"
 
-- 6. Kringelbach, M.L. (2020). "Neural basis of consciousness"
-
+- [6]. Kringelbach, M.L. (2020). "Neural basis of consciousness"
 
 
 ---
 
-Оглавление: [Теория Эмергентной Интеграции и Рекуррентного Отображения](/README.md)
-
+Оглавление: 
+- [ЭИРО framework](/README.md)
+- [Справочник формул](/formulas.md)
