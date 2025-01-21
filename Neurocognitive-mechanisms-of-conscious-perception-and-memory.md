@@ -334,26 +334,26 @@ $M(t) = M_0 \exp\left(-\frac{t}{\tau}\right) + \int_{0}^{t} K(s) \Phi_e(t-s) \, 
 
 ### 6. Библиография:
 
-- 1. Baddeley, A. (2000). The episodic buffer: a new component of working memory? Trends in Cognitive Sciences, 4(11), 417-423.
-- 2. Dehaene, S., et al. (2006). Conscious, preconscious, and subliminal processing: a testable taxonomy. Trends in Cognitive Sciences, 10(5), 204-211.
-- 3. Kandel, E.R. (2001). The molecular biology of memory storage: a dialogue between genes and synapses. Science, 294(5544), 1030-1038.
-- 4. Squire, L.R. (2009). Memory systems of the brain: A brief history and current perspective. Neurobiology of Learning and Memory, 82(3), 171-177.
-- 5. Sperling, G. (1960). The information available in brief visual presentations. Psychological Monographs: General and Applied, 74(11), 1–29.
-- 6. Mayford, M., Barzilai, A., Keller, F., Schacher, S., & Kandel, E.R. (1992). Modulation of an NCAM-related adhesion molecule with long-term synaptic plasticity in Aplysia. Science, 256(5057), 638-644.
-- 7. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0. PLoS Computational Biology, 10(5), e1003588.
-- 8. Tononi, G., & Cirelli, C. (2006). Sleep function and synaptic homeostasis. Sleep Medicine Reviews, 10(1), 49-62.
-- 9. Tononi, G. (2004). An information integration theory of consciousness. BMC Neuroscience, 5(1), 42.
-- 10. Baddeley, A. (2003). Working memory: looking back and looking forward. Nature Reviews Neuroscience, 4(10), 829-839.
-- 11. Baddeley, A.D., & Hitch, G.J. (1974). Working memory. In G.H. Bower (Ed.), The psychology of learning and motivation (Vol. 8, pp. 47-89). New York: Academic Press.
-- 12. Cahill, L., Babinsky, R., Markowitsch, H.J., & McGaugh, J.L. (1995). The amygdala and emotional memory. Nature, 377(6547), 295-296.
-- 13. McClelland, J.L., McNaughton, B.L., & O'Reilly, R.C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological Review, 102(3), 419-457.
-- 14. McGaugh, J.L. (2000). Memory–a century of consolidation. Science, 287(5451), 248-251.
-- 15. Scoville, W.B., & Milner, B. (1957). Loss of recent memory after bilateral hippocampal lesions. Journal of Neurology, Neurosurgery, and Psychiatry, 20(1), 11-21.
-- 16. Squire, L.R., & Alvarez, P. (1995). Retrograde amnesia and memory consolidation: a neurobiological perspective. Current Opinion in Neurobiology, 5, 169-177.
-- 17. Cowan, N. (1984). On short and long auditory stores. Psychological Bulletin, 96, 341-370.
-- 18. Mayford, M., Baranes, D., Podsypanina, K., & Kandel, E.R. (1996). The 3' untranslated region of CaMKIIα is a cis-acting signal for the localization and translation of mRNA in dendrites. Proceedings of the National Academy of Sciences, 93(4), 13250–13255.
-- 19. Luck, S.J., & Vogel, E.K. (1997). The capacity of visual working memory for features and conjunctions. Nature, 390, 279-281.
-- 20. Miller, G.A. (1956). The magical number seven, plus or minus two. Psychological Review, 63, 81-97.
+- [1]. Baddeley, A. (2000). The episodic buffer: a new component of working memory? Trends in Cognitive Sciences, 4(11), 417-423.
+- [2]. Dehaene, S., et al. (2006). Conscious, preconscious, and subliminal processing: a testable taxonomy. Trends in Cognitive Sciences, 10(5), 204-211.
+- [3]. Kandel, E.R. (2001). The molecular biology of memory storage: a dialogue between genes and synapses. Science, 294(5544), 1030-1038.
+- [4]. Squire, L.R. (2009). Memory systems of the brain: A brief history and current perspective. Neurobiology of Learning and Memory, 82(3), 171-177.
+- [5]. Sperling, G. (1960). The information available in brief visual presentations. Psychological Monographs: General and Applied, 74(11), 1–29.
+- [6]. Mayford, M., Barzilai, A., Keller, F., Schacher, S., & Kandel, E.R. (1992). Modulation of an NCAM-related adhesion molecule with long-term synaptic plasticity in Aplysia. Science, 256(5057), 638-644.
+- [7]. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0. PLoS Computational Biology, 10(5), e1003588.
+- [8]. Tononi, G., & Cirelli, C. (2006). Sleep function and synaptic homeostasis. Sleep Medicine Reviews, 10(1), 49-62.
+- [9]. Tononi, G. (2004). An information integration theory of consciousness. BMC Neuroscience, 5(1), 42.
+- [10]. Baddeley, A. (2003). Working memory: looking back and looking forward. Nature Reviews Neuroscience, 4(10), 829-839.
+- [11]. Baddeley, A.D., & Hitch, G.J. (1974). Working memory. In G.H. Bower (Ed.), The psychology of learning and motivation (Vol. 8, pp. 47-89). New York: Academic Press.
+- [12]. Cahill, L., Babinsky, R., Markowitsch, H.J., & McGaugh, J.L. (1995). The amygdala and emotional memory. Nature, 377(6547), 295-296.
+- [13]. McClelland, J.L., McNaughton, B.L., & O'Reilly, R.C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. Psychological Review, 102(3), 419-457.
+- [14]. McGaugh, J.L. (2000). Memory–a century of consolidation. Science, 287(5451), 248-251.
+- [15]. Scoville, W.B., & Milner, B. (1957). Loss of recent memory after bilateral hippocampal lesions. Journal of Neurology, Neurosurgery, and Psychiatry, 20(1), 11-21.
+- [16]. Squire, L.R., & Alvarez, P. (1995). Retrograde amnesia and memory consolidation: a neurobiological perspective. Current Opinion in Neurobiology, 5, 169-177.
+- [17]. Cowan, N. (1984). On short and long auditory stores. Psychological Bulletin, 96, 341-370.
+- [18]. Mayford, M., Baranes, D., Podsypanina, K., & Kandel, E.R. (1996). The 3' untranslated region of CaMKIIα is a cis-acting signal for the localization and translation of mRNA in dendrites. Proceedings of the National Academy of Sciences, 93(4), 13250–13255.
+- [19]. Luck, S.J., & Vogel, E.K. (1997). The capacity of visual working memory for features and conjunctions. Nature, 390, 279-281.
+- [20]. Miller, G.A. (1956). The magical number seven, plus or minus two. Psychological Review, 63, 81-97.
 
 
 ---
