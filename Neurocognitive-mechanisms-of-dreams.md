@@ -1,5 +1,7 @@
 # Нейрокогнитивные механизмы сновидений в контексте теории ЭИРО
 
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -44,6 +46,8 @@ flowchart TD
   G --> G3[Байесовские модели]
   G3 --> G4[Предсказательное кодирование и ошибки]
 ```
+
+</details>
 
 ---
 
@@ -110,6 +114,9 @@ flowchart TD
 
 #### 2.1. Фазы сна и активность мозга
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A[Фазы сна] --> B["Медленноволновый сон (NREM)"]
@@ -144,6 +151,8 @@ graph TD
     X --> Z[Фрагментированные сновидения]
     Y --> AA[Яркие и сюжетно-связные сновидения]
 ```
+
+</details>
 
 Сон человека характеризуется циклическим чередованием различных стадий, каждая из которых имеет свои особенности в активности мозга.
 
@@ -184,6 +193,9 @@ graph TD
 
 #### 2.2. Роль рекуррентных связей в генерации сновидений
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A[Роль рекуррентных связей в сновидениях] --> B[Таламо-кортикальные петли]
@@ -212,6 +224,8 @@ graph TD
     Q --> V[Нарушение синхронизации]
     V --> W[Прерывистые сновидения]
 ```
+
+</details>
 
 Рекуррентные связи в мозге играют ключевую роль в процессах, лежащих в основе сновидений. Согласно теории ЭИРО, сновидения являются результатом эмерджентной интеграции информации, опосредованной рекуррентными нейронными взаимодействиями.
 
@@ -254,6 +268,9 @@ graph TD
 
 #### 2.3. Нейромедиаторные системы и их влияние на сновидения
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A[Нейромедиаторные системы и сновидения] --> B[Холинергическая система]
@@ -295,6 +312,8 @@ graph TD
     AH --> AI[Снижение частоты сновидений]
 ```
 
+</details>
+
 Нейромедиаторные системы мозга играют ключевую роль в регуляции различных фаз сна и, соответственно, в генерации сновидений. Основными нейромедиаторными системами, вовлеченными в этот процесс, являются:
 
 **Холинергическая система**
@@ -323,16 +342,21 @@ graph TD
 
 Понимание роли нейромедиаторов в регуляции сна и сновидений открывает перспективы для разработки фармакологических подходов к коррекции нарушений сна и сновидений при различных патологических состояниях.
 
-**Ключевые источники:**
+<details>
+<summary>Источники</summary>
 
 1. Hobson, J.A. (2009). REM sleep and dreaming: towards a theory of protoconsciousness. *Nature Reviews Neuroscience*, 10(11), 803-813.
 2. Gottesmann, C. (2002). The neurochemistry of waking and sleeping mental activity. *Brain Research Bulletin*, 57(3-4), 349-356.
 3. Pace-Schott, E.F., & Hobson, J.A. (2002). The neurobiology of sleep: genetics, cellular physiology and subcortical networks. *Nature Reviews Neuroscience*, 3(8), 591-605.
 4. Solms, M. (2000). Dreaming and REM sleep are controlled by different brain mechanisms. *Behavioral and Brain Sciences*, 23(6), 843-850.
 
+</details>
 
 
 ### 3. Эмерджентная интеграция информации в сновидениях
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -384,6 +408,8 @@ graph TD
     AN --> AO[Нейтральные сновидения]
 ```
 
+</details>
+
 #### 3.1. Количественная оценка $\Phi_e$ во время сна
 
 Согласно теории ЭИРО, ключевым параметром, определяющим уровень сознательного восприятия, является эмергентная интегрированная информация ($\Phi_e$). Этот параметр можно использовать для количественной оценки процессов, лежащих в основе сновидений.
@@ -420,12 +446,15 @@ $R(x,t)$ - рекуррентная активность в точке $x$ в м
 
 Таким образом, количественная оценка Φₑ позволяет связать нейрофизиологические особенности различных стадий сна с характеристиками генерируемых сновидений. Это открывает новые возможности для понимания механизмов, лежащих в основе сновидений.
 
-Ключевые источники:
+<details>
+<summary>Источники</summary>
 
 1. Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5(1), 42.
 2. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0. *PLoS Computational Biology*, 10(5), e1003588.
 3. Siclari, F., Bernardi, G., Cataldi, J., & Tononi, G. (2018). Dreaming in NREM sleep: a high-density EEG study of slow waves and spindles. *The Journal of Neuroscience*, 38(43), 9175-9185.
 4. Siclari, F., Larocque, J. J., Postle, B. R., & Tononi, G. (2013). Assessing the ability to report consciousness during sleep. *Sleep*, 36(6), 859-869.
+
+</details>
 
 
 #### 3.2. Динамика Φₑ в различных фазах сна
@@ -451,11 +480,14 @@ $R(x,t)$ - рекуррентная активность в точке $x$ в м
 
 Экспериментальные исследования с использованием ЭЭГ, фМРТ и других нейровизуализационных методов подтверждают, что показатель Φₑ действительно коррелирует с интенсивностью сновидений и их феноменологическими особенностями [1,2,3]. Это свидетельствует о важной роли эмерджентной интеграции информации в генерации сновидческого опыта.
 
-**Ключевые источники:**
+<details>
+<summary>Источники</summary>
 
 1. Tononi, G., & Koch, C. (2015). Consciousness: here, there and everywhere? *Philosophical Transactions of the Royal Society B: Biological Sciences*, 370(1668), 20140167.
 2. Siclari, F., Bernardi, G., Cataldi, J., & Tononi, G. (2018). Dreaming in NREM sleep: a high-density EEG study of slow waves and spindles. *The Journal of Neuroscience*, 38(43), 9175-9185.
 3. Nieminen, J. O., Gosseries, O., Massimini, M., Saad, E., Sheldon, A. D., Boly, M., ... & Tononi, G. (2016). Consciousness and cortical responsiveness: a within-state study during non-rapid eye movement sleep. *Scientific reports*, 6, 30932.
+
+</details>
 
 
 #### 3.3. Связь Φₑ с характеристиками сновидений
@@ -490,6 +522,9 @@ $R(x,t)$ - рекуррентная активность в точке $x$ в м
 
 #### 4.1. Роль рекуррентных взаимодействий в генерации сновидений
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A[Рекуррентные процессы и формирование сновидений] --> B[Роль рекуррентных взаимодействий]
@@ -512,6 +547,8 @@ graph TD
     L --> Q[Нарушение синхронизации]
     Q --> R[Прерывистые, хаотичные сновидения]
 ```
+
+</details>
 
 Рекуррентные связи в мозге играют ключевую роль в процессах, лежащих в основе сновидений. Согласно теории ЭИРО, сновидения являются результатом эмерджентной интеграции информации, опосредованной рекуррентными нейронными взаимодействиями.
 
@@ -553,6 +590,9 @@ graph TD
 
 #### 4.2. Влияние рекуррентности на содержание и структуру сновидений
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A[Влияние рекуррентности на содержание и структуру сновидений] --> B[Формирование сюжетной линии]
@@ -575,6 +615,8 @@ graph TD
     K --> P[Десинхронизация рекуррентности]
     P --> Q[Прерывистые, хаотичные сновидения]
 ```
+
+</details>
 
 Рекуррентные связи в мозге играют ключевую роль в определении содержания и структуры сновидений. Согласно теории ЭИРО, циклические взаимодействия между различными областями мозга являются критическими для формирования целостных, связных и эмоционально насыщенных сновидений.
 
@@ -604,6 +646,9 @@ graph TD
 
 #### 4.3. Нарушения рекуррентности и их влияние на сновидения
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A[Нарушения рекуррентности и их влияние на сновидения] --> B[Снижение рекуррентности]
@@ -619,6 +664,8 @@ graph TD
     I --> J[Прерывистые, хаотичные сновидения]
     I --> K[Вторжение сновидений в бодрствование]
 ```
+
+</details>
 
 Рекуррентные связи в мозге играют ключевую роль в генерации и структурировании сновидений. Нарушения в работе этих рекуррентных механизмов могут приводить к значительным изменениям в характеристиках сновидений.
 
@@ -644,7 +691,8 @@ graph TD
 
 Таким образом, нарушения в работе рекуррентных механизмов мозга оказывают существенное влияние на характеристики сновидений, включая их связность, эмоциональную насыщенность, ощущение реальности и временную устойчивость. Понимание этих патологических процессов открывает новые возможности для диагностики и терапии расстройств сна и сновидений.
 
-**Ключевые источники:**
+<details>
+<summary>Источники</summary>
 
 1. Solms, M. (2000). Dreaming and REM sleep are controlled by different brain mechanisms. *Behavioral and Brain Sciences*, 23(6), 843-850.
 2. Gottesmann, C. (2010). The neurochemistry of waking and sleeping. *Brain Research Bulletin*, 81(2-3), 349-356.
@@ -652,12 +700,17 @@ graph TD
 4. Pace-Schott, E.F. (2013). Neurobiological basis of the dreaming brain. *Sleep Medicine Clinics*, 8(3), 399-420.
 5. Tononi, G., & Cirelli, C. (2014). Sleep and the price of plasticity: from synaptic and cellular homeostasis to memory consolidation and integration. *Neuron*, 81(1), 12-34.
 
+</details>
+
 
 
 
 ### 5. Предиктивное кодирование и сновидения
 
 #### 5.1. Формирование предсказаний во время сна
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -680,6 +733,8 @@ graph TD
     M --> O[Нарушения предсказательного кодирования]
     M --> P[Математические модели предиктивного кодирования]
 ```
+
+</details>
 
 Согласно теории предиктивного кодирования, мозг постоянно генерирует предсказания о сенсорных входах на основе внутренних моделей и обновляет эти модели в соответствии с ошибками предсказания. Этот механизм играет ключевую роль в процессах восприятия, памяти и сознания. 
 
@@ -728,7 +783,8 @@ graph TD
 
 Таким образом, формирование предсказаний является ключевым механизмом, лежащим в основе генерации сновидений. Рекуррентные взаимодействия между различными уровнями мозга, модулируемые нейромедиаторными системами, обеспечивают непрерывную генерацию предсказаний во время сна, определяя содержание и структуру сновидений. Понимание этих процессов открывает новые возможности для исследования природы сновидений и их связи с когнитивными функциями.
 
-**Ключевые источники**
+<details>
+<summary>Источники</summary>
 
 1. Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127-138.
 2. Hobson, J. A., & Friston, K. J. (2012). Waking and dreaming consciousness: neurobiological and functional considerations. *Progress in Neurobiology*, 98(1), 82-98.
@@ -736,11 +792,16 @@ graph TD
 4. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. *Trends in Cognitive Sciences*, 20(7), 512-534.
 5. Rao, R. P., & Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. *Nature Neuroscience*, 2(1), 79-87.
 
+</details>
+
 
 
 
 
 #### 5.2. Ошибки предсказания и их влияние на сновидения
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -761,6 +822,8 @@ graph TD
     K --> O[Ощущение реальности]
     K --> P[Обновление внутренних моделей]
 ```
+
+</details>
 
 Согласно теории предиктивного кодирования, лежащей в основе ЭИРО, мозг постоянно генерирует предсказания о сенсорных входах и обновляет свои внутренние модели на основе ошибок этих предсказаний. Данный механизм играет ключевую роль в формировании и характеристиках сновидений.
 
@@ -797,6 +860,9 @@ graph TD
 
 #### 5.3. Обновление внутренних моделей во время сна
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
     A[Обновление внутренних моделей во время сна] --> B[Генерация предсказаний]
@@ -824,6 +890,8 @@ graph TD
     R --> T[Диагностика и терапия нарушений сна]
 ```
 
+</details>
+
 Согласно теории предиктивного кодирования, одной из ключевых функций сна является обновление внутренних моделей, которые мозг использует для предсказания и интерпретации сенсорных данных. Во время сна, и особенно в фазу быстрого сна (REM), этот процесс обновления внутренних моделей происходит наиболее интенсивно.
 
 **Генерация предсказаний во время сна**
@@ -846,7 +914,8 @@ graph TD
 
 Нарушения в процессах обновления внутренних моделей во время сна могут лежать в основе ряда психических расстройств, таких как тревожные состояния, депрессия и шизофрения. Изучение этих механизмов открывает новые возможности для диагностики и терапевтического воздействия на нарушения сна и сновидений.
 
-**Ключевые источники**
+<details>
+<summary>Источники</summary>
 
 1. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. *Trends in Cognitive Sciences*, 20(7), 512-534.
 2. McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory. *Psychological Review*, 102(3), 419-457.
@@ -854,12 +923,17 @@ graph TD
 4. Hobson, J. A., & Friston, K. J. (2012). Waking and dreaming consciousness: neurobiological and functional considerations. *Progress in Neurobiology*, 98(1), 82-98.
 5. Rao, R. P., & Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. *Nature Neuroscience*, 2(1), 79-87.
 
+</details>
+
 
 
 
 ### 6. Клинические аспекты
 
 #### 6.1. Сновидения при психических расстройствах
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -896,6 +970,8 @@ graph TD
     Z --> AA[Диагностика и терапия психических расстройств]
     Z --> AB[Понимание патофизиологии заболеваний]
 ```
+
+</details>
 
 Сновидения являются неотъемлемой частью сна человека и отражают сложные нейрокогнитивные процессы, протекающие в мозге. При различных психических расстройствах характеристики сновидений могут значительно отличаться от нормы, предоставляя ценную информацию о нарушениях в работе мозга.
 
@@ -936,7 +1012,8 @@ graph TD
 
 Изучение особенностей сновидений при различных психических расстройствах предоставляет ценную информацию о нарушениях в работе мозга. Согласно теории ЭИРО, эти нарушения связаны с изменениями в механизмах эмерджентной интеграции информации и рекуррентной обработки. Дальнейшие исследования в этом направлении могут способствовать лучшему пониманию патофизиологии психических заболеваний и открыть новые возможности для их диагностики и терапии.
 
-**Ключевые источники**
+<details>
+<summary>Источники</summary>
 
 1. Gottesmann, C. (2002). GABA mechanisms and sleep. *Neuroscience*, 111(2), 231-239.
 2. Cartwright, R. (2010). The twenty-four hour mind: the role of sleep and dreaming in our emotional lives. *Oxford University Press*.
@@ -944,8 +1021,13 @@ graph TD
 4. Armitage, R. (2007). Sleep and circadian rhythms in mood disorders. *Acta Psychiatrica Scandinavica*, 115(s433), 104-115.
 5. Germain, A. (2013). Sleep disturbances as the hallmark of PTSD: where are we now? *American Journal of Psychiatry*, 170(4), 372-382.
 
+</details>
+
 
 #### 6.2. Нарушения сна и их влияние на сновидения
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -1002,6 +1084,8 @@ graph TD
     D --> AN[Использование сновидений в терапии расстройств сна]
     D --> AO[Разработка методов лечения нарушений сна и сновидений]
 ```
+
+</details>
 
 Сон является важным физиологическим процессом, оказывающим значительное влияние на когнитивные функции, в том числе на формирование и переживание сновидений. Различные нарушения сна могут приводить к существенным изменениям в характеристиках и содержании сновидений. Понимание этих взаимосвязей имеет важное значение для диагностики и лечения расстройств сна, а также для исследования природы сновидений.
 
@@ -1063,7 +1147,8 @@ graph TD
 
 Нарушения сна оказывают существенное влияние на характеристики и содержание сновидений. Понимание этих взаимосвязей имеет важное значение для диагностики и лечения расстройств сна, а также для исследования природы сновидений. Дальнейшее изучение механизмов, связывающих нарушения сна и особенности сновидений, открывает новые возможности в клинической практике.
 
-**Ключевые источники**
+<details>
+<summary>Источники</summary>
 
 1. Cartwright, R. (2010). The twenty-four hour mind: the role of sleep and dreaming in our emotional lives. Oxford University Press.
 2. Gottesmann, C. (2002). GABA mechanisms and sleep. Neuroscience, 111(2), 231-239.
@@ -1071,9 +1156,14 @@ graph TD
 4. Armitage, R. (2007). Sleep and circadian rhythms in mood disorders. Acta Psychiatrica Scandinavica, 115(s433), 104-115.
 5. Solms, M. (2000). Dreaming and REM sleep are controlled by different brain mechanisms. Behavioral and Brain Sciences, 23(6), 843-850.
 
+</details>
+
 
 
 #### 6.3. Терапевтический потенциал изучения сновидений
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -1110,6 +1200,8 @@ graph TD
     O --> X[Холинергические агонисты для усиления сновидений]
 ```
 
+</details>
+
 Сновидения являются неотъемлемой частью сна человека и отражают сложные нейрокогнитивные процессы, протекающие в мозге. Изучение сновидений может предоставить ценную информацию о работе мозга и открыть новые возможности для терапевтического воздействия на различные психические расстройства.
 
 Согласно теории ЭИРО, сновидения возникают в результате интеграции информации через рекуррентные нейронные взаимодействия. Понимание механизмов, лежащих в основе сновидений, может способствовать разработке эффективных методов диагностики, профилактики и лечения нарушений сна и психических заболеваний.
@@ -1139,7 +1231,8 @@ graph TD
 
 Изучение сновидений с позиций теории ЭИРО открывает новые возможности для диагностики и терапевтического воздействия на различные психические расстройства. Понимание нейрокогнитивных механизмов, лежащих в основе сновидений, может способствовать разработке инновационных подходов к лечению нарушений сна, тревожных состояний, ПТСР и других заболеваний. Дальнейшие исследования в этом направлении имеют большой потенциал для улучшения качества жизни пациентов и повышения эффективности психотерапевтической практики.
 
-**Ключевые источники**
+<details>
+<summary>Источники</summary>
 
 1. Cartwright, R. (2010). The twenty-four hour mind: the role of sleep and dreaming in our emotional lives. Oxford University Press.
 2. Schredl, M. (2018). Applying nightmare therapy in clinical practice. Sleep Medicine Clinics, 13(2), 291-299.
@@ -1147,9 +1240,14 @@ graph TD
 4. Germain, A. (2013). Sleep disturbances as the hallmark of PTSD: where are we now? American Journal of Psychiatry, 170(4), 372-382.
 5. Dresler, M., Wehrle, R., Spoormaker, V. I., Holsboer, F., Steiger, A., Czisch, M., & Hobson, J. A. (2015). Neural correlates of dream lucidity obtained from contrasting lucid versus non-lucid REM sleep: a combined EEG/fMRI case study. Sleep, 38(7), 1091-1101.
 
+</details>
+
 
 
 ### 7. Математическое моделирование сновидений
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -1189,6 +1287,8 @@ graph TD
     D6 --> D61[Роль нейрохимических механизмов]
     D7 --> D71[Анализ сновидений при психических расстройствах]
 ```
+
+</details>
 
 #### 7.1. Модели рекуррентных нейронных сетей
 
@@ -1267,13 +1367,16 @@ GRU сохраняют эффективность LSTM, но имеют мень
 
 Таким образом, модели рекуррентных нейронных сетей предоставляют мощный инструментарий для исследования нейрокогнитивных механизмов, лежащих в основе сновидений, в контексте теории ЭИРО. Их применение позволяет моделировать динамические процессы, интеграцию информации и предсказательные способности, характерные для генерации сновидений.
 
-Ключевые источники
+<details>
+<summary>Источники</summary>
 
 1. Elman, J. L. (1990). Finding structure in time. *Cognitive Science*, 14(2), 179-211.
 2. Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. *Neural Computation*, 9(8), 1735-1780.
 3. Cho, K., Van Merriënboer, B., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H., & Bengio, Y. (2014). Learning phrase representations using RNN encoder-decoder for statistical machine translation. *arXiv preprint arXiv:1406.1078*.
 4. Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5(1), 42.
 5. Hobson, J. A., & Friston, K. J. (2012). Waking and dreaming consciousness: neurobiological and functional considerations. *Progress in Neurobiology*, 98(1), 82-98.
+
+</details>
 
 
 
@@ -1332,13 +1435,16 @@ $L(\theta, s_t) = -\ln P(s_t \mid \theta)$
 
 Таким образом, байесовские модели предиктивного кодирования предоставляют мощный математический аппарат для описания механизмов, ответственных за формирование и характеристики сновидений, в соответствии с теорией ЭИРО.
 
-Ключевые источники
+<details>
+<summary>Источники</summary>
 
 1. Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127-138.
 2. Rao, R. P., & Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. *Nature Neuroscience*, 2(1), 79-87.
 3. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. *Trends in Cognitive Sciences*, 20(7), 512-534.
 4. Hobson, J. A., & Friston, K. J. (2012). Waking and dreaming consciousness: neurobiological and functional considerations. *Progress in Neurobiology*, 98(1), 82-98.
 5. Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181-204.
+
+</details>
 
 
 
