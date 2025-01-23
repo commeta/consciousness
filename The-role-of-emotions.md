@@ -1,6 +1,9 @@
 # Роль эмоций в теории ЭИРО
 
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
   A[ЭИРО] --> B[Эмоции и интеграция информации]
@@ -36,64 +39,11 @@ graph TD
   R --> Z[Фокусировка внимания]
 ```
 
+</details>
+
 ---
 
-## Оглавление
-
-- 1. Введение
-   - 1.1. Актуальность исследования
-   - 1.2. Цели и задачи
-- 2. Нейробиологические основы связи эмоций и ЭИРО
-   - 2.1. Роль лимбической системы
-      - 2.1.1 Миндалина и ее участие в эмоциональной обработке информации
-      - 2.1.2 Гиппокамп и интеграция эмоциональных аспектов в эпизодическую память
-   - 2.2. Нейромедиаторные системы
-      - 2.2.1 Влияние моноаминергических (серотонин, норадреналин, дофамин) и холинергических систем на эмоциональные процессы
-      - 2.2.2 Модуляция рекуррентной активности и интеграции информации нейромедиаторами
-      - 2.2.3 Нарушения в нейромедиаторных системах и их связь с эмоциональными расстройствами
-   - 2.3. Роль эмоций в рекуррентной обработке
-      - 2.3.1 Усиление рекуррентных взаимодействий при эмоциональной активации
-      - 2.3.2 Эмоциональная окраска как результат эмерджентной интеграции информации
-- 3. Математическое моделирование роли эмоций в ЭИРО
-   - 3.1. Расширение формулы Φₑ
-      - 3.1.1 Введение параметра E(эмоциональности)(t), отражающего степень эмоциональной модуляции
-      - 3.1.2 Анализ влияния E(t) на общую эмерджентную интегрированную информацию
-   - 3.2 Модели рекуррентных нейронных сетей с эмоциональным компонентом
-      - 3.2.1 Архитектуры RNN, включающие модули для эмоциональной обработки
-      - 3.2.2 Механизмы взаимодействия эмоциональных и когнитивных процессов
-      - 3.2.3 Влияние эмоциональных параметров на динамику рекуррентных сетей
-   - 3.3 Байесовские модели предиктивного кодирования и эмоции
-      - 3.3.1 Роль эмоций в формировании априорных и апостериорных вероятностных распределений
-      - 3.3.2 Влияние эмоциональных факторов на процессы обновления внутренних моделей
-      - 3.3.3 Интеграция эмоциональных и когнитивных компонентов в байесовских подходах
-- 4. Клиническое значение роли эмоций в ЭИРО
-   - 4.1. Эмоциональные расстройства и нарушения ЭИРО
-      - 4.1.1 Связь между эмоциональными нарушениями (тревожность, депрессия) и изменениями в параметрах Φₑ, R(t), E(t)
-      - 4.1.2 Влияние психических заболеваний на взаимодействие эмоциональных и когнитивных процессов
-   - 4.2. Диагностика и терапия на основе ЭИРО
-      - 4.2.1 Использование ЭИРО для объективной оценки эмоциональных нарушений
-      - 4.2.2 Разработка новых терапевтических подходов, направленных на коррекцию дисбаланса эмоций и интеграции информации
-   - 4.3. Перспективы применения в нейропротезировании и нейрореабилитации
-      - 4.3.1 Учет эмоциональных аспектов при разработке интерфейсов "мозг-компьютер"
-      - 4.3.2 Методы восстановления рекуррентных связей и эмоциональной регуляции в нейрореабилитации
-- 5. Заключение
-   - 5.1. Основные выводы
-      - 5.1.1 Ключевая роль эмоций в процессах интеграции информации и рекуррентной обработки согласно ЭИРО
-      - 5.1.2 Математическое моделирование взаимодействия эмоциональных и когнитивных компонентов
-      - 5.1.3 Клиническое значение понимания роли эмоций в теории ЭИРО для диагностики и терапии психических расстройств
-   - 5.2. Перспективы дальнейших исследований
-     - 5.2.1 Дальнейшее развитие математических моделей, учитывающих эмоциональные факторы
-     - 5.2.2 Экспериментальная верификация влияния эмоций на параметры ЭИРО
-     - 5.2.3 Применение ЭИРО в разработке интеллектуальных систем с эмоциональным интеллектом
-   - 5.3. Практическое применение
-     - 5.3.1 Использование ЭИРО для объективной оценки эмоциональных нарушений
-     - 5.3.2 Разработка новых терапевтических подходов, направленных на коррекцию дисбаланса эмоций и интеграции информации
-     - 5.3.3 Учет эмоциональных аспектов при создании интерфейсов "мозг-компьютер" и методов нейрореабилитации
-
-
-___
-
-### 1. Введение
+## 1. Введение
 
 #### 1.1. Актуальность исследования
 
@@ -110,6 +60,9 @@ ___
 ### 2. Нейробиологические основы связи эмоций и ЭИРО
 
 #### 2.1. Роль лимбической системы
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -148,6 +101,8 @@ flowchart TD
     C4 --> C42[Модуляция консолидации эмоциональной памяти]
     C4 --> C43[Рекуррентные взаимодействия с миндалиной]
 ```
+
+</details>
 
 ##### 2.1.1. Миндалина и ее участие в эмоциональной обработке информации
 
@@ -201,6 +156,9 @@ flowchart TD
 
 #### 2.2. Нейромедиаторные системы
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 graph TD
   A[Нейромедиаторные системы] --> B[Серотонинергическая система]
@@ -223,6 +181,8 @@ graph TD
   F --> F1[Депрессия, тревога, когнитивные расстройства]
   F --> F2[Снижение рекуррентной активности и интеграции информации]
 ```
+
+</details>
 
 ##### 2.2.1. Влияние моноаминергических (серотонин, норадреналин, дофамин) и холинергических систем на эмоциональные процессы
 
@@ -257,7 +217,8 @@ graph TD
 - Это, в свою очередь, может оказывать влияние на параметры ЭИРО, такие как рекуррентность R(t) и эмерджентная интегрированная информация Φₑ.
 - Таким образом, изменения в нейромедиаторных системах могут лежать в основе эмоциональных нарушений, наблюдаемых при различных психических расстройствах.
 
-###### Библиография:
+<details>
+<summary>Источники</summary>
 
 - [1]. Olivier, B. (2015). Serotonin: a never-ending story. European journal of pharmacology, 753, 2-18.
 - [2]. Owens, M. J., & Nemeroff, C. B. (1994). Role of serotonin in the pathophysiology of depression: focus on the serotonin transporter. Clinical chemistry, 40(2), 288-295.
@@ -267,6 +228,8 @@ graph TD
 - [6]. Volkow, N. D., Fowler, J. S., & Wang, G. J. (2003). The addicted human brain: insights from imaging studies. The Journal of clinical investigation, 111(10), 1444-1451.
 - [7]. Hasselmo, M. E. (1999). Neuromodulation: acetylcholine and memory consolidation. Trends in cognitive sciences, 3(9), 351-359.
 - [8]. Sarter, M., Hasselmo, M. E., Bruno, J. P., & Givens, B. (2005). Unraveling the attentional functions of cortical cholinergic inputs: interactions between signal-driven and cognitive modulation of signal detection. Brain research reviews, 48(1), 98-111.
+
+</details>
 
 ##### 2.2.2. Модуляция рекуррентной активности и интеграции информации нейромедиаторами
 
@@ -292,7 +255,8 @@ graph TD
 
 Таким образом, нейромедиаторные системы мозга играют ключевую роль в модуляции рекуррентной активности и интеграции эмоциональной информации в соответствии с теорией Эмергентной Интеграции и Рекуррентного Отображения (ЭИРО). Нарушения в балансе этих нейрохимических систем лежат в основе многих эмоциональных расстройств и оказывают существенное влияние на параметры, характеризующие сознательный опыт в рамках ЭИРО.
 
-###### Библиография:
+<details>
+<summary>Источники</summary>
 
 - [1]. Deakin, J. F. (1998). The role of serotonin in depression and anxiety. European Psychiatry, 13, 57s-63s.
 - [2]. Drevets, W. C. (1999). Prefrontal cortical-amygdalar metabolism in major depression. Annals of the New York Academy of Sciences, 877(1), 614-637.
@@ -306,6 +270,8 @@ graph TD
 - [10]. McGaughy, J., Dalley, J. W., Morrison, C. H., Everitt, B. J., & Robbins, T. W. (2002). Selective behavioral and neurochemical effects of cholinergic lesions produced by intrabasalis infusions of 192 IgG-saporin on attentional performance in a five-choice serial reaction time task. Journal of Neuroscience, 22(5), 1905-1913.
 - [11]. Ressler, K. J., & Nemeroff, C. B. (2000). Role of serotonergic and noradrenergic systems in the pathophysiology of depression and anxiety disorders. Depression and anxiety, 12(S1), 2-19.
 - [12]. Bremner, J. D., Krystal, J. H., Southwick, S. M., & Charney, D. S. (1996). Noradrenergic mechanisms in stress and anxiety: I. Preclinical studies. Synapse, 23(1), 28-38.
+
+</details>
 
 
 ##### 2.2.3. Нарушения в нейромедиаторных системах и их связь с эмоциональными расстройствами
@@ -332,7 +298,8 @@ graph TD
 - **Нарушения холинергической системы**: Дисбаланс в холинергической передаче связан с когнитивными и эмоциональными расстройствами, такими как деменция и тревожность. Это может нарушать процессы интеграции эмоциональных и когнитивных компонентов сознательного опыта.
 
 
-###### Ключевые источники:
+<details>
+<summary>Источники</summary>
 
 - [1]. Duman, R. S., & Aghajanian, G. K. (2012). Synaptic dysfunction in depression: potential therapeutic targets. Science, 338(6103), 68-72.
 - [2]. Robbins, T. W., & Arnsten, A. F. (2009). The neuropsychopharmacology of fronto-executive function: monoaminergic modulation. Annual review of neuroscience, 32, 267-287.
@@ -340,8 +307,13 @@ graph TD
 - [4]. Tononi, G. (2004). An information integration theory of consciousness. BMC Neuroscience, 5(1), 42.
 - [5]. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0. PLoS Computational Biology, 10(5), e1003588.
 
+</details>
+
 
 #### 2.3. Роль эмоций в рекуррентной обработке
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -372,6 +344,8 @@ flowchart TD
     V --> W[Психические расстройства]
 ```
 
+</details>
+
 ##### 2.3.1. Усиление рекуррентных взаимодействий при эмоциональной активации
 
 Согласно теории ЭИРО, эмоции оказывают существенное влияние на рекуррентные процессы в мозге, что в свою очередь определяет характеристики сознательного опыта.
@@ -393,13 +367,16 @@ $\Phi_e = \int_{0}^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t
 
 
 
-###### Ключевые источники:
+<details>
+<summary>Источники</summary>
 
 - [1]. Sander, D., Grafman, J., & Zalla, T. (2003). The human amygdala: an evolved system for relevance detection. Reviews in the Neurosciences, 14(4), 303-316.
 - [2]. Pessoa, L., & Adolphs, R. (2010). Emotion processing and the amygdala: from a 'low road' to 'many roads' of evaluating biological significance. Nature reviews neuroscience, 11(11), 773-783.
 - [3]. Dolan, R. J. (2002). Emotion, cognition, and behavior. Science, 298(5596), 1191-1194.
 - [4]. Dolcos, F., LaBar, K. S., & Cabeza, R. (2004). Interaction between the amygdala and the medial temporal lobe memory system predicts better memory for emotional events. Neuron, 42(5), 855-863.
 - [5]. Vuilleumier, P. (2005). How brains beware: neural mechanisms of emotional attention. Trends in cognitive sciences, 9(12), 585-594.
+
+</details>
 
 
 
@@ -430,7 +407,8 @@ $\Phi_e = \int_{0}^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t
 
 Таким образом, согласно теории ЭИРО, эмоциональная окраска сознательного опыта является результатом эффективной интеграции эмоциональной информации в рекуррентных нейронных сетях мозга. Нарушения в работе лимбической системы и дисбаланс нейромедиаторов могут приводить к искажениям эмоциональной модуляции, что отражается на целостности сознательного переживания.
 
-###### Ключевые источники:
+<details>
+<summary>Источники</summary>
 
 - [1]. Sander, D., Grafman, J., & Zalla, T. (2003). The human amygdala: an evolved system for relevance detection. Reviews in the Neurosciences, 14(4), 303-316.
 - [2]. Pessoa, L., & Adolphs, R. (2010). Emotion processing and the amygdala: from a 'low road' to 'many roads' of evaluating biological significance. Nature reviews neuroscience, 11(11), 773-783.
@@ -441,11 +419,16 @@ $\Phi_e = \int_{0}^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t
 - [7]. Ressler, K. J., & Nemeroff, C. B. (2000). Role of serotonergic and noradrenergic systems in the pathophysiology of depression and anxiety disorders. Depression and anxiety, 12(S1), 2-19.
 - [8]. Bremner, J. D., Krystal, J. H., Southwick, S. M., & Charney, D. S. (1996). Noradrenergic mechanisms in stress and anxiety: I. Preclinical studies. Synapse, 23(1), 28-38.
 
+</details>
+
 ---
 
 ### 3. Математическое моделирование роли эмоций в ЭИРО
 
 #### 3.1. Расширение формулы $\Phi_e$
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -472,6 +455,8 @@ flowchart TD
     R --> S[Определение характеристик сознательного опыта]
 ```
 
+</details>
+
 
 ##### 3.1.1. Введение параметра $E_{\text{emotion}}(t)$, отражающего степень эмоциональной модуляции
 
@@ -490,7 +475,8 @@ $\Phi_e = \int_{0}^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t
 Введение параметра $E(t)$ позволяет учесть влияние эмоциональных процессов на общую эмерджентную интегрированную информацию $\Phi_e$.
 
 
-##### Ключевые источники:
+<details>
+<summary>Источники</summary>
 
 - [1]. Sander, D., Grafman, J., & Zalla, T. (2003). The human amygdala: an evolved system for relevance detection. Reviews in the Neurosciences, 14(4), 303-316.
 - [2]. Pessoa, L., & Adolphs, R. (2010). Emotion processing and the amygdala: from a 'low road' to 'many roads' of evaluating biological significance. Nature reviews neuroscience, 11(11), 773-783.
@@ -498,6 +484,8 @@ $\Phi_e = \int_{0}^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t
 - [4]. Dolcos, F., LaBar, K. S., & Cabeza, R. (2004). Interaction between the amygdala and the medial temporal lobe memory system predicts better memory for emotional events. Neuron, 42(5), 855-863.
 - [5]. Ressler, K. J., & Nemeroff, C. B. (2000). Role of serotonergic and noradrenergic systems in the pathophysiology of depression and anxiety disorders. Depression and anxiety, 12(S1), 2-19.
 - [6]. Bremner, J. D., Krystal, J. H., Southwick, S. M., & Charney, D. S. (1996). Noradrenergic mechanisms in stress and anxiety: I. Preclinical studies. Synapse, 23(1), 28-38.
+
+</details>
 
 
 
@@ -533,7 +521,8 @@ $\Phi_e = \int_{0}^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t
 
 Таким образом, параметр E(эмоциональности)(t) играет ключевую роль в модуляции эмерджентной интегрированной информации Φₑ согласно теории ЭИРО. Он отражает степень влияния эмоциональных процессов на интеграцию информации в рекуррентных нейронных сетях, определяя характеристики сознательного опыта.
 
-###### Ключевые источники:
+<details>
+<summary>Источники</summary>
 
 - [1]. Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5(1), 42.
 - [2]. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0. *PLoS Computational Biology*, 10(5), e1003588.
@@ -541,8 +530,13 @@ $\Phi_e = \int_{0}^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t
 - [4]. Dolan, R. J. (2002). Emotion, cognition, and behavior. *Science*, 298(5596), 1191-1194.
 - [5]. Ressler, K. J., & Nemeroff, C. B. (2000). Role of serotonergic and noradrenergic systems in the pathophysiology of depression and anxiety disorders. *Depression and anxiety*, 12(S1), 2-19.
 
+</details>
+
 
 #### 3.2. Модели рекуррентных нейронных сетей с эмоциональным компонентом
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -569,6 +563,8 @@ graph TD
     M --> V["Рекуррентность R(t)"]
     V --> W[Эмерджентная интеграция информации Φₑ]
 ```
+
+</details>
 
 ##### 3.2.1. Архитектуры RNN, включающие модули для эмоциональной обработки
 
@@ -612,13 +608,16 @@ $y(t) = \omega(W_{yh} \cdot h(t) + W_{ye} \cdot e(t) + b_y)$
 
 Анализ динамики активации эмоционального модуля e(t) и его взаимодействия с состоянием скрытого слоя h(t) позволяет исследовать, как эмоциональные факторы влияют на параметры рекуррентности R(t) и эмерджентной интегрированной информации Φₑ в рамках ЭИРО.
 
-###### Ключевые источники:
+<details>
+<summary>Источники</summary>
 
 - [1]. Scherer, K. R. (2005). What are emotions? And how can they be measured?. Social science information, 44(4), 695-729.
 - [2]. Siegelmann, H. T., & Sontag, E. D. (1991). Turing computability with neural nets. Applied Mathematics Letters, 4(6), 77-80.
 - [3]. Graves, A. (2013). Generating sequences with recurrent neural networks. arXiv preprint arXiv:1308.0850.
 - [4]. Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. Neural computation, 9(8), 1735-1780.
 - [5]. Tononi, G. (2004). An information integration theory of consciousness. BMC Neuroscience, 5(1), 42.
+
+</details>
 
 
 
@@ -664,7 +663,8 @@ $\Phi_e = \int_0^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) 
 
 Таким образом, согласно теории ЭИРО, эмоции и когнитивные процессы тесно взаимодействуют, оказывая взаимное влияние на рекуррентную активность, интеграцию информации и, как следствие, на формирование целостного сознательного опыта.
 
-###### Ключевые источники:
+<details>
+<summary>Источники</summary>
 
 - [1]. Sander, D., Grafman, J., & Zalla, T. (2003). The human amygdala: an evolved system for relevance detection. Reviews in the Neurosciences, 14(4), 303-316.
 - [2]. Pessoa, L., & Adolphs, R. (2010). Emotion processing and the amygdala: from a 'low road' to 'many roads' of evaluating biological significance. Nature reviews neuroscience, 11(11), 773-783.
@@ -676,6 +676,8 @@ $\Phi_e = \int_0^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) 
 - [8]. Sarter, M., Hasselmo, M. E., Bruno, J. P., & Givens, B. (2005). Unraveling the attentional functions of cortical cholinergic inputs: interactions between signal-driven and cognitive modulation of signal detection. Brain research reviews, 48(1), 98-111.
 - [9]. Phelps, E. A. (2004). Human emotion and memory: interactions of the amygdala and hippocampal complex. Current opinion in neurobiology, 14(2), 198-202.
 - [10]. Dolcos, F., LaBar, K. S., & Cabeza, R. (2004). Interaction between the amygdala and the medial temporal lobe memory system predicts better memory for emotional events. Neuron, 42(5), 855-863.
+
+</details>
 
 
 
@@ -706,16 +708,22 @@ $\Phi_e = \int_{0}^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t
 
 Таким образом, эмоциональные процессы, опосредованные активностью лимбической системы и модуляцией нейромедиаторных систем, оказывают существенное влияние на параметр рекуррентности R(t), входящий в формулу расчета эмерджентной интегрированной информации Φₑ. Это подчеркивает важность учета эмоциональных факторов при анализе сознательного опыта в рамках теории ЭИРО.
 
-###### Ключевые источники:
+<details>
+<summary>Источники</summary>
 
 - [1]. Sander, D., Grafman, J., & Zalla, T. (2003). The human amygdala: an evolved system for relevance detection. *Reviews in the Neurosciences*, 14(4), 303-316.
 - [2]. Pessoa, L., & Adolphs, R. (2010). Emotion processing and the amygdala: from a 'low road' to 'many roads' of evaluating biological significance. *Nature reviews neuroscience*, 11(11), 773-783.
 - [3]. Olivier, B. (2015). Serotonin: a never-ending story. *European journal of pharmacology*, 753, 2-18.
 - [4]. Berridge, C. W., & Waterhouse, B. D. (2003). The locus coeruleus–noradrenergic system: modulation of behavioral state and state-dependent cognitive processes. *Brain research reviews*, 42(1), 33-84.
 
+</details>
+
 
 
 #### 3.3. Байесовские модели предиктивного кодирования и эмоции
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 graph TD
@@ -740,6 +748,9 @@ graph TD
     E --> E1[Эмоции в априорных распределениях]
     E --> E2[Эмоции в апостериорных распределениях]
 ```
+
+</details>
+
 
 ##### 3.3.1. Роль эмоций в формировании априорных и апостериорных вероятностных распределений
 
@@ -817,7 +828,8 @@ graph TD
 Таким образом, согласно теории ЭИРО, эмоции оказывают существенное влияние на формирование как априорных, так и апостериорных вероятностных распределений в рамках байесовского подхода к предиктивному кодированию. Это отражает тесную взаимосвязь между эмоциональными и когнитивными процессами, лежащими в основе сознательного опыта.
 
 
-##### Ключевые источники:
+<details>
+<summary>Источники</summary>
 
 - [1]. Dolcos, F., LaBar, K. S., & Cabeza, R. (2004). Interaction between the amygdala and the medial temporal lobe memory system predicts better memory for emotional events. Neuron, 42(5), 855-863.
 - [2]. Phelps, E. A. (2004). Human emotion and memory: interactions of the amygdala and hippocampal complex. Current opinion in neurobiology, 14(2), 198-202.
@@ -832,6 +844,8 @@ graph TD
 - [11]. Duman, R. S., & Aghajanian, G. K. (2012). Synaptic dysfunction in depression: potential therapeutic targets. Science, 338(6103), 68-72.
 - [12]. Robbins, T. W., & Arnsten, A. F. (2009). The neuropsychopharmacology of fronto-executive function: monoaminergic modulation. Annual Review of Neuroscience, 32, 267-287.
 
+</details>
+
 
 ---
 
@@ -839,6 +853,9 @@ graph TD
 ### 4. Клиническое значение роли эмоций в ЭИРО
 
 #### 4.1. Эмоциональные расстройства и нарушения ЭИРО
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -877,6 +894,8 @@ flowchart TD
         Q
     end
 ```
+
+</details>
 
 ##### 4.1.1. Связь между эмоциональными нарушениями (тревожность, депрессия) и изменениями в параметрах Φₑ, R(t), E(t)
 
@@ -959,6 +978,9 @@ $\Phi_e = \int_0^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) 
 
 #### 4.2. Диагностика и терапия на основе ЭИРО
 
+<details>
+<summary>блок-схема</summary>
+
 ```mermaid
 flowchart TD
     A[Диагностика и терапия на основе ЭИРО] --> B[Оценка эмоциональных нарушений]
@@ -1008,6 +1030,8 @@ flowchart TD
     end
 ```
 
+</details>
+
 ##### 4.2.1. Использование ЭИРО для объективной оценки эмоциональных нарушений
 
 Согласно теории ЭИРО, нарушения в балансе эмоциональных и когнитивных процессов, наблюдаемые при различных психических расстройствах, могут оказывать существенное влияние на параметры, характеризующие сознательный опыт.
@@ -1050,7 +1074,8 @@ $\Phi_e = \int_0^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) 
 
 
 
-###### Ключевые источники:
+<details>
+<summary>Источники</summary>
 
 - [1]. Deakin, J.F. (1998). The role of serotonin in depression and anxiety. *European Psychiatry*, 13, 57s-63s.
 - [2]. Drevets, W.C. (1999). Prefrontal cortical-amygdalar metabolism in major depression. *Annals of the New York Academy of Sciences*, 877(1), 614-637.
@@ -1061,8 +1086,13 @@ $\Phi_e = \int_0^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) 
 - [7]. Sander, D., Grafman, J., & Zalla, T. (2003). The human amygdala: an evolved system for relevance detection. *Reviews in the Neurosciences*, 14(4), 303-316.
 - [8]. Pessoa, L., & Adolphs, R. (2010). Emotion processing and the amygdala: from a 'low road' to 'many roads' of evaluating biological significance. *Nature reviews neuroscience*, 11(11), 773-783.
 
+</details>
+
 
 #### 4.3. Перспективы применения в нейропротезировании и нейрореабилитации
+
+<details>
+<summary>блок-схема</summary>
 
 ```mermaid
 flowchart TD
@@ -1094,6 +1124,8 @@ flowchart TD
         S --> W[Мультимодальные подходы]
     end
 ```
+
+</details>
 
 ##### 4.3.1. Учет эмоциональных аспектов при разработке интерфейсов "мозг-компьютер"
 
@@ -1137,12 +1169,15 @@ $\Phi_e = \int_0^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) 
 
 Таким образом, учет эмоциональных аспектов, отраженных в параметрах E(t) и R(t) теории ЭИРО, является перспективным направлением для разработки более эффективных и интуитивных интерфейсов "мозг-компьютер". Это позволит повысить качество взаимодействия пользователей с BCI-системами и расширить возможности их применения.
 
-###### Ключевые источники:
+<details>
+<summary>Источники</summary>
 
 - [1]. Sander, D., Grafman, J., & Zalla, T. (2003). The human amygdala: an evolved system for relevance detection. *Reviews in the Neurosciences*, 14(4), 303-316.
 - [2]. Pessoa, L., & Adolphs, R. (2010). Emotion processing and the amygdala: from a 'low road' to 'many roads' of evaluating biological significance. *Nature reviews neuroscience*, 11(11), 773-783.
 - [3]. Aston-Jones, G., & Cohen, J. D. (2005). An integrative theory of locus coeruleus-norepinephrine function: adaptive gain and optimal performance. *Annu. Rev. Neurosci.*, 28, 403-450.
 - [4]. Arnsten, A. F. (2009). Stress signalling pathways that impair prefrontal cortex structure and function. *Nature reviews neuroscience*, 10(6), 410-422.
+
+</details>
 
 
 ##### 4.3.2. Методы восстановления рекуррентных связей и эмоциональной регуляции в нейрореабилитации
@@ -1180,7 +1215,8 @@ $\Phi_e = \int_0^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) 
 
 Таким образом, согласно теории ЭИРО, восстановление рекуррентных связей и эмоциональной регуляции является ключевым направлением в нейрореабилитации пациентов с психическими расстройствами. Применение методов, воздействующих на эти механизмы, может способствовать улучшению интеграции информации и качества сознательного опыта.
 
-###### Ключевые источники:
+<details>
+<summary>Источники</summary>
 
 - [1]. Sander, D., Grafman, J., & Zalla, T. (2003). The human amygdala: an evolved system for relevance detection. *Reviews in the Neurosciences*, 14(4), 303-316.
 - [2]. Pessoa, L., & Adolphs, R. (2010). Emotion processing and the amygdala: from a 'low road' to 'many roads' of evaluating biological significance. *Nature reviews neuroscience*, 11(11), 773-783.
@@ -1196,6 +1232,8 @@ $\Phi_e = \int_0^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) 
 - [12]. Thayer, J. F., Åhs, F., Fredrikson, M., Sollers, J. J., & Wager, T. D. (2012). A meta-analysis of heart rate variability and neuroimaging studies: implications for heart rate variability as a marker of stress and health. *Neuroscience & Biobehavioral Reviews*, 36(2), 747-756.
 - [13]. Mennin, D. S., Fresco, D. M., Ritter, M., & Heimberg, R. G. (2015). An open trial of emotion regulation therapy for generalized anxiety disorder and cooccurring depression. *Depression and anxiety*, 32(8), 614-623.
 - [14]. Gross, J. J. (2015). Emotion regulation: Current status and future prospects. *Psychological Inquiry*, 26(1), 1-26.
+
+</details>
 
 
 ---
@@ -1231,7 +1269,8 @@ $\Phi_e = \int_0^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) 
 
 Таким образом, понимание ключевой роли эмоций в теории ЭИРО имеет важное клиническое значение для диагностики, терапии и реабилитации пациентов с нарушениями, связанными с эмоциональной сферой.
 
-##### Список литературы:
+<details>
+<summary>Источники</summary>
 
 - [1]. Pessoa, L., & Adolphs, R. (2010). Emotion processing and the amygdala: from a 'low road' to 'many roads' of evaluating biological significance. Nature reviews neuroscience, 11(11), 773-783.
 - [2]. Dolcos, F., LaBar, K. S., & Cabeza, R. (2004). Interaction between the amygdala and the medial temporal lobe memory system predicts better memory for emotional events. Neuron, 42(5), 855-863.
@@ -1245,6 +1284,8 @@ $\Phi_e = \int_0^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) 
 - [10]. Bremner, J. D., Krystal, J. H., Southwick, S. M., & Charney, D. S. (1996). Noradrenergic mechanisms in stress and anxiety: I. Preclinical studies. Synapse, 23(1), 28-38.
 - [11]. Duman, R. S., & Aghajanian, G. K. (2012). Synaptic dysfunction in depression: potential therapeutic targets. Science, 338(6103), 68-72.
 - [12]. Robbins, T. W., & Arnsten, A. F. (2009). The neuropsychopharmacology of fronto-executive function: monoaminergic modulation. Annual Review of Neuroscience, 32, 267-287.
+
+</details>
 
 
 #### 5.2. Перспективы дальнейших исследований
@@ -1322,7 +1363,8 @@ $\Phi_e = \int_0^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) 
 
 Аналогично, методы нейрореабилитации, основанные на принципах ЭИРО, могут способствовать восстановлению рекуррентных связей и эмоциональной регуляции, улучшая качество жизни пациентов с различными нарушениями.
 
-##### Ключевые источники:
+<details>
+<summary>Источники</summary>
 
 - [1]. Deakin, J.F. (1998). The role of serotonin in depression and anxiety. *European Psychiatry*, 13, 57s-63s.
 - [2]. Drevets, W.C. (1999). Prefrontal cortical-amygdalar metabolism in major depression. *Annals of the New York Academy of Sciences*, 877(1), 614-637.
@@ -1332,6 +1374,8 @@ $\Phi_e = \int_0^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) 
 - [6]. Sarter, M., Hasselmo, M.E., Bruno, J.P., & Givens, B. (2005). Unraveling the attentional functions of cortical cholinergic inputs: interactions between signal-driven and cognitive modulation of signal detection. *Brain research reviews*, 48(1), 98-111.
 - [7]. Sander, D., Grafman, J., & Zalla, T. (2003). The human amygdala: an evolved system for relevance detection. *Reviews in the Neurosciences*, 14(4), 303-316.
 - [8]. Pessoa, L., & Adolphs, R. (2010). Emotion processing and the amygdala: from a 'low road' to 'many roads' of evaluating biological significance. *Nature reviews neuroscience*, 11(11), 773-783.
+
+</details>
 
 
 ---
