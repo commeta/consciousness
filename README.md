@@ -62,7 +62,7 @@ graph TD
 
 
 <details>
-<summary>Теория сознания</summary>
+<summary>Теория сознания (Beta 0.1) </summary>
 
 #### Теория сознания
 
@@ -262,7 +262,7 @@ graph TD
 
 
 <details>
-<summary>Рекуррентная космология</summary>
+<summary>Рекуррентная космология (experimental branch)</summary>
 
 #### Рекуррентная космология
 
@@ -445,7 +445,7 @@ graph TD
 
 
 <details>
-<summary>Информатика и Искусственный интеллект</summary>
+<summary>Информатика и Искусственный интеллект (experimental branch)</summary>
 
 ```mermaid
 graph TD
