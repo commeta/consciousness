@@ -543,7 +543,7 @@ graph TD
 
 
 <details>
-<summary>Генетика и молекулярная биология</summary>
+<summary>Генетика и молекулярная биология (experimental branch)</summary>
 
 ```mermaid
 graph TD
