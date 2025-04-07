@@ -829,6 +829,7 @@ flowchart TD
 38. Wolpaw, J. R., Birbaumer, N., McFarland, D. J., Pfurtscheller, G., & Vaughan, T. M. (2002). Brain-computer interfaces for communication and control. Clinical Neurophysiology, 113(6), 767-791.
 39. Blankertz, B., Dornhege, G., Krauledat, M., Müller, K. R., & Curio, G. (2007). The non-invasive Berlin Brain-Computer Interface: fast acquisition of effective performance in untrained subjects. NeuroImage, 37(2), 539-550.
 40. Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need? Complementary learning systems theory updated. Trends in Cognitive Sciences, 20(7), 512-534.
+41. Surname, Initials., Surname, Initials., & Surname, Initials. (2025). Neural signatures of temporal anticipation in human cortex represent event probability density. Nature Communications, 16(2602). https://doi.org/10.1038/s41467-025-57813-7 
 
 
 ---
