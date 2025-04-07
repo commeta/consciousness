@@ -2276,7 +2276,7 @@ graph TD
 48. Hudetz, A. G. (2012). General anesthesia and human brain connectivity. Brain connectivity, 2(6), 291-302.
 49. Hofmann, S.G., Asnaani, A., Vonk, I.J., Sawyer, A.T., & Fang, A. (2012). The efficacy of cognitive behavioral therapy: A review of meta-analyses. *Cognitive therapy and research*, 36(5), 427-440.
 50. Schoenberg, P.L., & David, A.S. (2014). Biofeedback for psychiatric disorders: a systematic review. *Applied psychophysiology and biofeedback*, 39(2), 109-135.
-
+51. Surname, Initials., Surname, Initials., & Surname, Initials. (2025). Neural signatures of temporal anticipation in human cortex represent event probability density. Nature Communications, 16(2602). https://doi.org/10.1038/s41467-025-57813-7 
 
 ---
 
