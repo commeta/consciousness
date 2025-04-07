@@ -177,7 +177,7 @@ graph TD
 
   - [Эмоциональный интеллект (E_i) в контексте ЭИРО: структурный анализ и методология оценки](/Emotional-Intelligence.md) Nov 18, 2024 
 
-  - [Квантовая когерентность (Q_c) в контексте теории ЭИРО](/Quantum-Coherence.md) Nov 19, 2024 
+  - [Квантовая когерентность (Q_c) в контексте теории ЭИРО](/Quantum-Coherence.md) Nov 19, 2024. upd: Apr 7, 2025 
 
 - [Компоненты метрики Φₑ сознания животного в контексте теории ЭИРО](/Components-of-the-animal-consciousness-metricFe.md) Nov 18, 2024 
 
