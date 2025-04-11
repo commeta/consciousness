@@ -273,6 +273,8 @@
 
 2. Kurian, P., Obisesan, T. O., & Craddock, T. J. A. (2017). Oxidative species-induced excitonic transport in tubulin aromatic networks: Potential implications for neurodegenerative disease. *Journal of Photochemistry and Photobiology B: Biology*, 175, 109–124. https://doi.org/10.1016/j.jphotobiol.2017.08.033 
 
+3. How quantum entanglement in DNA synchronizes double-strand breakage by type II restriction endonucleases
+https://pubmed.ncbi.nlm.nih.gov/26682627/
 
 ---
 
