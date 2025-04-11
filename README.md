@@ -192,6 +192,7 @@ graph TD
 
 - [Принцип работы нейрона в контексте теории ЭИРО](/The-principle-of-operation-of-a-neuron.md) Nov 28, 2024 
 
+- [Механизмы extrasynaptic–передачи сигналов, синхронизации нейронной активности и когерентности](/mechanisms-of-extrasynaptic-signal-transmission-neuronal-activity-synchronization-and-coherence.md) Apr 11, 2025 
 
 
 #### Нейрофизиология
