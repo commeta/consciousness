@@ -192,7 +192,7 @@ graph TD
 
 - [Механизмы extrasynaptic–передачи сигналов, синхронизации нейронной активности и когерентности](/mechanisms-of-extrasynaptic-signal-transmission-neuronal-activity-synchronization-and-coherence.md) Apr 11, 2025 
 
-- [Исследование фронто-париетальной сети множественных требований (MD-сети) и её роли в когнитивных функциях человека](/multiple-requirement-networks.md) Mar 23, 2025 
+- [Исследование фронто-париетальной сети множественных требований (MD-сети) и её роли в когнитивных функциях человека](/multiple-requirement-networks.md) Apr 23, 2025 
 
 
 
