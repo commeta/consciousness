@@ -1971,7 +1971,7 @@ graph TD
 
 ---
 
-### Аналитика
+### Приложение: Аналитика
 
 <details>
 <summary>Рекуррентная космология (speculative experimental branch)</summary>
