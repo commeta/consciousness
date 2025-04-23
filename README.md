@@ -194,6 +194,9 @@ graph TD
 
 - [Механизмы extrasynaptic–передачи сигналов, синхронизации нейронной активности и когерентности](/mechanisms-of-extrasynaptic-signal-transmission-neuronal-activity-synchronization-and-coherence.md) Apr 11, 2025 
 
+- [Исследование фронто-париетальной сети множественных требований (MD-сети) и её роли в когнитивных функциях человека](/multiple-requirement-networks.md) Mar 23, 2025 
+
+
 
 #### Нейрофизиология
 
@@ -262,7 +265,7 @@ graph TD
 
 
 <details>
-<summary>Рекуррентная космология (experimental branch)</summary>
+<summary>Рекуррентная космология (speculative experimental branch)</summary>
 
 #### Рекуррентная космология
 
@@ -445,7 +448,7 @@ graph TD
 
 
 <details>
-<summary>Информатика и Искусственный интеллект (experimental branch)</summary>
+<summary>Информатика и Искусственный интеллект (speculative experimental branch)</summary>
 
 ```mermaid
 graph TD
@@ -543,7 +546,7 @@ graph TD
 
 
 <details>
-<summary>Генетика и молекулярная биология (experimental branch)</summary>
+<summary>Генетика и молекулярная биология (speculative experimental branch)</summary>
 
 ```mermaid
 graph TD
