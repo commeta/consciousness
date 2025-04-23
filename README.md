@@ -2324,7 +2324,7 @@ graph TD
 
 
 <details>
-<summary>Смежные дисциплины</summary>
+<summary>Смежные дисциплины (speculative experimental branch)</summary>
 
 #### Математика
 
