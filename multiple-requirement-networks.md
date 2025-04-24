@@ -78,7 +78,7 @@ MD-сеть отвечает за интеграцию информации из
 
 
 ### 1. **Сверхбыстрая фМРТ выявляет последовательную очередь обработки информации во время многозадачности в человеческом мозге**  
-**Источник:** [Nature Communications, 2025](https://www.nature.com/articles/s41467-025-58228-0)
+**Источник:** Yue, Q., Newton, A. T., & Marois, R. Ultrafast fMRI reveals serial queuing of information processing during multitasking in the human brain // Nature Communications. – 2025. – Vol. 16. – Article number: 3057. – DOI: 10.1038/s41467-025-58228-0.​ https://www.nature.com/articles/s41467-025-58228-0
 
 **Цель исследования:**  
 Изучить, как мозг обрабатывает информацию при одновременном выполнении нескольких задач, с акцентом на последовательность обработки в MD-сети.
@@ -125,7 +125,7 @@ MD-сеть отвечает за интеграцию информации из
 
 
 ### 2. **Многофункциональная операционная система, лежащая в основе разнообразных когнитивных задач**  
-**Источник:** [Nature Communications, 2024](https://www.nature.com/articles/s41467-024-46511-5)
+**Источник:** Cai, W., Taghia, J., & Menon, V. A multi-demand operating system underlying diverse cognitive tasks // Nature Communications. – 2024. – Vol. 15. – Article number: 2185. – DOI: 10.1038/s41467-024-46511-5 https://www.nature.com/articles/s41467-024-46511-5
 
 **Цель исследования:**  
 Выявить общие нейронные состояния, поддерживающие выполнение различных когнитивных задач.
@@ -171,7 +171,7 @@ Nature Communications (2024): [https://www.nature.com/articles/s41467-024-46511-
 
 
 ### 3. **Активность лобно-теменной сети множественных требований тесно связана с индивидуальными различиями в рабочей памяти и подвижном интеллекте**  
-**Источник:** [Cortex, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7530021/)
+**Источник:** Assem M., Blank I., Mineroff Z., Ademoglu A., Fedorenko E. Activity in the fronto-parietal multiple-demand network is robustly associated with individual differences in working memory and fluid intelligence // Cortex. – 2020. – Vol. 131. – P. 1–16. – DOI: 10.1016/j.cortex.2020.06.013. https://pmc.ncbi.nlm.nih.gov/articles/PMC7530021/
 
 **Цель исследования:**  
 Исследовать связь между активностью MD-сети и индивидуальными различиями в когнитивных способностях.
@@ -222,7 +222,7 @@ Nature Communications (2024): [https://www.nature.com/articles/s41467-024-46511-
 
 
 ### 4. **Определение и характеристика расширенной сети множественного спроса**  
-**Источник:** [Neuron, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5732056/)
+**Источник:** Camilleri J.A., Müller V.I., Fox P., Laird A.R., Hoffstaedter F., Kalenscher T., Eickhoff S.B. Definition and characterization of an extended multiple-demand network // Neuron. – 2018. – Vol. 98, No. 4. – P. 805–817.e8. – DOI: 10.1016/j.neuron.2018.04.029.​ https://pmc.ncbi.nlm.nih.gov/articles/PMC5732056/
 
 **Цель исследования:**  
 Определить и охарактеризовать расширенную MD-сеть, активируемую при выполнении различных когнитивных задач.
