@@ -205,3 +205,10 @@
             Measuring the Complexity of Consciousness - PMC
         ](https://pmc.ncbi.nlm.nih.gov/articles/PMC6030381/#:~:text=increasingly%20difficult%20to%20apply%20these,We%20address%20challenges%20facing))), и чётче разграничивать проверенные факты и спекуляции. В таком виде теорию можно рассматривать как перспективную схему, которую следует развивать и проверять вплоть до более строгого моделирования и эмпирических тестов.  
 
+
+---
+
+
+Оглавление:
+
+- [ЭИРО framework](/README.md)
