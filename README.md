@@ -258,7 +258,7 @@ graph TD
 
 - [Сравнительный анализ ведущих теорий сознания в контексте ЭИРО](/comparative-analysis.md) Oct 19, 2024
 
-- [Критический анализ теории ЭИРО](/critical-analysis-of-the-theory-eirm.md) Apr 28, 2025
+- [Критический анализ теории ЭИРО и метрики Φₑ](/critical-analysis-of-the-theory-eirm.md) Apr 28, 2025
 
 </details>
 
