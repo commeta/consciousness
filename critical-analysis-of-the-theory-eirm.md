@@ -366,8 +366,7 @@
 
 ### Анализ раздела Квантовая когерентность (Q_c) с учетом новейших исследований
 
-Механизмы extrasynaptic–передачи сигналов, синхронизации нейронной активности и когерентности
-https://github.com/commeta/consciousness/blob/main/mechanisms-of-extrasynaptic-signal-transmission-neuronal-activity-synchronization-and-coherence.md
+[Механизмы extrasynaptic–передачи сигналов, синхронизации нейронной активности и когерентности](https://github.com/commeta/consciousness/blob/main/mechanisms-of-extrasynaptic-signal-transmission-neuronal-activity-synchronization-and-coherence.md)
 
 
 ### Основные результаты 
