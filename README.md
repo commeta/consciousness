@@ -2250,6 +2250,10 @@ graph TD
 
 - [Архитектурные паттерны и динамические процессы в искусственных нейронных сетях через призму теории ЭИРО](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md) Nov 1, 2024
 
+
+- [Критический анализ: Информатика и Искусственный интеллект](/Critical-Analysis-of-Computer-Science-and-Artificial-Intelligence.md) Apr 30, 2025
+
+
 #### Кибернетика
 
 - [Теория ЭИРО с точки зрения кибернетики](/cybernetics.md) Oct 19, 2024
