@@ -2323,6 +2323,9 @@ graph TD
 
 - [Модель генома через призму теории ЭИРО](/Decoding-DNA/Genome-model.md) Nov 22, 2024
 
+- [Критический анализ: генетика и молекулярная биология](/Critical-Analysis-of-Genetics-and-Molecular-Biology.md) Apr 30, 2025
+
+
 </details>
 
 
