@@ -260,6 +260,9 @@ graph TD
 
 - [Критический анализ теории ЭИРО и метрики Φₑ](/critical-analysis-of-the-theory-eirm.md) Apr 28, 2025
 
+- [Основные различия между GNWT и IIT](/The-main-differences-between-GNWT-and-IIT.md) Apr 30, 2025
+
+
 </details>
 
 
