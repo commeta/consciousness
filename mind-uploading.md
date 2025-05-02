@@ -274,6 +274,38 @@
 https://www.settleretics.ru/
 
 
+* описан подход Сеттлеретики как переноса всей психики как системной надструктуры;
+* изложен метод Винера–Вольтерра (ряды и ядра) применительно к нейромоделированию;
+* рассмотрена возможность моделирования нейронных блоков как «чёрных ящиков» и переход к макроуровню (колонки Маунткастла, зоны);
+* приведены примеры научных работ, использующих эти методы в анализе нейронных процессов.
+
+
+---
+
+В подходе сеттлеретики перенос сознания трактуется как перемещение всей психики единой надсистемой, где сознание и личность – вложенные подсистемы. Вместо поэлементного копирования нейронной сети предлагается описывать нейрон как «чёрный ящик» и аппроксимировать его вход–выход с помощью функциональных рядов (ряды Винера–Вольтерра)
+[eng.ucy.ac.cy](https://www.eng.ucy.ac.cy/gmitsis/Publications/EMBS_2011_neuronal.pdf#:~:text=The%20Wiener%20series%20is%20an,t%29%20%3D%20X%E2%88%9E%20n%3D0)
+[pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC7925423/#:~:text=%28Birpoutsoukis%20et%20al,input)
+
+Такой метод позволяет перейти к моделям более высокого порядка: кортикальным микроколонкам (вертикальным колонкам по Маунткастлу) и их совокупностям – макроколонкам
+[pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC1569491/#:~:text=there%20is%20potential%20for%20confusion,together%20like%20sticks%20in%20a)
+[pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC2820381/#:~:text=Vernon%20Mountcastle%20was%20the%20first,somatosensory%20cortex%20of%20the%20rodent)
+
+А затем – к континуальным (полевым) моделям зон коры. Подобная континуальная аппроксимация усредняет активность больших областей и снижает сложность моделирования на несколько порядков
+[arxiv.org](https://arxiv.org/pdf/2103.10554#:~:text=understand%20these%20data%20recordings,to%20both%20forward%20modelling%20approaches)
+
+Кроме того, в расчет берутся ограничения конечного набора сенсорных входов и моторных выходов мозга, что дополнительно уменьшает объём необходимого моделирования.
+
+---
+
+**Источники:**
+
+* [Nonlinear system identification of neural systems from neurophysiological signals - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7925423/#:~:text=%28Birpoutsoukis%20et%20al,input)
+* [The Volterra-Wiener Approach in Neuronal Modeling](https://www.eng.ucy.ac.cy/gmitsis/Publications/EMBS_2011_neuronal.pdf#:~:text=The%20Wiener%20series%20is%20an,t%29%20%3D%20X%E2%88%9E%20n%3D0)
+* [Microcolumns and Macropatterns in Cortex - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1569491/#:~:text=there%20is%20potential%20for%20confusion,together%20like%20sticks%20in%20a)
+* [Mountcastle's discovery of cortical columns - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2820381/#:~:text=Vernon%20Mountcastle%20was%20the%20first,somatosensory%20cortex%20of%20the%20rodent)
+* [Neural field theory and cortical modeling - arXiv](https://arxiv.org/pdf/2103.10554#:~:text=understand%20these%20data%20recordings,to%20both%20forward%20modelling%20approaches)
+
+
 
 ---
 
