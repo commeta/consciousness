@@ -262,6 +262,7 @@ graph TD
 
 - [Основные различия между GNWT и IIT](/The-main-differences-between-GNWT-and-IIT.md) Apr 30, 2025
 
+- [Перенос сознания](/mind-uploading.md) May 02, 2025
 
 </details>
 
