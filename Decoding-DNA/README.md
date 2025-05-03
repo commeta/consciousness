@@ -80,17 +80,17 @@ graph TD
 
 #### Генетика и молекулярная биология
 
-- [Генетические и молекулярные основы теории ЭИРО](/genetics-and-molecular-biology.md) Oct 19, 2024
+- [Генетические и молекулярные основы теории ЭИРО](/Decoding-DNA/genetics-and-molecular-biology.md) Oct 19, 2024
   
-- [Эмерджентные свойства организмов через рекуррентную генетическую интеграцию](/recurrent-integration-in-genetic-networks.md) Oct 20, 2024
+- [Эмерджентные свойства организмов через рекуррентную генетическую интеграцию](/Decoding-DNA/recurrent-integration-in-genetic-networks.md) Oct 20, 2024
   
-- [Интегративно-рекуррентный анализ генома](/integrative-recurrent-genome-analysis.md) Oct 21, 2024
+- [Интегративно-рекуррентный анализ генома](/Decoding-DNA/integrative-recurrent-genome-analysis.md) Oct 21, 2024
 
-- [Применение Теории ЭИРО к Расшифровке ДНК](/Decoding-DNA.md) Nov 14, 2024
+- [Применение Теории ЭИРО к Расшифровке ДНК](/Decoding-DNA/Decoding-DNA.md) Nov 14, 2024
 
-  - [Архитектурная реализация нейронной сети ЭИРО для анализа ДНК](/Decoding-DNA-Architectural-implementation.md) Nov 14, 2024
+  - [Архитектурная реализация нейронной сети ЭИРО для анализа ДНК](/Decoding-DNA/Decoding-DNA-Architectural-implementation.md) Nov 14, 2024
 
-- [Модель структуры ДНК через призму теории ЭИРО](/A-model-of-the-DNA-structure.md) Nov 19, 2024
+- [Модель структуры ДНК через призму теории ЭИРО](/Decoding-DNA/A-model-of-the-DNA-structure.md) Nov 19, 2024
 
 - [Концептуальная модель структуры ДНК через призму теории ЭИРО](/Decoding-DNA/README.md) Nov 22, 2024
 
@@ -98,5 +98,5 @@ graph TD
 
 - [Модель генома через призму теории ЭИРО](/Decoding-DNA/Genome-model.md) Nov 22, 2024
 
-- [Критический анализ: генетика и молекулярная биология](/Critical-Analysis-of-Genetics-and-Molecular-Biology.md) Apr 30, 2025
+- [Критический анализ: генетика и молекулярная биология](/Decoding-DNA/Critical-Analysis-of-Genetics-and-Molecular-Biology.md) Apr 30, 2025
 
