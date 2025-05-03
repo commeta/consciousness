@@ -10,10 +10,6 @@
 
 - [ReadMe на Русском](/README.md) Oct 17, 2024
 
-- [Review](/review.md) Oct 27, 2024
-
-- [Related Disciplines](/sciences.md) Oct 17, 2024
-
 ### Analytics:
 
 - [Theory of Consciousness](/docs/en) Oct 17, 2024. upd: Nov 20, 2024 
@@ -277,7 +273,6 @@
 
 - [List of Terms](/guide.md) Nov 26, 2024
 
-- [List of Formulas](/formulas.md) Nov 30, 2024
 
 ---
 
