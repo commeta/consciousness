@@ -459,4 +459,3 @@ flowchart TD
 Оглавление:
 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
