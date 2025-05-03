@@ -533,5 +533,4 @@ $P(\theta \mid D) = \frac{P(D \mid \theta) \cdot P(\theta)}{P(D)}$
 
 Оглавление: 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
 
