@@ -1123,6 +1123,4 @@ $D(t) = C(t) \cdot Ef \cdot Tf$
 
 Оглавление: 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
-
 
