@@ -1933,5 +1933,4 @@ $\frac{d\Phi_e}{dt} = f(\text{system state}, \text{external influences})$
 
 Оглавление: 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
 
