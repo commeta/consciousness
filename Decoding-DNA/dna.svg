@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Основная двойная спираль -->
+  <path d="M 300,100 
+           C 400,200 200,300 300,400 
+           C 400,500 200,600 300,700" 
+        stroke="#2B4C7E" fill="none" stroke-width="6"/>
+  <path d="M 300,100 
+           C 200,200 400,300 300,400 
+           C 200,500 400,600 300,700" 
+        stroke="#2B4C7E" fill="none" stroke-width="6"/>
+
+  <!-- Соединительные перекладины -->
+  <line x1="280" y1="150" x2="320" y2="150" stroke="#E74C3C" stroke-width="4"/>
+  <line x1="280" y1="250" x2="320" y2="250" stroke="#27AE60" stroke-width="4"/>
+  <line x1="280" y1="350" x2="320" y2="350" stroke="#E74C3C" stroke-width="4"/>
+  <line x1="280" y1="450" x2="320" y2="450" stroke="#27AE60" stroke-width="4"/>
+  <line x1="280" y1="550" x2="320" y2="550" stroke="#E74C3C" stroke-width="4"/>
+  <line x1="280" y1="650" x2="320" y2="650" stroke="#27AE60" stroke-width="4"/>
+
+  <!-- Элементы ЭИРО -->
+  <!-- Энергия -->
+  <circle cx="250" cy="150" r="20" fill="#F1C40F"/>
+  <text x="245" y="155" font-size="16" fill="black">Э</text>
+  
+  <!-- Информация -->
+  <circle cx="350" cy="250" r="20" fill="#3498DB"/>
+  <text x="345" y="255" font-size="16" fill="white">И</text>
+  
+  <!-- Ресурсы -->
+  <circle cx="250" cy="350" r="20" fill="#2ECC71"/>
+  <text x="245" y="355" font-size="16" fill="black">Р</text>
+  
+  <!-- Организация -->
+  <circle cx="350" cy="450" r="20" fill="#9B59B6"/>
+  <text x="345" y="455" font-size="16" fill="white">О</text>
+
+  <!-- Эпигенетические модификации -->
+  <circle cx="250" cy="550" r="20" fill="#E67E22"/>
+  <text x="245" y="555" font-size="16" fill="black">Э</text>
+
+  <!-- Квантовые эффекты -->
+  <circle cx="350" cy="650" r="20" fill="#8E44AD"/>
+  <text x="345" y="655" font-size="16" fill="white">К</text>
+
+  <!-- Легенда -->
+  <rect x="900" y="100" width="250" height="320" fill="white" stroke="black"/>
+  <text x="910" y="130" font-size="16">Легенда:</text>
+  <g transform="translate(920, 160)">
+    <circle cx="0" cy="0" r="12" fill="#F1C40F"/>
+    <text x="20" y="6" font-size="14">Энергия</text>
+  </g>
+  <g transform="translate(920, 190)">
+    <circle cx="0" cy="0" r="12" fill="#3498DB"/>
+    <text x="20" y="6" font-size="14">Информация</text>
+  </g>
+  <g transform="translate(920, 220)">
+    <circle cx="0" cy="0" r="12" fill="#2ECC71"/>
+    <text x="20" y="6" font-size="14">Ресурсы</text>
+  </g>
+  <g transform="translate(920, 250)">
+    <circle cx="0" cy="0" r="12" fill="#9B59B6"/>
+    <text x="20" y="6" font-size="14">Организация</text>
+  </g>
+  <g transform="translate(920, 280)">
+    <circle cx="0" cy="0" r="12" fill="#E67E22"/>
+    <text x="20" y="6" font-size="14">Эпигенетика</text>
+  </g>
+  <g transform="translate(920, 310)">
+    <circle cx="0" cy="0" r="12" fill="#8E44AD"/>
+    <text x="20" y="6" font-size="14">Квантовые эффекты</text>
+  </g>
+</svg>
