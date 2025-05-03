@@ -368,4 +368,3 @@ $\Phi_e^{\text{hypnosis}} = \int_{t_0}^{t_1} \left( I_{\text{integration}}^{\tex
 
 Оглавление: 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
