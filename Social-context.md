@@ -692,4 +692,3 @@ $Q = \sum_i (e_{ii} - a_i^2)$
 Оглавление:
 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
