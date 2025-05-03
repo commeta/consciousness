@@ -447,7 +447,7 @@ graph TD
 
 
 
-#### Рекуррентная космология
+#### Рекуррентная космология (speculative experimental branch)
 
 
 ```mermaid
