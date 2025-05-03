@@ -276,7 +276,6 @@ graph TD
 - Морозов Евгений Михайлович
 - dcs-spb@ya.ru
 - https://dcs-spb.ru/
-- https://dcs-spb.ru/eirm.html
 - Российская Федерация, Санкт-Петербург
 - 17.10.2024
 
