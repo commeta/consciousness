@@ -539,4 +539,3 @@ $IC = \Phi_e = \sum p_i \log\left(\frac{1}{p_i}\right) - \sum q_j \log\left(\fra
 
 Оглавление: 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
