@@ -2274,4 +2274,3 @@ $\Phi_e = \int_0^{t_1} I(t) \cdot R(t) \cdot E(t) \cdot C(t) \cdot S(t) \cdot A(
 
 Оглавление: 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
