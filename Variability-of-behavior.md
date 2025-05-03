@@ -1219,5 +1219,4 @@ $V(t) = \sum p(B_i \mid B_j) \cdot p(B_j \mid t)$
 Оглавление:
 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
 
