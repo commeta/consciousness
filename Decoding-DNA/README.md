@@ -78,7 +78,7 @@ graph TD
     F4 --> F4a[Раннее выявление заболеваний]
 ```
 
-#### Генетика и молекулярная биология
+#### Генетика и молекулярная биология (speculative experimental branch)
 
 - [Генетические и молекулярные основы теории ЭИРО](/Decoding-DNA/genetics-and-molecular-biology.md) Oct 19, 2024
   
