@@ -894,4 +894,3 @@ $M(t) = \sum V_i \cdot E_i + \alpha In + \beta Ex$
 Оглавление:
 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
