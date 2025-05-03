@@ -269,6 +269,4 @@ $$ \mathbf{y}(t) = \psi\left( W_{yh} \mathbf{h}(t) + \mathbf{b}_y \right) $$
 
 Оглавление: 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
-
 
