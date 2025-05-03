@@ -445,3 +445,183 @@ graph TD
 
 Последовательное изучение этих ключевых областей поможет вам глубже понять основы и перспективы теорий рекуррентной Вселенной и новой космологической модели.
 
+
+
+#### Рекуррентная космология
+
+
+```mermaid
+graph TD
+    A[Рекуррентная космология]
+    A --> B[Космология]
+    A --> C[Физика элементарных частиц]
+    A --> D[Квантовая теория и информация]
+    A --> E[Математические подходы]
+    A --> F[Химия и материалы]
+    A --> G[Принципы физики]
+
+    B --> B1[Рождение Вселенной и инфляция]
+    B --> B2[Космический микроволновый фон]
+    B --> B3[Тёмная материя и энергия]
+    B --> B4[Формирование крупномасштабной структуры]
+    B --> B5[Рекуррентная космология]
+
+    C --> C1[Стандартная модель]
+    C --> C2[Новые частицы и взаимодействия]
+    C --> C3[Рекуррентные эффекты в физике частиц]
+    C --> C4[Экзотические мезоны и адроны]
+
+    D --> D1[Интеграция квантовой информации]
+    D --> D2[Линейность и суперпозиция]
+    D --> D3[Декогеренция и квантовые тесты]
+    D --> D4[Голография и квантовая гравитация]
+
+    E --> E1[Рекуррентные математические структуры]
+    E --> E2[Топологические аспекты]
+    E --> E3[Симметрии и законы сохранения]
+    E --> E4[Калибровочные группы]
+
+    F --> F1[Новые материалы]
+    F --> F2[Молекулярные орбитали]
+    F --> F3[Квантовая химия]
+    F --> F4[Химические реакции и рекуррентность]
+
+    G --> G1[Принцип причинности]
+    G --> G2[Принцип локальности]
+    G --> G3[Принцип минимального действия]
+    G --> G4[Принцип суперпозиции]
+
+    B1 --> H1[Большой взрыв]
+    B1 --> H2[Инфляционная модель]
+    B5 --> H3[Рекуррентные циклы Вселенной]
+    B3 --> H4[Экспериментальные данные]
+
+    C3 --> I1[Сверхтяжёлые лептоны и кварки]
+    C3 --> I2[Изменение вероятностей распада]
+    C3 --> I3[Рекуррентные переносчики]
+    C4 --> I4[Модификация спектров частиц]
+
+    E1 --> J1[Рекуррентные группы]
+    E1 --> J2[Рекуррентные многообразия]
+    E3 --> J3[Законы сохранения энергии]
+    E4 --> J4[Лагранжианы взаимодействий]
+
+    F1 --> K1[Рекуррентные материалы]
+    F2 --> K2[Энергетические переходы]
+    F4 --> K3[Квантовые связи в реакциях]
+
+    G1 --> L1[Причинно-следственные связи]
+    G2 --> L2[Замкнутые системы]
+    G3 --> L3[Оптимизация процессов]
+    G4 --> L4[Квантовая суперпозиция]
+```
+
+
+- [Теория Рекуррентной Вселенной: Новая Парадигма Космологии](/recurrent-universe/README.md) Nov 6, 2024
+
+- [Моделирование рекуррентных нейронных сетей](/recurrent-universe/physics.md) Oct 19, 2024
+  
+- [Теория ЭИРО в контексте квантовой физики](/recurrent-universe/quantum-physics.md) Oct 19, 2024
+
+- [Линейность квантовой механики через призму ЭИРО и новой модели Вселенной](/recurrent-universe/The-linearity-of-quantum-mechanics.md) Oct 27, 2024
+
+- [Принцип суперпозиции через призму ЭИРО и новой модели Вселенной](/recurrent-universe/The-principle-of-superposition.md) Oct 27, 2024
+
+- [Принцип локальности через призму ЭИРО и новой модели Вселенной](/recurrent-universe/The-principle-of-locality.md) Oct 27, 2024
+
+- [Закон сохранения энергии и импульса через призму ЭИРО и новой модели Вселенной](/recurrent-universe/The-law-of-conservation-of-energy-and-momentum.md) Oct 27, 2024
+
+- [Эйнштейнова теория гравитации через призму теории интегрированной информации и новые модели Вселенной](/recurrent-universe/Einsteins-theory-of-gravity.md) Oct 27, 2024
+
+- [Копенгагенская интерпретация квантовой механики через призму теории ЭИРО](/recurrent-universe/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md) Oct 27, 2024
+
+- [Принцип причинности через призму теории ЭИРО](/recurrent-universe/The-principle-of-causality.md) Oct 27, 2024
+
+- [Коммутационные соотношения через призму теории ЭИРО](/recurrent-universe/Switching-relations.md) Oct 27, 2024
+
+- [Статистическая интерпретация термодинамики через призму ЭИРО и новой модели вселенной](/recurrent-univers/Statistical-interpretation-of-thermodynamics.md) Oct 27, 2024
+
+- [Стандартная модель физики элементарных частиц через призму теории ЭИРО и новой модели Вселенной](/recurrent-universe/The-Standard-Model-of-particle-physics.md) Oct 27, 2024
+
+- [Принцип минимального действия через призму теории ЭИРО и новой модели Вселенной](/recurrent-universe/The-principle-of-minimum-action.md) Oct 27, 2024
+
+- [Концепция времени и пространства через призму ЭИРО и новой модели Вселенной](/recurrent-universe/The-concept-of-time-and-space.md) Oct 27, 2024
+
+- [Новая теория рекуррентной космологии: связь квантовых процессов, тёмной энергии, тёмной материи и теории ЭИРО](/recurrent-universe/recurrent-cosmology.md) Oct 20, 2024
+  
+- [Краткая история Вселенной: Эмергентность, интеграция и рекуррентность](/recurrent-universe/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md) Oct 22, 2024
+  
+- [Полный цикл рекуррентной вселенной: интеграция теории ЭИРО в космологию](/recurrent-universe/the-complete-cycle-of-the-recurrent-universe.md) Oct 22, 2024
+  
+  - [Первичное информационное поле](/recurrent-universe/The-primary-information-field.md) Oct 22, 2024
+    
+- [Великое объединение теоретических моделей в физике элементарных частиц](/recurrent-universe/The-Great-Union.md) Oct 21, 2024
+  
+  - [Разработка модели, связывающей плотность интегрированной квантовой информации с геометрией пространства-времени](/recurrent-universe/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md) Oct 21, 2024
+    
+- [Тёмная материя и тёмная энергия как эмерджентные явления: проявления интегрированной квантовой информации в рекуррентном пространстве-времени](/recurrent-universe/dark-matter-and-dark-energy-as-emergent-phenomena.md) Oct 20, 2024
+  
+  - [Разработка микроскопической теории](/recurrent-universe/development-of-microscopic-theory.md) Oct 21, 2024
+    
+- [Роль эмергентной интеграции в Большом взрыве](/recurrent-universe/the-role-of-emergent-integration-in-the-Big-Bang.md) Oct 21, 2024
+  
+  - [Разработка конкретных моделей потенциала V(φ) согласующихся с наблюдательными данными](/recurrent-universe/models-of-potential-v-f.md) Oct 21, 2024
+
+- [Новая модель вселенной в современной физике](/recurrent-universe/A-new-model-of-the-universe-in-modern-physics.md) Oct 25, 202
+
+  - [Переосмысление принципа неопределённости в рамках теории ЭИРО](/recurrent-universe/Rethinking-the-uncertainty-principle-within-the-framework-of-the-theory.md) Oct 26, 2024
+
+  - [Энтропия и когерентность в контексте теории ЭИРО: новые перспективы квантовой физики](/recurrent-universe/Entropy-and-coherence.md) Oct 26, 2024
+
+  - [Рекуррентные процессы в химических реакциях: анализ через призму теории ЭИРО](/recurrent-universe/Recurrence-in-chemical-reactions.md) Oct 26, 2024
+
+  - [Молекулярные орбитали и энергетические уровни: анализ через призму теории ЭИРО и ее влияние на современную модель Вселенной](/recurrent-universe/Molecular-orbitals-and-energy-levels.md) Oct 26, 2024
+
+  - [Топологическая квантовая теория поля и её связь с теорией ЭИРО](/recurrent-universe/Topological-quantum-field-theory.md) Oct 26, 2024
+
+  - [Фрактальные и бесконечно-дробные структуры: роль в физике и математических моделях](/recurrent-universe/Fractal-and-infinitesimal-structures.md) Oct 26, 2024
+
+  - [Теория категорий и функторы в контексте ЭИРО и новой модели Вселенной](/recurrent-universe/Category-theory-and-functors.md) Oct 26, 2024
+
+  - [Информационно-теоретические меры в новой модели Вселенной для современной физики](/recurrent-universe/Information-and-theoretical-measures.md) Oct 26, 2024
+
+  - [Измерение аномалий в движении галактик через призму ЭИРО и новой модели Вселенной](/recurrent-universe/Measurement-of-anomalies-in-the-motion-of-galaxies.md) Oct 26, 2024
+
+  - [Космический микроволновый фон через призму ЭИРО и новой модели Вселенной](/recurrent-universe/Cosmic-microwave-background.md) Oct 26, 2024
+
+  - [Квантовые эксперименты: тесты на декогеренцию через призму ЭИРО и новой модели Вселенной](/recurrent-universe/Decoherence-tests.md) Oct 26, 2024
+
+  - [Квантовые эксперименты: Измерение отклонений от стандартной квантовой механики через призму ЭИРО и новой модели Вселенной](/recurrent-universe/Measuring-deviations-from-standard-quantum-mechanics.md) Oct 26, 2024
+
+- [Новые Виды Двигателей через Призму ЭИРО и Новой Модели Вселенной](/recurrent-universe/New-Types-Of-Engines.md) Oct 27, 2024
+
+- [Новые виды энергии: анализ через призму ЭИРО и новой модели Вселенной](/recurrent-universe/New-types-of-energy.md) Oct 27, 2024
+
+- [Новые материалы, предсказанные моделью рекуррентной космологии](/recurrent-universe/New-materials-predicted-by-the-recurrent-cosmology-model.md) Nov 7, 2024
+
+- [Экзотические космические объекты и явления предсказанные теорией рекуррентной космологии](/recurrent-universe/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md) Nov 7, 2024
+
+- [Влияние рекуррентности на физику частиц](/recurrent-universe/The-effect-of-recurrence-on-particle-physics.md) Nov 8, 2024
+
+  - [Новые типы частиц и взаимодействий предсказываемые моделью рекуррентной космологии](/recurrent-universe/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md) Nov 8, 2024
+  - [Математический аппарат развиваемый в рамках теории рекуррентной космологии](/recurrent-universe/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md) Nov 8, 2024
+
+- [Теория Всего (Единая теория поля) в контексте ЭИРО и рекуррентной космологии](/recurrent-universe/The-Theory-of-Everything.md) Dec 1, 2024
+
+- [Выбросы плазмы на Солнце через призму ЭИРО-фреймворка и рекуррентной космологии](/recurrent-universe/Plasma-emissions-from-the-Sun.md) Dec 19, 2024
+
+- [Критический анализ Теории Рекуррентной Вселенной](/recurrent-universe/A-critical-analysis-of-the-theory-of-the-recurrent-universe.md) Apr 30, 2025
+
+
+#### Химия
+
+- [Поиск новых теорий в химии](/recurrent-universe/new-theories-in-chemistry.md) Oct 24, 2024
+  
+  - [Происхождение хиральности в биологических системах](/recurrent-universe/The-origin-of-chirality-in-biological-systems.md) Oct 24, 2024
+    
+  - [Механизмы передачи информации в биохимических системах](/recurrent-universe/Mechanisms-of-information-transfer-in-biochemical-systems.md) Oct 24, 2024
+
+- [Великое Объединение Физики и Химии: Новая Парадигма Рекуррентной Космологии](/recurrent-universe/The-Great-Union-of-Physics-and-Chemistry.md) Nov 7, 2024
+
+- [Новые теории в квантовой химии на основе рекуррентной космологии](/recurrent-universe/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md) Nov 8, 2024
+
