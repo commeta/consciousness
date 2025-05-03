@@ -689,4 +689,3 @@ $E_{\text{sel}} = \frac{P_{\text{out,target}}}{P_{\text{out,distractors}}}$,
 
 Оглавление: 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
