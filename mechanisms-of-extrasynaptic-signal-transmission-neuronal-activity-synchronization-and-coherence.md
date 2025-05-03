@@ -335,5 +335,4 @@ https://pubmed.ncbi.nlm.nih.gov/26682627/
 
 Оглавление: 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
 
