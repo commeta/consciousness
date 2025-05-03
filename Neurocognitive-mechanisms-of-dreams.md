@@ -1590,4 +1590,3 @@ $L(\theta, s_t) = -\ln P(s_t \mid \theta)$
 
 Оглавление: 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
