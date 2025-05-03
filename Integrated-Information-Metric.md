@@ -289,4 +289,3 @@ $R_{\text{recurrence}}(t) = \sum_{i} \sum_{j} w_{ij}(t)$
 
 Оглавление: 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
