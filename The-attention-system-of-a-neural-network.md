@@ -422,4 +422,3 @@ $\mathcal{L} = \mathcal{L}_{standard} + \lambda (-\Phi_e),$
 
 Оглавление: 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
