@@ -95,101 +95,6 @@
 - [Components of the Φₑ Metric of Drosophila Fly Consciousness in the Context of EIRM](/Components-of-the-drosophila-fly-consciousness-metric-Fe.md) Nov 18, 2024 
 
 
-
-#### Physics
-
-- [Theory of the Recurrent Universe: A New Paradigm of Cosmology](/docs/en/The-Recurrent-Universe.md) Nov 6, 2024
-
-- [Modeling Recurrent Neural Networks](/physics.md) Oct 19, 2024
-  
-- [EIRM in the Context of Quantum Physics](/quantum-physics.md) Oct 19, 2024
-
-- [Linearity of Quantum Mechanics through the Lens of EIRM and the New Model of the Universe](/The-linearity-of-quantum-mechanics.md) Oct 27, 2024
-
-- [Principle of Superposition through the Lens of EIRM and the New Model of the Universe](/The-principle-of-superposition.md) Oct 27, 2024
-
-- [Principle of Locality through the Lens of EIRM and the New Model of the Universe](/The-principle-of-locality.md) Oct 27, 2024
-
-- [Law of Conservation of Energy and Momentum through the Lens of EIRM and the New Model of the Universe](/The-law-of-conservation-of-energy-and-momentum.md) Oct 27, 2024
-
-- [Einstein's Theory of Gravity through the Lens of Integrated Information Theory and the New Model of the Universe](/Einsteins-theory-of-gravity.md) Oct 27, 2024
-
-- [Copenhagen Interpretation of Quantum Mechanics through the Lens of EIRM](/The-Copenhagen-Interpretation-of-Quantum-Mechanics.md) Oct 27, 2024
-
-- [Principle of Causality through the Lens of EIRM](/The-principle-of-causality.md) Oct 27, 2024
-
-- [Commutation Relations through the Lens of EIRM](/Switching-relations.md) Oct 27, 2024
-
-- [Statistical Interpretation of Thermodynamics through the Lens of EIRM and the New Model of the Universe](/Statistical-interpretation-of-thermodynamics.md) Oct 27, 2024
-
-- [Standard Model of Particle Physics through the Lens of EIRM and the New Model of the Universe](/The-Standard-Model-of-particle-physics.md) Oct 27, 2024
-
-- [Principle of Least Action through the Lens of EIRM and the New Model of the Universe](/The-principle-of-minimum-action.md) Oct 27, 2024
-
-- [Concept of Time and Space through the Lens of EIRM and the New Model of the Universe](/The-concept-of-time-and-space.md) Oct 27, 2024
-
-- [New Theory of Recurrent Cosmology: Connection of Quantum Processes, Dark Energy, Dark Matter, and EIRM](/recurrent-cosmology.md) Oct 20, 2024
-  
-- [A Brief History of the Universe: Emergence, Integration, and Recurrence](/docs/en/A-Brief-History-of-the-Universe-Emergence-Integration-and-Recurrence.md) Oct 22, 2024
-  
-- [The Complete Cycle of the Recurrent Universe: Integration of EIRM into Cosmology](/the-complete-cycle-of-the-recurrent-universe.md) Oct 22, 2024
-  
-  - [The Primary Information Field](/The-primary-information-field.md) Oct 22, 2024
-    
-- [The Great Union of Theoretical Models in Particle Physics](/The-Great-Union.md) Oct 21, 2024
-  
-  - [Developing a Model Connecting the Density of Integrated Quantum Information with the Geometry of Space-Time](/the-density-of-integrated-quantum-information-with-the-geometry-of-space-time.md) Oct 21, 2024
-    
-- [Dark Matter and Dark Energy as Emergent Phenomena: Manifestations of Integrated Quantum Information in Recurrent Space-Time](/dark-matter-and-dark-energy-as-emergent-phenomena.md) Oct 20, 2024
-  
-  - [Development of a Microscopic Theory](/development-of-microscopic-theory.md) Oct 21, 2024
-    
-- [The Role of Emergent Integration in the Big Bang](/the-role-of-emergent-integration-in-the-Big-Bang.md) Oct 21, 2024
-  
-  - [Developing Specific Models of Potential V(φ) Consistent with Observational Data](/models-of-potential-v-f.md) Oct 21, 2024
-
-- [A New Model of the Universe in Modern Physics](/A-new-model-of-the-universe-in-modern-physics.md) Oct 25, 202
-
-  - [Rethinking the Uncertainty Principle within the Framework of EIRM](/Rethinking-the-uncertainty-principle-within-the-framework-of-the-theory.md) Oct 26, 2024
-
-  - [Entropy and Coherence in the Context of EIRM: New Perspectives in Quantum Physics](/Entropy-and-coherence.md) Oct 26, 2024
-
-  - [Recurrent Processes in Chemical Reactions: Analysis through the Lens of EIRM](/Recurrence-in-chemical-reactions.md) Oct 26, 2024
-
-  - [Molecular Orbitals and Energy Levels: Analysis through the Lens of EIRM and Its Impact on the Modern Model of the Universe](/Molecular-orbitals-and-energy-levels.md) Oct 26, 2024
-
-  - [Topological Quantum Field Theory and Its Connection with EIRM](/Topological-quantum-field-theory.md) Oct 26, 2024
-
-  - [Fractal and Infinitesimal Structures: Role in Physics and Mathematical Models](/Fractal-and-infinitesimal-structures.md) Oct 26, 2024
-
-  - [Category Theory and Functors in the Context of EIRM and the New Model of the Universe](/Category-theory-and-functors.md) Oct 26, 2024
-
-  - [Information-Theoretical Measures in the New Model of the Universe for Modern Physics](/Information-and-theoretical-measures.md) Oct 26, 2024
-
-  - [Measuring Anomalies in the Motion of Galaxies through the Lens of EIRM and the New Model of the Universe](/Measurement-of-anomalies-in-the-motion-of-galaxies.md) Oct 26, 2024
-
-  - [Cosmic Microwave Background through the Lens of EIRM and the New Model of the Universe](/Cosmic-microwave-background.md) Oct 26, 2024
-
-  - [Quantum Experiments: Decoherence Tests through the Lens of EIRM and the New Model of the Universe](/Decoherence-tests.md) Oct 26, 2024
-
-  - [Quantum Experiments: Measuring Deviations from Standard Quantum Mechanics through the Lens of EIRM and the New Model of the Universe](/Measuring-deviations-from-standard-quantum-mechanics.md) Oct 26, 2024
-
-- [New Types of Engines through the Lens of EIRM and the New Model of the Universe](/New-Types-Of-Engines.md) Oct 27, 2024
-
-- [New Types of Energy: Analysis through the Lens of EIRM and the New Model of the Universe](/New-types-of-energy.md) Oct 27, 2024
-
-- [New Materials Predicted by the Recurrent Cosmology Model](/New-materials-predicted-by-the-recurrent-cosmology-model.md) Nov 7, 2024
-
-- [Exotic Space Objects and Phenomena Predicted by the Theory of Recurrent Cosmology](/Exotic-space-objects-and-phenomena-predicted-by-the-theory-of-recurrent-cosmology.md) Nov 7, 2024
-
-- [The Effect of Recurrence on Particle Physics](/The-effect-of-recurrence-on-particle-physics.md) Nov 8, 2024
-
-  - [New Types of Particles and Interactions Predicted by the Recurrent Cosmology Model](/docs/en/New-types-of-particles-and-interactions-predicted-by-the-recurrent-cosmology-model.md) Nov 8, 2024
-
-  - [Mathematical apparatus developed within the framework of the theory of recurrent cosmology](/Mathematical-apparatus-developed-within-the-framework-of-the-theory-of-recurrent-cosmology.md) Nov 8, 2024
-
-[The Theory of Everything (Unified Field Theory) in the context of EIRM and recurrent cosmology](/The-Theory-of-Everything.md) Dec 1, 2024
-
 #### Neurophysiology
 
 - [Neurophysiological Mechanisms of Recurrent Processing and Signal Integration in Consciousness: Analysis of EIRM](/neurophysiology.md) Oct 19, 2024
@@ -259,18 +164,6 @@
 - [Architectural Patterns and Dynamic Processes in Artificial Neural Networks through the Lens of EIRM](/Architectural-patterns-and-dynamic-processes-in-artificial-neural-networks.md) Nov 1, 2024
 
 
-#### Chemistry
-
-- [Search for New Theories in Chemistry](/new-theories-in-chemistry.md) Oct 24, 2024
-  
-  - [The Origin of Chirality in Biological Systems](/The-origin-of-chirality-in-biological-systems.md) Oct 24, 2024
-    
-  - [Mechanisms of Information Transfer in Biochemical Systems](/Mechanisms-of-information-transfer-in-biochemical-systems.md) Oct 24, 2024
-
-- [The Great Union of Physics and Chemistry: A New Paradigm of Recurrent Cosmology](/The-Great-Union-of-Physics-and-Chemistry.md) Nov 7, 2024
-
-- [New Theories in Quantum Chemistry Based on Recurrent Cosmology](/New-theories-in-quantum-chemistry-based-on-recurrent-cosmology.md) Nov 8, 2024
-
 #### Information Theory
 
 - [Similar Concepts with Information Theory and Neuroscience](/information-theory.md) Oct 19, 2024
@@ -337,25 +230,6 @@
 #### Bioinformatics
 
 - [EIRM in Bioinformatics: Analysis of Large Neural Data](/bioinformatics.md) Oct 19, 2024
-
-#### Genetics and Molecular Biology
-
-- [Genetic and Molecular Foundations of EIRM Theory](/genetics-and-molecular-biology.md) Oct 19, 2024
-  
-- [Emergent Properties of Organisms through Recurrent Genetic Integration](/recurrent-integration-in-genetic-networks.md) Oct 20, 2024
-  
-- [Integrative Recurrent Genome Analysis](/integrative-recurrent-genome-analysis.md) Oct 21, 2024
-
-- [Application of EIRM Theory to DNA Decoding](/docs/en/Decoding-DNA.md) Nov 14, 2024
-
-  - [Architectural Implementation of EIRM Neural Network for DNA Analysis](/Decoding-DNA-Architectural-implementation.md) Nov 14, 2024
-
-[Model of DNA Structure through the Lens of EIRM Theory](/A-model-of-the-DNA-structure.md) Nov 19, 2024
-
-[Conceptual Model of DNA Structure through the Lens of EIRM Theory](/Decoding-DNA/README.md) Nov 22, 2024
-
-- [Viruses through the Lens of EIRM Theory](/Decoding-DNA/Viruses.md) Nov 22, 2024
-
 
 #### Pharmacology
 
