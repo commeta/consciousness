@@ -691,6 +691,5 @@ $W_{t+1}^l = W_t^l + \eta \epsilon_t^l (h_t^{l+1})^\top$
 
 Оглавление: 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
 
 
