@@ -360,6 +360,3 @@ $M(t) = M_0 \exp\left(-\frac{t}{\tau}\right) + \int_{0}^{t} K(s) \Phi_e(t-s) \, 
 
 Оглавление: 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
-
-
