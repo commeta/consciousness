@@ -1382,4 +1382,3 @@ $\Phi_e = \int_0^{t_1} I_{\text{integration}}(t) \cdot R_{\text{recurrence}}(t) 
 
 Оглавление: 
 - [ЭИРО framework](/README.md)
-- [Справочник формул](/formulas.md)
