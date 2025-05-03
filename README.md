@@ -141,7 +141,7 @@ graph TD
 
 
 
-**Компоненты метрики Φₑ**
+**Компоненты метрики Φₑ** (speculative experimental branch)
 
 - [Расширение теории ЭИРО с учетом дополнительных параметров метрики Φₑ](/extended-fe-metric.md) Nov 15, 2024
 
@@ -181,7 +181,6 @@ graph TD
 
 - [Компоненты метрики Φₑ сознания мухи дрозофилы в контексте теории ЭИРО](/Components-of-the-drosophila-fly-consciousness-metric-Fe.md) Nov 18, 2024 
 
-
 - [Предсказательное кодирование как система обратной связи организма](/Predictive-coding-as-an-organism-feedback-system.md) Nov 26, 2024
 
 - [Мультимодальная перцептивная репрезентация в контексте теории ЭИРО](/Multimodal-perceptual-representation.md) Nov 27, 2024 
@@ -189,11 +188,6 @@ graph TD
 - [Механизмы осознанного восприятия в контексте теории ЭИРО](/Mechanisms-of-conscious-perception.md) Nov 27, 2024 
 
 - [Принцип работы нейрона в контексте теории ЭИРО](/The-principle-of-operation-of-a-neuron.md) Nov 28, 2024 
-
-- [Механизмы extrasynaptic–передачи сигналов, синхронизации нейронной активности и когерентности](/mechanisms-of-extrasynaptic-signal-transmission-neuronal-activity-synchronization-and-coherence.md) Apr 11, 2025 
-
-- [Исследование фронто-париетальной сети множественных требований (MD-сети) и её роли в когнитивных функциях человека](/multiple-requirement-networks.md) Apr 23, 2025 
-
 
 
 #### Нейрофизиология
@@ -254,8 +248,11 @@ graph TD
 
 #### Прочее
 
-
 - [Сравнительный анализ ведущих теорий сознания в контексте ЭИРО](/comparative-analysis.md) Oct 19, 2024
+
+- [Механизмы extrasynaptic–передачи сигналов, синхронизации нейронной активности и когерентности](/mechanisms-of-extrasynaptic-signal-transmission-neuronal-activity-synchronization-and-coherence.md) Apr 11, 2025 
+
+- [Исследование фронто-париетальной сети множественных требований (MD-сети) и её роли в когнитивных функциях человека](/multiple-requirement-networks.md) Apr 23, 2025 
 
 - [Критический анализ теории ЭИРО и метрики Φₑ](/critical-analysis-of-the-theory-eirm.md) Apr 28, 2025
 
