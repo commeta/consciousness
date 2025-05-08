@@ -262,6 +262,8 @@ graph TD
 
 - [Нейроглия и память: парадигма, выходящая за пределы нейронов](/glia-and-memory.md) May 07, 2025
 
+- [Перечень теорий сознания](/list-of-theories-of-consciousness.md) May 08, 2025
+
 
 </details>
 
