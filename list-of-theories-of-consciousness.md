@@ -296,6 +296,12 @@
 
 ---
 
+## 11. Рефлекторное кольцо  
+
+(И. В. Самойлов) — модель, согласно которой сознание возникает из замкнутых цепей нейронной активности (рефлекторных колец), организованных вокруг ключевых структур мозга. Самойлов показал, что именно такие кольцевые замыкания формируют устойчивые паттерны возбуждения и обеспечения «саморефлексии» нервных систем, отвечая за интеграцию восприятия, памяти и мотивации в единый осознанный акт ([Википедия][34], [CyberLeninka][35]).
+
+---
+
 Все перечисленные теории являются краеугольными в отечественной науке о сознании, имеют богатую экспериментальную и методологическую базу и продолжают влиять на современные исследования в нейробиологии, психологии и кибернетике.
 
 [23]: https://en.wikipedia.org/wiki/Theory_of_functional_systems "Theory of functional systems - Wikipedia"
@@ -309,6 +315,8 @@
 [31]: https://en.wikipedia.org/wiki/Alexei_Ukhtomsky "Alexei Ukhtomsky"
 [32]: https://www.researchgate.net/publication/285613401_The_Concept_of_Dominance_by_AA_Ukhtomsky_and_Anticipation "The Concept of Dominance by A.A. Ukhtomsky and Anticipation"
 [33]: https://www.nadin.ws/ante-study/wp-content/uploads/2014/05/Saltykov-Grachev-Anticipation-and-the-Concept-of-System-Forming-Factor-in-the-Theory-of-Functional-Systems-ed..pdf "[PDF] Anticipation and the Concept of System-Forming Factor in the ..."
+[34]: https://ru.wikipedia.org/wiki/Рефлекторное_кольцо "Рефлекторное кольцо — Википедия"
+[35]: https://cyberleninka.ru/article/n/reflektornoe-kolco-neirofiziologicheskaya-model "Рефлекторное кольцо: нейрофизиологическая модель — CyberLeninka"
 
 ---
 
