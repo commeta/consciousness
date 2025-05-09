@@ -384,6 +384,111 @@ https://www.settleretics.ru/
 [39]: https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2023.1017235/full "Organoid intelligence (OI): the new frontier in biocomputing and ..."
 
 
+---
+
+
+## устройства для записи нейронов
+
+
+Для оцифровки сознания на уровне одного нейрона применяются несколько классов устройств: от традиционных микропипеток и металлических микроэлектродов до современных микрополосковых массивов (Utah, Neuropixel) и ультраминиатюрных беспроводных «микропылинок» (neural dust). Каждый класс отличается размерами, питанием, полосой пропускания и вычислительными возможностями на борту. Встроенные вычислительные требования варьируются от сотен килофлопс (для простой пороговой обработки) до единиц–десятков гигафлопс (для реализации фильтров Volterra–Wiener при дискретизации 10 kHz). Наиболее распространённые алгоритмы включают нелинейные фильтры Volterra–Wiener, классические и глубинные нейронные сети, а также TDNN и динамическое нейропространственное картирование; дополнительно используются методы Калмана и сжатого восприятия для обработки спайк- и ЛФП-сигналов в реальном времени.
+
+---
+
+## 1. Классы устройств
+
+### 1.1. Стеклянные микропипетки
+
+Стеклянные микропипетки — это высокоимпедансные электропроводные трубки с внутренним Ag/AgCl электродом, используемые для внутриклеточной регистрации потенциалов покоя и спайков ([Википедия][40]).
+Они имеют диаметр наконечника ~0.5–1.5 µm и сопротивление 10–50 MΩ, что требует использования каскодного усилителя вблизи электрода ([Википедия][40]).
+Встроенная цифровая обработка в самом электроде отсутствует — все вычисления выполняются внешним оборудованием (≈0 MFLOPS на устройстве).
+
+### 1.2. Металлические микроэлектроды
+
+Металлические микроэлектроды (платина, вольфрам, кремний) используются для внеклеточной регистрации спайков с высоким SNR и механической прочностью ([Википедия][40]).
+Типичные диаметры 5–20 µm, импеданс 0.1–2 MΩ, частотный диапазон ~300 Hz–10 kHz ([Википедия][40]).
+Встроенная фильтрация и пороговая детекция (<0.001 MFLOPS) часто реализуются на headstage-чипах.
+
+### 1.3. Микрополосковые массивы (Utah array / Neuropixel)
+
+Utah array — жёсткий чип с 16–100 микроиглами (1–1.5 mm длины) для записи 64–128 каналов одновременно ([PMC][41]).
+Neuropixel — CMOS-микросхема с 9600+ электродами и возможностью селекции 384 каналов, АЦП 10–12 бит при 30 kSps/канал ([Nature][42]).
+Обработка спайков и предварительная фильтрация выполняются на встроенных FPGA/DSP (~10–100 MFLOPS) ([PMC][41]).
+
+### 1.4. Ультраминиатюрные беспроводные «микропылинки» (neural dust)
+
+Neural dust — беспроводные ультраминиатюрные (~0.5–1 mm³) ультразвуковые сенсоры, питаемые и передающие данные при помощи акустического обратного рассеяния ([ScienceDirect][43]).
+Выполняют лишь простейшую пороговую детекцию и кодирование событий (≈0.1–1 MFLOPS) при дискретизации до 30 kHz ([ScienceDirect][43]).
+
+### 1.5. CMOS-интегрированные микрочипы
+
+Современные чипы типа «камера нейронов» объединяют сотни каналов на монолитном кристалле (например, Oxford Nanopore-style designs), с АЦП 12–16 бит и встроенной DSP/FPGA для он-чип обработки (≈1–5 GFLOPS) ([ScienceDirect][44]).
+Обеспечивают реальное время захвата и беспроводную телеметрию до нескольких часов работы от батареи.
+
+### 1.6. Ультратонкие углеродные волоконные электроды
+
+Углеродные волоконные электроды диаметром <10 µm используются для стабильных долгосрочных записей с низким иммунным ответом ([Frontiers][45]).
+Как правило, выполняют только аналоговую фильтрацию и передачу данных на внешние DSP (<1 MFLOPS).
+
+---
+
+## 2. Технические параметры по классам
+
+| Класс устройства                | Размер/каналы        | Питание/связь           | Вычисления на борту | Память  | Реальное время     |
+| ------------------------------- | -------------------- | ----------------------- | ------------------- | ------- | ------------------ |
+| Стеклянные микропипетки         | 1 канал; 0.5–1.5 µm  | Проводное               | 0 MFLOPS            | 0       | Да (через внешние) |
+| Металлические микроэлектроды    | 1 канал; 5–20 µm     | Headstage               | <0.001 MFLOPS       | <1 KB   | Да                 |
+| Utah array / Neuropixel         | 64–384 каналов       | Headstage/FPGA          | 10–100 MFLOPS       | 100 KB+ | Да                 |
+| Neural dust                     | ~0.5–1 mm³; 1 канал  | Ультразвук (беспровод.) | 0.1–1 MFLOPS        | <1 KB   | До 30 kHz          |
+| CMOS-интегрированные микрочипы  | 100–1000+ каналов    | Беспроводная/проводная  | 1–5 GFLOPS          | МБ+     | Да                 |
+| Углеродные волоконные электроды | 1 канал; <10 µm      | Проводное               | <1 MFLOPS           | <1 KB   | Да                 |
+
+---
+
+## 3. Алгоритмы на борту устройств
+
+### 3.1. Фильтры Volterra–Wiener
+
+Нелинейные фильтры второго порядка Volterra–Wiener дают оптимальную аппроксимацию по MSE, но требуют ~M² коэффициентов (M≈10³) и ≈10⁶ оп./выборку → 10 GFLOPS при 10 kHz и память 4–8 МБ ([isca-archive.org][46]).
+
+### 3.2. Нейронные сети (MLP / DNN)
+
+Трёхслойные MLP с сотнями–тысячами весов обеспечивают ~1–10 MFLOPS на инференс после квантования ([ResearchGate][47]).
+Глубокие сверточные и рекуррентные сети (>5 слоёв) требуют 10–100 MFLOPS, но обеспечивают адаптацию к дрейфу биосигналов ([opg.optica.org][48]).
+
+### 3.3. Time-Delay Neural Networks (TDNN)
+
+TDNN учитывают временную память сигнала, эффективно моделируя динамику спайков, с вычислительной сложностью ~M·N весов → 0.1–1 MFLOPS на миниатюрных MCU ([isca-archive.org][46]).
+
+### 3.4. Dynamic Neuro-Spatial Mapping (Dynamic Neuro-SM)
+
+Метод создаёт пространственно-временную карту активности нейронов, аппроксимируя локальные корреляции; вычислительно сравним с Volterra второго порядка (~1–5 GFLOPS) ([ResearchGate][49]).
+
+### 3.5. Калмановские и состояние-пространственные фильтры
+
+Применяются для оценки скрытых состояний нейронной сети по наблюдаемым спайкам и ЛФП; требуют ~0.1–1 MFLOPS и малый объём памяти (~10 KB) ([royalsociety.org][50]).
+
+### 3.6. Методы сжатого восприятия (Compressive Sensing)
+
+Используют разреженность спайков для снижения числа выборок и вычислений, что позволяет работать в реальном времени с <1 MFLOPS на устройстве ([PMC][51]).
+
+---
+
+**Заключение**: выбор устройства и алгоритма зависит от требуемой миниатюрности, доступной энергии и допустимой задержки. Простые микродатчики обходятся <1 MFLOPS, тогда как сложные ASIC/FPGA-системы могут реализовать Volterra-Wiener фильтры (≈10 GFLOPS) или оптимизированные DNN (≈10–100 MFLOPS) в реальном времени.
+
+[40]: https://en.wikipedia.org/wiki/Single-unit_recording "Single-unit recording"
+[41]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6531316/ "Novel electrode technologies for neural recordings - PMC"
+[42]: https://www.nature.com/articles/s41378-022-00451-6 "Implantable intracortical microelectrodes: reviewing the present with ..."
+[43]: https://www.sciencedirect.com/science/article/abs/pii/S0959438817302386 "Recent advances in neural dust: towards a neural interface platform"
+[44]: https://www.sciencedirect.com/science/article/pii/S2589004221015200 "Recent advances in recording and modulation technologies for next ..."
+[45]: https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2020.622923/full "A Review: Electrode and Packaging Materials for Neurophysiology ..."
+[46]: https://www.isca-archive.org/interspeech_2013/patil13_interspeech.pdf "[PDF] Nonlinear Prediction of Speech Signal using Volterra-Wiener Series"
+[47]: https://www.researchgate.net/publication/28106092_Novel_Neural_Network_application_to_nonlinear_electronic_devices_building_a_Volterra_series_model "Novel Neural Network application to nonlinear electronic devices"
+[48]: https://opg.optica.org/aop/abstract.cfm?URI=aop-15-3-739 "Artificial neural networks for photonic applications—from algorithms ..."
+[49]: https://www.researchgate.net/publication/349171955_A_Wiener-Type_Dynamic_Neural_Network_Approach_to_the_Modeling_of_Nonlinear_Microwave_Devices_and_Its_Applications "A Wiener-Type Dynamic Neural Network Approach to the Modeling ..."
+[50]: https://royalsociety.org/-/media/policy/projects/ihuman/5-non-medical-inside-body.pdf "[PDF] Neural interface technologies: medical applications inside the body"
+[51]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8666678/ "Recent advances in recording and modulation technologies for next ..."
+
+
 
 
 ---
