@@ -1,7 +1,30 @@
-# экспериментально-дедуктивный подход
+# Экспериментально-дедуктивный подход
 
 
 Ниже представлена «базовая теория» практического подхода к программированию — сочетание эмпирических методов, невысказанных (неявных) знаний и прагматичной философии разработки.
+
+```mermaid
+flowchart TD
+    A[Экспериментально-дедуктивный подход] --> B1[Эксперимент]
+    A --> B2[Неявные знания]
+    A --> B3[Проб и ошибок]
+    A --> B4[Дедукция]
+    A --> B5[Эвристики]
+    A --> B6[Конструктивизм]
+
+    B1 --> C1[Кодирование и тестирование]
+    B1 --> C2[Анализ результата]
+    
+    B2 --> C3[Опыт + интуиция]
+    
+    B3 --> C4[Итерации и обратная связь]
+    
+    B4 --> C5[От общих принципов к частным решениям]
+    
+    B5 --> C6[Приёмы без формальных доказательств]
+    
+    B6 --> C7[Построение знаний через практику]
+```
 
 ## Краткое изложение
 
@@ -67,8 +90,6 @@
 [10]: https://yaktack.com/words/pragmatic%20programming "pragmatic programming - Yak Tack"
 [11]: https://www.linkedin.com/pulse/programming-pragmatic-approach-daniel-deutsch "Programming — the pragmatic approach - LinkedIn"
 [12]: https://medium.com/%40alexbunardzic/metaphysical-vs-empirical-programming-7a63b189a708 "Metaphysical Vs. Empirical Programming | by Alex Bunardzic | Medium"
-
-
 
 
 ---
