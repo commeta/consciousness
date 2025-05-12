@@ -2157,7 +2157,7 @@ graph TD
     
 #### Прочее
 
-- [Прогноз о существовании внеземной жизни через призму теории ЭИРО и новой модели вселенной](/prediction-of-the-existence-of-extraterrestrial-life.md) Oct 22, 2024
+- [Прогноз о существовании внеземной жизни](/prediction-of-the-existence-of-extraterrestrial-life.md) May 12, 2025
   
 - [ЭИРО: От нейронов к звездам](/mission.md) Oct 19, 2024
 
