@@ -258,7 +258,7 @@ graph TD
 
 - [Основные различия между GNWT и IIT](/The-main-differences-between-GNWT-and-IIT.md) Apr 30, 2025
 
-- [Перенос сознания](/mind-uploading.md) May 02, 2025
+- [Перенос сознания](/mind-uploading.md) May 02, 2025. upd: May 13, 2024
 
 - [Нейроглия и память: парадигма, выходящая за пределы нейронов](/glia-and-memory.md) May 07, 2025
 
