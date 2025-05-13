@@ -599,6 +599,70 @@ TDNN учитывают временную память сигнала, эффе
 [65]: https://www.frontiersin.org/journals/nanotechnology/articles/10.3389/fnano.2022.885411/full "In Vivo Neural Interfaces—From Small- to Large-Scale Recording"
 
 
+---
+
+
+## Химические сигналы
+
+Химическая трансмиссия играет не менее важную роль в работе мозга, чем электрические и глиальные сигналы: нейромедиаторы обеспечивают как быструю (миллисекундную), так и медленную (секундную–минутную) модуляцию нейронных сетей. Для «оцифровки» мозга необходимо комбинировать электрофизиологические, глиальные и нейрохимические данные. Существуют несколько основных подходов к регистрации нейромедиаторов in vivo — от классического микродиализа до мультиканальной электрохимии и оптических сенсоров — каждый со своими преимуществами и ограничениями.
+
+
+### 1. Роль нейромедиаторов
+
+Нейромедиаторы осуществляют химическую передачу и модуляцию между нейронами и глией, определяя динамику возбуждения, торможения и нейромодуляции ([RSC Publishing][66], [MDPI][67]).
+
+### 2. Методы регистрации
+
+#### 2.1 Микродиализ
+
+Микродиализ остаётся «золотым стандартом» для количественного анализа широкого спектра нейромедиаторов с чувствительностью нМ–мкМ, однако его временное разрешение ограничено минутами (обычно ≥1–10 мин на пробу) ([PMC][68], [MDPI][67]).
+
+#### 2.2 Fast-Scan Cyclic Voltammetry (FSCV)
+
+FSCV обеспечивает субсекундное (10–100 мс) разрешение для детекции «электроактивных» аминов (дофамин, серотонин) с использованием углеродных микроэлектродов ([Frontiers][69], [PMC][70]).
+Однако при хроническом применении FSCV сталкивается с проблемами биообрастания, смещения потенциала и стабильности сигнала ([Wiley Online Library][71]).
+
+#### 2.3 Электрохимические микроэлектродные матрицы
+
+Графеновые и углеродные микроэлектродные матрицы позволяют многоканально регистрировать дофамин и серотонин в нМ-диапазоне, повышая соотношение сигнал/шум и снижая биообрастание по сравнению с традиционными углеродными волокнами ([RSC Publishing][72]).
+
+#### 2.4 Генетически закодированные оптические сенсоры
+
+GECI-сенсоры (iGluSnFR для глутамата, dLight1/GRAB-DA для дофамина) дают миллисекундное разрешение и чувствительность до пМ, но ограничены глубиной проникновения и числом одновременно регистрируемых зон ([PMC][73], [Nature][74]).
+
+#### 2.5 Волоконная фотометрия
+
+Фотометрия по оптическим волокнам позволяет следить за динамикой популяционных флуоресцентных сигналов в свободно движущихся животных, однако усредняет данные по большому объёму ткани и не даёт локализации отдельных клеток ([Научный Директор][75], [PubMed][76]).
+
+### 3. Ключевые технические требования
+
+* **Временное разрешение**: <100 мс для методов FSCV и GECI, чтобы фиксировать быстрые выбросы нейромедиаторов ([Frontiers][69], [PMC][70]).
+* **Чувствительность**: диапазон регистрации от пМ до нМ, требующий усилителей с низким собственным шумом и высокой динамической разрядностью ([MDPI][67], [ACS Publications][77]).
+* **Энергопотребление**: <100 мВт на устройство для минимизации тепловыделения и продления времени in vivo экспериментов ([ACS Publications][77], [PMC][78]).
+* **Биосовместимость**: антиклеточные покрытия электродов, устойчивость к биообрастанию и контроль иммунного ответа при длительном имплантировании ([PMC][78], [Wiley Online Library][71]).
+
+### 4. Перспективы интеграции мультимодальных интерфейсов
+
+Разрабатываются гибридные on-chip системы, которые объединяют электрофизиологию, электрохимию и оптические сенсоры для синхронной регистрации спайков, LFP и локальных концентраций нейромедиаторов ([Научный Директор][79], [Nature][80]). Основные вызовы — масштабирование числа каналов, обеспечение стабильности сигналов и высокая пропускная способность данных в длительных in vivo экспериментах ([PMC][81], [Научный Директор][82]).
+
+[66]: https://pubs.rsc.org/en/content/articlelanding/2020/an/d0an01175d "Real-time in vivo detection techniques for neurotransmitters: a review"
+[67]: https://www.mdpi.com/1424-8220/24/2/647 "Exploring Neurotransmitters through In Vivo vs. In Vitro Rivalry - MDPI"
+[68]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3083031/ "In vivo brain microdialysis: advances in neuropsychopharmacology ..."
+[69]: https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.728092/full "Defining a Path Toward the Use of Fast-Scan Cyclic Voltammetry in ..."
+[70]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7028514/ "Fundamentals of Fast-Scan Cyclic Voltammetry for Dopamine ..."
+[71]: https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202401808 "Biological and Mechanical Limitations for Chronic Fast‐Scan Cyclic ..."
+[72]: https://pubs.rsc.org/en/content/articlelanding/2021/an/d1an00425e "Glassy carbon microelectrode arrays enable voltage-peak ..."
+[73]: https://pmc.ncbi.nlm.nih.gov/articles/PMC11322610/ "Genetically encoded fluorescent sensors for imaging neuronal ..."
+[74]: https://www.nature.com/articles/s41592-023-01863-6 "Glutamate indicators with improved activation kinetics and ... - Nature"
+[75]: https://www.sciencedirect.com/science/article/pii/S0896627323008905 "Lights, fiber, action! A primer on in vivo fiber photometry"
+[76]: https://pubmed.ncbi.nlm.nih.gov/38103545/ "Lights, fiber, action! A primer on in vivo fiber photometry - PubMed"
+[77]: https://pubs.acs.org/doi/10.1021/jacsau.3c00200 "Implantable Electrochemical Sensors for Brain Research | JACS Au"
+[78]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6767110/ "Biocompatibility of common implantable sensor materials in a tumor ..."
+[79]: https://www.sciencedirect.com/science/article/pii/S2589004221015820 "Review Multimodal neural probes for combined optogenetics and ..."
+[80]: https://www.nature.com/articles/s41378-022-00444-5 "Recent developments in multifunctional neural probes for ... - Nature"
+[81]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8232899/ "Hybrid Electrical and Optical Neural Interfaces - PMC"
+[82]: https://www.sciencedirect.com/science/article/pii/S209580992400729X "Recent Advances in Intracortical Neural Interfaces for Freely Moving ..."
+
 
 
 ---
