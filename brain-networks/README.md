@@ -18,6 +18,10 @@
 
 - [Visual Network](/brain-networks/visual-network.md)
 
+- [Somato-Motor Network (SMN)](/brain-networks/somato-motor-network-smn.md)
+
+
+
 
 ---
 
