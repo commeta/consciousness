@@ -24,6 +24,17 @@
 
 - [Language Network (LN)](/brain-networks/language-network-ln.md)
 
+- [Auditory Network (AN)](/brain-networks/auditory-network-an.md)
+
+- [Cerebellar Network (CBN)](/brain-networks/cerebellar-network-cbn.md)
+
+- [Basal Ganglia Network, (BGN)](/brain-networks/basal-ganglia-network-bgn.md)
+
+- [Frontoparietal Control Network (FPCN)](/brain-networks/frontoparietal-control-network-fpcn.md)
+
+- [Temporal-Parietal Network (TPN)](/brain-networks/temporal-parietal-network-tpn.md)
+
+
 
 ---
 
