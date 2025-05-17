@@ -2153,8 +2153,6 @@ graph TD
 
 - [Рекуррентные взаимодействия в экономических системах и эмерджентность рынков](/recurrent-interactions-in-economic-systems-and-the-emergence-of-markets.md) Oct 20, 2024
   
-- [Поиск новых теорий в экономике](/The-search-for-new-theories-in-economics.md) Oct 25, 2024
-
 </details>
 
 
