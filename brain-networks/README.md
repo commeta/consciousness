@@ -20,6 +20,7 @@
 
 - [Somato-Motor Network (SMN)](/brain-networks/somato-motor-network-smn.md)
 
+- [Limbic Network](/brain-networks/limbic-network.md)
 
 
 
