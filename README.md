@@ -250,11 +250,19 @@ graph TD
 
 - [Сравнительный анализ ведущих теорий сознания в контексте ЭИРО](/comparative-analysis.md) Oct 19, 2024
 
+- [Критический анализ теории ЭИРО и метрики Φₑ](/critical-analysis-of-the-theory-eirm.md) Apr 28, 2025
+
+
+
+</details>
+
+
+<details>
+<summary>Обзоры и справочники</summary>
+
 - [Механизмы extrasynaptic–передачи сигналов, синхронизации нейронной активности и когерентности](/mechanisms-of-extrasynaptic-signal-transmission-neuronal-activity-synchronization-and-coherence.md) Apr 11, 2025 
 
 - [Исследование фронто-париетальной сети множественных требований (MD-сети) и её роли в когнитивных функциях человека](/multiple-requirement-networks.md) Apr 23, 2025 
-
-- [Критический анализ теории ЭИРО и метрики Φₑ](/critical-analysis-of-the-theory-eirm.md) Apr 28, 2025
 
 - [Основные различия между GNWT и IIT](/The-main-differences-between-GNWT-and-IIT.md) Apr 30, 2025
 
@@ -266,9 +274,7 @@ graph TD
 
 - [Нейросети мозга](/brain-networks/README.md) May 17, 2025
 
-
 </details>
-
 
 
 ---
