@@ -404,6 +404,27 @@ graph TD
 * MacLean, 1952 — “The Triune Brain in Evolution” (Plenum Press)
 * Catani et al., 2013 — “A revised limbic system model for memory, emotion and behaviour” (Neuroscience & Biobehavioral Reviews) ([ScienceDirect][17])
 
+---
+
+
+[1]: https://pmc.ncbi.nlm.nih.gov/articles/PMC5939207/ "Distinct Roles for the Anterior Cingulate and Dorsolateral Prefrontal ..."
+[2]: https://www.sciencedirect.com/science/article/pii/S0896627323003082 "20 years of the default mode network: A review and synthesis"
+[3]: https://www.nature.com/articles/s41598-020-72317-8 "Functional parcellation of the default mode network - Nature"
+[4]: https://www.nature.com/articles/s41467-024-46511-5 "A multi-demand operating system underlying diverse cognitive tasks"
+[5]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2899886/ "Saliency, switching, attention and control: a network model of insula ..."
+[6]: https://www.jneurosci.org/content/39/50/9878 "The Salience Network: A Neural System for Perceiving and ..."
+[7]: https://www.sciencedirect.com/topics/psychology/central-executive-network "Central Executive Network - an overview | ScienceDirect Topics"
+[8]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6867136/ "White matter integrity of central executive network correlates with ..."
+[9]: https://www.sciencedirect.com/topics/medicine-and-dentistry/dorsal-attention-network "Dorsal Attention Network - an overview | ScienceDirect Topics"
+[10]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6882310/ "Role of the dorsal attention network in distracter suppression based ..."
+[11]: https://www.sciencedirect.com/topics/medicine-and-dentistry/ventral-attention-network "Ventral Attention Network - an overview | ScienceDirect Topics"
+[12]: https://pubmed.ncbi.nlm.nih.gov/30978625/ "Ventral attention-network effective connectivity predicts individual ..."
+[13]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6793364/ "The Connection from Cortical Area V1 to V5: A Light and Electron ..."
+[14]: https://www.sciencedirect.com/science/article/pii/S235215462400010X "Cortico-cortical paired-associative stimulation to investigate the ..."
+[15]: https://pmc.ncbi.nlm.nih.gov/articles/PMC10462217/ "Somatomotor-Visual Resting State Functional Connectivity ..."
+[16]: https://www.nature.com/articles/s41586-023-05964-2 "A somato-cognitive action network alternates with effector regions in ..."
+[17]: https://www.sciencedirect.com/science/article/abs/pii/S0149763413001711 "A revised limbic system model for memory, emotion and behaviour"
+[18]: https://www.ncbi.nlm.nih.gov/books/NBK538491/ "Neuroanatomy, Limbic System - StatPearls - NCBI Bookshelf"
 
 
 ---
@@ -640,6 +661,26 @@ graph TD
 * Gilbert S.J. et al., 2005 — “Involvement of rostral prefrontal cortex in selection between stimulus-oriented and stimulus-independent thought”, Eur. J. Neurosci. ([ResearchGate][34])
 
 
+---
+
+
+[19]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3398395/ "A review and synthesis of the first 20 years of PET and fMRI studies ..."
+[20]: https://www.aimspress.com/article/doi/10.3934/Neuroscience.2021001?viewType=HTML "a systematic review of fMRI studies in the past two decades"
+[21]: https://europepmc.org/article/med/23146876/ "The language network. - Abstract - Europe PMC"
+[22]: https://pubmed.ncbi.nlm.nih.gov/21795627/ "The organization of the human cerebellum estimated by intrinsic ..."
+[23]: https://en.wikipedia.org/wiki/Randy_Buckner "Randy Buckner"
+[24]: https://pubmed.ncbi.nlm.nih.gov/18400794/ "Functional connectivity of human striatum: a resting state FMRI study"
+[25]: https://www.nature.com/articles/nrn.2017.104 "Individual arrangements | Nature Reviews Neuroscience"
+[26]: https://pubmed.ncbi.nlm.nih.gov/28728026/ "Parallel Interdigitated Distributed Networks within the Individual ..."
+[27]: https://www.sciencedirect.com/science/article/pii/S0149763414000128 "Fractionating theory of mind: A meta-analysis of functional brain ..."
+[28]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6866486/ "The role of the right temporo–parietal junction in social decision ..."
+[29]: https://en.wikipedia.org/wiki/Social_cognitive_neuroscience "Social cognitive neuroscience"
+[30]: https://pubmed.ncbi.nlm.nih.gov/24770711/ "Functional Characterization of the Cingulo-Opercular Network in the ..."
+[31]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7749795/ "The orbitofrontal cortex: reward, emotion and depression - PMC"
+[32]: https://pubmed.ncbi.nlm.nih.gov/33364600/ "The orbitofrontal cortex: reward, emotion and depression - PubMed"
+[33]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2430004/ "Function and localization within rostral prefrontal cortex (area 10)"
+[34]: https://www.researchgate.net/publication/316227003_Rostral_prefrontal_cortex_Brodmann_area_10_metacognition_in_the_brain "(PDF) Rostral prefrontal cortex (Brodmann area 10) - ResearchGate"
+[35]: https://www.researchgate.net/publication/313703365_The_gateway_hypothesis_of_rostral_prefrontal_cortex_area_10_function "(PDF) The gateway hypothesis of rostral prefrontal cortex (area 10 ..."
 
 
 ---
@@ -873,6 +914,29 @@ graph TD
 * Haber S.N. & Knutson B., 2010 — “The reward circuit: linking primate anatomy and human imaging”, Neuropsychopharmacology.
 * Robbins T.W. & Robbins B.J., 2012 — “Cognitive control and frontostriatal circuits in Parkinson’s disease”, Trends Cogn. Sci. ([Nature][55], [PMC][36]).
 
+---
+
+[36]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2796919/ "Reward Networks in the Brain as Captured by Connectivity Measures"
+[37]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6218647/ "The Functional Connectivity Between the Nucleus Accumbens and ..."
+[38]: https://www.nature.com/articles/s41398-022-01995-x "Reduced nucleus accumbens functional connectivity in reward ..."
+[39]: https://pubmed.ncbi.nlm.nih.gov/15217334/ "The medial temporal lobe - PubMed"
+[40]: https://pubmed.ncbi.nlm.nih.gov/1896849/ "The medial temporal lobe memory system - PubMed"
+[41]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3388718/ "A new neural framework for visuospatial processing - PMC"
+[42]: https://www.nature.com/articles/s41598-023-38554-3 "Occipital and parietal cortex participate in a cortical network ... - Nature"
+[43]: https://www.jneurosci.org/content/43/17/3144 "Semantic Representations during Language Comprehension Are ..."
+[44]: https://www.nature.com/articles/s41586-024-07643-2 "Semantic encoding during language comprehension at single-cell ..."
+[45]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7137721/ "The mentalizing network and theory of mind mediate adjustment ..."
+[46]: https://www.sciencedirect.com/science/article/abs/pii/S0028393220301469 "Theory of mind network activity is associated with metaethical ..."
+[47]: https://pmc.ncbi.nlm.nih.gov/articles/PMC5810456/ "From Neurons to Social Beings: Short Review of the Mirror Neuron ..."
+[48]: https://www.nature.com/articles/nrn2024 "The mirror neuron system and the consequences of its dysfunction"
+[49]: https://www.sciencedirect.com/science/article/pii/S2589004224027081 "Demystifying visual word form area visual and nonvisual response ..."
+[50]: https://www.eneuro.org/content/11/7/ENEURO.0228-24.2024 "Reading Reshapes Stimulus Selectivity in the Visual Word Form Area"
+[51]: https://pmc.ncbi.nlm.nih.gov/articles/PMC5862740/ "The multifaceted role of ventromedial prefrontal cortex in emotion ..."
+[52]: https://pubmed.ncbi.nlm.nih.gov/30877420/ "The Role of the Amygdala and the Ventromedial Prefrontal Cortex in ..."
+[53]: https://www.nature.com/articles/s41467-022-35658-8 "Cerebro-cerebellar networks facilitate learning through feedback ..."
+[54]: https://pmc.ncbi.nlm.nih.gov/articles/PMC10416251/ "The cerebellum and cognitive neural networks - PubMed Central"
+[55]: https://www.nature.com/articles/s41386-021-01132-0 "The role of prefrontal cortex in cognitive control and executive function"
+
 
 ---
 
@@ -1099,6 +1163,30 @@ graph TD
 
 * Lopez & Blanke, 2011 — обзор кортикальных областей вестибулярной системы, *Nature Reviews Neuroscience* ([PubMed][75])
 * zu Eulenburg et al., 2012 — мета-анализ PIVC, *Cerebral Cortex* ([PubMed][74])
+
+---
+
+
+[56]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2604839/ "Evidence for a Frontoparietal Control System Revealed by Intrinsic ..."
+[57]: https://academic.oup.com/braincomms/article/4/2/fcac080/6555238 "Right fronto-parietal networks mediate the neurocognitive benefits of ..."
+[58]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6136121/ "The frontoparietal network: function, electrophysiology, and ..."
+[59]: https://pubmed.ncbi.nlm.nih.gov/16226590/ "Dual routes to action: contributions of the dorsal and ventral streams ..."
+[60]: https://pubmed.ncbi.nlm.nih.gov/24962370/ "The functional architecture of the ventral temporal cortex and its role ..."
+[61]: https://en.wikipedia.org/wiki/Two-streams_hypothesis "Two-streams hypothesis - Wikipedia"
+[62]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3575728/ "Social cognition and the anterior temporal lobes - PubMed Central"
+[63]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2791360/ "The anterior temporal lobes and the functional architecture of ..."
+[64]: https://pubmed.ncbi.nlm.nih.gov/18343462/ "Memory retrieval and the parietal cortex: a review of evidence from a ..."
+[65]: https://www.sciencedirect.com/science/article/abs/pii/S1364661315001552 "Review A parietal memory network revealed by multiple MRI methods"
+[66]: https://pubmed.ncbi.nlm.nih.gov/8412366/ "The central autonomic network: functional organization, dysfunction ..."
+[67]: https://www.sciencedirect.com/science/article/abs/pii/S0025619612622721 "The Central Autonomic Network: Functional Organization ..."
+[68]: https://pubmed.ncbi.nlm.nih.gov/27021938/ "Thalamus plays a central role in ongoing cortical functioning - PubMed"
+[69]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6886702/ "Thalamo-cortical circuit motifs: a general framework - PubMed Central"
+[70]: https://www.nature.com/articles/nn1176 "Neural systems supporting interoceptive awareness - Nature"
+[71]: https://pubmed.ncbi.nlm.nih.gov/14730305/ "Neural systems supporting interoceptive awareness - PubMed"
+[72]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6869957/ "Separating brain processing of pain fromthat of stimulus intensity"
+[73]: https://www.sciencedirect.com/science/article/abs/pii/S0301008210001759 "The pain matrix reloaded: A salience detection system for the body"
+[74]: https://pubmed.ncbi.nlm.nih.gov/21223979/ "The thalamocortical vestibular system in animals and humans"
+[75]: https://pubmed.ncbi.nlm.nih.gov/22516007/ "The human vestibular cortex revealed by coordinate ... - PubMed"
 
 
 ---
@@ -1330,85 +1418,8 @@ graph TD
 * Buckner, 2013 — «The Cerebellum and Cognitive Function: 25 Years of Insight», *Neuron* ([ScienceDirect][102])
 * Sokolov et al., 2017 — «Cerebellar loops with prefrontal cortex in executive control», *Trends in Cognitive Sciences* ([PMC][104])
 
+---
 
-[1]: https://pmc.ncbi.nlm.nih.gov/articles/PMC5939207/ "Distinct Roles for the Anterior Cingulate and Dorsolateral Prefrontal ..."
-[2]: https://www.sciencedirect.com/science/article/pii/S0896627323003082 "20 years of the default mode network: A review and synthesis"
-[3]: https://www.nature.com/articles/s41598-020-72317-8 "Functional parcellation of the default mode network - Nature"
-[4]: https://www.nature.com/articles/s41467-024-46511-5 "A multi-demand operating system underlying diverse cognitive tasks"
-[5]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2899886/ "Saliency, switching, attention and control: a network model of insula ..."
-[6]: https://www.jneurosci.org/content/39/50/9878 "The Salience Network: A Neural System for Perceiving and ..."
-[7]: https://www.sciencedirect.com/topics/psychology/central-executive-network "Central Executive Network - an overview | ScienceDirect Topics"
-[8]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6867136/ "White matter integrity of central executive network correlates with ..."
-[9]: https://www.sciencedirect.com/topics/medicine-and-dentistry/dorsal-attention-network "Dorsal Attention Network - an overview | ScienceDirect Topics"
-[10]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6882310/ "Role of the dorsal attention network in distracter suppression based ..."
-[11]: https://www.sciencedirect.com/topics/medicine-and-dentistry/ventral-attention-network "Ventral Attention Network - an overview | ScienceDirect Topics"
-[12]: https://pubmed.ncbi.nlm.nih.gov/30978625/ "Ventral attention-network effective connectivity predicts individual ..."
-[13]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6793364/ "The Connection from Cortical Area V1 to V5: A Light and Electron ..."
-[14]: https://www.sciencedirect.com/science/article/pii/S235215462400010X "Cortico-cortical paired-associative stimulation to investigate the ..."
-[15]: https://pmc.ncbi.nlm.nih.gov/articles/PMC10462217/ "Somatomotor-Visual Resting State Functional Connectivity ..."
-[16]: https://www.nature.com/articles/s41586-023-05964-2 "A somato-cognitive action network alternates with effector regions in ..."
-[17]: https://www.sciencedirect.com/science/article/abs/pii/S0149763413001711 "A revised limbic system model for memory, emotion and behaviour"
-[18]: https://www.ncbi.nlm.nih.gov/books/NBK538491/ "Neuroanatomy, Limbic System - StatPearls - NCBI Bookshelf"
-
-[19]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3398395/ "A review and synthesis of the first 20 years of PET and fMRI studies ..."
-[20]: https://www.aimspress.com/article/doi/10.3934/Neuroscience.2021001?viewType=HTML "a systematic review of fMRI studies in the past two decades"
-[21]: https://europepmc.org/article/med/23146876/ "The language network. - Abstract - Europe PMC"
-[22]: https://pubmed.ncbi.nlm.nih.gov/21795627/ "The organization of the human cerebellum estimated by intrinsic ..."
-[23]: https://en.wikipedia.org/wiki/Randy_Buckner "Randy Buckner"
-[24]: https://pubmed.ncbi.nlm.nih.gov/18400794/ "Functional connectivity of human striatum: a resting state FMRI study"
-[25]: https://www.nature.com/articles/nrn.2017.104 "Individual arrangements | Nature Reviews Neuroscience"
-[26]: https://pubmed.ncbi.nlm.nih.gov/28728026/ "Parallel Interdigitated Distributed Networks within the Individual ..."
-[27]: https://www.sciencedirect.com/science/article/pii/S0149763414000128 "Fractionating theory of mind: A meta-analysis of functional brain ..."
-[28]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6866486/ "The role of the right temporo–parietal junction in social decision ..."
-[29]: https://en.wikipedia.org/wiki/Social_cognitive_neuroscience "Social cognitive neuroscience"
-[30]: https://pubmed.ncbi.nlm.nih.gov/24770711/ "Functional Characterization of the Cingulo-Opercular Network in the ..."
-[31]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7749795/ "The orbitofrontal cortex: reward, emotion and depression - PMC"
-[32]: https://pubmed.ncbi.nlm.nih.gov/33364600/ "The orbitofrontal cortex: reward, emotion and depression - PubMed"
-[33]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2430004/ "Function and localization within rostral prefrontal cortex (area 10)"
-[34]: https://www.researchgate.net/publication/316227003_Rostral_prefrontal_cortex_Brodmann_area_10_metacognition_in_the_brain "(PDF) Rostral prefrontal cortex (Brodmann area 10) - ResearchGate"
-[35]: https://www.researchgate.net/publication/313703365_The_gateway_hypothesis_of_rostral_prefrontal_cortex_area_10_function "(PDF) The gateway hypothesis of rostral prefrontal cortex (area 10 ..."
-
-[36]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2796919/ "Reward Networks in the Brain as Captured by Connectivity Measures"
-[37]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6218647/ "The Functional Connectivity Between the Nucleus Accumbens and ..."
-[38]: https://www.nature.com/articles/s41398-022-01995-x "Reduced nucleus accumbens functional connectivity in reward ..."
-[39]: https://pubmed.ncbi.nlm.nih.gov/15217334/ "The medial temporal lobe - PubMed"
-[40]: https://pubmed.ncbi.nlm.nih.gov/1896849/ "The medial temporal lobe memory system - PubMed"
-[41]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3388718/ "A new neural framework for visuospatial processing - PMC"
-[42]: https://www.nature.com/articles/s41598-023-38554-3 "Occipital and parietal cortex participate in a cortical network ... - Nature"
-[43]: https://www.jneurosci.org/content/43/17/3144 "Semantic Representations during Language Comprehension Are ..."
-[44]: https://www.nature.com/articles/s41586-024-07643-2 "Semantic encoding during language comprehension at single-cell ..."
-[45]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7137721/ "The mentalizing network and theory of mind mediate adjustment ..."
-[46]: https://www.sciencedirect.com/science/article/abs/pii/S0028393220301469 "Theory of mind network activity is associated with metaethical ..."
-[47]: https://pmc.ncbi.nlm.nih.gov/articles/PMC5810456/ "From Neurons to Social Beings: Short Review of the Mirror Neuron ..."
-[48]: https://www.nature.com/articles/nrn2024 "The mirror neuron system and the consequences of its dysfunction"
-[49]: https://www.sciencedirect.com/science/article/pii/S2589004224027081 "Demystifying visual word form area visual and nonvisual response ..."
-[50]: https://www.eneuro.org/content/11/7/ENEURO.0228-24.2024 "Reading Reshapes Stimulus Selectivity in the Visual Word Form Area"
-[51]: https://pmc.ncbi.nlm.nih.gov/articles/PMC5862740/ "The multifaceted role of ventromedial prefrontal cortex in emotion ..."
-[52]: https://pubmed.ncbi.nlm.nih.gov/30877420/ "The Role of the Amygdala and the Ventromedial Prefrontal Cortex in ..."
-[53]: https://www.nature.com/articles/s41467-022-35658-8 "Cerebro-cerebellar networks facilitate learning through feedback ..."
-[54]: https://pmc.ncbi.nlm.nih.gov/articles/PMC10416251/ "The cerebellum and cognitive neural networks - PubMed Central"
-[55]: https://www.nature.com/articles/s41386-021-01132-0 "The role of prefrontal cortex in cognitive control and executive function"
-
-[56]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2604839/ "Evidence for a Frontoparietal Control System Revealed by Intrinsic ..."
-[57]: https://academic.oup.com/braincomms/article/4/2/fcac080/6555238 "Right fronto-parietal networks mediate the neurocognitive benefits of ..."
-[58]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6136121/ "The frontoparietal network: function, electrophysiology, and ..."
-[59]: https://pubmed.ncbi.nlm.nih.gov/16226590/ "Dual routes to action: contributions of the dorsal and ventral streams ..."
-[60]: https://pubmed.ncbi.nlm.nih.gov/24962370/ "The functional architecture of the ventral temporal cortex and its role ..."
-[61]: https://en.wikipedia.org/wiki/Two-streams_hypothesis "Two-streams hypothesis - Wikipedia"
-[62]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3575728/ "Social cognition and the anterior temporal lobes - PubMed Central"
-[63]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2791360/ "The anterior temporal lobes and the functional architecture of ..."
-[64]: https://pubmed.ncbi.nlm.nih.gov/18343462/ "Memory retrieval and the parietal cortex: a review of evidence from a ..."
-[65]: https://www.sciencedirect.com/science/article/abs/pii/S1364661315001552 "Review A parietal memory network revealed by multiple MRI methods"
-[66]: https://pubmed.ncbi.nlm.nih.gov/8412366/ "The central autonomic network: functional organization, dysfunction ..."
-[67]: https://www.sciencedirect.com/science/article/abs/pii/S0025619612622721 "The Central Autonomic Network: Functional Organization ..."
-[68]: https://pubmed.ncbi.nlm.nih.gov/27021938/ "Thalamus plays a central role in ongoing cortical functioning - PubMed"
-[69]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6886702/ "Thalamo-cortical circuit motifs: a general framework - PubMed Central"
-[70]: https://www.nature.com/articles/nn1176 "Neural systems supporting interoceptive awareness - Nature"
-[71]: https://pubmed.ncbi.nlm.nih.gov/14730305/ "Neural systems supporting interoceptive awareness - PubMed"
-[72]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6869957/ "Separating brain processing of pain fromthat of stimulus intensity"
-[73]: https://www.sciencedirect.com/science/article/abs/pii/S0301008210001759 "The pain matrix reloaded: A salience detection system for the body"
-[74]: https://pubmed.ncbi.nlm.nih.gov/21223979/ "The thalamocortical vestibular system in animals and humans"
-[75]: https://pubmed.ncbi.nlm.nih.gov/22516007/ "The human vestibular cortex revealed by coordinate ... - PubMed"
 
 [76]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8078209/ "Validation of Olfactory Network Based on Brain Structural ..."
 [77]: https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00571/128869/The-human-olfactory-amygdala-anatomical "Anatomical connections between the olfactory bulb and amygdala ..."
