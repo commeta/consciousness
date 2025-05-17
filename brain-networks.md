@@ -434,13 +434,13 @@ graph TD
 ## **11. Language Network (LN)**
 
 **Ключевая функция:**
-Восприятие, анализ и производство языка, от фонологической обработки до синтаксиса и семантики ([PMC][1], [aimspress.com][2]).
+Восприятие, анализ и производство языка, от фонологической обработки до синтаксиса и семантики ([PMC][19], [aimspress.com][20]).
 
 **Анатомия:**
 
 * Broca’s area (левый BA44/45) — продукция речи;
 * Wernicke’s area (левый posterior STG/MTG) — понимание речи;
-* Arcuate fasciculus — магистральный тракт «вперед-назад». ([PMC][1])
+* Arcuate fasciculus — магистральный тракт «вперед-назад». ([PMC][19])
 
 **Ключевые тракты / подсети:**
 
@@ -450,20 +450,20 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Price C.J., 2010 — “The anatomy of language: a review of 100 fMRI studies published in 2009”, Ann. N. Y. Acad. Sci. ([PMC][1])
-* Friederici A.D., 2011 — “The brain basis of language processing: from structure to function”, Physiol. Rev. ([aimspress.com][2])
+* Price C.J., 2010 — “The anatomy of language: a review of 100 fMRI studies published in 2009”, Ann. N. Y. Acad. Sci. ([PMC][19])
+* Friederici A.D., 2011 — “The brain basis of language processing: from structure to function”, Physiol. Rev. ([aimspress.com][20])
 
 ---
 
 ## **12. Auditory Network (AN)**
 
 **Ключевая функция:**
-Обработка и кодирование звуковых стимулов от примитивных характеристик до распознавания речи и музыки ([aimspress.com][2], [Europe PMC][3]).
+Обработка и кодирование звуковых стимулов от примитивных характеристик до распознавания речи и музыки ([aimspress.com][20], [Europe PMC][21]).
 
 **Анатомия:**
 
 * Heschl’s gyrus (первичная слуховая кора) — анализ частоты и интенсивности;
-* Superior Temporal Gyrus (ассоциативная слуховая кора) — распознавание фонем и звуковых объектов. ([Europe PMC][3])
+* Superior Temporal Gyrus (ассоциативная слуховая кора) — распознавание фонем и звуковых объектов. ([Europe PMC][21])
 
 **Ключевые тракты / подсети:**
 
@@ -473,21 +473,21 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Rauschecker J.P. & Scott S.K., 2009 — “Maps and streams in the auditory cortex: nonhuman primates illuminate human speech processing”, Nat. Neurosci. ([aimspress.com][2])
-* Hickok G. & Poeppel D., 2007 — “The cortical organization of speech processing”, Nat. Rev. Neurosci. ([Europe PMC][3])
+* Rauschecker J.P. & Scott S.K., 2009 — “Maps and streams in the auditory cortex: nonhuman primates illuminate human speech processing”, Nat. Neurosci. ([aimspress.com][20])
+* Hickok G. & Poeppel D., 2007 — “The cortical organization of speech processing”, Nat. Rev. Neurosci. ([Europe PMC][21])
 
 ---
 
 ## **13. Cerebellar Network (CBN)**
 
 **Ключевая функция:**
-Координация моторики и участие в когнитивных и эмоциональных процессах через предсказательные внутренние модели ([PubMed][4]).
+Координация моторики и участие в когнитивных и эмоциональных процессах через предсказательные внутренние модели ([PubMed][22]).
 
 **Анатомия:**
 
 * Anterior lobules (I–V) — соматомоторные функции;
 * Posterior lobules (VI–VIII) — когнитивные и эмоциональные связи;
-* Crus I/II — рабочая память и язык. ([PubMed][4])
+* Crus I/II — рабочая память и язык. ([PubMed][22])
 
 **Ключевые тракты / подсети:**
 
@@ -497,23 +497,23 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Buckner R.L. et al., 2011 — “The organization of the human cerebellum estimated by intrinsic functional connectivity”, J. Neurophysiol. ([PubMed][4])
-* Buckner R.L., 2013 — “The cerebellum and cognitive function: 25 years of insight from anatomy and neuroimaging”, Neuron ([Википедия][5])
+* Buckner R.L. et al., 2011 — “The organization of the human cerebellum estimated by intrinsic functional connectivity”, J. Neurophysiol. ([PubMed][22])
+* Buckner R.L., 2013 — “The cerebellum and cognitive function: 25 years of insight from anatomy and neuroimaging”, Neuron ([Википедия][23])
 
 ---
 
 ## **14. Basal Ganglia Network (BGN)**
 
 **Ключевая функция:**
-Регуляция мотивации, выбор действий и процедурного обучения через множество параллельных петель ([PubMed][6]).
+Регуляция мотивации, выбор действий и процедурного обучения через множество параллельных петель ([PubMed][24]).
 
 **Анатомия:**
 
 * Caudate nucleus — когнитивные петли;
 * Putamen — моторные петли;
-* Substantia nigra / STN — модуляция дофамином. ([PubMed][6])
+* Substantia nigra / STN — модуляция дофамином. ([PubMed][24])
 
-**Ключевые траты / подсети:**
+**Ключевые тракты / подсети:**
 
 * Nigrostriatal pathway (SNc ↔ striatum);
 * Pallidothalamic fibers (GPi ↔ thalamus ↔ cortex);
@@ -521,7 +521,7 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Di Martino A. et al., 2008 — “Functional connectivity of human striatum: a resting state fMRI study”, Cereb. Cortex ([PubMed][6])
+* Di Martino A. et al., 2008 — “Functional connectivity of human striatum: a resting state fMRI study”, Cereb. Cortex ([PubMed][24])
 * Haber S.N. & Knutson B., 2010 — “The reward circuit: linking primate anatomy and human imaging”, Neuropsychopharmacology
 
 ---
@@ -529,14 +529,14 @@ graph TD
 ## **15. Frontoparietal Control Network (FPCN)**
 
 **Ключевая функция:**
-Гибкий когнитивный контроль, мультизадачность и переключение между целями ([Nature][7]).
+Гибкий когнитивный контроль, мультизадачность и переключение между целями ([Nature][25]).
 
 **Анатомия:**
 
 * Lateral PFC (BA9/46) — поддержка целей и стратегий;
-* Inferior Parietal Lobule (IPL) — перераспределение ресурсов внимания. ([PubMed][8])
+* Inferior Parietal Lobule (IPL) — перераспределение ресурсов внимания. ([PubMed][26])
 
-**Ключевые траты / подсети:**
+**Ключевые тракты / подсети:**
 
 * Фронто-париетальные ассоциативные пути (через superior longitudinal fasciculus);
 * Связи с basal ganglia для интеграции мотивации.
@@ -551,43 +551,43 @@ graph TD
 ## **16. Temporal-Parietal Network (TPN)**
 
 **Ключевая функция:**
-Социальное познание (Theory of Mind), эмпатия и языковое взаимодействие ([ScienceDirect][9], [PMC][10]).
+Социальное познание (Theory of Mind), эмпатия и языковое взаимодействие ([ScienceDirect][27], [PMC][28]).
 
 **Анатомия:**
 
 * Temporo-Parietal Junction (TPJ) — распознавание чужих намерений;
-* Middle Temporal Gyrus (MTG) — контекстуальное понимание. ([PMC][10])
+* Middle Temporal Gyrus (MTG) — контекстуальное понимание. ([PMC][28])
 
-**Ключевые траты / подсети:**
+**Ключевые тракты / подсети:**
 
 * Связи TPJ ↔ mPFC через аркуатные и цингуло-париетальные волокна;
 * Связи с лимбической системой (через uncinate fasciculus).
 
 **Ключевые обзоры:**
 
-* Schurz M. et al., 2014 — “Fractionating theory of mind: a meta-analysis of functional brain imaging studies”, Neurosci. Biobehav. Rev. ([ScienceDirect][9])
-* Carter R.M. & Huettel S.A., 2013 — “A nexus model of the temporal–parietal junction”, Trends Cogn. Sci. ([Википедия][11])
+* Schurz M. et al., 2014 — “Fractionating theory of mind: a meta-analysis of functional brain imaging studies”, Neurosci. Biobehav. Rev. ([ScienceDirect][27])
+* Carter R.M. & Huettel S.A., 2013 — “A nexus model of the temporal–parietal junction”, Trends Cogn. Sci. ([Википедия][29])
 
 ---
 
 ## **17. Posterior Multimodal Network (PMN)**
 
 **Ключевая функция:**
-Интеграция зрительных, слуховых и сомато-сенсорных данных для формирования целостного восприятия ([PubMed][8]).
+Интеграция зрительных, слуховых и сомато-сенсорных данных для формирования целостного восприятия ([PubMed][26]).
 
 **Анатомия:**
 
 * Posterior Parietal Cortex (PPC) — мультисенсорная интеграция;
-* Temporo-Occipital Junction — связывает визуальные и аудиальные входы. ([PubMed][8])
+* Temporo-Occipital Junction — связывает визуальные и аудиальные входы. ([PubMed][26])
 
-**Ключевые траты / подсети:**
+**Ключевые тракты / подсети:**
 
 * Superior longitudinal fasciculus III (PPC ↔ temporal cortex);
 * Inferior fronto-occipital fasciculus (occipital ↔ frontal regions).
 
 **Ключевые обзоры:**
 
-* Braga R.M. & Buckner R.L., 2017 — “Parallel interdigitated distributed networks within the individual estimated by intrinsic functional connectivity”, Neuron ([PubMed][8])
+* Braga R.M. & Buckner R.L., 2017 — “Parallel interdigitated distributed networks within the individual estimated by intrinsic functional connectivity”, Neuron ([PubMed][26])
 * Margulies D. S. et al., 2016 — “Situating the default-mode network along a principal gradient of macroscale cortical organization”, PNAS
 
 ---
@@ -595,15 +595,15 @@ graph TD
 ## **18. Cingulo-Opercular Network (CON)**
 
 **Ключевая функция:**
-Поддержание тонуса внимания и устойчивый контроль, мониторинг ошибок ([PubMed][12]).
+Поддержание тонуса внимания и устойчивый контроль, мониторинг ошибок ([PubMed][30]).
 
 **Анатомия:**
 
 * Dorsal ACC — мониторинг конфликтов;
 * Anterior Insula / Frontal Operculum — переключение и поддержание установок;
-* Thalamus — глобальная интеграция. ([PubMed][12])
+* Thalamus — глобальная интеграция. ([PubMed][30])
 
-**Ключевые траты / подсети:**
+**Ключевые тракты / подсети:**
 
 * Цингуло-оперкулярные волокна (dACC ↔ aI/fO);
 * Связи с dorsolateral PFC для совместной работы с FPCN.
@@ -611,22 +611,22 @@ graph TD
 **Ключевые обзоры:**
 
 * Dosenbach N.U.F. et al., 2008 — “A dual-networks architecture of top-down control”, Trends Cogn. Sci.
-* Sadaghiani S. & D’Esposito M., 2014 — “Functional characterization of the cingulo-opercular network in the maintenance of tonic alertness”, Cereb. Cortex ([PubMed][12])
+* Sadaghiani S. & D’Esposito M., 2014 — “Functional characterization of the cingulo-opercular network in the maintenance of tonic alertness”, Cereb. Cortex ([PubMed][30])
 
 ---
 
 ## **19. Orbitofrontal Network (OFN)**
 
 **Ключевая функция:**
-Оценка вознаграждений/не-вознаграждений и эмоциональное принятие решений ([PMC][13], [PubMed][14]).
+Оценка вознаграждений/не-вознаграждений и эмоциональное принятие решений ([PMC][31], [PubMed][32]).
 
 **Анатомия:**
 
 * Medial OFC — представление позитивной ценности;
 * Lateral OFC — кодирование наказаний и non-reward;
-* Nucleus accumbens — интеграция дофаминовых сигналов. ([PubMed][14])
+* Nucleus accumbens — интеграция дофаминовых сигналов. ([PubMed][32])
 
-**Ключевые траты / подсети:**
+**Ключевые тракты / подсети:**
 
 * Uncinate fasciculus (OFC ↔ medial temporal lobe);
 * Ventral amygdalofugal pathway (amygdala ↔ OFC);
@@ -634,7 +634,7 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Rolls E.T., 2019 — “The orbitofrontal cortex: reward, emotion and depression”, Brain Commun. ([PMC][13], [PubMed][14])
+* Rolls E.T., 2019 — “The orbitofrontal cortex: reward, emotion and depression”, Brain Commun. ([PMC][31], [PubMed][32])
 * Rushworth M.F. et al., 2012 — “Valuation and decision making in frontal cortex”, Nat. Neurosci.
 
 ---
@@ -642,14 +642,14 @@ graph TD
 ## **20. Frontopolar Network (FPN)**
 
 **Ключевая функция:**
-Метакогниция, стратегическое планирование и интеграция нескольких целей ([PMC][15], [ResearchGate][16]).
+Метакогниция, стратегическое планирование и интеграция нескольких целей ([PMC][33], [ResearchGate][34]).
 
 **Анатомия:**
 
 * Rostral PFC (BA10) — «ведущий шлюз» между stimulus-oriented и stimulus-independent процессами;
-* Связи с dorsolateral PFC и DMN для координации сложных задач. ([PMC][15])
+* Связи с dorsolateral PFC и DMN для координации сложных задач. ([PMC][33])
 
-**Ключевые траты / подсети:**
+**Ключевые тракты / подсети:**
 
 * Extreme capsule (BA10 ↔ STS);
 * Uncinate fasciculus (BA10 ↔ temporal pole);
@@ -657,30 +657,30 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Burgess P.W. et al., 2005 — “The gateway hypothesis of rostral prefrontal cortex (area 10) function”, Trends Cogn. Sci. ([ResearchGate][17])
-* Gilbert S.J. et al., 2005 — “Involvement of rostral prefrontal cortex in selection between stimulus-oriented and stimulus-independent thought”, Eur. J. Neurosci. ([ResearchGate][16])
+* Burgess P.W. et al., 2005 — “The gateway hypothesis of rostral prefrontal cortex (area 10) function”, Trends Cogn. Sci. ([ResearchGate][35])
+* Gilbert S.J. et al., 2005 — “Involvement of rostral prefrontal cortex in selection between stimulus-oriented and stimulus-independent thought”, Eur. J. Neurosci. ([ResearchGate][34])
 
 
 ---
 
 
-[1]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3398395/ "A review and synthesis of the first 20 years of PET and fMRI studies ..."
-[2]: https://www.aimspress.com/article/doi/10.3934/Neuroscience.2021001?viewType=HTML "a systematic review of fMRI studies in the past two decades"
-[3]: https://europepmc.org/article/med/23146876 "The language network. - Abstract - Europe PMC"
-[4]: https://pubmed.ncbi.nlm.nih.gov/21795627/ "The organization of the human cerebellum estimated by intrinsic ..."
-[5]: https://en.wikipedia.org/wiki/Randy_Buckner "Randy Buckner"
-[6]: https://pubmed.ncbi.nlm.nih.gov/18400794/ "Functional connectivity of human striatum: a resting state FMRI study"
-[7]: https://www.nature.com/articles/nrn.2017.104 "Individual arrangements | Nature Reviews Neuroscience"
-[8]: https://pubmed.ncbi.nlm.nih.gov/28728026/ "Parallel Interdigitated Distributed Networks within the Individual ..."
-[9]: https://www.sciencedirect.com/science/article/pii/S0149763414000128 "Fractionating theory of mind: A meta-analysis of functional brain ..."
-[10]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6866486/ "The role of the right temporo–parietal junction in social decision ..."
-[11]: https://en.wikipedia.org/wiki/Social_cognitive_neuroscience "Social cognitive neuroscience"
-[12]: https://pubmed.ncbi.nlm.nih.gov/24770711/ "Functional Characterization of the Cingulo-Opercular Network in the ..."
-[13]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7749795/ "The orbitofrontal cortex: reward, emotion and depression - PMC"
-[14]: https://pubmed.ncbi.nlm.nih.gov/33364600/ "The orbitofrontal cortex: reward, emotion and depression - PubMed"
-[15]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2430004/ "Function and localization within rostral prefrontal cortex (area 10)"
-[16]: https://www.researchgate.net/publication/316227003_Rostral_prefrontal_cortex_Brodmann_area_10_metacognition_in_the_brain "(PDF) Rostral prefrontal cortex (Brodmann area 10) - ResearchGate"
-[17]: https://www.researchgate.net/publication/313703365_The_gateway_hypothesis_of_rostral_prefrontal_cortex_area_10_function "(PDF) The gateway hypothesis of rostral prefrontal cortex (area 10 ..."
+[19]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3398395/ "A review and synthesis of the first 20 years of PET and fMRI studies ..."
+[20]: https://www.aimspress.com/article/doi/10.3934/Neuroscience.2021001?viewType=HTML "a systematic review of fMRI studies in the past two decades"
+[21]: https://europepmc.org/article/med/23146876/ "The language network. - Abstract - Europe PMC"
+[22]: https://pubmed.ncbi.nlm.nih.gov/21795627/ "The organization of the human cerebellum estimated by intrinsic ..."
+[23]: https://en.wikipedia.org/wiki/Randy_Buckner "Randy Buckner"
+[24]: https://pubmed.ncbi.nlm.nih.gov/18400794/ "Functional connectivity of human striatum: a resting state FMRI study"
+[25]: https://www.nature.com/articles/nrn.2017.104 "Individual arrangements | Nature Reviews Neuroscience"
+[26]: https://pubmed.ncbi.nlm.nih.gov/28728026/ "Parallel Interdigitated Distributed Networks within the Individual ..."
+[27]: https://www.sciencedirect.com/science/article/pii/S0149763414000128 "Fractionating theory of mind: A meta-analysis of functional brain ..."
+[28]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6866486/ "The role of the right temporo–parietal junction in social decision ..."
+[29]: https://en.wikipedia.org/wiki/Social_cognitive_neuroscience "Social cognitive neuroscience"
+[30]: https://pubmed.ncbi.nlm.nih.gov/24770711/ "Functional Characterization of the Cingulo-Opercular Network in the ..."
+[31]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7749795/ "The orbitofrontal cortex: reward, emotion and depression - PMC"
+[32]: https://pubmed.ncbi.nlm.nih.gov/33364600/ "The orbitofrontal cortex: reward, emotion and depression - PubMed"
+[33]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2430004/ "Function and localization within rostral prefrontal cortex (area 10)"
+[34]: https://www.researchgate.net/publication/316227003_Rostral_prefrontal_cortex_Brodmann_area_10_metacognition_in_the_brain "(PDF) Rostral prefrontal cortex (Brodmann area 10) - ResearchGate"
+[35]: https://www.researchgate.net/publication/313703365_The_gateway_hypothesis_of_rostral_prefrontal_cortex_area_10_function "(PDF) The gateway hypothesis of rostral prefrontal cortex (area 10 ..."
 
 
 ---
@@ -690,13 +690,13 @@ graph TD
 ## **21. Reward Network (RN)**
 
 **Ключевая функция:**
-Оценка вознаграждения и мотивация через взаимодействие вентрального стрiatума и префронтальной коры ([PMC][1], [PMC][2]).
+Оценка вознаграждения и мотивация через взаимодействие вентрального стрiatума и префронтальной коры ([PMC][36], [PMC][37]).
 
 **Анатомия:**
 
 * Nucleus Accumbens (VS) — кодирование ожидаемой ценности;
 * Ventromedial PFC (vmPFC) — интеграция контекста и ценности;
-* Orbitofrontal Cortex (OFC) — сравнение вариантов вознаграждения ([PMC][2]).
+* Orbitofrontal Cortex (OFC) — сравнение вариантов вознаграждения ([PMC][37]).
 
 **Ключевые тракты / подсети:**
 
@@ -707,20 +707,20 @@ graph TD
 **Ключевые обзоры:**
 
 * Di Martino A. et al., 2008 — “Functional connectivity of human striatum: a resting state fMRI study”, Cereb. Cortex.
-* Zhang W. et al., 2022 — “Reduced nucleus accumbens functional connectivity in reward circuits in MDD”, Transl. Psychiatry ([Nature][3]).
+* Zhang W. et al., 2022 — “Reduced nucleus accumbens functional connectivity in reward circuits in MDD”, Transl. Psychiatry ([Nature][38]).
 
 ---
 
 ## **22. Medial Temporal Lobe Memory Network (MTL)**
 
 **Ключевая функция:**
-Формирование и извлечение эпизодической (декларативной) памяти ([PubMed][4]).
+Формирование и извлечение эпизодической (декларативной) памяти ([PubMed][39]).
 
 **Анатомия:**
 
 * Hippocampus (CA1–CA3, DG, Subiculum) — консолидирует новые воспоминания;
 * Entorhinal Cortex — вход и выход информации в гиппокамп;
-* Parahippocampal and Perirhinal Cortices — промежуточная обработка ассоциативных связей ([PubMed][5]).
+* Parahippocampal and Perirhinal Cortices — промежуточная обработка ассоциативных связей ([PubMed][40]).
 
 **Ключевые тракты / подсети:**
 
@@ -731,14 +731,14 @@ graph TD
 **Ключевые обзоры:**
 
 * Squire L.R. & Wixted J.T., 2011 — “The cognitive neuroscience of human memory since H.M.”, Annu. Rev. Neurosci.
-* Eichenbaum H., 2000 — “A cortical-hippocampal memory network”, Trends Cogn. Sci. ([PubMed][4], [PubMed][5]).
+* Eichenbaum H., 2000 — “A cortical-hippocampal memory network”, Trends Cogn. Sci. ([PubMed][39], [PubMed][40]).
 
 ---
 
 ## **23. Parieto-Occipital Network (PON)**
 
 **Ключевая функция:**
-Интеграция визуально-пространственной информации для навигации и ориентации ([PMC][6], [Nature][7]).
+Интеграция визуально-пространственной информации для навигации и ориентации ([PMC][41], [Nature][42]).
 
 **Анатомия:**
 
@@ -753,14 +753,14 @@ graph TD
 **Ключевые обзоры:**
 
 * Rauschecker J.P. & Scott S.K., 2009 — “Maps and streams in the auditory cortex…” (для сравнения путей), Nat. Neurosci.
-* Vesia M. & Crawford J.D., 2012 — “Specialization of reach function in human posterior parietal cortex”, Exp. Brain Res. ([PMC][6], [Nature][7]).
+* Vesia M. & Crawford J.D., 2012 — “Specialization of reach function in human posterior parietal cortex”, Exp. Brain Res. ([PMC][41], [Nature][42]).
 
 ---
 
 ## **24. Semantic/Language Comprehension Network (SCN)**
 
 **Ключевая функция:**
-Семантическая обработка и интеграция смыслового контента языка ([The Journal of Neuroscience][8], [Nature][9]).
+Семантическая обработка и интеграция смыслового контента языка ([The Journal of Neuroscience][43], [Nature][44]).
 
 **Анатомия:**
 
@@ -776,14 +776,14 @@ graph TD
 **Ключевые обзоры:**
 
 * Lambon Ralph M.A. et al., 2017 — “The neural and computational bases of semantic cognition”, Nat. Rev. Neurosci.
-* Price C.J., 2012 — “A review and synthesis of the first 20 years of PET and fMRI studies of heard speech, spoken language and reading”, Neuroimage ([Nature][9], [The Journal of Neuroscience][8]).
+* Price C.J., 2012 — “A review and synthesis of the first 20 лет of PET and fMRI studies of heard speech, spoken language and reading”, Neuroimage ([Nature][44], [The Journal of Neuroscience][43]).
 
 ---
 
 ## **25. Mentalizing (Theory-of-Mind) Network (MN)**
 
 **Ключевая функция:**
-Понимание и предсказание ментальных состояний других людей ([PMC][10], [ScienceDirect][11]).
+Понимание и предсказание ментальных состояний других людей ([PMC][45], [ScienceDirect][46]).
 
 **Анатомия:**
 
@@ -799,14 +799,14 @@ graph TD
 **Ключевые обзоры:**
 
 * Frith C.D. & Frith U., 2006 — “The neural basis of mentalizing”, Neuron.
-* Schurz M. et al., 2014 — “Fractionating theory of mind: a meta-analysis…”, Neurosci. Biobehav. Rev. ([PMC][10], [ScienceDirect][11]).
+* Schurz M. et al., 2014 — “Fractionating theory of mind: a meta-analysis…”, Neurosci. Biobehav. Rev. ([PMC][45], [ScienceDirect][46]).
 
 ---
 
 ## **26. Mirror Neuron System (MNS)**
 
 **Ключевая функция:**
-Имитация действий и понимание намерений через «зеркальную» активность премоторной и теменной коры ([PMC][12], [Nature][13]).
+Имитация действий и понимание намерений через «зеркальную» активность премоторной и теменной коры ([PMC][47], [Nature][48]).
 
 **Анатомия:**
 
@@ -821,14 +821,14 @@ graph TD
 **Ключевые обзоры:**
 
 * Rizzolatti G. & Sinigaglia C., 2010 — “The functional role of the parieto-frontal mirror circuit: interpretations and misinterpretations”, Nat. Rev. Neurosci.
-* Gazzola V. & Keysers C., 2009 — “The observation and execution of actions share motor and somatosensory voxels in all tested subjects: single-subject analyses of unsmoothed fMRI data”, Cereb. Cortex ([PMC][12], [Nature][13]).
+* Gazzola V. & Keysers C., 2009 — “The observation and execution of actions share motor and somatosensory voxels in all tested subjects: single-subject analyses of unsmoothed fMRI data”, Cereb. Cortex ([PMC][47], [Nature][48]).
 
 ---
 
 ## **27. Reading (Visual Word-Form) Network (VWFA)**
 
 **Ключевая функция:**
-Визуальное распознавание и категоризация буквенных форм ([ScienceDirect][14], [eneuro.org][15]).
+Визуальное распознавание и категоризация буквенных форм ([ScienceDirect][49], [eneuro.org][50]).
 
 **Анатомия:**
 
@@ -844,14 +844,14 @@ graph TD
 **Ключевые обзоры:**
 
 * Dehaene S. & Cohen L., 2011 — “The unique role of the visual word form area in reading”, Trends Cogn. Sci.
-* Lerma-Usabiaga G. et al., 2018 — “Converging evidence for functional and structural segregation within the left ventral occipitotemporal cortex in reading”, PNAS ([ScienceDirect][14], [eneuro.org][15]).
+* Lerma-Usabiaga G. et al., 2018 — “Converging evidence for functional and structural segregation within the left ventral occipitotemporal cortex in reading”, PNAS ([ScienceDirect][49], [eneuro.org][50]).
 
 ---
 
 ## **28. Affective Network (ANet)**
 
 **Ключевая функция:**
-Обработка эмоциональной информации и регуляция настроения ([PMC][16], [PubMed][17]).
+Обработка эмоциональной информации и регуляция настроения ([PMC][51], [PubMed][52]).
 
 **Анатомия:**
 
@@ -867,14 +867,14 @@ graph TD
 **Ключевые обзоры:**
 
 * Pessoa L., 2010 — “Emotion and cognition and the amygdala: from ‘what is it?’ to ‘what’s to be done?’”, Neuropsychologia.
-* Etkin A. et al., 2011 — “Emotional processing in anterior cingulate and medial prefrontal cortex”, Trends Cogn. Sci. ([PMC][16], [PubMed][17]).
+* Etkin A. et al., 2011 — “Emotional processing in anterior cingulate and medial prefrontal cortex”, Trends Cogn. Sci. ([PMC][51], [PubMed][52]).
 
 ---
 
 ## **29. Cerebro-Cerebellar Cognitive Network (CCCN)**
 
 **Ключевая функция:**
-Участие мозжечка в когнитивном обучении и прогнозировании через петли с корой ([Nature][18], [PMC][19]).
+Участие мозжечка в когнитивном обучении и прогнозировании через петли с корой ([Nature][53], [PMC][54]).
 
 **Анатомия:**
 
@@ -890,14 +890,14 @@ graph TD
 **Ключевые обзоры:**
 
 * Buckner R.L. et al., 2011 — “The organization of the human cerebellum estimated by intrinsic functional connectivity”, J. Neurophysiol.
-* Ito M., 2008 — “Control of mental activities by internal models in the cerebellum”, Nat. Rev. Neurosci. ([Nature][18], [PMC][19]).
+* Ito M., 2008 — “Control of mental activities by internal models in the cerebellum”, Nat. Rev. Neurosci. ([Nature][53], [PMC][54]).
 
 ---
 
 ## **30. Fronto-Striatal Network (FSN)**
 
 **Ключевая функция:**
-Исполнительные функции и контроль импульсов через взаимодействие DLPFC и хвостатого ядра ([Nature][20], [PMC][1]).
+Исполнительные функции и контроль импульсов через взаимодействие DLPFC и хвостатого ядра ([Nature][55], [PMC][36]).
 
 **Анатомия:**
 
@@ -912,31 +912,30 @@ graph TD
 **Ключевые обзоры:**
 
 * Haber S.N. & Knutson B., 2010 — “The reward circuit: linking primate anatomy and human imaging”, Neuropsychopharmacology.
-* Robbins T.W. & Robbins B.J., 2012 — “Cognitive control and frontostriatal circuits in Parkinson’s disease”, Trends Cogn. Sci. ([Nature][20], [PMC][1]).
+* Robbins T.W. & Robbins B.J., 2012 — “Cognitive control and frontostriatal circuits in Parkinson’s disease”, Trends Cogn. Sci. ([Nature][55], [PMC][36]).
 
 ---
 
-[1]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2796919/ "Reward Networks in the Brain as Captured by Connectivity Measures"
-[2]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6218647/ "The Functional Connectivity Between the Nucleus Accumbens and ..."
-[3]: https://www.nature.com/articles/s41398-022-01995-x "Reduced nucleus accumbens functional connectivity in reward ..."
-[4]: https://pubmed.ncbi.nlm.nih.gov/15217334/ "The medial temporal lobe - PubMed"
-[5]: https://pubmed.ncbi.nlm.nih.gov/1896849/ "The medial temporal lobe memory system - PubMed"
-[6]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3388718/ "A new neural framework for visuospatial processing - PMC"
-[7]: https://www.nature.com/articles/s41598-023-38554-3 "Occipital and parietal cortex participate in a cortical network ... - Nature"
-[8]: https://www.jneurosci.org/content/43/17/3144 "Semantic Representations during Language Comprehension Are ..."
-[9]: https://www.nature.com/articles/s41586-024-07643-2 "Semantic encoding during language comprehension at single-cell ..."
-[10]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7137721/ "The mentalizing network and theory of mind mediate adjustment ..."
-[11]: https://www.sciencedirect.com/science/article/abs/pii/S0028393220301469 "Theory of mind network activity is associated with metaethical ..."
-[12]: https://pmc.ncbi.nlm.nih.gov/articles/PMC5810456/ "From Neurons to Social Beings: Short Review of the Mirror Neuron ..."
-[13]: https://www.nature.com/articles/nrn2024 "The mirror neuron system and the consequences of its dysfunction"
-[14]: https://www.sciencedirect.com/science/article/pii/S2589004224027081 "Demystifying visual word form area visual and nonvisual response ..."
-[15]: https://www.eneuro.org/content/11/7/ENEURO.0228-24.2024 "Reading Reshapes Stimulus Selectivity in the Visual Word Form Area"
-[16]: https://pmc.ncbi.nlm.nih.gov/articles/PMC5862740/ "The multifaceted role of ventromedial prefrontal cortex in emotion ..."
-[17]: https://pubmed.ncbi.nlm.nih.gov/30877420/ "The Role of the Amygdala and the Ventromedial Prefrontal Cortex in ..."
-[18]: https://www.nature.com/articles/s41467-022-35658-8 "Cerebro-cerebellar networks facilitate learning through feedback ..."
-[19]: https://pmc.ncbi.nlm.nih.gov/articles/PMC10416251/ "The cerebellum and cognitive neural networks - PubMed Central"
-[20]: https://www.nature.com/articles/s41386-021-01132-0 "The role of prefrontal cortex in cognitive control and executive function"
-
+[36]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2796919/ "Reward Networks in the Brain as Captured by Connectivity Measures"
+[37]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6218647/ "The Functional Connectivity Between the Nucleus Accumbens and ..."
+[38]: https://www.nature.com/articles/s41398-022-01995-x "Reduced nucleus accumbens functional connectivity in reward ..."
+[39]: https://pubmed.ncbi.nlm.nih.gov/15217334/ "The medial temporal lobe - PubMed"
+[40]: https://pubmed.ncbi.nlm.nih.gov/1896849/ "The medial temporal lobe memory system - PubMed"
+[41]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3388718/ "A new neural framework for visuospatial processing - PMC"
+[42]: https://www.nature.com/articles/s41598-023-38554-3 "Occipital and parietal cortex participate in a cortical network ... - Nature"
+[43]: https://www.jneurosci.org/content/43/17/3144 "Semantic Representations during Language Comprehension Are ..."
+[44]: https://www.nature.com/articles/s41586-024-07643-2 "Semantic encoding during language comprehension at single-cell ..."
+[45]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7137721/ "The mentalizing network and theory of mind mediate adjustment ..."
+[46]: https://www.sciencedirect.com/science/article/abs/pii/S0028393220301469 "Theory of mind network activity is associated with metaethical ..."
+[47]: https://pmc.ncbi.nlm.nih.gov/articles/PMC5810456/ "From Neurons to Social Beings: Short Review of the Mirror Neuron ..."
+[48]: https://www.nature.com/articles/nrn2024 "The mirror neuron system and the consequences of its dysfunction"
+[49]: https://www.sciencedirect.com/science/article/pii/S2589004224027081 "Demystifying visual word form area visual and nonvisual response ..."
+[50]: https://www.eneuro.org/content/11/7/ENEURO.0228-24.2024 "Reading Reshapes Stimulus Selectivity in the Visual Word Form Area"
+[51]: https://pmc.ncbi.nlm.nih.gov/articles/PMC5862740/ "The multifaceted role of ventromedial prefrontal cortex in emotion ..."
+[52]: https://pubmed.ncbi.nlm.nih.gov/30877420/ "The Role of the Amygdala and the Ventromedial Prefrontal Cortex in ..."
+[53]: https://www.nature.com/articles/s41467-022-35658-8 "Cerebro-cerebellar networks facilitate learning through feedback ..."
+[54]: https://pmc.ncbi.nlm.nih.gov/articles/PMC10416251/ "The cerebellum and cognitive neural networks - PubMed Central"
+[55]: https://www.nature.com/articles/s41386-021-01132-0 "The role of prefrontal cortex in cognitive control and executive function"
 
 
 ---
@@ -944,35 +943,35 @@ graph TD
 ## 31. **Right-Hemisphere Frontoparietal Control Network (RH-FPCN)**
 
 **Ключевая функция:**
-Обеспечивает гибкое управление вниманием и целенаправленное поведение через взаимодействие с другими когнитивными сетями ([PMC][1]).
+Обеспечивает гибкое управление вниманием и целенаправленное поведение через взаимодействие с другими когнитивными сетями ([PMC][56]).
 
 **Анатомия:**
 
 * Латеральная префронтальная кора (LPFC)
 * Медиальная префронтальная/передняя поясная кора (ACC)
-* Нижняя теменная долька (IPL) ([PMC][1])
+* Нижняя теменная долька (IPL) ([PMC][56])
 
 **Ключевые тракты / подсети:**
 
-* Пучок верхней продольной связки (SLF II/III), особенно справа ([Academic Oxford][2])
-* Взаимодействие с сенсомоторной и дефолтной сетями через гибкие «хабы» (flexible hubs) ([PMC][3])
+* Пучок верхней продольной связки (SLF II/III), особенно справа ([Academic Oxford][57])
+* Взаимодействие с сенсомоторной и дефолтной сетями через гибкие «хабы» (flexible hubs) ([PMC][58])
 
 **Ключевые обзоры:**
 
-* Vincent & Snyder, 2010 — обзор флексибельных «хабов» в FPCN, *Trends in Cognitive Sciences* ([PMC][3])
-* Cole et al., 2013 — концепция «гибких хабов» и их роль в когнитивном контроле, *Nature Reviews Neuroscience* ([PMC][1])
+* Vincent & Snyder, 2010 — обзор флексибельных «хабов» в FPCN, *Trends in Cognitive Sciences* ([PMC][58])
+* Cole et al., 2013 — концепция «гибких хабов» и их роль в когнитивном контроле, *Nature Reviews Neuroscience* ([PMC][56])
 
 ---
 
 ## 32. **Ventral Stream (“What” Pathway) (VSP)**
 
 **Ключевая функция:**
-Распознавание форм, объектов и лиц в условиях сложного визуального окружения ([PubMed][4]).
+Распознавание форм, объектов и лиц в условиях сложного визуального окружения ([PubMed][59]).
 
 **Анатомия:**
 
 * Первичная зрительная кора (V1) → V2 → V4
-* Вентральная височная кора (Ventral Temporal Cortex, VTC) ([PubMed][5])
+* Вентральная височная кора (Ventral Temporal Cortex, VTC) ([PubMed][60])
 
 **Ключевые тракты / подсети:**
 
@@ -981,20 +980,20 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Ungerleider & Haxby, 1994 — «‘What’ and ‘Where’ in the human brain», *Current Opinion in Neurobiology* ([Википедия][6])
-* Grill-Spector & Weiner, 2014 — обзор макро- и микроанатомии VTC, *Nature Reviews Neuroscience* ([PubMed][5])
+* Ungerleider & Haxby, 1994 — «‘What’ and ‘Where’ in the human brain», *Current Opinion in Neurobiology* ([Википедия][61])
+* Grill-Spector & Weiner, 2014 — обзор макро- и микроанатомии VTC, *Nature Reviews Neuroscience* ([PubMed][60])
 
 ---
 
 ## 33. **Dorsal Stream (“Where/How” Pathway) (DSP)**
 
 **Ключевая функция:**
-Пространственная локализация, зрительно-моторная координация и управление движениями рук и глаз ([PubMed][4]).
+Пространственная локализация, зрительно-моторная координация и управление движениями рук и глаз ([PubMed][59]).
 
 **Анатомия:**
 
 * V1 → V2 → V3A → зона средней височной коры MT/V5
-* Верхняя теменная долька (SPL) ([PubMed][4])
+* Верхняя теменная долька (SPL) ([PubMed][59])
 
 **Ключевые тракты / подсети:**
 
@@ -1003,20 +1002,20 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Goodale & Milner, 1992 — основополагающая работа по разделению потоков, *Behavioral and Brain Sciences* ([PubMed][4])
-* Rizzolatti & Matelli, 2003 — Аннотация двух подсистем в дорсальном потоке, *Neuroscience* ([Википедия][6])
+* Goodale & Milner, 1992 — основополагающая работа по разделению потоков, *Behavioral and Brain Sciences* ([PubMed][59])
+* Rizzolatti & Matelli, 2003 — Аннотация двух подсистем в дорсальном потоке, *Neuroscience* ([Википедия][61])
 
 ---
 
 ## 34. **Anterior Temporal Network (ATN)**
 
 **Ключевая функция:**
-Обработка социальной и эмоциональной семантики, представление знаний о людях и объектах ([PMC][7]).
+Обработка социальной и эмоциональной семантики, представление знаний о людях и объектах ([PMC][62]).
 
 **Анатомия:**
 
 * Передние отделы височной доли (антериальные височные поля)
-* Мозговая миндалина (amygdala) и периринальная кора ([PMC][8])
+* Мозговая миндалина (amygdala) и периринальная кора ([PMC][63])
 
 **Ключевые тракты / подсети:**
 
@@ -1025,20 +1024,20 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Olson et al., 2007 — роль AT в семантике и социальной когниции, *Current Opinion in Neurobiology* ([PMC][7])
-* Patterson et al., 2007 — концепция «семантического хаба» в AT, *Trends in Cognitive Sciences* ([PMC][8])
+* Olson et al., 2007 — роль AT в семантике и социальной когниции, *Current Opinion in Neurobiology* ([PMC][62])
+* Patterson et al., 2007 — концепция «семантического хаба» в AT, *Trends in Cognitive Sciences* ([PMC][63])
 
 ---
 
 ## 35. **Parietal Memory Retrieval Network (PMN)**
 
 **Ключевая функция:**
-Извлечение эпизодической и семантической памяти, рализация воспоминаний и ориентация внимания на воспоминания ([PubMed][9]).
+Извлечение эпизодической и семантической памяти, рализация воспоминаний и ориентация внимания на воспоминания ([PubMed][64]).
 
 **Анатомия:**
 
 * Средняя теменная долька (angular gyrus)
-* Задняя поясная кора (posterior cingulate cortex) ([PubMed][9])
+* Задняя поясная кора (posterior cingulate cortex) ([PubMed][64])
 
 **Ключевые тракты / подсети:**
 
@@ -1047,21 +1046,21 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Wagner et al., 2005 — обзор корреляций PMN при вспоминании, *Nature Reviews Neuroscience* ([PubMed][9])
-* Gilmore et al., 2015 — мульти-методный анализ PMN, *NeuroImage* ([ScienceDirect][10])
+* Wagner et al., 2005 — обзор корреляций PMN при вспоминании, *Nature Reviews Neuroscience* ([PubMed][64])
+* Gilmore et al., 2015 — мульти-методный анализ PMN, *NeuroImage* ([ScienceDirect][65])
 
 ---
 
 ## 36. **Central Autonomic Network (CAN)**
 
 **Ключевая функция:**
-Регуляция вегетативных и гомеостатических функций через интеграцию висцеральных сигналов ([PubMed][11]).
+Регуляция вегетативных и гомеостатических функций через интеграцию висцеральных сигналов ([PubMed][66]).
 
 **Анатомия:**
 
 * Передняя островковая кора (anterior insula)
 * Медиальная препефронтальная кора
-* Ядро одиночного пути (NTS), гипоталамус, миндалина ([PubMed][11])
+* Ядро одиночного пути (NTS), гипоталамус, миндалина ([PubMed][66])
 
 **Ключевые тракты / подсети:**
 
@@ -1070,20 +1069,20 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Benarroch, 1993 — анатомия и функции CAN, *Neurology* ([PubMed][11])
-* Thayer & Lane, 2000 — нейрофизиологическая модель CAN и психофизиология, *Psychophysiology* ([ScienceDirect][12])
+* Benarroch, 1993 — анатомия и функции CAN, *Neurology* ([PubMed][66])
+* Thayer & Lane, 2000 — нейрофизиологическая модель CAN и психофизиология, *Psychophysiology* ([ScienceDirect][67])
 
 ---
 
 ## 37. **Thalamo-Cortical Network (TCN)**
 
 **Ключевая функция:**
-Синхронизация корковых ритмов и эффективная передача сенсорной информации через таламус ([PubMed][13]).
+Синхронизация корковых ритмов и эффективная передача сенсорной информации через таламус ([PubMed][68]).
 
 **Анатомия:**
 
 * Множество ядер таламуса (ретикулярное, вентральное постеролатеральное, медиальное ядро и др.)
-* Связные корковые области: сенсорные, моторные и ассоциативные зоны ([PMC][14])
+* Связные корковые области: сенсорные, моторные и ассоциативные зоны ([PMC][69])
 
 **Ключевые тракты / подсети:**
 
@@ -1092,21 +1091,21 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Sherman, 2016 — «Thalamus plays a central role in ongoing cortical functioning», *Nature Neuroscience* ([PubMed][13])
-* Halassa & Sherman, 2019 — схемы таламокортикальных мотиваций, *Nature Reviews Neuroscience* ([PMC][14])
+* Sherman, 2016 — «Thalamus plays a central role in ongoing cortical functioning», *Nature Neuroscience* ([PubMed][68])
+* Halassa & Sherman, 2019 — схемы таламокортикальных мотиваций, *Nature Reviews Neuroscience* ([PMC][69])
 
 ---
 
 ## 38. **Interoceptive Network (IN)**
 
 **Ключевая функция:**
-Восприятие внутренних состояний тела (сердцебиение, дыхание) и их интеграция в субъективные ощущения ([Nature][15]).
+Восприятие внутренних состояний тела (сердцебиение, дыхание) и их интеграция в субъективные ощущения ([Nature][70]).
 
 **Анатомия:**
 
 * Задняя островковая кора (posterior insula)
 * Сомато­сенсорная кора (S1)
-* Поясная кора (ACC) ([PubMed][16])
+* Поясная кора (ACC) ([PubMed][71])
 
 **Ключевые тракты / подсети:**
 
@@ -1115,22 +1114,22 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Craig, 2002 — сенсация внутреннего тела и роль островка, *Nature Reviews Neuroscience* ([Nature][15])
-* Critchley et al., 2004 — нейровизуализация интероцептивных процессов, *Brain* ([PubMed][16])
+* Craig, 2002 — сенсация внутреннего тела и роль островка, *Nature Reviews Neuroscience* ([Nature][70])
+* Critchley et al., 2004 — нейровизуализация интероцептивных процессов, *Brain* ([PubMed][71])
 
 ---
 
 ## 39. **Pain Matrix (Nociceptive Network)**
 
 **Ключевая функция:**
-Обработка болевых сигналов, интеграция ноцицептивной информации и реакции на угрозы телу ([PMC][17]).
+Обработка болевых сигналов, интеграция ноцицептивной информации и реакции на угрозы телу ([PMC][72]).
 
 **Анатомия:**
 
 * Островок (insula)
 * Передняя поясная кора (ACC)
 * Соматосенсорные зоны (S1/S2)
-* Таламус ([PMC][17])
+* Таламус ([PMC][72])
 
 **Ключевые тракты / подсети:**
 
@@ -1139,21 +1138,21 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Apkarian et al., 2005 — «The pain matrix», *Nature Reviews Neuroscience* ([ScienceDirect][18])
-* Wager et al., 2013 — нейровизуализация болевой реакции и сильное выделение в «матрице боли», *Journal of Neuroscience* ([PMC][17])
+* Apkarian et al., 2005 — «The pain matrix», *Nature Reviews Neuroscience* ([ScienceDirect][73])
+* Wager et al., 2013 — нейровизуализация болевой реакции и сильное выделение в «матрице боли», *Journal of Neuroscience* ([PMC][72])
 
 ---
 
 ## 40. **Vestibular Network (VN)**
 
 **Ключевая функция:**
-Восприятие положения и движения головы, поддержание равновесия и ориентирование в пространстве ([PubMed][19]).
+Восприятие положения и движения головы, поддержание равновесия и ориентирование в пространстве ([PubMed][74]).
 
 **Анатомия:**
 
 * Вестибулярные ядра ствола мозга (vestibular nuclei)
 * Теменно-височная область (parieto-insular vestibular cortex, PIVC)
-* Височно-теменная зона (TPJ) ([PubMed][20])
+* Височно-теменная зона (TPJ) ([PubMed][75])
 
 **Ключевые тракты / подсети:**
 
@@ -1162,32 +1161,32 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Lopez & Blanke, 2011 — обзор кортикальных областей вестибулярной системы, *Nature Reviews Neuroscience* ([PubMed][20])
-* zu Eulenburg et al., 2012 — мета-анализ PIVC, *Cerebral Cortex* ([PubMed][19])
+* Lopez & Blanke, 2011 — обзор кортикальных областей вестибулярной системы, *Nature Reviews Neuroscience* ([PubMed][75])
+* zu Eulenburg et al., 2012 — мета-анализ PIVC, *Cerebral Cortex* ([PubMed][74])
 
 ---
 
 
-[1]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2604839/ "Evidence for a Frontoparietal Control System Revealed by Intrinsic ..."
-[2]: https://academic.oup.com/braincomms/article/4/2/fcac080/6555238 "Right fronto-parietal networks mediate the neurocognitive benefits of ..."
-[3]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6136121/ "The frontoparietal network: function, electrophysiology, and ..."
-[4]: https://pubmed.ncbi.nlm.nih.gov/16226590/ "Dual routes to action: contributions of the dorsal and ventral streams ..."
-[5]: https://pubmed.ncbi.nlm.nih.gov/24962370/ "The functional architecture of the ventral temporal cortex and its role ..."
-[6]: https://en.wikipedia.org/wiki/Two-streams_hypothesis "Two-streams hypothesis - Wikipedia"
-[7]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3575728/ "Social cognition and the anterior temporal lobes - PubMed Central"
-[8]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2791360/ "The anterior temporal lobes and the functional architecture of ..."
-[9]: https://pubmed.ncbi.nlm.nih.gov/18343462/ "Memory retrieval and the parietal cortex: a review of evidence from a ..."
-[10]: https://www.sciencedirect.com/science/article/abs/pii/S1364661315001552 "Review A parietal memory network revealed by multiple MRI methods"
-[11]: https://pubmed.ncbi.nlm.nih.gov/8412366/ "The central autonomic network: functional organization, dysfunction ..."
-[12]: https://www.sciencedirect.com/science/article/abs/pii/S0025619612622721 "The Central Autonomic Network: Functional Organization ..."
-[13]: https://pubmed.ncbi.nlm.nih.gov/27021938/ "Thalamus plays a central role in ongoing cortical functioning - PubMed"
-[14]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6886702/ "Thalamo-cortical circuit motifs: a general framework - PubMed Central"
-[15]: https://www.nature.com/articles/nn1176 "Neural systems supporting interoceptive awareness - Nature"
-[16]: https://pubmed.ncbi.nlm.nih.gov/14730305/ "Neural systems supporting interoceptive awareness - PubMed"
-[17]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6869957/ "Separating brain processing of pain fromthat of stimulus intensity"
-[18]: https://www.sciencedirect.com/science/article/abs/pii/S0301008210001759 "The pain matrix reloaded: A salience detection system for the body"
-[19]: https://pubmed.ncbi.nlm.nih.gov/21223979/ "The thalamocortical vestibular system in animals and humans"
-[20]: https://pubmed.ncbi.nlm.nih.gov/22516007/ "The human vestibular cortex revealed by coordinate ... - PubMed"
+[56]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2604839/ "Evidence for a Frontoparietal Control System Revealed by Intrinsic ..."
+[57]: https://academic.oup.com/braincomms/article/4/2/fcac080/6555238 "Right fronto-parietal networks mediate the neurocognitive benefits of ..."
+[58]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6136121/ "The frontoparietal network: function, electrophysiology, and ..."
+[59]: https://pubmed.ncbi.nlm.nih.gov/16226590/ "Dual routes to action: contributions of the dorsal and ventral streams ..."
+[60]: https://pubmed.ncbi.nlm.nih.gov/24962370/ "The functional architecture of the ventral temporal cortex and its role ..."
+[61]: https://en.wikipedia.org/wiki/Two-streams_hypothesis "Two-streams hypothesis - Wikipedia"
+[62]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3575728/ "Social cognition and the anterior temporal lobes - PubMed Central"
+[63]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2791360/ "The anterior temporal lobes and the functional architecture of ..."
+[64]: https://pubmed.ncbi.nlm.nih.gov/18343462/ "Memory retrieval and the parietal cortex: a review of evidence from a ..."
+[65]: https://www.sciencedirect.com/science/article/abs/pii/S1364661315001552 "Review A parietal memory network revealed by multiple MRI methods"
+[66]: https://pubmed.ncbi.nlm.nih.gov/8412366/ "The central autonomic network: functional organization, dysfunction ..."
+[67]: https://www.sciencedirect.com/science/article/abs/pii/S0025619612622721 "The Central Autonomic Network: Functional Organization ..."
+[68]: https://pubmed.ncbi.nlm.nih.gov/27021938/ "Thalamus plays a central role in ongoing cortical functioning - PubMed"
+[69]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6886702/ "Thalamo-cortical circuit motifs: a general framework - PubMed Central"
+[70]: https://www.nature.com/articles/nn1176 "Neural systems supporting interoceptive awareness - Nature"
+[71]: https://pubmed.ncbi.nlm.nih.gov/14730305/ "Neural systems supporting interoceptive awareness - PubMed"
+[72]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6869957/ "Separating brain processing of pain fromthat of stimulus intensity"
+[73]: https://www.sciencedirect.com/science/article/abs/pii/S0301008210001759 "The pain matrix reloaded: A salience detection system for the body"
+[74]: https://pubmed.ncbi.nlm.nih.gov/21223979/ "The thalamocortical vestibular system in animals and humans"
+[75]: https://pubmed.ncbi.nlm.nih.gov/22516007/ "The human vestibular cortex revealed by coordinate ... - PubMed"
 
 
 ---
@@ -1197,13 +1196,13 @@ graph TD
 ## 41. **Olfactory Network (ON)**
 
 **Ключевая функция:**
-Обработка обонятельной информации от первичной детекции до сложной перцепции запахов ([PMC][1]).
+Обработка обонятельной информации от первичной детекции до сложной перцепции запахов ([PMC][76]).
 
 **Анатомия:**
 
-* **Обонятельная луковица:** первичная проекция обонятельных рецепторов ([MIT Press Direct][2])
-* **Переопорикальная кора (piriform cortex):** формирование «обонятельных образов» ([PMC][1])
-* **Орбитофронтальная кора (OFC):** интеграция с оценкой запаховых качеств и эмоциональными реакциями ([MIT Press Direct][2])
+* **Обонятельная луковица:** первичная проекция обонятельных рецепторов ([MIT Press Direct][77])
+* **Переопорикальная кора (piriform cortex):** формирование «обонятельных образов» ([PMC][76])
+* **Орбитофронтальная кора (OFC):** интеграция с оценкой запаховых качеств и эмоциональными реакциями ([MIT Press Direct][77])
 
 **Ключевые тракты / подсети:**
 
@@ -1212,21 +1211,21 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Stenwall et al., 2025 — «The Bulb, the Brain and the Being», *Frontiers in Neuroanatomy* ([PMC][3])
-* Elliott & Gottfried, 2021 — «Structural and functional connectomics of the olfactory system», *NeuroImage* ([ScienceDirect][4])
+* Stenwall et al., 2025 — «The Bulb, the Brain and the Being», *Frontiers in Neuroanatomy* ([PMC][78])
+* Elliott & Gottfried, 2021 — «Structural and functional connectomics of the olfactory system», *NeuroImage* ([ScienceDirect][79])
 
 ---
 
 ## 42. **Gustatory Network (GN)**
 
 **Ключевая функция:**
-Восприятие и дискриминация вкусовых качеств на разных уровнях обработки ([ScienceDirect][5]).
+Восприятие и дискриминация вкусовых качеств на разных уровнях обработки ([ScienceDirect][80]).
 
 **Анатомия:**
 
-* **Передняя островковая кора (aIns):** первичная вкусовая кора ([ScienceDirect][5])
-* **Инсула (Insula):** интеграция вкусовой и висцеральной информации ([PMC][6])
-* **Нижняя передняя височная кора (ventral anterior temporal):** семантическая ассоциация вкуса ([PNAS][7])
+* **Передняя островковая кора (aIns):** первичная вкусовая кора ([ScienceDirect][80])
+* **Инсула (Insula):** интеграция вкусовой и висцеральной информации ([PMC][81])
+* **Нижняя передняя височная кора (ventral anterior temporal):** семантическая ассоциация вкуса ([PNAS][82])
 
 **Ключевые тракты / подсети:**
 
@@ -1235,20 +1234,20 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Small, 2010 — «The anterior insula in taste and attention», *Journal of Neuroscience* ([PMC][6])
-* Veldhuizen et al., 2011 — «The anterior insular cortex represents breaches of taste identity», *Journal of Neuroscience* ([PMC][8])
+* Small, 2010 — «The anterior insula in taste and attention», *Journal of Neuroscience* ([PMC][81])
+* Veldhuizen et al., 2011 — «The anterior insular cortex represents breaches of taste identity», *Journal of Neuroscience* ([PMC][83])
 
 ---
 
 ## 43. **Reticular Activating System (RAS)**
 
 **Ключевая функция:**
-Поддержание бодрствования и регуляция переходов «сон – бодрствование» через модуляцию корковой возбудимости ([ScienceDirect][9]).
+Поддержание бодрствования и регуляция переходов «сон – бодрствование» через модуляцию корковой возбудимости ([ScienceDirect][84]).
 
 **Анатомия:**
 
-* **Ретикулярная формация (RF) ствола мозга:** центральный узел арousal ([ScienceDirect][10])
-* **Ядра моста и средней полоски (parabrachial):** проекции в дальные корковые области ([PMC][11])
+* **Ретикулярная формация (RF) ствола мозга:** центральный узел arousal ([ScienceDirect][85])
+* **Ядра моста и средней полоски (parabrachial):** проекции в дальные корковые области ([PMC][86])
 
 **Ключевые тракты / подсети:**
 
@@ -1257,21 +1256,21 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Jones, 2004 — «Reticular Activating System: consciousness and arousal», *Brain Research Reviews* ([ScienceDirect][9])
-* Edlow et al., 2012 — «Neuroanatomic connectivity of the human ascending arousal system», *Journal of Comparative Neurology* ([PMC][11])
+* Jones, 2004 — «Reticular Activating System: consciousness and arousal», *Brain Research Reviews* ([ScienceDirect][84])
+* Edlow et al., 2012 — «Neuroanatomic connectivity of the human ascending arousal system», *Journal of Comparative Neurology* ([PMC][86])
 
 ---
 
 ## 44. **Hippocampal-Neocortical Memory Network (HNMN)**
 
 **Ключевая функция:**
-Консолидация долгосрочной памяти путём постепенного перераспределения информации из гиппокампа в неокортекс ([PMC][12]).
+Консолидация долгосрочной памяти путём постепенного перераспределения информации из гиппокампа в неокортекс ([PMC][87]).
 
 **Анатомия:**
 
-* **Гиппокамп (CA fields, DG):** кодирование и реконсолидация эпизодических воспоминаний ([PubMed][13])
-* **Энторинальная кора:** интерфейс между гиппокампом и корой ([PubMed][13])
-* **Медиальная PFC и PCC:** участники поздних этапов системной консолидации ([PMC][12])
+* **Гиппокамп (CA fields, DG):** кодирование и реконсолидация эпизодических воспоминаний ([PubMed][88])
+* **Энторинальная кора:** интерфейс между гиппокампом и корой ([PubMed][88])
+* **Медиальная PFC и PCC:** участники поздних этапов системной консолидации ([PMC][87])
 
 **Ключевые тракты / подсети:**
 
@@ -1280,20 +1279,20 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Eichenbaum, 2017 — «Memory consolidation and hippocampal–neocortical interactions», *Trends in Cognitive Sciences* ([PMC][12])
-* Squire & Alvarez, 1995 — «Retrograde amnesia and memory consolidation», *Science* ([PubMed][13])
+* Eichenbaum, 2017 — «Memory consolidation and hippocampal–neocortical interactions», *Trends in Cognitive Sciences* ([PMC][87])
+* Squire & Alvarez, 1995 — «Retrograde amnesia and memory consolidation», *Science* ([PubMed][88])
 
 ---
 
 ## 45. **Precuneus-Posterior Parietal Network (PPN)**
 
 **Ключевая функция:**
-Интеграция сенсорной, пространственной и саморефлексивной информации в рамках «заднего пояса» ([PubMed][14]).
+Интеграция сенсорной, пространственной и саморефлексивной информации в рамках «заднего пояса» ([PubMed][89]).
 
 **Анатомия:**
 
-* **Прецентральная область (precuneus):** мультифункциональный хаб ([Academic Oxford][15])
-* **Задняя теменная кора (posterior parietal cortex, PPC):** пространственная обработка и внимание ([PubMed][14])
+* **Прецентральная область (precuneus):** мультифункциональный хаб ([Academic Oxford][90])
+* **Задняя теменная кора (posterior parietal cortex, PPC):** пространственная обработка и внимание ([PubMed][89])
 
 **Ключевые тракты / подсети:**
 
@@ -1302,21 +1301,21 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Cavanna & Trimble, 2006 — «The precuneus: functional anatomy and behavioural correlates», *Brain* ([PubMed][14], [Academic Oxford][15])
-* Utevsky et al., 2014 — «Precuneus as central hub of default network», *Journal of Neuroscience* ([ResearchGate][16])
+* Cavanna & Trimble, 2006 — «The precuneus: functional anatomy and behavioural correlates», *Brain* ([PubMed][89], [Academic Oxford][90])
+* Utevsky et al., 2014 — «Precuneus as central hub of default network», *Journal of Neuroscience* ([ResearchGate][91])
 
 ---
 
 ## 46. **Fronto-Limbic Network (FLN)**
 
 **Ключевая функция:**
-Регуляция эмоций и принятие решений путём топ-даун модуляции лимбических реакций ([ScienceDirect][17]).
+Регуляция эмоций и принятие решений путём топ-даун модуляции лимбических реакций ([ScienceDirect][92]).
 
 **Анатомия:**
 
-* **Медиальная PFC (mPFC):** когнитивная регуляция эмоций ([PMC][18])
-* **Орбитофронтальная кора (OFC):** оценка вознаграждения и риска ([PMC][19])
-* **Миндалина (amygdala):** генерация аффективных реакций ([PMC][19])
+* **Медиальная PFC (mPFC):** когнитивная регуляция эмоций ([PMC][93])
+* **Орбитофронтальная кора (OFC):** оценка вознаграждения и риска ([PMC][94])
+* **Миндалина (amygdala):** генерация аффективных реакций ([PMC][94])
 
 **Ключевые тракты / подсети:**
 
@@ -1325,21 +1324,21 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Ochsner & Gross, 2005 — «The cognitive control of emotion», *Trends in Cognitive Sciences* ([ScienceDirect][17])
-* Phillips et al., 2008 — «Affective neuroscience of emotion regulation», *Nature Reviews Neuroscience* ([PMC][19])
+* Ochsner & Gross, 2005 — «The cognitive control of emotion», *Trends in Cognitive Sciences* ([ScienceDirect][92])
+* Phillips et al., 2008 — «Affective neuroscience of emotion regulation», *Nature Reviews Neuroscience* ([PMC][94])
 
 ---
 
 ## 47. **Sensorimotor Integration Network (SMIN)**
 
 **Ключевая функция:**
-Интеграция проприоцептивной и моторной информации для точного управления движением ([ScienceDirect][20]).
+Интеграция проприоцептивной и моторной информации для точного управления движением ([ScienceDirect][95]).
 
 **Анатомия:**
 
-* **Премоторная кора (PMC):** планирование движений ([ScienceDirect][20])
-* **Supplementary Motor Area (SMA):** инициирование последовательных движений ([PMC][21])
-* **Теменная долька (parietal cortex):** сенсорная обратная связь ([ScienceDirect][20])
+* **Премоторная кора (PMC):** планирование движений ([ScienceDirect][95])
+* **Supplementary Motor Area (SMA):** инициирование последовательных движений ([PMC][96])
+* **Теменная долька (parietal cortex):** сенсорная обратная связь ([ScienceDirect][95])
 
 **Ключевые тракты / подсети:**
 
@@ -1348,21 +1347,21 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Grafton, 2010 — «Sensorimotor integration in the central nervous system», *Current Opinion in Neurobiology* ([ScienceDirect][20])
-* Capaday et al., 2022 — «Selective sensorimotor integration in M1», *Journal of Physiology* ([PMC][21])
+* Grafton, 2010 — «Sensorimotor integration in the central nervous system», *Current Opinion in Neurobiology* ([ScienceDirect][95])
+* Capaday et al., 2022 — «Selective sensorimotor integration in M1», *Journal of Physiology* ([PMC][96])
 
 ---
 
 ## 48. **Auditory-Motor Network (AMN)**
 
 **Ключевая функция:**
-Координация акустической обработки и моторной реализации речи ([PMC][22]).
+Координация акустической обработки и моторной реализации речи ([PMC][97]).
 
 **Анатомия:**
 
-* **Задняя часть верхней височной извилины (pSTG):** анализ слуховых образов ([PMC][22])
-* **Broca’s area (IFG):** планирование артикуляции ([PMC][22])
-* **SMA:** инициирование речевого моторного паттерна ([PMC][23])
+* **Задняя часть верхней височной извилины (pSTG):** анализ слуховых образов ([PMC][97])
+* **Broca’s area (IFG):** планирование артикуляции ([PMC][97])
+* **SMA:** инициирование речевого моторного паттерна ([PMC][98])
 
 **Ключевые тракты / подсети:**
 
@@ -1371,21 +1370,21 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Hickok & Poeppel, 2007 — «The cortical organization of speech processing», *Nature Reviews Neuroscience* ([PMC][22])
-* Tourville & Guenther, 2011 — «Sensorimotor integration in speech production», *Speech Communication* ([PMC][23])
+* Hickok & Poeppel, 2007 — «The cortical organization of speech processing», *Nature Reviews Neuroscience* ([PMC][97])
+* Tourville & Guenther, 2011 — «Sensorimotor integration in speech production», *Speech Communication* ([PMC][98])
 
 ---
 
 ## 49. **Subcortical Arousal Network (SAN)**
 
 **Ключевая функция:**
-Модуляция уровня корковой активности через подкорковые ядерно-химические системы ([PMC][24]).
+Модуляция уровня корковой активности через подкорковые ядерно-химические системы ([PMC][99]).
 
 **Анатомия:**
 
-* **Таламус:** главный «релеер» афферентных сигналов ([Nature][25])
-* **Базальное ядро Майнерва (nucleus basalis of Meynert):** холинергическая модуляция ([PMC][26])
-* **Ствол мозга (LC, Raphe):** норадренергическая и серотонинергическая проекции ([PMC][24])
+* **Таламус:** главный «релеер» афферентных сигналов ([Nature][100])
+* **Базальное ядро Майнерва (nucleus basalis of Meynert):** холинергическая модуляция ([PMC][101])
+* **Ствол мозга (LC, Raphe):** норадренергическая и серотонинергическая проекции ([PMC][99])
 
 **Ключевые тракты / подсети:**
 
@@ -1394,20 +1393,20 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Tehovnik & Sommer, 2013 — «Shared subcortical arousal systems», *Brain Research* ([PMC][24])
-* Lustberg et al., 2017 — «Cortical arousal events and basal forebrain activity», *Nature Communications* ([Nature][25])
+* Tehovnik & Sommer, 2013 — «Shared subcortical arousal systems», *Brain Research* ([PMC][99])
+* Lustberg et al., 2017 — «Cortical arousal events and basal forebrain activity», *Nature Communications* ([Nature][100])
 
 ---
 
 ## 50. **Cerebellar-Prefrontal Loop (CPL)**
 
 **Ключевая функция:**
-Участие мозжечка в исполнительных функциях и когнитивном контроле через обратные петли с PFC ([ScienceDirect][27]).
+Участие мозжечка в исполнительных функциях и когнитивном контроле через обратные петли с PFC ([ScienceDirect][102]).
 
 **Анатомия:**
 
-* **Задние мозжечковые доли (Crus I/II):** подключение к ассоциативным областям PFC ([ScienceDirect][27])
-* **Dorsolateral PFC (dlPFC):** топ-даун когнитивный контроль ([ScienceDirect][28])
+* **Задние мозжечковые доли (Crus I/II):** подключение к ассоциативным областям PFC ([ScienceDirect][102])
+* **Dorsolateral PFC (dlPFC):** топ-даун когнитивный контроль ([ScienceDirect][103])
 
 **Ключевые тракты / подсети:**
 
@@ -1416,41 +1415,47 @@ graph TD
 
 **Ключевые обзоры:**
 
-* Buckner, 2013 — «The Cerebellum and Cognitive Function: 25 Years of Insight», *Neuron* ([ScienceDirect][27])
-* Sokolov et al., 2017 — «Cerebellar loops with prefrontal cortex in executive control», *Trends in Cognitive Sciences* ([PMC][29])
+* Buckner, 2013 — «The Cerebellum and Cognitive Function: 25 Years of Insight», *Neuron* ([ScienceDirect][102])
+* Sokolov et al., 2017 — «Cerebellar loops with prefrontal cortex in executive control», *Trends in Cognitive Sciences* ([PMC][104])
 
 ---
 
 
-[1]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8078209/ "Validation of Olfactory Network Based on Brain Structural ..."
-[2]: https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00571/128869/The-human-olfactory-amygdala-anatomical "Anatomical connections between the olfactory bulb and amygdala ..."
-[3]: https://pmc.ncbi.nlm.nih.gov/articles/PMC12025486/ "The Bulb, the Brain and the Being: New Insights into Olfactory ..."
-[4]: https://www.sciencedirect.com/science/article/pii/S1353802024012422 "Structural and functional connectomics of the olfactory system in ..."
-[5]: https://www.sciencedirect.com/science/article/abs/pii/S027826261530004X "Functions of the anterior insula in taste, autonomic, and related ..."
-[6]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3221736/ "The Anterior Insular Cortex Represents Breaches of Taste Identity ..."
-[7]: https://www.pnas.org/doi/10.1073/pnas.2010932118 "Viewing images of foods evokes taste quality-specific activity ... - PNAS"
-[8]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6621713/ "A Dynamic Cortical Network Encodes Violations of Expectancy ..."
-[9]: https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/reticular-activating-system "Reticular Activating System - an overview | ScienceDirect Topics"
-[10]: https://www.sciencedirect.com/topics/neuroscience/reticular-activating-system "Reticular Activating System - an overview | ScienceDirect Topics"
-[11]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3387430/ "Neuroanatomic Connectivity of the Human Ascending Arousal ..."
-[12]: https://pmc.ncbi.nlm.nih.gov/articles/PMC4526749/ "Memory Consolidation - PMC"
-[13]: https://pubmed.ncbi.nlm.nih.gov/25770921/ "A central node in a large-scale brain network for memory - PubMed"
-[14]: https://pubmed.ncbi.nlm.nih.gov/16399806/ "The precuneus: a review of its functional anatomy and behavioural ..."
-[15]: https://academic.oup.com/brain/article/129/3/564/390904 "The precuneus: a review of its functional anatomy and behavioural ..."
-[16]: https://www.researchgate.net/publication/7371646_Cavanna_AE_Trimble_MR_The_precuneus_a_review_of_its_functional_anatomy_and_behavioural_correlates_Brain_J_Neurol_129Pt_3_564-583 "Cavanna AE, Trimble MR. The precuneus: a review of its functional ..."
-[17]: https://www.sciencedirect.com/science/article/abs/pii/S1364661305000902 "The cognitive control of emotion - ScienceDirect.com"
-[18]: https://pmc.ncbi.nlm.nih.gov/articles/PMC4133790/ "Functional imaging studies of emotion regulation: A synthetic review ..."
-[19]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2566753/ "Amygdala–frontal connectivity during emotion regulation - PMC"
-[20]: https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/sensorimotor-integration "Sensorimotor Integration - an overview | ScienceDirect Topics"
-[21]: https://pmc.ncbi.nlm.nih.gov/articles/PMC9305922/ "Sensorimotor integration within the primary motor cortex by selective ..."
-[22]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3468690/ "The cortical organization of speech processing: Feedback control ..."
-[23]: https://pmc.ncbi.nlm.nih.gov/articles/PMC4733636/ "Perception drives production across sensory modalities: A network ..."
-[24]: https://pmc.ncbi.nlm.nih.gov/articles/PMC11429725/ "Shared subcortical arousal systems across sensory modalities ..."
-[25]: https://www.nature.com/articles/s41467-017-02815-3 "Subcortical evidence for a contribution of arousal to fMRI studies of ..."
-[26]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6500474/ "Basal Forebrain Subcortical Projections - PMC - PubMed Central"
-[27]: https://www.sciencedirect.com/science/article/pii/S0896627313009963 "The Cerebellum and Cognitive Function: 25 Years of Insight from ..."
-[28]: https://www.sciencedirect.com/science/article/abs/pii/S0928425713000223 "Prefrontal cortex and neural mechanisms of executive function"
-[29]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7786249/ "A New Insight on the Role of the Cerebellum for Executive Functions ..."
+[76]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8078209/ "Validation of Olfactory Network Based on Brain Structural ..."
+[77]: https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00571/128869/The-human-olfactory-amygdala-anatomical "Anatomical connections between the olfactory bulb and amygdala ..."
+[78]: https://pmc.ncbi.nlm.nih.gov/articles/PMC12025486/ "The Bulb, the Brain and the Being: New Insights into Olfactory ..."
+[79]: https://www.sciencedirect.com/science/article/pii/S1353802024012422 "Structural and functional connectomics of the olfactory system in ..."
+[80]: https://www.sciencedirect.com/science/article/abs/pii/S027826261530004X "Functions of the anterior insula in taste, autonomic, and related ..."
+[81]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3221736/ "The Anterior Insular Cortex Represents Breaches of Taste Identity ..."
+[82]: https://www.pnas.org/doi/10.1073/pnas.2010932118 "Viewing images of foods evokes taste quality-specific activity ... - PNAS"
+[83]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6621713/ "A Dynamic Cortical Network Encodes Violations of Expectancy ..."
+[84]: https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/reticular-activating-system "Reticular Activating System - an overview | ScienceDirect Topics"
+[85]: https://www.sciencedirect.com/topics/neuroscience/reticular-activating-system "Reticular Activating System - an overview | ScienceDirect Topics"
+[86]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3387430/ "Neuroanatomic Connectivity of the Human Ascending Arousal ..."
+[87]: https://pmc.ncbi.nlm.nih.gov/articles/PMC4526749/ "Memory Consolidation - PMC"
+[88]: https://pubmed.ncbi.nlm.nih.gov/25770921/ "A central node in a large-scale brain network for memory - PubMed"
+[89]: https://pubmed.ncbi.nlm.nih.gov/16399806/ "The precuneus: a review of its functional anatomy and behavioural ..."
+[90]: https://academic.oup.com/brain/article/129/3/564/390904 "The precuneus: a review of its functional anatomy and behavioural ..."
+[91]: https://www.researchgate.net/publication/7371646_Cavanna_AE_Trimble_MR_The_precuneus_a_review_of_its_functional_anatomy_and_behavioural_correlates_Brain_J_Neurol_129Pt_3_564-583 "Cavanna AE, Trimble MR. The precuneus: a review of its functional ..."
+[92]: https://www.sciencedirect.com/science/article/abs/pii/S1364661305000902 "The cognitive control of emotion - ScienceDirect.com"
+[93]: https://pmc.ncbi.nlm.nih.gov/articles/PMC4133790/ "Functional imaging studies of emotion regulation: A synthetic review ..."
+[94]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2566753/ "Amygdala–frontal connectivity during emotion regulation - PMC"
+[95]: https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/sensorimotor-integration "Sensorimotor Integration - an overview | ScienceDirect Topics"
+[96]: https://pmc.ncbi.nlm.nih.gov/articles/PMC9305922/ "Sensorimotor integration within the primary motor cortex by selective ..."
+[97]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3468690/ "The cortical organization of speech processing: Feedback control ..."
+[98]: https://pmc.ncbi.nlm.nih.gov/articles/PMC4733636/ "Perception drives production across sensory modalities: A network ..."
+[99]: https://pmc.ncbi.nlm.nih.gov/articles/PMC11429725/ "Shared subcortical arousal systems across sensory modalities ..."
+[100]: https://www.nature.com/articles/s41467-017-02815-3 "Subcortical evidence for a contribution of arousal to fMRI studies of ..."
+[101]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6500474/ "Basal Forebrain Subcortical Projections - PMC - PubMed Central"
+[102]: https://www.sciencedirect.com/science/article/pii/S0896627313009963 "The Cerebellum and Cognitive Function: 25 Years of Insight from ..."
+[103]: https://www.sciencedirect.com/science/article/abs/pii/S0928425713000223 "Prefrontal cortex and neural mechanisms of executive function"
+[104]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7786249/ "A New Insight on the Role of the Cerebellum for Executive Functions ..."
+
 
 ---
 
+
+
+Оглавление:
+
+- [ЭИРО framework](/README.md)
