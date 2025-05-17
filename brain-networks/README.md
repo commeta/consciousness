@@ -180,6 +180,8 @@ graph TD
 
 ## **1. Task-Positive Network (TPN)**
 
+Подробнее: [Task-Positive Network (TPN)](/brain-networks/task-positive-network-tpn.md)
+
 **Ключевая функция:**
 Активируется при целенаправленной работе и решении задач, требующих когнитивного контроля. ([PMC][1])
 
@@ -204,6 +206,8 @@ graph TD
 
 ## **2. Default Mode Network (DMN)**
 
+Подробнее: [Default Mode Network (DMN)](/brain-networks/default-mode-network-dmn.md)
+
 **Ключевая функция:**
 Активна в покое, саморефлексии и «дневном мечтании». ([ScienceDirect][2])
 
@@ -226,6 +230,8 @@ graph TD
 ---
 
 ## **3. Multiple-Demand Network (MD)**
+
+Подробнее: [Multiple-Demand Network (MD)](/brain-networks/multiple-demand-network-md.md) 
 
 **Ключевая функция:**
 Гибкая сеть для решения разнообразных когнитивных задач, универсальный «операционный слой». ([Nature][4])
@@ -251,6 +257,8 @@ graph TD
 
 ## **4. Salience Network (SN)**
 
+Подробнее: [Salience Network (SN)](/brain-networks/salience-network-sn.md)
+
 **Ключевая функция:**
 Выделяет значимые стимулы и переключает между режимами покоя (DMN) и задач (TPN/CEN). ([PMC][5])
 
@@ -272,6 +280,8 @@ graph TD
 ---
 
 ## **5. Central Executive Network (CEN)**
+
+Подробнее: [Central Executive Network (CEN)](/brain-networks/central-executive-network-cen.md)
 
 **Ключевая функция:**
 Управление рабочей памятью и принятием решений. ([ScienceDirect][7])
@@ -295,6 +305,8 @@ graph TD
 
 ## **6. Dorsal Attention Network (DAN)**
 
+Подробнее: [Dorsal Attention Network (DAN)](/brain-networks/dorsal-attention-network-dan.md)
+
 **Ключевая функция:**
 Произвольное (топ-даун) удержание и ориентация внимания. ([ScienceDirect][9])
 
@@ -317,6 +329,8 @@ graph TD
 
 ## **7. Ventral Attention Network (VAN)**
 
+Подробнее: [Ventral Attention Network (VAN)](/brain-networks/ventral-attention-network-van.md)
+
 **Ключевая функция:**
 Автоматическое переключение внимания на неожиданные и важные стимулы. ([ScienceDirect][11])
 
@@ -338,6 +352,8 @@ graph TD
 ---
 
 ## **8. Visual Network**
+
+Подробнее: [Visual Network](/brain-networks/visual-network.md)
 
 **Ключевая функция:**
 Обработка и интеграция зрительной информации (от первичной до ассоциативных областей). ([PMC][13])
@@ -362,6 +378,8 @@ graph TD
 
 ## **9. Somato-Motor Network (SMN)**
 
+Подробнее: [Somato-Motor Network (SMN)](/brain-networks/somato-motor-network-smn.md)
+
 **Ключевая функция:**
 Сенсомоторная интеграция и контроль движений. ([PMC][15])
 
@@ -384,6 +402,8 @@ graph TD
 ---
 
 ## **10. Limbic Network**
+
+Подробнее: [Limbic Network](/brain-networks/limbic-network.md)
 
 **Ключевая функция:**
 Регуляция эмоций, мотивации и памяти. ([ScienceDirect][17])
@@ -412,6 +432,8 @@ graph TD
 
 ## **11. Language Network (LN)**
 
+Подробнее: [Language Network (LN)](/brain-networks/language-network-ln.md)
+
 **Ключевая функция:**
 Восприятие, анализ и производство языка, от фонологической обработки до синтаксиса и семантики ([PMC][19], [aimspress.com][20]).
 
@@ -436,6 +458,8 @@ graph TD
 
 ## **12. Auditory Network (AN)**
 
+Подробнее: [Auditory Network (AN)](/brain-networks/auditory-network-an.md)
+
 **Ключевая функция:**
 Обработка и кодирование звуковых стимулов от примитивных характеристик до распознавания речи и музыки ([aimspress.com][20], [Europe PMC][21]).
 
@@ -458,6 +482,8 @@ graph TD
 ---
 
 ## **13. Cerebellar Network (CBN)**
+
+Подробнее: [Cerebellar Network (CBN)](/brain-networks/cerebellar-network-cbn.md)
 
 **Ключевая функция:**
 Координация моторики и участие в когнитивных и эмоциональных процессах через предсказательные внутренние модели ([PubMed][22]).
@@ -483,6 +509,8 @@ graph TD
 
 ## **14. Basal Ganglia Network (BGN)**
 
+Подробнее: [Basal Ganglia Network, (BGN)](/brain-networks/basal-ganglia-network-bgn.md)
+
 **Ключевая функция:**
 Регуляция мотивации, выбор действий и процедурного обучения через множество параллельных петель ([PubMed][24]).
 
@@ -507,6 +535,8 @@ graph TD
 
 ## **15. Frontoparietal Control Network (FPCN)**
 
+Подробнее: [Frontoparietal Control Network (FPCN)](/brain-networks/frontoparietal-control-network-fpcn.md)
+
 **Ключевая функция:**
 Гибкий когнитивный контроль, мультизадачность и переключение между целями ([Nature][25]).
 
@@ -529,6 +559,8 @@ graph TD
 
 ## **16. Temporal-Parietal Network (TPN)**
 
+Подробнее: [Temporal-Parietal Network (TPN)](/brain-networks/temporal-parietal-network-tpn.md)
+
 **Ключевая функция:**
 Социальное познание (Theory of Mind), эмпатия и языковое взаимодействие ([ScienceDirect][27], [PMC][28]).
 
@@ -550,6 +582,8 @@ graph TD
 ---
 
 ## **17. Posterior Multimodal Network (PMN)**
+
+Подробнее: [Posterior Multimodal Network (PMN)](/brain-networks/posterior-multimodal-network-pmn.md)
 
 **Ключевая функция:**
 Интеграция зрительных, слуховых и сомато-сенсорных данных для формирования целостного восприятия ([PubMed][26]).
