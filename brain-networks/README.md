@@ -34,6 +34,7 @@
 
 - [Temporal-Parietal Network (TPN)](/brain-networks/temporal-parietal-network-tpn.md)
 
+- [Posterior Multimodal Network (PMN)](/brain-networks/posterior-multimodal-network-pmn.md)
 
 
 ---
