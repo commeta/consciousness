@@ -22,6 +22,7 @@
 
 - [Limbic Network](/brain-networks/limbic-network.md)
 
+- [Language Network (LN)](/brain-networks/language-network-ln.md)
 
 
 ---
