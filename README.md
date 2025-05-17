@@ -264,7 +264,7 @@ graph TD
 
 - [Перечень теорий сознания](/list-of-theories-of-consciousness.md) May 08, 2025
 
-- [Нейросети мозга](/brain-networks.md) May 17, 2025
+- [Нейросети мозга](/brain-networks/README.md) May 17, 2025
 
 
 </details>
