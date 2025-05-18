@@ -1139,6 +1139,8 @@
 
 ## 46. **Fronto-Limbic Network (FLN)**
 
+**Подробное описание:** [Fronto-Limbic Network (FLN)](/brain-networks/fronto-limbic-network-fln.md)
+
 **Ключевая функция:**
 Регуляция эмоций и принятие решений путём топ-даун модуляции лимбических реакций ([ScienceDirect][92]).
 
