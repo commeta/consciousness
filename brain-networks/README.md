@@ -607,6 +607,8 @@ graph TD
 
 ## **18. Cingulo-Opercular Network (CON)**
 
+Подробнее: [Cingulo-Opercular Network (CON)](/brain-networks/cingulo-opercular-network-con.md)
+
 **Ключевая функция:**
 Поддержание тонуса внимания и устойчивый контроль, мониторинг ошибок ([PubMed][30]).
 
@@ -629,6 +631,8 @@ graph TD
 ---
 
 ## **19. Orbitofrontal Network (OFN)**
+
+Подробнее: [Orbitofrontal Network (OFN)](/brain-networks/orbitofrontal-network-ofn.md)
 
 **Ключевая функция:**
 Оценка вознаграждений/не-вознаграждений и эмоциональное принятие решений ([PMC][31], [PubMed][32]).
@@ -653,6 +657,8 @@ graph TD
 ---
 
 ## **20. Frontopolar Network (FPN)**
+
+Подробнее: [Frontopolar Network (FPN)](/brain-networks/frontopolar-network-fpn.md)
 
 **Ключевая функция:**
 Метакогниция, стратегическое планирование и интеграция нескольких целей ([PMC][33], [ResearchGate][34]).
