@@ -938,6 +938,8 @@ graph TD
 
 ## 31. **Right-Hemisphere Frontoparietal Control Network (RH-FPCN)**
 
+Подробнее: [Right-Hemisphere Frontoparietal Control Network (RH-FPCN)](/brain-networks/right-hemisphere-frontoparietal-control-network-rh-fpcn.md)
+
 **Ключевая функция:**
 Обеспечивает гибкое управление вниманием и целенаправленное поведение через взаимодействие с другими когнитивными сетями ([PMC][56]).
 
@@ -961,6 +963,8 @@ graph TD
 
 ## 32. **Ventral Stream (“What” Pathway) (VSP)**
 
+Подробнее: [Ventral Stream (“What” Pathway) (VSP)](/brain-networks/ventral-stream-what-pathway-vsp.md)
+
 **Ключевая функция:**
 Распознавание форм, объектов и лиц в условиях сложного визуального окружения ([PubMed][59]).
 
@@ -982,6 +986,8 @@ graph TD
 ---
 
 ## 33. **Dorsal Stream (“Where/How” Pathway) (DSP)**
+
+Подробнее: [Dorsal Stream (“Where/How” Pathway) (DSP)](/brain-networks/dorsal-stream-wherehow-pathway-dsp.md)
 
 **Ключевая функция:**
 Пространственная локализация, зрительно-моторная координация и управление движениями рук и глаз ([PubMed][59]).
@@ -1005,6 +1011,8 @@ graph TD
 
 ## 34. **Anterior Temporal Network (ATN)**
 
+Подробнее: [Anterior Temporal Network (ATN)](/brain-networks/anterior-temporal-network-atn.md)
+
 **Ключевая функция:**
 Обработка социальной и эмоциональной семантики, представление знаний о людях и объектах ([PMC][62]).
 
@@ -1027,6 +1035,8 @@ graph TD
 
 ## 35. **Parietal Memory Retrieval Network (PMN)**
 
+Подробнее: [Parietal Memory Retrieval Network (PMN)](/brain-networks/parietal-memory-retrieval-network-pmn.md)
+
 **Ключевая функция:**
 Извлечение эпизодической и семантической памяти, рализация воспоминаний и ориентация внимания на воспоминания ([PubMed][64]).
 
@@ -1048,6 +1058,8 @@ graph TD
 ---
 
 ## 36. **Central Autonomic Network (CAN)**
+
+Подробнее: [Central Autonomic Network (CAN)](/brain-networks/central-autonomic-network-can.md)
 
 **Ключевая функция:**
 Регуляция вегетативных и гомеостатических функций через интеграцию висцеральных сигналов ([PubMed][66]).
