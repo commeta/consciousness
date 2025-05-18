@@ -863,6 +863,8 @@ graph TD
 
 ## **28. Affective Network (ANet)**
 
+Подробнее: [Affective Network (ANet)](/brain-networks/affective-network-anet.md)
+
 **Ключевая функция:**
 Обработка эмоциональной информации и регуляция настроения ([PMC][51], [PubMed][52]).
 
@@ -886,6 +888,8 @@ graph TD
 
 ## **29. Cerebro-Cerebellar Cognitive Network (CCCN)**
 
+Подробнее: [Cerebro-Cerebellar Cognitive Network (CCCN)](/brain-networks/cerebro-cerebellar-cognitive-network-cccn.md)
+
 **Ключевая функция:**
 Участие мозжечка в когнитивном обучении и прогнозировании через петли с корой ([Nature][53], [PMC][54]).
 
@@ -908,6 +912,8 @@ graph TD
 ---
 
 ## **30. Fronto-Striatal Network (FSN)**
+
+Подробнее: [Fronto-Striatal Network (FSN)](/brain-networks/fronto-striatal-network-fsn.md)
 
 **Ключевая функция:**
 Исполнительные функции и контроль импульсов через взаимодействие DLPFC и хвостатого ядра ([Nature][55], [PMC][36]).
