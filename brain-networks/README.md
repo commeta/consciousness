@@ -913,6 +913,8 @@
 
 ## 37. **Thalamo-Cortical Network (TCN)**
 
+**Подробное описание:** [Thalamo-Cortical Network (TCN)](/brain-networks/thalamo-cortical-network-tcn.md)
+
 **Ключевая функция:**
 Синхронизация корковых ритмов и эффективная передача сенсорной информации через таламус ([PubMed][68]).
 
@@ -934,6 +936,8 @@
 ---
 
 ## 38. **Interoceptive Network (IN)**
+
+**Подробное описание:** [Interoceptive Network (IN)](/brain-networks/interoceptive-network-in.md)
 
 **Ключевая функция:**
 Восприятие внутренних состояний тела (сердцебиение, дыхание) и их интеграция в субъективные ощущения ([Nature][70]).
@@ -958,6 +962,8 @@
 
 ## 39. **Pain Matrix (Nociceptive Network)**
 
+**Подробное описание:** [Pain Matrix (Nociceptive Network)](/brain-networks/interoceptive-network-in.md)
+
 **Ключевая функция:**
 Обработка болевых сигналов, интеграция ноцицептивной информации и реакции на угрозы телу ([PMC][72]).
 
@@ -981,6 +987,8 @@
 ---
 
 ## 40. **Vestibular Network (VN)**
+
+**Подробное описание:** [Vestibular Network (VN)](/brain-networks/vestibular-network-vn.md)
 
 **Ключевая функция:**
 Восприятие положения и движения головы, поддержание равновесия и ориентирование в пространстве ([PubMed][74]).
@@ -1008,6 +1016,8 @@
 
 ## 41. **Olfactory Network (ON)**
 
+**Подробное описание:** [Olfactory Network (ON)](/brain-networks/olfactory-network-on.md)
+
 **Ключевая функция:**
 Обработка обонятельной информации от первичной детекции до сложной перцепции запахов ([PMC][76]).
 
@@ -1030,6 +1040,8 @@
 ---
 
 ## 42. **Gustatory Network (GN)**
+
+**Подробное описание:** [Gustatory Network (GN)](/brain-networks/gustatory-network-gn.md)
 
 **Ключевая функция:**
 Восприятие и дискриминация вкусовых качеств на разных уровнях обработки ([ScienceDirect][80]).
@@ -1054,6 +1066,8 @@
 
 ## 43. **Reticular Activating System (RAS)**
 
+**Подробное описание:** [Reticular Activating System (RAS)](/brain-networks/gustatory-network-gn.md)
+
 **Ключевая функция:**
 Поддержание бодрствования и регуляция переходов «сон – бодрствование» через модуляцию корковой возбудимости ([ScienceDirect][84]).
 
@@ -1075,6 +1089,8 @@
 ---
 
 ## 44. **Hippocampal-Neocortical Memory Network (HNMN)**
+
+**Подробное описание:** [Hippocampal-Neocortical Memory Network (HNMN)](/brain-networks/hippocampal-neocortical-memory-network-hnmn.md)
 
 **Ключевая функция:**
 Консолидация долгосрочной памяти путём постепенного перераспределения информации из гиппокампа в неокортекс ([PMC][87]).
@@ -1098,6 +1114,8 @@
 ---
 
 ## 45. **Precuneus-Posterior Parietal Network (PPN)**
+
+**Подробное описание:** [Precuneus-Posterior Parietal Network (PPN)](/brain-networks/precuneus-posterior-parietal-network-ppn.md)
 
 **Ключевая функция:**
 Интеграция сенсорной, пространственной и саморефлексивной информации в рамках «заднего пояса» ([PubMed][89]).
