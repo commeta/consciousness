@@ -688,6 +688,8 @@ graph TD
 
 ## **21. Reward Network (RN)**
 
+Подробнее: [Reward Network (RN)](/brain-networks/reward-network-rn.md)
+
 **Ключевая функция:**
 Оценка вознаграждения и мотивация через взаимодействие вентрального стрiatума и префронтальной коры ([PMC][36], [PMC][37]).
 
@@ -711,6 +713,8 @@ graph TD
 ---
 
 ## **22. Medial Temporal Lobe Memory Network (MTL)**
+
+Подробнее: [Medial Temporal Lobe Memory Network (MTL)](/brain-networks/medial-temporal-lobe-memory-network-mtl.md)
 
 **Ключевая функция:**
 Формирование и извлечение эпизодической (декларативной) памяти ([PubMed][39]).
@@ -736,6 +740,8 @@ graph TD
 
 ## **23. Parieto-Occipital Network (PON)**
 
+Подробнее: [Parieto-Occipital Network (PON)](/brain-networks/parieto-occipital-network-pon.md)
+
 **Ключевая функция:**
 Интеграция визуально-пространственной информации для навигации и ориентации ([PMC][41], [Nature][42]).
 
@@ -757,6 +763,8 @@ graph TD
 ---
 
 ## **24. Semantic/Language Comprehension Network (SCN)**
+
+Подробнее: [Semantic/Language Comprehension Network (SCN)](/brain-networks/semanticlanguage-comprehension-network-scn.md)
 
 **Ключевая функция:**
 Семантическая обработка и интеграция смыслового контента языка ([The Journal of Neuroscience][43], [Nature][44]).
@@ -780,6 +788,8 @@ graph TD
 ---
 
 ## **25. Mentalizing (Theory-of-Mind) Network (MN)**
+
+Подробнее: [Mentalizing (Theory-of-Mind) Network (MN)](/brain-networks/mentalizing-theory-of-mind-network-mn.md)
 
 **Ключевая функция:**
 Понимание и предсказание ментальных состояний других людей ([PMC][45], [ScienceDirect][46]).
