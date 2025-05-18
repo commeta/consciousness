@@ -54,6 +54,8 @@ graph TD
 
 - [ReadMe English](/docs/en/README.md) Oct 17, 2024. upd: Nov 20, 2024 
 
+- [Критический анализ теории ЭИРО и метрики Φₑ](/critical-analysis-of-the-theory-eirm.md) Apr 28, 2025
+
 
 ### Аналитика:
 
@@ -249,9 +251,6 @@ graph TD
 #### Прочее
 
 - [Сравнительный анализ ведущих теорий сознания в контексте ЭИРО](/comparative-analysis.md) Oct 19, 2024
-
-- [Критический анализ теории ЭИРО и метрики Φₑ](/critical-analysis-of-the-theory-eirm.md) Apr 28, 2025
-
 
 
 </details>
