@@ -814,6 +814,8 @@ graph TD
 
 ## **26. Mirror Neuron System (MNS)**
 
+Подробнее: [Mirror Neuron System (MNS)](/brain-networks/mirror-neuron-system-mns.md)
+
 **Ключевая функция:**
 Имитация действий и понимание намерений через «зеркальную» активность премоторной и теменной коры ([PMC][47], [Nature][48]).
 
@@ -835,6 +837,8 @@ graph TD
 ---
 
 ## **27. Reading (Visual Word-Form) Network (VWFA)**
+
+Подробнее: [Reading (Visual Word-Form) Network (VWFA)](/brain-networks/reading-visual-word-form-network-vwfa.md)
 
 **Ключевая функция:**
 Визуальное распознавание и категоризация буквенных форм ([ScienceDirect][49], [eneuro.org][50]).
