@@ -9,7 +9,7 @@
 
 ## **1. Task-Positive Network (TPN)**
 
-Подробнее: [Task-Positive Network (TPN)](/brain-networks/task-positive-network-tpn.md)
+**Подробное описание:** [Task-Positive Network (TPN)](/brain-networks/task-positive-network-tpn.md)
 
 **Ключевая функция:**
 Активируется при целенаправленной работе и решении задач, требующих когнитивного контроля. ([PMC][1])
@@ -35,7 +35,7 @@
 
 ## **2. Default Mode Network (DMN)**
 
-Подробнее: [Default Mode Network (DMN)](/brain-networks/default-mode-network-dmn.md)
+**Подробное описание:** [Default Mode Network (DMN)](/brain-networks/default-mode-network-dmn.md)
 
 **Ключевая функция:**
 Активна в покое, саморефлексии и «дневном мечтании». ([ScienceDirect][2])
@@ -60,7 +60,7 @@
 
 ## **3. Multiple-Demand Network (MD)**
 
-Подробнее: [Multiple-Demand Network (MD)](/brain-networks/multiple-demand-network-md.md) 
+**Подробное описание:** [Multiple-Demand Network (MD)](/brain-networks/multiple-demand-network-md.md) 
 
 **Ключевая функция:**
 Гибкая сеть для решения разнообразных когнитивных задач, универсальный «операционный слой». ([Nature][4])
@@ -86,7 +86,7 @@
 
 ## **4. Salience Network (SN)**
 
-Подробнее: [Salience Network (SN)](/brain-networks/salience-network-sn.md)
+**Подробное описание:** [Salience Network (SN)](/brain-networks/salience-network-sn.md)
 
 **Ключевая функция:**
 Выделяет значимые стимулы и переключает между режимами покоя (DMN) и задач (TPN/CEN). ([PMC][5])
@@ -110,7 +110,7 @@
 
 ## **5. Central Executive Network (CEN)**
 
-Подробнее: [Central Executive Network (CEN)](/brain-networks/central-executive-network-cen.md)
+**Подробное описание:** [Central Executive Network (CEN)](/brain-networks/central-executive-network-cen.md)
 
 **Ключевая функция:**
 Управление рабочей памятью и принятием решений. ([ScienceDirect][7])
@@ -134,7 +134,7 @@
 
 ## **6. Dorsal Attention Network (DAN)**
 
-Подробнее: [Dorsal Attention Network (DAN)](/brain-networks/dorsal-attention-network-dan.md)
+**Подробное описание:** [Dorsal Attention Network (DAN)](/brain-networks/dorsal-attention-network-dan.md)
 
 **Ключевая функция:**
 Произвольное (топ-даун) удержание и ориентация внимания. ([ScienceDirect][9])
@@ -158,7 +158,7 @@
 
 ## **7. Ventral Attention Network (VAN)**
 
-Подробнее: [Ventral Attention Network (VAN)](/brain-networks/ventral-attention-network-van.md)
+**Подробное описание:** [Ventral Attention Network (VAN)](/brain-networks/ventral-attention-network-van.md)
 
 **Ключевая функция:**
 Автоматическое переключение внимания на неожиданные и важные стимулы. ([ScienceDirect][11])
@@ -182,7 +182,7 @@
 
 ## **8. Visual Network**
 
-Подробнее: [Visual Network](/brain-networks/visual-network.md)
+**Подробное описание:** [Visual Network](/brain-networks/visual-network.md)
 
 **Ключевая функция:**
 Обработка и интеграция зрительной информации (от первичной до ассоциативных областей). ([PMC][13])
@@ -207,7 +207,7 @@
 
 ## **9. Somato-Motor Network (SMN)**
 
-Подробнее: [Somato-Motor Network (SMN)](/brain-networks/somato-motor-network-smn.md)
+**Подробное описание:** [Somato-Motor Network (SMN)](/brain-networks/somato-motor-network-smn.md)
 
 **Ключевая функция:**
 Сенсомоторная интеграция и контроль движений. ([PMC][15])
@@ -232,7 +232,7 @@
 
 ## **10. Limbic Network**
 
-Подробнее: [Limbic Network](/brain-networks/limbic-network.md)
+**Подробное описание:** [Limbic Network](/brain-networks/limbic-network.md)
 
 **Ключевая функция:**
 Регуляция эмоций, мотивации и памяти. ([ScienceDirect][17])
@@ -261,7 +261,7 @@
 
 ## **11. Language Network (LN)**
 
-Подробнее: [Language Network (LN)](/brain-networks/language-network-ln.md)
+**Подробное описание:** [Language Network (LN)](/brain-networks/language-network-ln.md)
 
 **Ключевая функция:**
 Восприятие, анализ и производство языка, от фонологической обработки до синтаксиса и семантики ([PMC][19], [aimspress.com][20]).
@@ -287,7 +287,7 @@
 
 ## **12. Auditory Network (AN)**
 
-Подробнее: [Auditory Network (AN)](/brain-networks/auditory-network-an.md)
+**Подробное описание:** [Auditory Network (AN)](/brain-networks/auditory-network-an.md)
 
 **Ключевая функция:**
 Обработка и кодирование звуковых стимулов от примитивных характеристик до распознавания речи и музыки ([aimspress.com][20], [Europe PMC][21]).
@@ -312,7 +312,7 @@
 
 ## **13. Cerebellar Network (CBN)**
 
-Подробнее: [Cerebellar Network (CBN)](/brain-networks/cerebellar-network-cbn.md)
+**Подробное описание:** [Cerebellar Network (CBN)](/brain-networks/cerebellar-network-cbn.md)
 
 **Ключевая функция:**
 Координация моторики и участие в когнитивных и эмоциональных процессах через предсказательные внутренние модели ([PubMed][22]).
@@ -338,7 +338,7 @@
 
 ## **14. Basal Ganglia Network (BGN)**
 
-Подробнее: [Basal Ganglia Network, (BGN)](/brain-networks/basal-ganglia-network-bgn.md)
+**Подробное описание:** [Basal Ganglia Network, (BGN)](/brain-networks/basal-ganglia-network-bgn.md)
 
 **Ключевая функция:**
 Регуляция мотивации, выбор действий и процедурного обучения через множество параллельных петель ([PubMed][24]).
@@ -364,7 +364,7 @@
 
 ## **15. Frontoparietal Control Network (FPCN)**
 
-Подробнее: [Frontoparietal Control Network (FPCN)](/brain-networks/frontoparietal-control-network-fpcn.md)
+**Подробное описание:** [Frontoparietal Control Network (FPCN)](/brain-networks/frontoparietal-control-network-fpcn.md)
 
 **Ключевая функция:**
 Гибкий когнитивный контроль, мультизадачность и переключение между целями ([Nature][25]).
@@ -388,7 +388,7 @@
 
 ## **16. Temporal-Parietal Network (TPN)**
 
-Подробнее: [Temporal-Parietal Network (TPN)](/brain-networks/temporal-parietal-network-tpn.md)
+**Подробное описание:** [Temporal-Parietal Network (TPN)](/brain-networks/temporal-parietal-network-tpn.md)
 
 **Ключевая функция:**
 Социальное познание (Theory of Mind), эмпатия и языковое взаимодействие ([ScienceDirect][27], [PMC][28]).
@@ -412,7 +412,7 @@
 
 ## **17. Posterior Multimodal Network (PMN)**
 
-Подробнее: [Posterior Multimodal Network (PMN)](/brain-networks/posterior-multimodal-network-pmn.md)
+**Подробное описание:** [Posterior Multimodal Network (PMN)](/brain-networks/posterior-multimodal-network-pmn.md)
 
 **Ключевая функция:**
 Интеграция зрительных, слуховых и сомато-сенсорных данных для формирования целостного восприятия ([PubMed][26]).
@@ -436,7 +436,7 @@
 
 ## **18. Cingulo-Opercular Network (CON)**
 
-Подробнее: [Cingulo-Opercular Network (CON)](/brain-networks/cingulo-opercular-network-con.md)
+**Подробное описание:** [Cingulo-Opercular Network (CON)](/brain-networks/cingulo-opercular-network-con.md)
 
 **Ключевая функция:**
 Поддержание тонуса внимания и устойчивый контроль, мониторинг ошибок ([PubMed][30]).
@@ -461,7 +461,7 @@
 
 ## **19. Orbitofrontal Network (OFN)**
 
-Подробнее: [Orbitofrontal Network (OFN)](/brain-networks/orbitofrontal-network-ofn.md)
+**Подробное описание:** [Orbitofrontal Network (OFN)](/brain-networks/orbitofrontal-network-ofn.md)
 
 **Ключевая функция:**
 Оценка вознаграждений/не-вознаграждений и эмоциональное принятие решений ([PMC][31], [PubMed][32]).
@@ -487,7 +487,7 @@
 
 ## **20. Frontopolar Network (FPN)**
 
-Подробнее: [Frontopolar Network (FPN)](/brain-networks/frontopolar-network-fpn.md)
+**Подробное описание:** [Frontopolar Network (FPN)](/brain-networks/frontopolar-network-fpn.md)
 
 **Ключевая функция:**
 Метакогниция, стратегическое планирование и интеграция нескольких целей ([PMC][33], [ResearchGate][34]).
@@ -517,7 +517,7 @@
 
 ## **21. Reward Network (RN)**
 
-Подробнее: [Reward Network (RN)](/brain-networks/reward-network-rn.md)
+**Подробное описание:** [Reward Network (RN)](/brain-networks/reward-network-rn.md)
 
 **Ключевая функция:**
 Оценка вознаграждения и мотивация через взаимодействие вентрального стрiatума и префронтальной коры ([PMC][36], [PMC][37]).
@@ -543,7 +543,7 @@
 
 ## **22. Medial Temporal Lobe Memory Network (MTL)**
 
-Подробнее: [Medial Temporal Lobe Memory Network (MTL)](/brain-networks/medial-temporal-lobe-memory-network-mtl.md)
+**Подробное описание:** [Medial Temporal Lobe Memory Network (MTL)](/brain-networks/medial-temporal-lobe-memory-network-mtl.md)
 
 **Ключевая функция:**
 Формирование и извлечение эпизодической (декларативной) памяти ([PubMed][39]).
@@ -569,7 +569,7 @@
 
 ## **23. Parieto-Occipital Network (PON)**
 
-Подробнее: [Parieto-Occipital Network (PON)](/brain-networks/parieto-occipital-network-pon.md)
+**Подробное описание:** [Parieto-Occipital Network (PON)](/brain-networks/parieto-occipital-network-pon.md)
 
 **Ключевая функция:**
 Интеграция визуально-пространственной информации для навигации и ориентации ([PMC][41], [Nature][42]).
@@ -593,7 +593,7 @@
 
 ## **24. Semantic/Language Comprehension Network (SCN)**
 
-Подробнее: [Semantic/Language Comprehension Network (SCN)](/brain-networks/semanticlanguage-comprehension-network-scn.md)
+**Подробное описание:** [Semantic/Language Comprehension Network (SCN)](/brain-networks/semanticlanguage-comprehension-network-scn.md)
 
 **Ключевая функция:**
 Семантическая обработка и интеграция смыслового контента языка ([The Journal of Neuroscience][43], [Nature][44]).
@@ -618,7 +618,7 @@
 
 ## **25. Mentalizing (Theory-of-Mind) Network (MN)**
 
-Подробнее: [Mentalizing (Theory-of-Mind) Network (MN)](/brain-networks/mentalizing-theory-of-mind-network-mn.md)
+**Подробное описание:** [Mentalizing (Theory-of-Mind) Network (MN)](/brain-networks/mentalizing-theory-of-mind-network-mn.md)
 
 **Ключевая функция:**
 Понимание и предсказание ментальных состояний других людей ([PMC][45], [ScienceDirect][46]).
@@ -643,7 +643,7 @@
 
 ## **26. Mirror Neuron System (MNS)**
 
-Подробнее: [Mirror Neuron System (MNS)](/brain-networks/mirror-neuron-system-mns.md)
+**Подробное описание:** [Mirror Neuron System (MNS)](/brain-networks/mirror-neuron-system-mns.md)
 
 **Ключевая функция:**
 Имитация действий и понимание намерений через «зеркальную» активность премоторной и теменной коры ([PMC][47], [Nature][48]).
@@ -667,7 +667,7 @@
 
 ## **27. Reading (Visual Word-Form) Network (VWFA)**
 
-Подробнее: [Reading (Visual Word-Form) Network (VWFA)](/brain-networks/reading-visual-word-form-network-vwfa.md)
+**Подробное описание:** [Reading (Visual Word-Form) Network (VWFA)](/brain-networks/reading-visual-word-form-network-vwfa.md)
 
 **Ключевая функция:**
 Визуальное распознавание и категоризация буквенных форм ([ScienceDirect][49], [eneuro.org][50]).
@@ -692,7 +692,7 @@
 
 ## **28. Affective Network (ANet)**
 
-Подробнее: [Affective Network (ANet)](/brain-networks/affective-network-anet.md)
+**Подробное описание:** [Affective Network (ANet)](/brain-networks/affective-network-anet.md)
 
 **Ключевая функция:**
 Обработка эмоциональной информации и регуляция настроения ([PMC][51], [PubMed][52]).
@@ -717,7 +717,7 @@
 
 ## **29. Cerebro-Cerebellar Cognitive Network (CCCN)**
 
-Подробнее: [Cerebro-Cerebellar Cognitive Network (CCCN)](/brain-networks/cerebro-cerebellar-cognitive-network-cccn.md)
+**Подробное описание:** [Cerebro-Cerebellar Cognitive Network (CCCN)](/brain-networks/cerebro-cerebellar-cognitive-network-cccn.md)
 
 **Ключевая функция:**
 Участие мозжечка в когнитивном обучении и прогнозировании через петли с корой ([Nature][53], [PMC][54]).
@@ -742,7 +742,7 @@
 
 ## **30. Fronto-Striatal Network (FSN)**
 
-Подробнее: [Fronto-Striatal Network (FSN)](/brain-networks/fronto-striatal-network-fsn.md)
+**Подробное описание:** [Fronto-Striatal Network (FSN)](/brain-networks/fronto-striatal-network-fsn.md)
 
 **Ключевая функция:**
 Исполнительные функции и контроль импульсов через взаимодействие DLPFC и хвостатого ядра ([Nature][55], [PMC][36]).
@@ -767,7 +767,7 @@
 
 ## 31. **Right-Hemisphere Frontoparietal Control Network (RH-FPCN)**
 
-Подробнее: [Right-Hemisphere Frontoparietal Control Network (RH-FPCN)](/brain-networks/right-hemisphere-frontoparietal-control-network-rh-fpcn.md)
+**Подробное описание:** [Right-Hemisphere Frontoparietal Control Network (RH-FPCN)](/brain-networks/right-hemisphere-frontoparietal-control-network-rh-fpcn.md)
 
 **Ключевая функция:**
 Обеспечивает гибкое управление вниманием и целенаправленное поведение через взаимодействие с другими когнитивными сетями ([PMC][56]).
@@ -792,7 +792,7 @@
 
 ## 32. **Ventral Stream (“What” Pathway) (VSP)**
 
-Подробнее: [Ventral Stream (“What” Pathway) (VSP)](/brain-networks/ventral-stream-what-pathway-vsp.md)
+**Подробное описание:** [Ventral Stream (“What” Pathway) (VSP)](/brain-networks/ventral-stream-what-pathway-vsp.md)
 
 **Ключевая функция:**
 Распознавание форм, объектов и лиц в условиях сложного визуального окружения ([PubMed][59]).
@@ -816,7 +816,7 @@
 
 ## 33. **Dorsal Stream (“Where/How” Pathway) (DSP)**
 
-Подробнее: [Dorsal Stream (“Where/How” Pathway) (DSP)](/brain-networks/dorsal-stream-wherehow-pathway-dsp.md)
+**Подробное описание:** [Dorsal Stream (“Where/How” Pathway) (DSP)](/brain-networks/dorsal-stream-wherehow-pathway-dsp.md)
 
 **Ключевая функция:**
 Пространственная локализация, зрительно-моторная координация и управление движениями рук и глаз ([PubMed][59]).
@@ -840,7 +840,7 @@
 
 ## 34. **Anterior Temporal Network (ATN)**
 
-Подробнее: [Anterior Temporal Network (ATN)](/brain-networks/anterior-temporal-network-atn.md)
+**Подробное описание:** [Anterior Temporal Network (ATN)](/brain-networks/anterior-temporal-network-atn.md)
 
 **Ключевая функция:**
 Обработка социальной и эмоциональной семантики, представление знаний о людях и объектах ([PMC][62]).
@@ -864,7 +864,7 @@
 
 ## 35. **Parietal Memory Retrieval Network (PMN)**
 
-Подробнее: [Parietal Memory Retrieval Network (PMN)](/brain-networks/parietal-memory-retrieval-network-pmn.md)
+**Подробное описание:** [Parietal Memory Retrieval Network (PMN)](/brain-networks/parietal-memory-retrieval-network-pmn.md)
 
 **Ключевая функция:**
 Извлечение эпизодической и семантической памяти, рализация воспоминаний и ориентация внимания на воспоминания ([PubMed][64]).
@@ -888,7 +888,7 @@
 
 ## 36. **Central Autonomic Network (CAN)**
 
-Подробнее: [Central Autonomic Network (CAN)](/brain-networks/central-autonomic-network-can.md)
+**Подробное описание:** [Central Autonomic Network (CAN)](/brain-networks/central-autonomic-network-can.md)
 
 **Ключевая функция:**
 Регуляция вегетативных и гомеостатических функций через интеграцию висцеральных сигналов ([PubMed][66]).
