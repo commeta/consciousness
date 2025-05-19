@@ -128,6 +128,20 @@ CEN отвечает за управление рабочей памятью, о
 
 ---
 
+## Таблица подсети
+
+| Родительская сеть | Имя подсети                            | Анатомические регионы                        | Atlas               | Структурный тракт                          | Функциональная роль                                | Пересечения с другими сетями       |
+|-------------------|----------------------------------------|----------------------------------------------|---------------------|--------------------------------------------|----------------------------------------------------|------------------------------------|
+| CEN               | Dorsolateral Prefrontal Subnetwork     | DLPFC (BA9/46), Middle Frontal Gyrus         | Yeo 7, Schaefer, AAL | Superior Longitudinal Fasciculus (SLF)     | Обновление и манипуляция рабочей памяти            | DMN (частично), DAN                |
+| CEN               | Posterior Parietal Subnetwork          | Inferior & Superior Parietal Lobule (PPC)    | Yeo 7, Schaefer     | SLF, Frontoparietal pathways               | Селективное внимание, интеграция сенсорной информации | DAN, Visuospatial Network          |
+| CEN               | Fronto-Parietal Control Network        | DLPFC, PPC, rostral ACC                      | Power atlas, AAL    | SLF, Cingulum Bundle, Fronto-striatal tracts | Когнитивный контроль, целенаправленная активность | DMN, SN                            |
+| CEN               | Dorsomedial Prefrontal Subnetwork      | DMPFC, SMA, pre-SMA                          | Schaefer, Harvard-Oxford | Fronto-striatal tracts, Corona Radiata     | Поддержание задачи, торможение ответов             | SN, DAN, Motor Network             |
+| CEN               | Caudate-Thalamic Modulatory Subnetwork | Head of Caudate, Mediodorsal Thalamus        | Basal Ganglia Atlas | Corona Radiata, Internal Capsule           | Модуляция когнитивной активности и рабочей памяти  | SN, Subcortical Networks           |
+| CEN               | Ventrolateral Prefrontal Subnetwork    | VLPFC, anterior Insula                       | AAL, Destrieux      | Uncinate Fasciculus, Extreme Capsule       | Ингибирование, переключение задач                  | SN, VAN                            |
+
+
+---
+
 
 Оглавление:
 
