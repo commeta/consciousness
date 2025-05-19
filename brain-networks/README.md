@@ -4,6 +4,10 @@
 Мозг человека представляет собой сложный ансамбль функционально взаимосвязанных сетей, каждая из которых отвечает за определённые аспекты восприятия, движения, когнитивного контроля и эмоциональной регуляции. От базовых сенсомоторных и зрительных контуров до высокоуровневых систем управления вниманием и памяти — эти сети обеспечивают координацию нейронной активности, позволяя эффективно обрабатывать внешние стимулы и внутренние потребности. В представленном списке систем выделены 50 ключевых сетей, характеризующихся специфическими областями включения и функциональными ролями, что служит основой для дальнейшего изучения их взаимодействий и значимости в контексте нормального функционирования и патологий.
 
 
+---
+
+**✅ Категории и характеристики:**
+
 В таблице систематизированы основные подходы к сбору и обработке данных (модальности, параметры сканирования и предобработки), разнообразные методы вычисления функциональной, эффективной и структурной связности, а также широкий набор графовых, спектральных, динамических и биофизических характеристик. Этот формат позволит быстро ориентироваться в полном спектре инструментов и показателей, используемых в современных исследованиях сетей мозга.
 
 
@@ -38,9 +42,12 @@
 | **Вычислительные ресурсы**             | Runtime (2–5 ч, 64–128 ГБ RAM), GPU Acceleration, Batch compatibility (SPM/FSL), Multicore Support, Memory Profiling, Execution Logs, Parallelization Efficiency, HCP-style pipeline, Docker/Container support                                                                                              |
 
 
+
+## 🧠 Список сетей  
+
 ---
 
-## **1. Task-Positive Network (TPN)**
+### **1. Task-Positive Network (TPN)**
 
 **Подробное описание:** [Task-Positive Network (TPN)](/brain-networks/task-positive-network-tpn.md)
 
@@ -66,7 +73,7 @@
 
 ---
 
-## **2. Default Mode Network (DMN)**
+### **2. Default Mode Network (DMN)**
 
 **Подробное описание:** [Default Mode Network (DMN)](/brain-networks/default-mode-network-dmn.md)
 
@@ -91,7 +98,7 @@
 
 ---
 
-## **3. Multiple-Demand Network (MD)**
+### **3. Multiple-Demand Network (MD)**
 
 **Подробное описание:** [Multiple-Demand Network (MD)](/brain-networks/multiple-demand-network-md.md) 
 
@@ -117,7 +124,7 @@
 
 ---
 
-## **4. Salience Network (SN)**
+### **4. Salience Network (SN)**
 
 **Подробное описание:** [Salience Network (SN)](/brain-networks/salience-network-sn.md)
 
@@ -141,7 +148,7 @@
 
 ---
 
-## **5. Central Executive Network (CEN)**
+### **5. Central Executive Network (CEN)**
 
 **Подробное описание:** [Central Executive Network (CEN)](/brain-networks/central-executive-network-cen.md)
 
@@ -165,7 +172,7 @@
 
 ---
 
-## **6. Dorsal Attention Network (DAN)**
+### **6. Dorsal Attention Network (DAN)**
 
 **Подробное описание:** [Dorsal Attention Network (DAN)](/brain-networks/dorsal-attention-network-dan.md)
 
@@ -189,7 +196,7 @@
 
 ---
 
-## **7. Ventral Attention Network (VAN)**
+### **7. Ventral Attention Network (VAN)**
 
 **Подробное описание:** [Ventral Attention Network (VAN)](/brain-networks/ventral-attention-network-van.md)
 
@@ -213,7 +220,7 @@
 
 ---
 
-## **8. Visual Network**
+### **8. Visual Network**
 
 **Подробное описание:** [Visual Network](/brain-networks/visual-network.md)
 
@@ -238,7 +245,7 @@
 
 ---
 
-## **9. Somato-Motor Network (SMN)**
+### **9. Somato-Motor Network (SMN)**
 
 **Подробное описание:** [Somato-Motor Network (SMN)](/brain-networks/somato-motor-network-smn.md)
 
@@ -263,7 +270,7 @@
 
 ---
 
-## **10. Limbic Network**
+### **10. Limbic Network**
 
 **Подробное описание:** [Limbic Network](/brain-networks/limbic-network.md)
 
@@ -292,7 +299,7 @@
 
 
 
-## **11. Language Network (LN)**
+### **11. Language Network (LN)**
 
 **Подробное описание:** [Language Network (LN)](/brain-networks/language-network-ln.md)
 
@@ -318,7 +325,7 @@
 
 ---
 
-## **12. Auditory Network (AN)**
+### **12. Auditory Network (AN)**
 
 **Подробное описание:** [Auditory Network (AN)](/brain-networks/auditory-network-an.md)
 
@@ -343,7 +350,7 @@
 
 ---
 
-## **13. Cerebellar Network (CBN)**
+### **13. Cerebellar Network (CBN)**
 
 **Подробное описание:** [Cerebellar Network (CBN)](/brain-networks/cerebellar-network-cbn.md)
 
@@ -369,7 +376,7 @@
 
 ---
 
-## **14. Basal Ganglia Network (BGN)**
+### **14. Basal Ganglia Network (BGN)**
 
 **Подробное описание:** [Basal Ganglia Network, (BGN)](/brain-networks/basal-ganglia-network-bgn.md)
 
@@ -395,7 +402,7 @@
 
 ---
 
-## **15. Frontoparietal Control Network (FPCN)**
+### **15. Frontoparietal Control Network (FPCN)**
 
 **Подробное описание:** [Frontoparietal Control Network (FPCN)](/brain-networks/frontoparietal-control-network-fpcn.md)
 
@@ -419,7 +426,7 @@
 
 ---
 
-## **16. Temporal-Parietal Network (TPN)**
+### **16. Temporal-Parietal Network (TPN)**
 
 **Подробное описание:** [Temporal-Parietal Network (TPN)](/brain-networks/temporal-parietal-network-tpn.md)
 
@@ -443,7 +450,7 @@
 
 ---
 
-## **17. Posterior Multimodal Network (PMN)**
+### **17. Posterior Multimodal Network (PMN)**
 
 **Подробное описание:** [Posterior Multimodal Network (PMN)](/brain-networks/posterior-multimodal-network-pmn.md)
 
@@ -467,7 +474,7 @@
 
 ---
 
-## **18. Cingulo-Opercular Network (CON)**
+### **18. Cingulo-Opercular Network (CON)**
 
 **Подробное описание:** [Cingulo-Opercular Network (CON)](/brain-networks/cingulo-opercular-network-con.md)
 
@@ -492,7 +499,7 @@
 
 ---
 
-## **19. Orbitofrontal Network (OFN)**
+### **19. Orbitofrontal Network (OFN)**
 
 **Подробное описание:** [Orbitofrontal Network (OFN)](/brain-networks/orbitofrontal-network-ofn.md)
 
@@ -518,7 +525,7 @@
 
 ---
 
-## **20. Frontopolar Network (FPN)**
+### **20. Frontopolar Network (FPN)**
 
 **Подробное описание:** [Frontopolar Network (FPN)](/brain-networks/frontopolar-network-fpn.md)
 
@@ -548,7 +555,7 @@
 
 
 
-## **21. Reward Network (RN)**
+### **21. Reward Network (RN)**
 
 **Подробное описание:** [Reward Network (RN)](/brain-networks/reward-network-rn.md)
 
@@ -574,7 +581,7 @@
 
 ---
 
-## **22. Medial Temporal Lobe Memory Network (MTL)**
+### **22. Medial Temporal Lobe Memory Network (MTL)**
 
 **Подробное описание:** [Medial Temporal Lobe Memory Network (MTL)](/brain-networks/medial-temporal-lobe-memory-network-mtl.md)
 
@@ -600,7 +607,7 @@
 
 ---
 
-## **23. Parieto-Occipital Network (PON)**
+### **23. Parieto-Occipital Network (PON)**
 
 **Подробное описание:** [Parieto-Occipital Network (PON)](/brain-networks/parieto-occipital-network-pon.md)
 
@@ -624,7 +631,7 @@
 
 ---
 
-## **24. Semantic/Language Comprehension Network (SCN)**
+### **24. Semantic/Language Comprehension Network (SCN)**
 
 **Подробное описание:** [Semantic/Language Comprehension Network (SCN)](/brain-networks/semanticlanguage-comprehension-network-scn.md)
 
@@ -649,7 +656,7 @@
 
 ---
 
-## **25. Mentalizing (Theory-of-Mind) Network (MN)**
+### **25. Mentalizing (Theory-of-Mind) Network (MN)**
 
 **Подробное описание:** [Mentalizing (Theory-of-Mind) Network (MN)](/brain-networks/mentalizing-theory-of-mind-network-mn.md)
 
@@ -674,7 +681,7 @@
 
 ---
 
-## **26. Mirror Neuron System (MNS)**
+### **26. Mirror Neuron System (MNS)**
 
 **Подробное описание:** [Mirror Neuron System (MNS)](/brain-networks/mirror-neuron-system-mns.md)
 
@@ -698,7 +705,7 @@
 
 ---
 
-## **27. Reading (Visual Word-Form) Network (VWFA)**
+### **27. Reading (Visual Word-Form) Network (VWFA)**
 
 **Подробное описание:** [Reading (Visual Word-Form) Network (VWFA)](/brain-networks/reading-visual-word-form-network-vwfa.md)
 
@@ -723,7 +730,7 @@
 
 ---
 
-## **28. Affective Network (ANet)**
+### **28. Affective Network (ANet)**
 
 **Подробное описание:** [Affective Network (ANet)](/brain-networks/affective-network-anet.md)
 
@@ -748,7 +755,7 @@
 
 ---
 
-## **29. Cerebro-Cerebellar Cognitive Network (CCCN)**
+### **29. Cerebro-Cerebellar Cognitive Network (CCCN)**
 
 **Подробное описание:** [Cerebro-Cerebellar Cognitive Network (CCCN)](/brain-networks/cerebro-cerebellar-cognitive-network-cccn.md)
 
@@ -773,7 +780,7 @@
 
 ---
 
-## **30. Fronto-Striatal Network (FSN)**
+### **30. Fronto-Striatal Network (FSN)**
 
 **Подробное описание:** [Fronto-Striatal Network (FSN)](/brain-networks/fronto-striatal-network-fsn.md)
 
