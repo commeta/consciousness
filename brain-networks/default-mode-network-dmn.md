@@ -174,6 +174,26 @@ Default Mode Network (DMN) представляет собой набор свя
 
 ---
 
+## Таблица подсети
+
+| Родительская сеть | Имя подсети                         | Анатомические регионы                                             | Атлас             | Структурный тракт                               | Функциональная роль                                 | Пересечения с другими сетями        |
+|-------------------|-------------------------------------|-------------------------------------------------------------------|-------------------|--------------------------------------------------|------------------------------------------------------|-------------------------------------|
+| DMN               | Core DMN (Midline Core)             | mPFC, PCC, Precuneus                                              | Yeo 7/17; Schaefer | Cingulum Bundle (PCC–mPFC)                       | Саморефлексия, интеграция внутреннего опыта         | VAN, SN, Limbic                     |
+| DMN               | Dorsal Medial Prefrontal Subsystem  | dMPFC, TPJ, LTC, TempPole                                         | Yeo 17; Schaefer   | Uncinate Fasciculus                              | Ментализация, социальное познание                   | CEN, SN, DAN                        |
+| DMN               | Medial Temporal Lobe Subsystem      | Hippocampus, PHC, RSC, vmPFC                                      | Yeo 17; AAL        | Medial Longitudinal Fasciculus, Cingulum         | Эпизодическая память, воображение                   | Limbic, CEN                         |
+| DMN               | Ventral DMN                         | vmPFC, sgACC, Subgenual cortex, Nucleus Accumbens                 | Gordon; Brainnetome| Cingulum (ventral part), Fornix                  | Эмоциональная регуляция, внутренние ценности        | SN, Limbic                          |
+| DMN               | Lateral Temporal Subsystem          | Lateral temporal cortex, angular gyrus                            | Yeo 17            | Inferior Longitudinal Fasciculus                 | Семантическая обработка, нарративное мышление       | Language network, CEN               |
+| DMN               | Anterior DMN                        | aMPFC, Frontal pole, dMPFC                                        | HCP-MMP1          | Forceps Minor (via corpus callosum)              | Прогнозирование, оценка сценариев                   | FPCN, CEN                           |
+| DMN               | Posterior DMN                       | PCC, Precuneus, IPL                                               | Yeo 7; Schaefer    | Cingulum, Parietal connections                   | Интроспекция, сбор информации о себе                | DAN, SN                             |
+| DMN               | Retrosplenial-Temporal Subsystem    | RSC, PHC, Hippocampus, PCC                                        | Yeo 17            | Parahippocampal connections                      | Навигация, память сцен                              | Limbic, MTLN                        |
+| DMN               | Inferior Parietal Subsystem         | Angular Gyrus, Supramarginal Gyrus, pSTS                          | Yeo 17            | Arcuate Fasciculus                               | Понимание рассказов, теория разума                  | Language, DMN dMPFC                 |
+| DMN               | Default Mode–Frontoparietal Bridge  | PCC, mPFC ↔ dlPFC, IPL                                            | HCP; Yeo; ICA      | SLF, Cingulum, UF                                | Интеграция внутреннего и внешнего внимания          | CEN, FPCN                           |
+| DMN               | Dorsal Posterior Subsystem          | Superior parietal lobule, Precuneus                               | Yeo 17            | Superior Longitudinal Fasciculus                 | Пространственное внимание, визуальная обработка      | DAN, Visual Network                 |
+| DMN               | Ventromedial Prefrontal Subsystem   | vmPFC, Orbitofrontal cortex, Subgenual ACC                        | Yeo 17            | Uncinate Fasciculus, Cingulum                    | Эмоциональная оценка, принятие решений              | Limbic, SN                          |
+
+
+---
+
 
 Оглавление:
 
