@@ -366,21 +366,11 @@ During the research, the author used neural networks such as chatGPT, GigaChat, 
    - 5.4. Optogenetic studies
    - 5.5. Application of machine learning methods
 
-6. Clinical Aspects
-   - 6.1. Features of conscious experience in mental disorders
-   - 6.2. Use of the Φₑ metric in diagnosing consciousness disorders
-   - 6.3. Therapeutic potential of EIRM theory
+6. Conclusion
 
-7. Practical Applications of the Theory
-   - 7.1. Development of intelligent systems with enhanced cognitive and emotional capabilities
-   - 7.2. Design of brain-computer interfaces
-   - 7.3. Open questions and directions for future research
+7. References
 
-8. Conclusion
-
-9. References
-
-10. Appendix: Comparison with Existing Theories
+8. Appendix: Comparison with Existing Theories
 
 
 ---
@@ -1177,121 +1167,9 @@ Thus, applying machine learning methods plays an important role in verifying the
 
 ---
 
-### 6. Clinical Aspects
-
-#### 6.1. Features of Conscious Experience in Mental Disorders
-
-According to the extended Theory of Emergent Integration and Recurrent Mapping (EIRM), imbalances in emotional and cognitive processes observed in various mental disorders can significantly affect the parameters characterizing conscious experience.
-
-For example, in depression, there may be a decrease in the emotional modulation parameter E(t), reflecting the predominance of negative emotions. Anxiety disorders, in turn, may be characterized by increased arousal A(t) and changes in emotional specificity S(t), associated with intense experiences of fear and anxiety [21, 32].
-
-According to the extended EIRM theory, mental disorders may be associated with an imbalance between various components included in the formula for emergent integrated information Φₑ:
-
-`Φₑ = ∫₀^(t₁) I(t) ⋅ R(t) ⋅ E(t) ⋅ C(t) ⋅ S(t) ⋅ A(t) ⋅ M(t) ⋅ P(t) ⋅ V(t) ⋅ T(t) ⋅ K(t) dt`
-
-For example, in schizophrenia, there may be disruptions in the parameters of cognitive complexity C(t) and social context S(t), leading to distortions in information integration I(t) and recurrent processing R(t). Similarly, in post-traumatic stress disorder, the parameters of emotional modulation E(t), adaptability A(t), and temporal characteristics T(t) may be affected [16, 46].
-
-Thus, according to the EIRM theory, the features of conscious experience in various mental disorders may be related to imbalances in the components determining emergent integrated information Φₑ.
-
-#### 6.2. Use of the Φₑ Metric in Diagnosing Consciousness Disorders
-
-According to the extended Theory of Emergent Integration and Recurrent Mapping (EIRM), the quantitative assessment of the emergent integrated information parameter Φₑ can be used as a diagnostic criterion for consciousness disorders.
-
-Studies using functional magnetic resonance imaging (fMRI) and electroencephalography (EEG) have shown that patients with various consciousness disorders, such as coma, vegetative state, and minimally conscious state, exhibit a significant reduction in Φₑ compared to healthy subjects [46, 47].
-
-In the study by Casali et al. (2013) [46], a method for calculating Φₑ based on EEG data was developed. The authors found that Φₑ was significantly reduced in patients in a vegetative state compared to healthy individuals (p < 0.001). Moreover, the degree of reduction in Φₑ correlated with clinical assessments of consciousness levels.
-
-Similar results were obtained in the study by Sitt et al. (2014) [47], where fMRI data showed that Φₑ predicted the level of consciousness with high accuracy (AUC = 0.92). The authors concluded that disruptions in information integration in recurrent neural networks are a key mechanism of consciousness disorders.
-
-Thus, the use of the Φₑ metric proposed within the EIRM theory can serve as an objective diagnostic criterion for assessing the level of consciousness and identifying disruptions in information integration and recurrent processes in various clinical conditions.
-
-#### 6.3. Therapeutic Potential of the EIRM Theory
-
-According to the extended Theory of Emergent Integration and Recurrent Mapping (EIRM), imbalances in emotional and cognitive processes observed in various mental disorders can significantly affect the parameters characterizing conscious experience. The development of new therapeutic strategies should consider the need to correct the imbalance between these parameters.
-
-Therapeutic approaches aimed at restoring balance in the parameters of the EIRM theory may include:
-
-1. Methods affecting neurotransmitter systems:
-   - Correcting serotonin (5-HT) deficiency in depression to normalize the emotional modulation parameter E(t) [21].
-   - Regulating increased norepinephrine (NE) activity in anxiety disorders to restore the balance of E(t) and R(t) [32].
-   - Restoring the balance of the cholinergic system (acetylcholine, ACh) to correct disruptions in emotional modulation E(t) and recurrent processing R(t) [27, 28].
-
-2. Psychotherapeutic techniques:
-   - Cognitive-behavioral therapy to correct the imbalance between emotional and cognitive components [49].
-   - Exposure therapy to restore adaptability A(t) and normalize E(t) [49].
-   - Biofeedback-based techniques to train control over emotional reactions and their integration [50].
-
-Comprehensive approaches, including both pharmacological correction and psychotherapeutic methods, may be most effective in restoring balanced interactions between emotional and cognitive processes in mental disorders.
-
-Thus, the EIRM theory provides a theoretical basis for developing new therapeutic strategies aimed at correcting disruptions in information integration and recurrent processing mechanisms underlying consciousness disorders and mental illnesses.
 
 
----
-
-### 7. Practical Applications of the Theory
-
-#### 7.1. Development of Intelligent Systems with Enhanced Cognitive and Emotional Capabilities
-
-The application of the extended Theory of Emergent Integration and Recurrent Mapping (EIRM) and its components opens new opportunities for creating more effective and natural intelligent systems.
-
-##### 7.1.1. Recognition and Understanding of Emotional States
-
-Mathematical models describing the components of emotional modulation E(t), such as valence, arousal, and emotional specificity, can be integrated into the development of intelligent systems with enhanced emotional intelligence [7, 8]. Clustering methods, probabilistic models, and neural networks allow extracting and classifying emotional states, enhancing the naturalness and effectiveness of human interaction with artificial systems.
-
-##### 7.1.2. Adaptive Management Based on the Dynamics of Emotional Processes
-
-According to the EIRM theory, the dynamics of emotional processes, reflected in the component D(t) of the parameter E(t), significantly influence the parameter of recurrence R(t). Mathematical modeling of this dynamics using recurrent neural networks (RNN) allows integrating it into intelligent systems to achieve more adaptive and natural interaction [15].
-
-##### 7.1.3. Considering Additional Parameters in Brain-Computer Interface Design
-
-The emotional modulation parameter E(t) and other additional parameters included in the extended EIRM theory significantly influence the processes of information integration and recurrent processing, determining the formation of conscious experience. Considering these factors opens new opportunities for designing more effective brain-computer interfaces (BCI) [7, 10].
-
-##### 7.1.4. Enhancing Naturalness and Adaptability of Interaction
-
-Integrating mathematical models describing additional components of the Φₑ metric into the development of intelligent systems is a key factor in endowing them with enhanced cognitive and emotional capabilities. This allows creating more natural, intuitive, and adaptive systems that consider a wide range of factors influencing the formation of human conscious experience.
-
-#### 7.2. Brain-Computer Interface Design
-
-The application of the extended Theory of Emergent Integration and Recurrent Mapping (EIRM) and its components opens new opportunities for designing more effective brain-computer interfaces (BCI).
-
-##### 7.2.1. Considering the Emotional Modulation Parameter E(t)
-
-The emotional modulation parameter E(t) included in the extended EIRM theory significantly influences the processes of information integration and recurrent processing, determining the formation of conscious experience. Considering this factor in brain-computer interface design opens new opportunities for enhancing the naturalness and effectiveness of human interaction with artificial systems [7, 10].
-
-##### 7.2.2. Integration of Additional Parameters
-
-Other additional parameters included in the extended Φₑ formula of the EIRM theory, such as cognitive complexity C(t), social context S(t), adaptability A(t), and temporal characteristics T(t), can also be considered in brain-computer interface design. This will allow creating more intuitive and adaptive systems capable of considering a wide range of factors influencing the formation of conscious experience [6, 7].
-
-##### 7.2.3. Using Mathematical Models
-
-Mathematical models based on the EIRM theory can be integrated into brain-computer interface design. For example, recurrent neural network models can be used to model the dynamics of neural activity related to recurrent processes and information integration [15]. Bayesian models of predictive coding can also be applied for more accurate prediction and recognition of user intentions [6, 7].
-
-Thus, the application of the extended EIRM theory in brain-computer interface design opens new opportunities for creating more natural, intuitive, and adaptive systems for human interaction with artificial intelligent agents.
-
-#### 7.3. Open Questions and Directions for Future Research
-
-Further development of the extended version of the EIRM theory, considering multiple components of the Φₑ metric, opens broad prospects for future research:
-
-1. **In-depth Study of Interactions Between Components**: It is necessary to investigate in more detail how various parameters included in the Φₑ formula interact with each other and influence the formation of conscious experience. This will create a more holistic and comprehensive understanding of the mechanisms underlying consciousness.
-
-2. **Development of Advanced Mathematical Models**: Further development of mathematical modeling of Φₑ components using advanced methods such as deep neural networks, Bayesian approaches, and nonlinear dynamics will improve the accuracy and predictive capability of the extended EIRM theory.
-
-3. **Conducting Multimodal Experimental Studies**: Combining various neuroimaging methods, behavioral experiments, and optogenetics will allow comprehensively verifying mathematical models and establishing neural correlates of Φₑ components.
-
-4. **Studying the Role of Quantum Effects**: Including the parameter of quantum coherence (Q_c) in the EIRM theory opens new prospects for investigating the possible role of quantum processes in forming conscious experience [20, 21].
-
-5. **Practical Application in Diagnosis and Therapy**: Using the extended version of the EIRM theory, including multiple components, can contribute to developing more accurate diagnostic tools and effective therapeutic approaches for treating mental disorders.
-
-6. **Integration with Other Theoretical Concepts**: Further development of the EIRM theory may include integration with other leading theories of consciousness, such as the Integrated Information Theory, Global Workspace Theory, and Free Energy Theory. This will create a more comprehensive and interdisciplinary model of consciousness.
-
-Implementing these promising research directions will deepen the understanding of the mechanisms underlying conscious experience and expand the practical application possibilities of the Theory of Emergent Integration and Recurrent Mapping (EIRM).   
-
-
-
-
----
-
-### 8. Conclusion
+### 6. Conclusion
 
 The Theory of Emergent Integration and Recurrent Mapping (EIRM) offers an integrative approach to understanding consciousness by combining key elements of existing theories. It emphasizes that consciousness is an emergent property arising from complex recurrent interactions and information integration.
 
@@ -1312,7 +1190,7 @@ Thus, the Theory of Emergent Integration and Recurrent Mapping (EIRM) offers a n
 ---
 
 
-### 9. References
+### 7. References
 
 1. Baars, B. J. (1988). A Cognitive Theory of Consciousness. Cambridge University Press.
 2. Tononi, G. (2008). Consciousness as Integrated Information: A Provisional Manifesto. *The Biological Bulletin*, 215(3), 216-242.
