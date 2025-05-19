@@ -136,6 +136,27 @@ Dorsal Attention Network (DAN) — крупная дорсально-фронт�
 
 ---
 
+## Таблица подсети
+
+| Родительская сеть | Имя подсети                        | Анатомические регионы                         | Атлас               | Структурный тракт                          | Функциональная роль                                | Пересечения с другими сетями       |
+|-------------------|------------------------------------|-----------------------------------------------|---------------------|---------------------------------------------|-----------------------------------------------------|-------------------------------------|
+| DAN               | FEF-SPL Network                    | Frontal Eye Fields, Superior Parietal Lobule  | Yeo 7/17, Glasser   | Fronto-parietal associative tracts          | Топ-даун внимание, ориентация в пространстве        | Visual Network, CEN                 |
+| DAN               | Right DAN Core Subnetwork          | Right FEF, Right SPL                          | Yeo 17, HCP-MMP     | Superior Longitudinal Fasciculus (SLF I/II) | Правополушарная доминанта в визуальном внимании     | VAN, Visual                         |
+| DAN               | Left DAN Core Subnetwork           | Left FEF, Left SPL                            | Yeo 17, HCP-MMP     | Superior Longitudinal Fasciculus (SLF I/II) | Топ-даун контроль, преимущественно левополушарный   | CEN                                 |
+| DAN               | DAN–Occipital Connector            | FEF, SPL, Visual Cortex (V1-V3)               | Glasser, Juelich    | Vertical Occipital Fasciculus, Optic Radiations | Связь внимания с визуальной обработкой             | Visual Network                      |
+| DAN               | Medial DAN Extension               | Precuneus, Dorsal PCC                         | Schaefer, AAL       | Cingulum Bundle (dorsal segment)            | Поддержание внимания и навигация                     | DMN (частично), CEN                 |
+| DAN               | DAN–Sensorimotor Interface         | FEF, SPL, Precentral Gyrus                    | HCP-MMP, Brainnetome| SLF, Cortico-cortical U-fibers              | Сенсомоторная интеграция при зрительно-моторных задачах | Sensorimotor Network                |
+| DAN               | DAN–Cerebellar Node                | Cerebellum (Crus I/II)                        | HCP-MMP             | Cerebello-thalamo-cortical tracts           | Координация внимания и движений                     | Sensorimotor Network, CEN           |
+| DAN               | DAN–Superior Colliculus Connector  | Superior Colliculus                           | Brainnetome         | Tectofugal pathways                         | Управление движением глаз и вниманием               | Visual Network                      |
+| DAN               | DAN–Middle Temporal Node           | Middle Temporal Area (MT+)                    | HCP-MMP             | Inferior Longitudinal Fasciculus            | Обработка визуального движения                      | Visual Network                      |
+| DAN               | DAN–Supplementary Eye Field Node   | Supplementary Eye Fields (SEF)                | HCP-MMP             | Fronto-parietal tracts                      | Поддержание внимания и планирование движений глаз    | CEN                                 |
+| DAN               | DAN–Ventral Premotor Connector     | Ventral Premotor Cortex                       | HCP-MMP             | Cortico-cortical pathways                   | Интеграция сенсомоторной информации                 | Sensorimotor Network                |
+| DAN               | DAN–Dorsolateral Prefrontal Node   | Dorsolateral Prefrontal Cortex (DLPFC)        | HCP-MMP             | Fronto-parietal tracts                      | Исполнительные функции и контроль внимания          | CEN                                 |
+| DAN               | DAN–Inferior Frontal Junction Node | Inferior Frontal Junction (IFJ)               | HCP-MMP             | Fronto-parietal tracts                      | Переключение внимания и интеграция сетей            | CEN, VAN                            |
+| DAN               | DAN–Posterior Infero-Temporal Node | Posterior Infero-Temporal Cortex (PITd)       | HCP-MMP             | Temporo-parietal pathways                   | Контроль внимания и взаимодействие с фронтальными и теменными областями | Visual Network                      |
+
+
+---
 
 Оглавление:
 
