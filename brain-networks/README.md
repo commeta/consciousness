@@ -1164,6 +1164,8 @@
 
 ## 47. **Sensorimotor Integration Network (SMIN)**
 
+**Подробное описание:** [Sensorimotor Integration Network (SMIN)](/brain-networks/sensorimotor-integration-network-smin.md)
+
 **Ключевая функция:**
 Интеграция проприоцептивной и моторной информации для точного управления движением ([ScienceDirect][95]).
 
@@ -1186,6 +1188,8 @@
 ---
 
 ## 48. **Auditory-Motor Network (AMN)**
+
+**Подробное описание:** [Auditory-Motor Network (AMN)](/brain-networks/auditory-motor-network-amn.md)
 
 **Ключевая функция:**
 Координация акустической обработки и моторной реализации речи ([PMC][97]).
@@ -1210,6 +1214,8 @@
 
 ## 49. **Subcortical Arousal Network (SAN)**
 
+**Подробное описание:** [Subcortical Arousal Network (SAN)](/brain-networks/subcortical-arousal-network-san.md)
+
 **Ключевая функция:**
 Модуляция уровня корковой активности через подкорковые ядерно-химические системы ([PMC][99]).
 
@@ -1232,6 +1238,8 @@
 ---
 
 ## 50. **Cerebellar-Prefrontal Loop (CPL)**
+
+**Подробное описание:** [Cerebellar-Prefrontal Loop (CPL)](/brain-networks/cerebellar-prefrontal-loop-cpl.md)
 
 **Ключевая функция:**
 Участие мозжечка в исполнительных функциях и когнитивном контроле через обратные петли с PFC ([ScienceDirect][102]).
