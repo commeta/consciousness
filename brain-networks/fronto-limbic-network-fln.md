@@ -73,6 +73,72 @@
 ---
 
 
+## **Технические характеристики**
+
+Ниже приведены ключевые количественные параметры Fronto-Limbic Network, охватывающие структурную и функциональную связность, графовые метрики, нейрохимическую модуляцию и временные характеристики сигналов.
+
+**Краткое резюме:**
+Структурная связность FLN измеряется через FA в uncinate fasciculus (\~0.45–0.55) ([BioRxiv][14]) и толщину тракта (\~2.2 мм) ([ScienceDirect][15]). Функциональные BOLD-флуктуации сосредоточены в диапазоне 0.01–0.06 Гц ([ScienceDirect][16]), а динамика FCD отражает как внутри-, так и между-сетевые взаимодействия ([PMC][17]). Глобальная эффективность сети составляет примерно 0.34 ± 0.02, коэффициент кластеризации \~0.42 ± 0.03, а характерная длина пути – 2.15 ± 0.20 ([PMC][18]). Нейрохимически FLN модулируется через 5-HT₁A и 5-HT₂A рецепторы, формирующие \~50 % популяции быстрых интернейронов в mPFC ([PMC][19]), а дофаминергические афференты из ядер A9/A10 обеспечивают модуляцию лобно-лимбических связей ([ScienceDirect][20]). Временная задержка пика BOLD-сигнала составляет \~5–6 с ([PMC][21]), при этом когерентность LFP в α-диапазоне (6.5–14.5 Гц) усиливается при усилении rs-FC между амигдалой и VLPFC ([Nature][22]).
+
+---
+
+### **Структурная связность**
+
+* **Fractional Anisotropy (FA) uncinate fasciculus:** 0.45–0.55, что отражает высокую направленность волокон, ответственных за связь OFC и амигдалы ([BioRxiv][14]).
+* **Толщина тракта:** среднее значение 2.2 мм, измеренное с помощью DWI ([ScienceDirect][15]).
+
+### **Функциональные параметры**
+
+* **Частотный диапазон BOLD:** ультра-низкие колебания 0.01–0.06 Гц, доминирующие внутри лимбических сетей ([ScienceDirect][16]).
+* **Динамика функциональной связности (FCD):** внутри- и между-сетевая FCD показывает противоположную корреляцию с BOLD-динамикой в разных сетях, что указывает на гибкость FLN в переключении между состояниями ([PMC][17]).
+
+### **Графовые метрики сети**
+
+* **Глобальная эффективность (Global Efficiency):** 0.32–0.36, что свидетельствует о быстром интегративном обмене информацией между узлами сети ([PMC][18]).
+* **Коэффициент кластеризации (Clustering Coefficient):** \~0.42 ± 0.03, отражающий плотную локальную связность ([PMC][18]).
+* **Характерная длина пути (Characteristic Path Length):** 2.10–2.30, указывающая на умеренный баланс между интеграцией и сегрегацией ([PMC][18]).
+
+### **Нейрохимическая модуляция**
+
+* **Серотонин (5-HT):**
+
+  * Рецепторы 5-HT₁A и 5-HT₂A экспрессируются в \~50 % быстрых парвальбумин-позитивных интернейронов в mPFC (слои 2, 3, 5) ([PMC][19]).
+  * Популяции 5-HT₃A-позитивных медленных интернейронов находятся преимущественно в поверхностных слоях, модулируя дистальные дендриты пирамидных нейронов ([PMC][19]).
+* **Дофамин:**
+
+  * Афференты из ядер A9 (substantia nigra) и A10 (VTA) иннервируют префронтальную кору, обеспечивая дофаминергическую модуляцию FLN и влияя на оценку вознаграждения и риск-поведенческие реакции ([ScienceDirect][20]).
+
+### **Временные характеристики**
+
+* **Time-to-peak BOLD:** 5–6 с от момента предъявления стимула до максимума сигнала, типично для префронтально-лимбических связей ([PMC][21]).
+* **Частотная когерентность LFP:** усиление синхронности в α-диапазоне (6.5–14.5 Гц) между амигдалой и VLPFC сопровождает усиление rs-FC, что указывает на нейрофизиологический субстрат BOLD-связности ([Nature][22]).
+
+---
+
+*Список использованных источников:*
+
+1. White matter connectivity… DWI FA uncinate fasciculus ([BioRxiv][14])
+2. Uncinate Fasciculus overview: tract anatomy and thickness ([ScienceDirect][15])
+3. Frequency specificity of functional connectivity… limbic networks 0.01–0.06 Hz ([ScienceDirect][16])
+4. Associations between Functional Connectivity Dynamics and BOLD… FCD vs BOLD ([PMC][17])
+5. Graph-Based Network Analysis… global efficiency, clustering, path length ([PMC][18])
+6. Serotonin and Prefrontal Cortex Function… 5-HT receptor distribution ([PMC][19])
+7. The origin and distribution of dopamine-containing afferents… A9/A10 to PFC ([ScienceDirect][20])
+8. Temporal Dynamics of Affect… time-to-peak BOLD ([PMC][21])
+9. The neural basis of resting-state fMRI functional connectivity in… LFP coherence, α-band ([Nature][22])
+
+[14]: https://www.biorxiv.org/content/10.1101/2020.08.19.257691v1.full-text "White matter connectivity of uncinate fasciculus and inferior fronto ..."
+[15]: https://www.sciencedirect.com/topics/medicine-and-dentistry/uncinate-fasciculus "Uncinate Fasciculus - an overview | ScienceDirect Topics"
+[16]: https://www.sciencedirect.com/science/article/abs/pii/S1053811908006630 "Frequency specificity of functional connectivity in brain networks"
+[17]: https://pmc.ncbi.nlm.nih.gov/articles/PMC5770626/ "Associations between Functional Connectivity Dynamics and BOLD ..."
+[18]: https://pmc.ncbi.nlm.nih.gov/articles/PMC9275562/ "The Role of Graph Theory in Evaluating Brain Network Alterations in ..."
+[19]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3282112/ "Serotonin and Prefrontal Cortex Function: Neurons, Networks, and ..."
+[20]: https://www.sciencedirect.com/science/article/pii/0006899378906340 "The origin and distribution of dopamine-containing afferents to the ..."
+[21]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8792368/ "Temporal Dynamics of Affect in the Brain: Evidence from Human ..."
+[22]: https://www.nature.com/articles/s41467-024-49140-0 "The neural basis of resting-state fMRI functional connectivity in ..."
+
+---
+
 Оглавление:
 
 - [ЭИРО framework](/README.md)
