@@ -176,6 +176,29 @@ Salience Network анализируется с помощью статическ
 
 ---
 
+## Таблица подсети
+
+| Родительская сеть | Имя подсети                          | Анатомические регионы                                | Атлас              | Структурный тракт                            | Функциональная роль                                         | Пересечения с другими сетями     |
+|-------------------|--------------------------------------|------------------------------------------------------|--------------------|----------------------------------------------|----------------------------------------------------------------|----------------------------------|
+| SN  | Anterior Insula Subnetwork           | Anterior Insula, Inferior Frontal Gyrus             | Desikan-Killiany   | Fronto-opercular fibers                      | Интероцепция, обнаружение значимости, эмоциональная оценка     | VAN, SN, CEN                    |
+| SN  | Dorsal ACC Subnetwork                | Dorsal Anterior Cingulate Cortex                    | AAL, HCP-MMP       | Cingulum Bundle                              | Конфликтный контроль, когнитивное/аффективное переключение     | CEN, DMN                        |
+| SN  | Ventral Salience Subnetwork          | Ventral Striatum, Subgenual ACC, Anterior Insula    | Harvard-Oxford     | Uncinate Fasciculus, Fronto-striatal fibers  | Эмоциональная мотивация, оценка вознаграждения                | Limbic, DMN                     |
+| SN  | Frontoinsular Salience Subnetwork    | Frontal Operculum, Anterior Insula, Middle Frontal Gyrus | HCP-MMP        | Extreme Capsule, Fronto-opercular tracts     | Поддержка динамической интеграции когнитивных и аффективных состояний | CEN, VAN                    |
+| SN  | Temporoparietal Salience Subnetwork  | Superior Temporal Gyrus, Temporoparietal Junction   | Schaefer 400       | SLF (Superior Longitudinal Fasciculus)       | Обнаружение социальных/внешних значимых стимулов              | VAN, DMN                        |
+| SN  | Midcingulate Motor Salience Subnet   | Midcingulate Cortex, SMA, Pre-SMA                   | Glasser et al.     | Cingulum, Corticospinal tract                | Подготовка двигательного ответа на значимые стимулы           | CEN, Sensorimotor               |
+| SN  | Thalamocortical Salience Subnetwork  | Mediodorsal Thalamus, Anterior Insula, ACC          | AAL3, CIT168       | Thalamocortical projections                  | Быстрая модуляция внимания, интеграция сенсорной информации    | SN, DMN, DAN                    |
+| SN  | Ventral Anterior Insula Subnetwork   | Ventral Anterior Insula, Subgenual ACC              | HCP-MMP            | Uncinate Fasciculus                          | Обработка аффективных ощущений, регуляция аллостаза            | Limbic, DMN                     |
+| SN  | Dorsal Anterior Insula Subnetwork    | Dorsal Anterior Insula, Dorsal ACC                  | HCP-MMP            | Fronto-opercular fibers                      | Когнитивный контроль, переключение внимания                   | CEN, VAN                        |
+| SN  | Posterior Insula Subnetwork          | Posterior Insula, Parietal Operculum                | HCP-MMP            | Spinothalamic tract, Corticospinal tract     | Сенсомоторная интеграция, восприятие боли                     | Sensorimotor, VAN               |
+| SN  | Cingulo-Opercular Subnetwork         | Dorsal ACC, Frontal Operculum, Anterior Insula      | Glasser et al.     | Cingulum Bundle, Fronto-opercular tracts     | Поддержание устойчивого внимания и когнитивных установок       | CEN, VAN                        |
+| SN  | Amygdala-Insula Subnetwork           | Amygdala, Anterior Insula                           | HCP-MMP            | Amygdalofugal pathway, Uncinate Fasciculus   | Эмоциональная оценка, реакция на угрозу                       | Limbic, SN                      |
+| SN  | Subcortical Salience Subnetwork      | Ventral Striatum, Substantia Nigra, Thalamus        | CIT168, AAL3       | Cortico-striatal-thalamic loops              | Мотивация, вознаграждение, регуляция поведения                | SN, Limbic                      |
+| SN  | Ventrolateral Prefrontal Subnetwork  | Ventrolateral Prefrontal Cortex (area 47/12)        | HCP-MMP            | Fronto-striatal pathways                     | Оценка значимости стимулов, интеграция информации              | CEN, VAN                        |
+| SN  | Brainstem Salience Subnetwork        | Substantia Nigra, Ventral Tegmental Area, Hypothalamus | CIT168          | Mesolimbic and Nigrostriatal pathways        | Модуляция внимания и мотивации через дофаминергические системы | Limbic, SN                      |
+
+
+
+---
 
 Оглавление:
 
