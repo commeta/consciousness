@@ -44,6 +44,27 @@ Default Mode Network (DMN) представляет собой набор свя
 * **Murphy et al. (2020)** провели крупномасштабную парцеляцию DMN, показав, что связь PCC прогнозирует эффективность выполнения социальных когнитивных задач ([PubMed][8], [ResearchGate][13]).
 * **Paquola et al. (2024)** через сочетание постмортемной гистологии и нейровизуализации выявили цитoархитектоничскую неоднородность DMN, связывая разные типы тканей с функциями памяти и гетеромодальных процессов ([Nature][9]).
 
+
+### Таблица: Подсети DMN 
+
+| Имя подсети                          | Анатомические регионы                                             | Атлас             | Структурный тракт                               | Функциональная роль                                 | Пересечения с сетями        | Источник |
+|--------------------------------------|-------------------------------------------------------------------|-------------------|--------------------------------------------------|------------------------------------------------------|-------------------------------------|----------|
+|  Core DMN (Midline Core)             | mPFC, PCC, Precuneus                                              | Yeo 7/17; Schaefer | Cingulum Bundle (PCC–mPFC)                       | Саморефлексия, интеграция внутреннего опыта         | VAN, SN, Limbic                     | [Buckner et al., 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC3553600/) |
+|  Dorsal Medial Prefrontal Subsystem  | dMPFC, TPJ, LTC, TempPole                                         | Yeo 17; Schaefer   | Uncinate Fasciculus                              | Ментализация, социальное познание                   | CEN, SN, DAN                        | [Andrews-Hanna et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4039623/) |
+|  Medial Temporal Lobe Subsystem      | Hippocampus, PHC, RSC, vmPFC                                      | Yeo 17; AAL        | Medial Longitudinal Fasciculus, Cingulum         | Эпизодическая память, воображение                   | Limbic, CEN                         | [Andrews-Hanna et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4039623/) |
+|  Ventral DMN                         | vmPFC, sgACC, Subgenual cortex, Nucleus Accumbens                 | Gordon; Brainnetome| Cingulum (ventral part), Fornix                  | Эмоциональная регуляция, внутренние ценности        | SN, Limbic                          | [Roy et al., 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5862740/) |
+|  Lateral Temporal Subsystem          | Lateral temporal cortex, angular gyrus                            | Yeo 17            | Inferior Longitudinal Fasciculus                 | Семантическая обработка, нарративное мышление       | Language network, CEN               | [Binder et al., 2009](https://www.researchgate.net/publication/47519055_Semantic_memory_involvement_in_the_default_mode_network_A_functional_neuroimaging_study_using_independent_component_analysis) |
+|  Anterior DMN                        | aMPFC, Frontal pole, dMPFC                                        | HCP-MMP1          | Forceps Minor (via corpus callosum)              | Прогнозирование, оценка сценариев                   | FPCN, CEN                           | [Andrews-Hanna et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4039623/) |
+|  Posterior DMN                       | PCC, Precuneus, IPL                                               | Yeo 7; Schaefer    | Cingulum, Parietal connections                   | Интроспекция, сбор информации о себе                | DAN, SN                             | [Buckner et al., 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC3553600/) |
+|  Retrosplenial-Temporal Subsystem    | RSC, PHC, Hippocampus, PCC                                        | Yeo 17            | Parahippocampal connections                      | Навигация, память сцен                              | Limbic, MTLN                        | [Vann et al., 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC6866613/) |
+|  Inferior Parietal Subsystem         | Angular Gyrus, Supramarginal Gyrus, pSTS                          | Yeo 17            | Arcuate Fasciculus                               | Понимание рассказов, теория разума                  | Language, DMN dMPFC                 | [Seghier, 2013](https://journals.sagepub.com/doi/full/10.1177/1073858412440596) |
+|  Default Mode–Frontoparietal Bridge  | PCC, mPFC ↔ dlPFC, IPL                                            | HCP; Yeo; ICA      | SLF, Cingulum, UF                                | Интеграция внутреннего и внешнего внимания          | CEN, FPCN                           | [Menon, 2023](https://med.stanford.edu/content/dam/sm/scsnl/documents/Neuron_2023_Menon_20_years.pdf) |
+|  Dorsal Posterior Subsystem          | Superior parietal lobule, Precuneus                               | Yeo 17            | Superior Longitudinal Fasciculus                 | Пространственное внимание, визуальная обработка      | DAN, Visual Network                 | [Buckner et al., 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC3553600/) |
+|  Ventromedial Prefrontal Subsystem   | vmPFC, Orbitofrontal cortex, Subgenual ACC                        | Yeo 17            | Uncinate Fasciculus, Cingulum                    | Эмоциональная оценка, принятие решений              | Limbic, SN                          | [Roy et al., 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5862740/) |
+
+
+
+
 ### **Ключевые обзоры:**
 
 1. Buckner, R.L. & DiNicola, L.M. (2019). “Twenty years of the default mode network: A review and synthesis.” *Neuron*. \[ScienceDirect] ([ScienceDirect][18])
@@ -174,25 +195,7 @@ Default Mode Network (DMN) представляет собой набор свя
 
 ---
 
-## Таблица подсети
 
-| Родительская сеть | Имя подсети                         | Анатомические регионы                                             | Атлас             | Структурный тракт                               | Функциональная роль                                 | Пересечения с другими сетями        |
-|-------------------|-------------------------------------|-------------------------------------------------------------------|-------------------|--------------------------------------------------|------------------------------------------------------|-------------------------------------|
-| DMN               | Core DMN (Midline Core)             | mPFC, PCC, Precuneus                                              | Yeo 7/17; Schaefer | Cingulum Bundle (PCC–mPFC)                       | Саморефлексия, интеграция внутреннего опыта         | VAN, SN, Limbic                     |
-| DMN               | Dorsal Medial Prefrontal Subsystem  | dMPFC, TPJ, LTC, TempPole                                         | Yeo 17; Schaefer   | Uncinate Fasciculus                              | Ментализация, социальное познание                   | CEN, SN, DAN                        |
-| DMN               | Medial Temporal Lobe Subsystem      | Hippocampus, PHC, RSC, vmPFC                                      | Yeo 17; AAL        | Medial Longitudinal Fasciculus, Cingulum         | Эпизодическая память, воображение                   | Limbic, CEN                         |
-| DMN               | Ventral DMN                         | vmPFC, sgACC, Subgenual cortex, Nucleus Accumbens                 | Gordon; Brainnetome| Cingulum (ventral part), Fornix                  | Эмоциональная регуляция, внутренние ценности        | SN, Limbic                          |
-| DMN               | Lateral Temporal Subsystem          | Lateral temporal cortex, angular gyrus                            | Yeo 17            | Inferior Longitudinal Fasciculus                 | Семантическая обработка, нарративное мышление       | Language network, CEN               |
-| DMN               | Anterior DMN                        | aMPFC, Frontal pole, dMPFC                                        | HCP-MMP1          | Forceps Minor (via corpus callosum)              | Прогнозирование, оценка сценариев                   | FPCN, CEN                           |
-| DMN               | Posterior DMN                       | PCC, Precuneus, IPL                                               | Yeo 7; Schaefer    | Cingulum, Parietal connections                   | Интроспекция, сбор информации о себе                | DAN, SN                             |
-| DMN               | Retrosplenial-Temporal Subsystem    | RSC, PHC, Hippocampus, PCC                                        | Yeo 17            | Parahippocampal connections                      | Навигация, память сцен                              | Limbic, MTLN                        |
-| DMN               | Inferior Parietal Subsystem         | Angular Gyrus, Supramarginal Gyrus, pSTS                          | Yeo 17            | Arcuate Fasciculus                               | Понимание рассказов, теория разума                  | Language, DMN dMPFC                 |
-| DMN               | Default Mode–Frontoparietal Bridge  | PCC, mPFC ↔ dlPFC, IPL                                            | HCP; Yeo; ICA      | SLF, Cingulum, UF                                | Интеграция внутреннего и внешнего внимания          | CEN, FPCN                           |
-| DMN               | Dorsal Posterior Subsystem          | Superior parietal lobule, Precuneus                               | Yeo 17            | Superior Longitudinal Fasciculus                 | Пространственное внимание, визуальная обработка      | DAN, Visual Network                 |
-| DMN               | Ventromedial Prefrontal Subsystem   | vmPFC, Orbitofrontal cortex, Subgenual ACC                        | Yeo 17            | Uncinate Fasciculus, Cingulum                    | Эмоциональная оценка, принятие решений              | Limbic, SN                          |
-
-
----
 
 
 Оглавление:
