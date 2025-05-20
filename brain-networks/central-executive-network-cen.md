@@ -47,6 +47,20 @@ CEN отвечает за управление рабочей памятью, о
 * **Engelmann et al., 2012:** активация DLPFC и PPC при предъявлении кураж-стимулов у курильщиков ([PMC][9]).
 * **Menon & D’Esposito, 2021:** системный обзор нейросетей PFC подчёркивает роль CEN в когнитивном контроле и адаптивном поведении ([Stanford Medicine][14]).
 
+
+### Таблица: Подсети Central Executive Network (CEN)
+
+| Имя подсети                            | Анатомические регионы                     | Atlas                    | Структурный тракт                            | Функциональная роль                                   | Пересечения с сетями | Источник                                                                                 |
+| -------------------------------------- | ----------------------------------------- | ------------------------ | -------------------------------------------- | ----------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------- |
+| Dorsolateral Prefrontal Subnetwork     | DLPFC (BA9/46), Middle Frontal Gyrus      | Yeo 7, Schaefer, AAL     | Superior Longitudinal Fasciculus (SLF)       | Обновление и манипуляция рабочей памяти               | DMN (частично), DAN          | [PMC8994544](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8994544/)                      |
+| Posterior Parietal Subnetwork          | Inferior & Superior Parietal Lobule (PPC) | Yeo 7, Schaefer          | SLF, Frontoparietal pathways                 | Селективное внимание, интеграция сенсорной информации | DAN, Visuospatial Network    | [PMC6136121](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6136121/)                      |
+| Fronto-Parietal Control Network        | DLPFC, PPC, rostral ACC                   | Power atlas, AAL         | SLF, Cingulum Bundle, Fronto-striatal tracts | Когнитивный контроль, целенаправленная активность     | DMN, SN                      | [S0149763418300198](https://www.sciencedirect.com/science/article/pii/S0149763418300198) |
+| Dorsomedial Prefrontal Subnetwork      | DMPFC, SMA, pre-SMA                       | Schaefer, Harvard-Oxford | Fronto-striatal tracts, Corona Radiata       | Поддержание задачи, торможение ответов                | SN, DAN, Motor Network       | [S1878929321000967](https://www.sciencedirect.com/science/article/pii/S1878929321000967) |
+| Caudate-Thalamic Modulatory Subnetwork | Head of Caudate, Mediodorsal Thalamus     | Basal Ganglia Atlas      | Corona Radiata, Internal Capsule             | Модуляция когнитивной активности и рабочей памяти     | SN, Subcortical Networks     | [NBK542181](https://www.ncbi.nlm.nih.gov/books/NBK542181/)                               |
+| Ventrolateral Prefrontal Subnetwork    | VLPFC, anterior Insula                    | AAL, Destrieux           | Uncinate Fasciculus, Extreme Capsule         | Ингибирование, переключение задач                     | SN, VAN                      | [PMC3482626](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3482626/)                      |
+
+
+
 ### **Ключевые обзоры:**
 
 1. **Niendam et al., 2012** — *Meta-analytic evidence for a superordinate cognitive control network subserving diverse executive functions*. Cognitive, Affective, & Behavioral Neuroscience. [DOI: 10.3758/s13415-011-0083-5](https://doi.org/10.3758/s13415-011-0083-5) ([SpringerLink][15])
@@ -128,19 +142,6 @@ CEN отвечает за управление рабочей памятью, о
 
 ---
 
-## Таблица подсети
-
-| Родительская сеть | Имя подсети                            | Анатомические регионы                        | Atlas               | Структурный тракт                          | Функциональная роль                                | Пересечения с другими сетями       |
-|-------------------|----------------------------------------|----------------------------------------------|---------------------|--------------------------------------------|----------------------------------------------------|------------------------------------|
-| CEN               | Dorsolateral Prefrontal Subnetwork     | DLPFC (BA9/46), Middle Frontal Gyrus         | Yeo 7, Schaefer, AAL | Superior Longitudinal Fasciculus (SLF)     | Обновление и манипуляция рабочей памяти            | DMN (частично), DAN                |
-| CEN               | Posterior Parietal Subnetwork          | Inferior & Superior Parietal Lobule (PPC)    | Yeo 7, Schaefer     | SLF, Frontoparietal pathways               | Селективное внимание, интеграция сенсорной информации | DAN, Visuospatial Network          |
-| CEN               | Fronto-Parietal Control Network        | DLPFC, PPC, rostral ACC                      | Power atlas, AAL    | SLF, Cingulum Bundle, Fronto-striatal tracts | Когнитивный контроль, целенаправленная активность | DMN, SN                            |
-| CEN               | Dorsomedial Prefrontal Subnetwork      | DMPFC, SMA, pre-SMA                          | Schaefer, Harvard-Oxford | Fronto-striatal tracts, Corona Radiata     | Поддержание задачи, торможение ответов             | SN, DAN, Motor Network             |
-| CEN               | Caudate-Thalamic Modulatory Subnetwork | Head of Caudate, Mediodorsal Thalamus        | Basal Ganglia Atlas | Corona Radiata, Internal Capsule           | Модуляция когнитивной активности и рабочей памяти  | SN, Subcortical Networks           |
-| CEN               | Ventrolateral Prefrontal Subnetwork    | VLPFC, anterior Insula                       | AAL, Destrieux      | Uncinate Fasciculus, Extreme Capsule       | Ингибирование, переключение задач                  | SN, VAN                            |
-
-
----
 
 
 Оглавление:
