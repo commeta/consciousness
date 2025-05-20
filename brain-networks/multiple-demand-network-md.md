@@ -45,6 +45,24 @@ Multiple-Demand Network (MD) — домен-генеральная сеть мо
 * В задаче n-back, с увеличением «n» (уровня нагрузки) растёт активация DLPFC и IPS, что коррелирует с уменьшением точности при большом «n» ([Oxford Academic][5], [BioRxiv][12]).
 * В Stroop-парадигме MD-сеть демонстрирует усиленную активацию при конфликтных (несогласных) стимулах и снижает её при автоматизированных ответах ([jneurosci.org][13]).
 
+### Таблица: Подсети Multiple-Demand Network (MD)
+
+|  Имя подсети                         | Анатомические регионы                                | Атлас              | Структурный тракт                                  | Функциональная роль                                           | Пересечения с сетями        | Источник |
+|--------------------------------------|------------------------------------------------------|--------------------|----------------------------------------------------|----------------------------------------------------------------|-------------------------------------|----------|
+|  Фронто-париетальная подсеть (FPN)   | DLPFC, Inferior Parietal Lobule, aIPS, Pre-SMA       | HCP MMP1.0, AAL     | Superior Longitudinal Fasciculus (SLF), FOF        | Универсальный контроль, гибкая активация под задачи            | Частично пересекается с CEN, DAN    | [PMID: 36813474](https://pubmed.ncbi.nlm.nih.gov/36813474/) |
+|  Цингуло-оперкулярная подсеть (CON)  | Anterior Insula, dACC, Midcingulate Cortex           | Gordon Atlas, Yeo7 | Cingulum Bundle, Fronto-Striatal Tracts            | Устойчивое внимание, мониторинг ошибок                         | Частично с Salience, SN, VAN        | [PMC: 10592749](https://pmc.ncbi.nlm.nih.gov/articles/PMC10592749/) |
+|  Ventrolateral PFC Subsystem         | IFG, VLPFC, Insula                                   | HCP, AAL           | Uncinate Fasciculus, Short U-fibers                | Локальная интеграция сигналов, когнитивное торможение          | Пересечения с SN, Language Network  | [PMC: 6672638](https://pmc.ncbi.nlm.nih.gov/articles/PMC6672638/) |
+|  Dorsolateral Control Subsystem      | DLPFC, Mid-IFS, aIPS                                 | Glasser, AAL       | SLF I/II, FOF                                     | Планирование, рабочая память                                    | CEN, FPCN                           | [PMC: 3495093](https://pmc.ncbi.nlm.nih.gov/articles/PMC3495093/) |
+|  Medial Frontal Subsystem            | Pre-SMA, dACC, medial PFC                            | HCP, Yeo17         | Frontal Aslant Tract, Cingulum                     | Инициирование действий, разрешение конфликтов                   | SN, DAN, Motor                      | [PMC: 4091727](https://pmc.ncbi.nlm.nih.gov/articles/PMC4091727/) |
+|  Insular-Opercular Subsystem         | Anterior Insula, FrO, Frontal Operculum              | Gordon, Destrieux  | Short-range association tracts                     | Интеграция мультимодальной информации                           | SN, VAN                             | [PMC: 4801482](https://pmc.ncbi.nlm.nih.gov/articles/PMC4801482/) |
+|  Posterior Parietal Subsystem        | Intraparietal Sulcus, SPL, Precuneus                 | HCP, AAL           | SLF, Temporoparietal Connections                   | Перераспределение внимания, рабочая память                      | DAN, FPCN                           | [PMC: 3078173](https://pmc.ncbi.nlm.nih.gov/articles/PMC3078173/) |
+|  Frontostriatal-Modulatory Pathway   | PFC, Basal Ganglia (Caudate, Putamen)                | HCP, Harvard-Oxford| Fronto-Striatal Tracts                             | Модуляция действий, когнитивная гибкость                        | Пересечения с Reward и Motor        | [Nature Neuroscience](https://www.nature.com/articles/s41386-025-02065-8) |
+|  Subcortical Extension               | Thalamus, Caudate, Cerebellum                        | SUIT, HCP          | Thalamo-Cortical, Cerebello-Thalamo-Cortical       | Временная координация, поддержка рабочей памяти                 | Частично с Motor, Attention         | [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.02.20.639399v1.full-text) |
+|  Sensorimotor-Integration Component  | SMA, preSMA, Posterior Insula                        | HCP, Desikan-Killiany | Corticospinal, Insular Connections             | Мост между сенсорными входами и контролем                       | SN, Sensorimotor                    | [ScienceDirect](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/sensory-motor-control) |
+|  Temporal Subsystem                  | Middle Temporal Gyrus, Superior Temporal Sulcus      | HCP, AAL           | Arcuate Fasciculus, ILF                            | Семантическая обработка, интеграция слуховой информации         | Language Network, FPCN              | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37434287/) |
+|  Cerebellar Subsystem                | Crus I/II, Lobule VI, Dentate Nucleus                | SUIT               | Cerebello-Thalamo-Cortical Tracts                  | Тонкая настройка когнитивного контроля, временная координация   | Motor, Cognitive Control            | [PMC: 4089997](https://pmc.ncbi.nlm.nih.gov/articles/PMC4089997/) |
+
+
 ### **Ключевые обзоры:**
 
 1. **Cai, W. et al. (2024).** *A multi-demand operating system underlying diverse cognitive tasks*. Nature Communications. DOI:10.1038/s41467-024-46511-5 ([PubMed][1])
@@ -138,25 +156,6 @@ Multiple-Demand Network (MD) — домен-генеральная сеть мо
 
 ---
 
-## Таблица подсети
-
-| Родительская сеть | Имя подсети                         | Анатомические регионы                                | Atlas              | Структурный тракт                                  | Функциональная роль                                           | Пересечения с другими сетями        |
-|-------------------|-------------------------------------|------------------------------------------------------|--------------------|----------------------------------------------------|----------------------------------------------------------------|-------------------------------------|
-| MD                | Фронто-париетальная подсеть (FPN)   | DLPFC, Inferior Parietal Lobule, aIPS, Pre-SMA       | HCP MMP1.0, AAL     | Superior Longitudinal Fasciculus (SLF), FOF        | Универсальный контроль, гибкая активация под задачи            | Частично пересекается с CEN, DAN    |
-| MD                | Цингуло-оперкулярная подсеть (CON)  | Anterior Insula, dACC, Midcingulate Cortex           | Gordon Atlas, Yeo7 | Cingulum Bundle, Fronto-Striatal Tracts            | Устойчивое внимание, мониторинг ошибок                         | Частично с Salience, SN, VAN        |
-| MD                | Ventrolateral PFC Subsystem         | IFG, VLPFC, Insula                                   | HCP, AAL           | Uncinate Fasciculus, Short U-fibers                | Локальная интеграция сигналов, когнитивное торможение          | Пересечения с SN, Language Network  |
-| MD                | Dorsolateral Control Subsystem      | DLPFC, Mid-IFS, aIPS                                 | Glasser, AAL       | SLF I/II, FOF                                     | Планирование, рабочая память                                    | CEN, FPCN                           |
-| MD                | Medial Frontal Subsystem            | Pre-SMA, dACC, medial PFC                            | HCP, Yeo17         | Frontal Aslant Tract, Cingulum                     | Инициирование действий, разрешение конфликтов                   | SN, DAN, Motor                      |
-| MD                | Insular-Opercular Subsystem         | Anterior Insula, FrO, Frontal Operculum              | Gordon, Destrieux  | Short-range association tracts                     | Интеграция мультимодальной информации                           | SN, VAN                             |
-| MD                | Posterior Parietal Subsystem        | Intraparietal Sulcus, SPL, Precuneus                 | HCP, AAL           | SLF, Temporoparietal Connections                   | Перераспределение внимания, рабочая память                      | DAN, FPCN                           |
-| MD                | Frontostriatal-Modulatory Pathway   | PFC, Basal Ganglia (Caudate, Putamen)                | HCP, Harvard-Oxford| Fronto-Striatal Tracts                             | Модуляция действий, когнитивная гибкость                        | Пересечения с Reward и Motor        |
-| MD                | Subcortical Extension               | Thalamus, Caudate, Cerebellum                        | SUIT, HCP          | Thalamo-Cortical, Cerebello-Thalamo-Cortical       | Временная координация, поддержка рабочей памяти                 | Частично с Motor, Attention         |
-| MD                | Sensorimotor-Integration Component  | SMA, preSMA, Posterior Insula                        | HCP, Desikan-Killiany | Corticospinal, Insular Connections             | Мост между сенсорными входами и контролем                       | SN, Sensorimotor                    |
-| MD                | Temporal Subsystem                  | Middle Temporal Gyrus, Superior Temporal Sulcus      | HCP, AAL           | Arcuate Fasciculus, ILF                            | Семантическая обработка, интеграция слуховой информации         | Language Network, FPCN              |
-| MD                | Cerebellar Subsystem                | Crus I/II, Lobule VI, Dentate Nucleus                | SUIT               | Cerebello-Thalamo-Cortical Tracts                  | Тонкая настройка когнитивного контроля, временная координация   | Motor, Cognitive Control            |
-
-
----
 
 
 Оглавление:
