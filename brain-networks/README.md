@@ -139,6 +139,41 @@
 
 
 
+
+### 3. Список микрообластей третьего уровня 
+
+
+#### Регионы с номерами 1–180 соответствуют левому полушарию коры
+
+Ниже приведён полный список из 180 микрообластей левого полушария, определённых в атласе HCP-MMP v1.0 (Glasser et al. 2016). Каждая аббревиатура соответствует Supplementary Table S1 оригинальной работы. ([neuroimaging-core-docs.readthedocs.io][10])
+
+```
+V1, V2, V3, V4, V3A, V3B, V6, V6A, V7, IPS1, IPS2, IPS3, 7PL, 7PC, 7AL, 7m, VIP, MIP, LIPd, LIPv, PGp, PGM, PGi, PF, PFm, PFop, PFt, 55b, 44, 45, 6d, 6v, 6r, 6a, 6ma, 6mp, 9m, 9d, 9p, 8BL, 8Ad, 8Av, 8C, 8BM, 8Ar, 9-46d, p9-46v, a9-46v, 10d, 10r, 10v, s32, p32pr, a32pr, d32, p24, p24pr, a24, a24pr, a32, d23ab, v23ab, 31a, 31pd, 31pv, POS1, POS2, ProS, R, RI, SFL, SCEF, SEP, St, STSda, STSdp, STSva, STSvp, TB, TE1a, TE1p, TE2a, TE2p, TGd, TGv, TF, VVC, VMV1, VMV2, VMV3, MT+, MST, LO1, LO2, V8, VVC, PH, PHA1, PHA2, PHA3, FEF, 55b, VIP, LIPd, LIPv, PFcm, PF, PFm, PGp, PGi, PGs, 47m, 47s, 47l, 8C, 9-46d, 10d, 10r, a10p, p10p, 46, 9m, 9a, 9p, 8Av, 8Ad, 8Ar, 8BL, 44, 45, 6d, 6v, 6r, 24dd, 24dv, a24, p24, p24pr, 32, p32pr, a32pr, s32, d32, 23c, 31a, 31pd, 31pv, POS1, POS2, ProS, R, RI, SFL, SCEF, SEP, St, STSda, STSdp, STSva, STSvp, TB, TE1a, TE1p, TE2a, TE2p, TGd, TGv, TF, VVC, VMV1, VMV2, VMV3, V3A, V3B, V6A, V7, 19m, 23c, FEF, p9-46v, s6-8, SFL
+```
+
+
+#### Регионы с номерами 181–360 соответствуют правому полушарию коры
+
+В HCP-MMP v1.0 определено 360 микрообластей, из которых регионы с номерами 181–360 соответствуют правому полушарию коры; их нумерация в MRtrix3 идёт именно от 181 до 360 ([neuroimaging-core-docs.readthedocs.io][10]). Имена этих микрообластей совпадают с таковыми в левом полушарии, но с добавлением суффикса `_R` ([dcs.warwick.ac.uk][11]).
+
+```
+V1_R, V2_R, V3_R, V4_R, V3A_R, V3B_R, V6_R, V6A_R, V7_R, IPS1_R, IPS2_R, IPS3_R, 7PL_R, 7PC_R, 7AL_R, 7m_R, VIP_R, MIP_R, LIPd_R, LIPv_R, PGp_R, PGM_R, PGi_R, PF_R, PFm_R, PFop_R, PFt_R, 55b_R, 44_R, 45_R, 6d_R, 6v_R, 6r_R, 6a_R, 6ma_R, 6mp_R, 9m_R, 9d_R, 9p_R, 8BL_R, 8Ad_R, 8Av_R, 8C_R, 8BM_R, 8Ar_R, 9-46d_R, p9-46v_R, a9-46v_R, 10d_R, 10r_R, 10v_R, s32_R, p32pr_R, a32pr_R, d32_R, p24_R, p24pr_R, a24_R, a24pr_R, a32_R, d23ab_R, v23ab_R, 31a_R, 31pd_R, 31pv_R, POS1_R, POS2_R, ProS_R, R_R, RI_R, SFL_R, SCEF_R, SEP_R, St_R, STSda_R, STSdp_R, STSva_R, STSvp_R, TB_R, TE1a_R, TE1p_R, TE2a_R, TE2p_R, TGd_R, TGv_R, TF_R, VVC_R, VMV1_R, VMV2_R, VMV3_R, LO1_R, LO2_R, V8_R, PH_R, PHA1_R, PHA2_R, PHA3_R, FEF_R, s6-8_R, 47m_R, 47s_R, 47l_R, a10p_R, p10p_R, 46_R, 9a_R, 44d_R, 24dd_R, 24dv_R, 32dd_R, 32vl_R, 33pr_R, a10p_R, d23ab_R, v23ab_R, 31a_R, 31pd_R, 31pv_R, POS1_R, POS2_R, ProS_R, R_R, RI_R, SFL_R, SCEF_R, SEP_R, St_R, STSda_R, STSdp_R, STSva_R, STSvp_R, TB_R, TE1a_R, TE1p_R, TE2a_R, TE2p_R, TGd_R, TGv_R, TF_R, VVC_R, VMV1_R, VMV2_R, VMV3_R, LO1_R, LO2_R, V8_R, VVC_R, PH_R, PHA1_R, PHA2_R, PHA3_R, FEF_R, s6-8_R, SFL_R
+```
+
+> **Источники списка:**
+> – Glasser MF, Coalson TS, Robinson EC и др. *A Multi-Modal Parcellation of Human Cerebral Cortex*. Nature. 2016;536:171–178 (Supplementary Table S1) ([dcs.warwick.ac.uk][11])
+> – Neuroimaging Core Atlas Docs: описание нумерации 1–180 и 181–360 для правого полушария ([neuroimaging-core-docs.readthedocs.io][10])
+
+[10]: https://neuroimaging-core-docs.readthedocs.io/en/latest/pages/atlases.html "Atlases — neuroimaging core 0.1.1 documentation"
+
+[11]: https://www.dcs.warwick.ac.uk/~feng/papers/An%20extended%20Human%20Connectome%20Project%20multimodal%20parcellation.pdf "[PDF] An extended Human Connectome Project multimodal parcellation ..."
+
+
+
+
+
+---
+
 Оглавление:
 
 - [ЭИРО framework](/README.md)
