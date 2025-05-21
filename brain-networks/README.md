@@ -51,7 +51,7 @@
 
 ---
 
-## 1. Список макросетей первого уровня
+### 1. Список макросетей первого уровня
 
 | Уровень | Код сети | Название сети                        | ROI / Парцеляция           | Метод выделения              | Надёжность (ICC)                       | Источник (DOI / PubMed)                                                                                                                                                                                  | Визуализация          | Примечания                                     |
 | :-----: | :------: | :----------------------------------- | :------------------------- | :--------------------------- | :------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------- | :--------------------------------------------- |
@@ -79,14 +79,59 @@
 
 
 
-[1]: https://www.sciencedirect.com/science/article/pii/S1053811919307487?utm_source=chatgpt.com "A decade of test-retest reliability of functional connectivity"
-[2]: https://journals.physiology.org/doi/10.1152/jn.00338.2011?utm_source=chatgpt.com "The organization of the human cerebral cortex estimated by intrinsic ..."
-[3]: https://nilearn.github.io/dev/modules/description/schaefer_2018.html?utm_source=chatgpt.com "Schaefer 2018 atlas - Nilearn"
-[4]: https://academic.oup.com/cercor/article/27/11/5415/4139668?utm_source=chatgpt.com "Influences on the Test–Retest Reliability of Functional Connectivity ..."
-[5]: https://www.frontiersin.org/journals/neuroimaging/articles/10.3389/fnimg.2022.859792/full?utm_source=chatgpt.com "Test-Retest Reliability of fMRI During an Emotion Processing Task"
-[6]: https://pubmed.ncbi.nlm.nih.gov/21795627/?utm_source=chatgpt.com "The organization of the human cerebellum estimated by intrinsic ..."
-[7]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3214121/?utm_source=chatgpt.com "The organization of the human cerebellum estimated by intrinsic ..."
+[1]: https://www.sciencedirect.com/science/article/pii/S1053811919307487 "A decade of test-retest reliability of functional connectivity"
+[2]: https://journals.physiology.org/doi/10.1152/jn.00338.2011 "The organization of the human cerebral cortex estimated by intrinsic ..."
+[3]: https://nilearn.github.io/dev/modules/description/schaefer_2018.html "Schaefer 2018 atlas - Nilearn"
+[4]: https://academic.oup.com/cercor/article/27/11/5415/4139668 "Influences on the Test–Retest Reliability of Functional Connectivity ..."
+[5]: https://www.frontiersin.org/journals/neuroimaging/articles/10.3389/fnimg.2022.859792/full "Test-Retest Reliability of fMRI During an Emotion Processing Task"
+[6]: https://pubmed.ncbi.nlm.nih.gov/21795627/ "The organization of the human cerebellum estimated by intrinsic ..."
+[7]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3214121/ "The organization of the human cerebellum estimated by intrinsic ..."
 
+
+
+### 2. Список сетей второго уровня (Yeo-17)
+
+| Уровень | Код сети | Название сети                               | ROI / Парцеляция | Метод выделения | Надёжность (метрика) | Источник (DOI / PubMed)      | Визуализация | Примечания                    |
+| ------- | -------- | ------------------------------------------- | ---------------- | --------------- | -------------------- | ---------------------------- | ------------ | ----------------------------- |
+| 2       | N1       | Visual A (VisCent)                          | Yeo-17 №1        | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Центральное зрение            |
+| 2       | N2       | Visual B (VisPeri)                          | Yeo-17 №2        | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Периферическое зрение         |
+| 2       | N3       | Somatomotor A (SomMotA)                     | Yeo-17 №3        | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Моторные области              |
+| 2       | N4       | Somatomotor B (SomMotB)                     | Yeo-17 №4        | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Соматосенсорные области       |
+| 2       | N5       | Dorsal Attention A (DorsAttnA)              | Yeo-17 №5        | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Внимание, дорсальная сеть     |
+| 2       | N6       | Dorsal Attention B (DorsAttnB)              | Yeo-17 №6        | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Внимание, дорсальная сеть     |
+| 2       | N7       | Salience/Ventral Attention A (SalVentAttnA) | Yeo-17 №7        | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Салентность, вентральная сеть |
+| 2       | N8       | Salience/Ventral Attention B (SalVentAttnB) | Yeo-17 №8        | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Салентность, вентральная сеть |
+| 2       | N9       | Limbic B (LimbicB)                          | Yeo-17 №9        | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Лимбическая система           |
+| 2       | N10      | Limbic A (LimbicA)                          | Yeo-17 №10       | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Лимбическая система           |
+| 2       | N11      | Control A (ContA)                           | Yeo-17 №11       | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Фронтопариетальная сеть       |
+| 2       | N12      | Control B (ContB)                           | Yeo-17 №12       | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Фронтопариетальная сеть       |
+| 2       | N13      | Control C (ContC)                           | Yeo-17 №13       | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Фронтопариетальная сеть       |
+| 2       | N14      | Default Mode A (DefaultA)                   | Yeo-17 №14       | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Сеть по умолчанию             |
+| 2       | N15      | Default Mode B (DefaultB)                   | Yeo-17 №15       | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Сеть по умолчанию             |
+| 2       | N16      | Default Mode C (DefaultC)                   | Yeo-17 №16       | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Сеть по умолчанию             |
+| 2       | N17      | Temporal Parietal (TempPar)                 | Yeo-17 №17       | Clustering      | –                    | Yeo et al. 2011 (\[PMC]\[1]) | Схема ROI    | Височно-теменная область      |
+
+([PubMed][8], [Nilearn][9]) 
+
+---
+
+### 🔗 Ресурсы и визуализация
+
+* **Атлас Yeo-17** доступен для загрузки и визуализации через:
+
+  * [FreeSurfer Wiki](https://surfer.nmr.mgh.harvard.edu/fswiki/CorticalParcellation_Yeo2011)
+
+  * [Nilearn](https://nilearn.github.io/stable/modules/description/yeo_2011.html)
+
+* **Исходная публикация**: Yeo et al., 2011, *Journal of Neurophysiology* ([PMC3174820](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3174820/))
+
+* **Дополнительные данные и визуализации**: [ResearchGate](https://www.researchgate.net/figure/Network-parcellation-of-Yeos-17-networks-The-17-networks-include-the-following-regions_fig1_352966687)
+
+
+
+
+[8]: https://pubmed.ncbi.nlm.nih.gov/21795627/ "The organization of the human cerebellum estimated by intrinsic functional connectivity - PubMed"
+[9]: https://nilearn.github.io/dev/modules/description/yeo_2011.html "Yeo 2011 atlas - Nilearn"
 
 
 
