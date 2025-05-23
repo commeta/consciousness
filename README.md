@@ -302,6 +302,20 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 </details>
 
 
+
+<details>
+<summary>Теория сознания (Beta 0.2) </summary>
+
+- [Теория Динамической Интеграции Сознания (ТДИС)](/Theory-Of-Dynamic-Integration-Of-Consciousness/README.md) May 23, 2025
+
+- [Критический анализ ТДИС](/Theory-Of-Dynamic-Integration-Of-Consciousness/Critical-analysis.md) May 23, 2025
+
+- [Решения концептуальных проблем ТДИС](/Theory-Of-Dynamic-Integration-Of-Consciousness/Conceptual-issues.md) May 23, 2025
+
+
+</details>
+
+
 <details>
 <summary>Обзоры и справочники</summary>
 
