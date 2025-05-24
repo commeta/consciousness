@@ -320,7 +320,7 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
 - [Пример архитектуры AGI ИИ в Теории Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/AGI-architectures.md) May 24, 2025
 
-- [Пример архитектуры AGI ИИ в Теории Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/ARIA/README.md) May 24, 2025
+- [ARIA: Artificial Reflective Intelligence Architecture](/Theory-Of-Dynamic-Integration-Of-Consciousness/ARIA/README.md) May 24, 2025
 
 
 </details>
