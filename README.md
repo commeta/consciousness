@@ -312,6 +312,12 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
 - [Решения концептуальных проблем ТДИС](/Theory-Of-Dynamic-Integration-Of-Consciousness/Conceptual-issues.md) May 23, 2025
 
+- [Решения логических и философских проблем ТДИС](/Theory-Of-Dynamic-Integration-Of-Consciousness/Logical-and-philosophical-issues.md) May 24, 2025
+
+- [Недостающие элементы ТДИС: Комплексное дополнение теории](/Theory-Of-Dynamic-Integration-Of-Consciousness/A-comprehensive-addition.md) May 24, 2025
+
+- [Эмпирическая формализация ТДИС: Методы измерения и математические модели](/Theory-Of-Dynamic-Integration-Of-Consciousness/Empirical-formalization.md) May 24, 2025
+
 
 </details>
 
