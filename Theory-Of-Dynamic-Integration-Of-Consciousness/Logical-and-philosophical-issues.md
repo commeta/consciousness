@@ -288,6 +288,69 @@
 
 ---
 
+## Источники 
+
+Вот обновлённый список источников с добавленными URL-ссылками для всех публикаций, где это возможно:
+
+---
+
+### 1. Проблема множественной реализуемости и архитектурные требования
+
+1. **Baars B. J.** Global workspace theory of consciousness: toward a cognitive neuroscience of human experience // *Progress in Brain Research*. 2005. Vol. 150. P. 45–53. DOI: [10.1016/S0079-6123(05)50004-9](https://doi.org/10.1016/S0079-6123%2805%2950004-9) ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0079612305500049))
+
+2. **Friston K.** The free-energy principle: a unified brain theory? // *Nature Reviews Neuroscience*. 2010. Vol. 11, No. 2. P. 127–138. DOI: [10.1038/nrn2787](https://doi.org/10.1038/nrn2787) ([Nature](https://www.nature.com/articles/nrn2787))
+
+3. **Achterberg J. et al.** Spatially embedded recurrent neural networks reveal widespread links between structural and functional neuroscience findings // *Nature Machine Intelligence*. 2023. Vol. 5. P. 1369–1381. DOI: [10.1038/s42256-023-00748-9](https://doi.org/10.1038/s42256-023-00748-9) ([Nature](https://www.nature.com/articles/s42256-023-00748-9))
+
+4. **Bastos A. M. et al.** Canonical microcircuits for predictive coding // *Neuron*. 2012. Vol. 76, No. 4. P. 695–711. DOI: [10.1016/j.neuron.2012.10.038](https://doi.org/10.1016/j.neuron.2012.10.038) ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0896627312009300))
+
+5. **Dehaene S., Changeux J.-P.** Experimental and theoretical approaches to conscious processing // *Neuron*. 2011. Vol. 70, No. 2. P. 200–227. DOI: [10.1016/j.neuron.2011.03.018](https://doi.org/10.1016/j.neuron.2011.03.018)
+
+---
+
+### 2. Проблема философских зомби и функциональной необходимости сознания
+
+6. **Dennett D. C.** *Consciousness Explained*. Boston: Little, Brown and Company, 1991.
+
+7. **Chalmers D. J.** *The Conscious Mind: In Search of a Fundamental Theory*. New York: Oxford University Press, 1996.
+
+8. **Baars B. J.** *A Cognitive Theory of Consciousness*. Cambridge: Cambridge University Press, 1988.
+
+9. **Dehaene S.** *Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts*. New York: Viking, 2014.
+
+---
+
+### 3. Проблема инвертированного спектра и структурной определенности квалиа
+
+10. **Zeki S.** *A Vision of the Brain*. Oxford: Blackwell Scientific Publications, 1993.
+
+11. **Brouwer G. J., Heeger D. J.** Categorical clustering of the neural representation of color // *Journal of Neuroscience*. 2013. Vol. 33, No. 39. P. 15454–15465. DOI: [10.1523/JNEUROSCI.2472-13.2013](https://doi.org/10.1523/JNEUROSCI.2472-13.2013) ([Journal of Neuroscience](https://www.jneurosci.org/content/33/39/15454))
+
+12. **Conway B. R.** The organization and operation of inferior temporal cortex // *Annual Review of Vision Science*. 2018. Vol. 4. P. 381–402. DOI: [10.1146/annurev-vision-091517-034202](https://doi.org/10.1146/annurev-vision-091517-034202) ([Annual Reviews](https://www.annualreviews.org/content/journals/10.1146/annurev-vision-091517-034202))
+
+13. **Hardin C. L.** *Color for Philosophers: Unweaving the Rainbow*. Indianapolis: Hackett Publishing Company, 1988.
+
+14. **Palmer S. E.** *Vision Science: Photons to Phenomenology*. Cambridge: MIT Press, 1999.
+
+---
+
+### 4. Проблема эпифеноменализма и каузальной эффективности сознания
+
+15. **Tononi G., Koch C.** Consciousness: here, there and everywhere? // *Philosophical Transactions of the Royal Society B: Biological Sciences*. 2015. Vol. 370, No. 1668. DOI: [10.1098/rstb.2014.0167](https://doi.org/10.1098/rstb.2014.0167) ([Royal Society Publishing](https://royalsocietypublishing.org/doi/10.1098/rstb.2014.0167))
+
+16. **Lamme V. A. F.** Challenges for theories of consciousness: seeing or knowing, the missing ingredient and how to deal with panpsychism // *Philosophical Transactions of the Royal Society B: Biological Sciences*. 2018. Vol. 373, No. 1755. DOI: [10.1098/rstb.2017.0344](https://doi.org/10.1098/rstb.2017.0344) ([Royal Society Publishing](https://royalsocietypublishing.org/doi/10.1098/rstb.2017.0344))
+
+17. **Mashour G. A., Roelfsema P., Changeux J.-P., Dehaene S.** Conscious processing and the global neuronal workspace hypothesis // *Neuron*. 2020. Vol. 105, No. 5. P. 776–798. DOI: [10.1016/j.neuron.2020.01.026](https://doi.org/10.1016/j.neuron.2020.01.026) 
+
+18. **Seth A. K.** Consciousness: the last 50 years (and the next) // *Brain and Neuroscience Advances*. 2018. Vol. 2. DOI: [10.1177/2398212818816019](https://doi.org/10.1177/2398212818816019) ([SAGE Journals](https://journals.sagepub.com/doi/full/10.1177/2398212818816019))
+
+19. **Crick F., Koch C.** Towards a neurobiological theory of consciousness // *Seminars in the Neurosciences*. 1990. Vol. 2, No. 5. P. 263–275.
+
+
+
+---
+
+
 Оглавление:
 
 - [Теория Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/README.md)
