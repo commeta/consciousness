@@ -318,6 +318,8 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
 - [Эмпирическая формализация ТДИС: Методы измерения и математические модели](/Theory-Of-Dynamic-Integration-Of-Consciousness/Empirical-formalization.md) May 24, 2025
 
+- [Пример архитектуры AGI ИИ в Теории Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/AGI-architectures.md) May 24, 2025
+
 
 </details>
 
