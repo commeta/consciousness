@@ -279,3 +279,136 @@
 5. **Технологическая применимость**: предоставляет принципы для создания искусственного сознания
 
 Теория продолжает развиваться по мере накопления новых экспериментальных данных и совершенствования методов исследования мозга. Будущие исследования должны сосредоточиться на более точном понимании механизмов интеграции информации, роли различных нейромедиаторных систем и возможностях технологической модуляции сознательных состояний.
+
+
+---
+
+
+
+## Источники
+
+### 1. Гамма-осцилляции и сознание
+
+**Buzsáki, G., & Wang, X.-J.** (2012). Mechanisms of Gamma Oscillations. *Annual Review of Neuroscience*, 35, 203–225. DOI: [10.1146/annurev-neuro-062111-150444](https://doi.org/10.1146/annurev-neuro-062111-150444).([PMC][1])
+
+---
+
+### 2. Таламо-кортикальные взаимодействия
+
+**Redinbaugh, M. J., et al.** (2020). Thalamus modulates consciousness via layer-specific control of cortex. *Nature Neuroscience*, 23(6), 741–750. DOI: [10.1016/j.neuron.2020.01.005](https://doi.org/10.1016/j.neuron.2020.01.005).([PMC][2])
+
+---
+
+### 3. Предиктивная обработка и сознание
+
+**Seth, A. K., & Friston, K. J.** (2016). Active interoceptive inference and the emotional brain. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 371(1708), 20160007. DOI: [10.1098/rstb.2016.0007](https://doi.org/10.1098/rstb.2016.0007).
+
+---
+
+### 4. Глобальное рабочее пространство
+
+**Mashour, G. A., Roelfsema, P., Changeux, J.-P., & Dehaene, S.** (2020). Conscious Processing and the Global Neuronal Workspace Hypothesis. *Neuron*, 105(5), 776–798. DOI: [10.1016/j.neuron.2020.01.026](https://doi.org/10.1016/j.neuron.2020.01.026).([PMC][3])
+
+---
+
+### 5. Кросс-частотная связь
+
+**Canolty, R. T., & Knight, R. T.** (2010). The functional role of cross-frequency coupling. *Trends in Cognitive Sciences*, 14(11), 506–515. DOI: [10.1016/j.tics.2010.09.001](https://doi.org/10.1016/j.tics.2010.09.001).
+
+---
+
+### 6. Нейромедиаторные системы
+
+**Parvizi, J., & Damasio, A.** (2001). Consciousness and the brainstem. *Cognition*, 79(1–2), 135–160. DOI: [10.1016/S0010-0277(00)00127-X](https://doi.org/10.1016/S0010-0277%2800%2900127-X).
+
+---
+
+### 7. Альфа-ритмы и внимание
+
+**Klimesch, W.** (2012). Alpha-band oscillations, attention, and controlled access to stored information. *Trends in Cognitive Sciences*, 16(12), 606–617. DOI: [10.1016/j.tics.2012.10.007](https://doi.org/10.1016/j.tics.2012.10.007).
+
+---
+
+### 8. Тета-ритмы и память
+
+**Lisman, J. E., & Jensen, O.** (2013). The theta-gamma neural code. *Neuron*, 77(6), 1002–1016. DOI: [10.1016/j.neuron.2013.03.007](https://doi.org/10.1016/j.neuron.2013.03.007).
+
+---
+
+### 9. Поясная кора и контроль внимания
+
+**Shenhav, A., Botvinick, M. M., & Cohen, J. D.** (2013). The Expected Value of Control: An Integrative Theory of Anterior Cingulate Cortex Function. *Neuron*, 79(2), 217–240. DOI: [10.1016/j.neuron.2013.07.007](https://doi.org/10.1016/j.neuron.2013.07.007).
+
+---
+
+### 10. Островковая кора и интероцепция
+
+**Craig, A. D.** (2009). How do you feel—now? The anterior insula and human awareness. *Nature Reviews Neuroscience*, 10(1), 59–70. DOI: [10.1038/nrn2555](https://doi.org/10.1038/nrn2555).([Nature][4])
+
+---
+
+### 11. Сеть пассивного режима работы мозга
+
+**Raichle, M. E.** (2015). The Brain's Default Mode Network. *Annual Review of Neuroscience*, 38, 433–447. DOI: [10.1146/annurev-neuro-071013-014030](https://doi.org/10.1146/annurev-neuro-071013-014030).
+
+---
+
+### 12. Нарушения сознания
+
+**Laureys, S., Owen, A. M., & Schiff, N. D.** (2004). Brain function in coma, vegetative state, and related disorders. *The Lancet Neurology*, 3(9), 537–546. DOI: [10.1016/S1474-4422(04)00852-X](https://doi.org/10.1016/S1474-4422%2804%2900852-X).
+
+---
+
+### 13. Медитативные состояния
+
+**Tang, Y.-Y., Hölzel, B. K., & Posner, M. I.** (2015). The neuroscience of mindfulness meditation. *Nature Reviews Neuroscience*, 16(4), 213–225. DOI: [10.1038/nrn3916](https://doi.org/10.1038/nrn3916).
+
+---
+
+### 14. Психоделические состояния
+
+**Carhart-Harris, R. L., et al.** (2014). The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs. *Frontiers in Human Neuroscience*, 8, 20. DOI: [10.3389/fnhum.2014.00020](https://doi.org/10.3389/fnhum.2014.00020).
+
+---
+
+### 15. Маскировка и порог сознания
+
+**Dehaene, S., Changeux, J.-P., Naccache, L., Sackur, J., & Sergent, C.** (2006). Conscious, preconscious, and subliminal processing: a testable taxonomy. *Trends in Cognitive Sciences*, 10(5), 204–211. DOI: [10.1016/j.tics.2006.03.007](https://doi.org/10.1016/j.tics.2006.03.007).
+
+---
+
+### 16. Бинокулярная конкуренция
+
+**Tong, F., Meng, M., & Blake, R.** (2006). Neural bases of binocular rivalry. *Trends in Cognitive Sciences*, 10(11), 502–511. DOI: [10.1016/j.tics.2006.09.003](https://doi.org/10.1016/j.tics.2006.09.003).
+
+---
+
+### 17. Иерархическая обработка
+
+**Felleman, D. J., & Van Essen, D. C.** (1991). Distributed hierarchical processing in the primate cerebral cortex. *Cerebral Cortex*, 1(1), 1–47. DOI: [10.1093/cercor/1.1.1](https://doi.org/10.1093/cercor/1.1.1).
+
+---
+
+### 18. Критические переходы
+
+**Beggs, J. M., & Plenz, D.** (2003). Neuronal avalanches in neocortical circuits. *Journal of Neuroscience*, 23(35), 11167–11177. DOI: [10.1523/JNEUROSCI.23-35-11167.2003](https://doi.org/10.1523/JNEUROSCI.23-35-11167.2003).
+
+---
+
+### 19. Самосознание и метакогниция
+
+**Fleming, S. M., & Dolan, R. J.** (2012). The neural basis of metacognitive ability. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 367(1594), 1338–1349. DOI: [10.1098/rstb.2011.0417](https://doi.org/10.1098/rstb.2011.0417).
+
+---
+
+### 20. Искусственное сознание
+
+**Dehaene, S., Lau, H., & Kouider, S.** (2017). What is consciousness, and could machines have it? *Science*, 358(6362), 486–492. DOI: [10.1126/science.aan8871](https://doi.org/10.1126/science.aan8871).
+
+---
+
+[1]: https://pmc.ncbi.nlm.nih.gov/articles/PMC4049541/ "Mechanisms of Gamma Oscillations - PMC"
+[2]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7243351/ "Thalamus modulates consciousness via layer-specific control of cortex"
+[3]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8770991/ "Conscious Processing and the Global Neuronal Workspace ..."
+[4]: https://www.nature.com/articles/nrn2555 "How do you feel — now? The anterior insula and human awareness"
+
