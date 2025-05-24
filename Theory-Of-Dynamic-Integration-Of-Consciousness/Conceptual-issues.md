@@ -249,6 +249,87 @@
 
 ---
 
+## Источники
+
+### 1. Гамма-осцилляции и субъективный опыт
+
+1. Buzsáki, G., & Wang, X.-J. (2012). Mechanisms of gamma oscillations. *Annual Review of Neuroscience*, 35, 203–225. [https://doi.org/10.1146/annurev-neuro-062111-150444](https://doi.org/10.1146/annurev-neuro-062111-150444)
+
+2. Fries, P. (2005). A mechanism for cognitive dynamics: neuronal communication through neuronal coherence. *Trends in Cognitive Sciences*, 9(10), 474–480. [https://doi.org/10.1016/j.tics.2005.08.011](https://doi.org/10.1016/j.tics.2005.08.011)
+
+3. Jensen, O., & Mazaheri, A. (2010). Shaping functional architecture by oscillatory alpha activity: gating by inhibition. *Frontiers in Human Neuroscience*, 4, 186. [https://doi.org/10.3389/fnhum.2010.00186](https://doi.org/10.3389/fnhum.2010.00186)
+
+4. Lisman, J. E., & Idiart, M. A. (1995). Storage of 7 ± 2 short-term memories in oscillatory subcycles. *Science*, 267(5203), 1512–1515. [https://doi.org/10.1126/science.7878473](https://doi.org/10.1126/science.7878473)([PMC][1])
+
+5. Canolty, R. T., & Knight, R. T. (2010). The functional role of cross-frequency coupling. *Trends in Cognitive Sciences*, 14(11), 506–515. [https://doi.org/10.1016/j.tics.2010.09.001](https://doi.org/10.1016/j.tics.2010.09.001)
+
+---
+
+### 2. Квалиа и каузальная структура
+
+6. Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: Integrated Information Theory 3.0. *PLoS Computational Biology*, 10(5), e1003588. [https://doi.org/10.1371/journal.pcbi.1003588](https://doi.org/10.1371/journal.pcbi.1003588)
+
+7. Tononi, G., & Koch, C. (2015). Consciousness: here, there and everywhere? *Philosophical Transactions of the Royal Society B: Biological Sciences*, 370(1668), 20140167. [https://doi.org/10.1098/rstb.2014.0167](https://doi.org/10.1098/rstb.2014.0167)
+
+8. Seth, A. K., Barrett, A. B., & Barnett, L. (2011). Causal density and integrated information as measures of conscious level. *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences*, 369(1952), 3748–3767. [https://doi.org/10.1098/rsta.2011.0079](https://doi.org/10.1098/rsta.2011.0079)
+
+9. Lamme, V. A. (2006). Towards a true neural stance on consciousness. *Trends in Cognitive Sciences*, 10(11), 494–501. [https://doi.org/10.1016/j.tics.2006.09.001](https://doi.org/10.1016/j.tics.2006.09.001)
+
+10. Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200–227. [https://doi.org/10.1016/j.neuron.2011.03.018](https://doi.org/10.1016/j.neuron.2011.03.018)
+
+---
+
+### 3. Глобальное рабочее пространство и единство сознания
+
+11. Baars, B. J. (1988). A cognitive theory of consciousness. *Cambridge University Press*. [https://archive.org/details/BJBaarsCognitiveTheoryOfConsciousnessCambridge1988](https://archive.org/details/BJBaarsCognitiveTheoryOfConsciousnessCambridge1988) 
+
+12. Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework. *Cognition*, 79(1-2), 1–37. [https://doi.org/10.1016/S0010-0277(00)00123-2](https://doi.org/10.1016/S0010-0277%2800%2900123-2)
+
+13. Mashour, G. A., Roelfsema, P., Changeux, J.-P., & Dehaene, S. (2020). Conscious processing and the global neuronal workspace hypothesis. *Neuron*, 105(5), 776–798. [https://doi.org/10.1016/j.neuron.2020.01.026](https://doi.org/10.1016/j.neuron.2020.01.026)([PMC][2])
+
+14. Sergent, C., & Dehaene, S. (2004). Is consciousness a gradual phenomenon? Evidence for an all-or-none bifurcation during the attentional blink. *Psychological Science*, 15(11), 720–728. [https://doi.org/10.1111/j.0956-7976.2004.00748.x](https://doi.org/10.1111/j.0956-7976.2004.00748.x)
+
+15. Baars, B. J., Franklin, S., & Ramsoy, T. Z. (2013). Global workspace dynamics: cortical “binding and propagation” enables conscious contents. *Frontiers in Psychology*, 4, 200. [https://doi.org/10.3389/fpsyg.2013.00200](https://doi.org/10.3389/fpsyg.2013.00200)
+
+---
+
+### 4. Границы сознания и интеграция информации
+
+16. Casali, A. G., Gosseries, O., Rosanova, M., et al. (2013). A theoretically based index of consciousness independent of sensory processing and behavior. *Science Translational Medicine*, 5(198), 198ra105. [https://doi.org/10.1126/scitranslmed.3006294](https://doi.org/10.1126/scitranslmed.3006294)
+
+17. Boly, M., Massimini, M., Tsuchiya, N., et al. (2017). Are the neural correlates of consciousness in the front or in the back of the cerebral cortex? Clinical and neuroimaging evidence. *Journal of Neuroscience*, 37(40), 9603–9613. [https://doi.org/10.1523/JNEUROSCI.3218-16.2017](https://doi.org/10.1523/JNEUROSCI.3218-16.2017)
+
+18. Seth, A. K. (2007). Models of consciousness. *Scholarpedia*, 2(1), 1328. [https://doi.org/10.4249/scholarpedia.1328](https://doi.org/10.4249/scholarpedia.1328)
+
+19. Oizumi, M., Amari, S., Yanagawa, T., et al. (2016). Measuring integrated information from the decoding perspective. *PLoS Computational Biology*, 12(1), e1004654. [https://doi.org/10.1371/journal.pcbi.1004654](https://doi.org/10.1371/journal.pcbi.1004654)([Nature][3])
+
+20. Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5, 42. [https://doi.org/10.1186/1471-2202-5-42](https://doi.org/10.1186/1471-2202-5-42)
+
+---
+
+### 5. Временная архитектура сознания
+
+21. Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56–61. [https://doi.org/10.1016/S1364-6613(97)01008-5](https://doi.org/10.1016/S1364-6613%2897%2901008-5)
+
+22. Wittmann, M. (2011). Moments in time. *Frontiers in Integrative Neuroscience*, 5, 66. [https://doi.org/10.3389/fnint.2011.00066](https://doi.org/10.3389/fnint.2011.00066)
+
+23. VanRullen, R., & Koch, C. (2003). Is perception discrete or continuous? *Trends in Cognitive Sciences*, 7(5), 207–213. [https://doi.org/10.1016/S1364-6613(03)00095-0](https://doi.org/10.1016/S1364-6613%2803%2900095-0)
+
+24. Lisman, J. E., & Jensen, O. (2013). The theta-gamma neural code. *Neuron*, 77(6), 1002–1016. [https://doi.org/10.1016/j.neuron.2013.03.007](https://doi.org/10.1016/j.neuron.2013.03.007)([PMC][4])
+
+25. Fries, P. (2015). Rhythms for cognition: communication through coherence. *Neuron*, 88(1), 220–235. [https://doi.org/10.1016/j.neuron.2015.09.034](https://doi.org/10.1016/j.neuron.2015.09.034)
+
+
+
+[1]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3164584/ "Neural Oscillations Associated with Item and Temporal Order ..."
+[2]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8770991/ "Conscious Processing and the Global Neuronal Workspace ..."
+[3]: https://www.nature.com/articles/s42003-023-05063-y "An implementation of integrated information theory in resting-state ..."
+[4]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3648857/ "The Theta-Gamma Neural Code - PMC - PubMed Central"
+
+
+---
+
+
 Оглавление:
 
 - [Теория Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/README.md)
