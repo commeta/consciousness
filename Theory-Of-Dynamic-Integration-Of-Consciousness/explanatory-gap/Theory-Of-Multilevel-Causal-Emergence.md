@@ -342,29 +342,72 @@
 ---
 
 
-## Ключевые научные работы по проблеме
 
-**Список литературы:**
+## Ключевые научные ссылки
 
-1. Чалмерс, Д. Сознающий ум: в поисках фундаментальной теории / Д. Чалмерс. — М.: УРСС, 2013. — 512 с. DOI: 10.1093/acprof:oso/9780195105533.001.0001
+### Фундаментальные работы по проблеме объяснительного провала
 
-2. Левин, Дж. Материализм и квалиа: объяснительный провал / Дж. Левин // Pacific Philosophical Quarterly. — 1983. — Т. 64, № 4. — С. 354-361. DOI: 10.1111/j.1468-0114.1983.tb00207.x
+1. **Levine, J. (1983).** Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64(4), 354-361. DOI: [10.1111/j.1468-0114.1983.tb00207.x](https://doi.org/10.1111/j.1468-0114.1983.tb00207.x)
 
-3. Нагель, Т. Каково быть летучей мышью? / Т. Нагель // Философские науки. — 1995. — № 6. — С. 27-34. DOI: 10.1093/oso/9780195056440.003.0004
+2. **Chalmers, D. J. (1995).** Facing up to the problem of consciousness. *Journal of Consciousness Studies*, 2(3), 200-219. URL: [https://consc.net/papers/facing.html](https://consc.net/papers/facing.html)
 
-4. Джексон, Ф. Эпифеноменальные квалиа / Ф. Джексон // Philosophical Quarterly. — 1982. — Т. 32, № 127. — С. 127-136. DOI: 10.2307/2960077
+3. **Nagel, T. (1974).** What is it like to be a bat? *The Philosophical Review*, 83(4), 435-450. DOI: [10.2307/2183914](https://doi.org/10.2307/2183914)
 
-5. Блок, Н. Феноменальное сознание / Н. Блок // Nature. — 1995. — Т. 377. — С. 293-294. DOI: 10.1038/377293a0
+4. **Jackson, F. (1982).** Epiphenomenal qualia. *The Philosophical Quarterly*, 32(127), 127-136. DOI: [10.2307/2960077](https://doi.org/10.2307/2960077)
 
-6. Кох, К. Сознание: исповедь романтического редукциониста / К. Кох. — М.: АСТ, 2015. — 416 с. DOI: 10.7551/mitpress/9475.001.0001
+5. **Block, N. (1995).** On a confusion about a function of consciousness. *Behavioral and Brain Sciences*, 18(2), 227-247. DOI: [10.1017/S0140525X00038188](https://doi.org/10.1017/S0140525X00038188)
 
-7. Деннет, Д. Объясненное сознание / Д. Деннет. — М.: Идея-Пресс, 2004. — 528 с. DOI: 10.2307/j.ctvjsf541
+### Нейробиологические основы интеграции информации
 
-8. Тонони, Дж. Теория интегрированной информации сознания / Дж. Тонони // BMC Neuroscience. — 2004. — Т. 5. — С. 42. DOI: 10.1186/1471-2202-5-42
+6. **Tononi, G. (2008).** Consciousness and complexity. *Science*, 282(5395), 1846-1851. DOI: [10.1126/science.282.5395.1846](https://doi.org/10.1126/science.282.5395.1846)
 
-9. Дамасио, А. Самость, которая должна возникнуть / А. Дамасио. — М.: Карьера Пресс, 2018. — 368 с. DOI: 10.1093/acprof:oso/9780195385860.001.0001
+7. **Dehaene, S., & Changeux, J. P. (2011).** Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227. DOI: [10.1016/j.neuron.2011.03.018](https://doi.org/10.1016/j.neuron.2011.03.018)
 
-10. Эдельман, Г. Теория нейронального дарвинизма / Г. Эдельман, Дж. Тонони. — М.: Мир, 2005. — 336 с. DOI: 10.1093/acprof:oso/9780195140132.001.0001
+8. **Baars, B. J. (2005).** Global workspace theory of consciousness: toward a cognitive neuroscience of human experience. *Progress in Brain Research*, 150, 45-53. DOI: [10.1016/S0079-6123(05)50004-9](https://doi.org/10.1016/S0079-6123(05)50004-9)
+
+9. **Lamme, V. A. (2010).** How neuroscience will change our view on consciousness. *Cognitive Neuroscience*, 1(3), 204-220. DOI: [10.1080/17588921003731586](https://doi.org/10.1080/17588921003731586)
+
+10. **Seth, A. K. (2013).** Interoceptive inference, emotion, and the embodied self. *Trends in Cognitive Sciences*, 17(11), 565-573. DOI: [10.1016/j.tics.2013.09.007](https://doi.org/10.1016/j.tics.2013.09.007)
+
+### Гамма-осцилляции и связывание сознания
+
+11. **Engel, A. K., & Singer, W. (2001).** Temporal binding and the neural correlates of sensory awareness. *Trends in Cognitive Sciences*, 5(1), 16-25. DOI: [10.1016/S1364-6613(00)01568-0](https://doi.org/10.1016/S1364-6613(00)01568-0)
+
+12. **Rodriguez, E., George, N., Lachaux, J. P., et al. (1999).** Perception's shadow: long-distance synchronization of human brain activity. *Nature*, 397(6718), 430-433. DOI: [10.1038/17120](https://doi.org/10.1038/17120)
+
+13. **Melloni, L., Molina, C., Pena, M., et al. (2007).** Synchronization of neural activity across cortical areas correlates with conscious perception. *Journal of Neuroscience*, 27(11), 2858-2865. DOI: [10.1523/JNEUROSCI.4623-06.2007](https://doi.org/10.1523/JNEUROSCI.4623-06.2007)
+
+14. **Cosmelli, D., David, O., Lachaux, J. P., et al. (2004).** Waves of consciousness: ongoing cortical patterns during binocular rivalry. *NeuroImage*, 23(1), 128-140. DOI: [10.1016/j.neuroimage.2004.05.008](https://doi.org/10.1016/j.neuroimage.2004.05.008)
+
+### Критическая динамика мозга
+
+15. **Beggs, J. M., & Plenz, D. (2003).** Neuronal avalanches in neocortical circuits. *Journal of Neuroscience*, 23(35), 11167-11177. DOI: [10.1523/JNEUROSCI.23-35-11167.2003](https://doi.org/10.1523/JNEUROSCI.23-35-11167.2003)
+
+16. **Tagliazucchi, E., Balenzuela, P., Fraiman, D., & Chialvo, D. R. (2012).** Criticality in large-scale brain FMRI dynamics unveiled by a novel point process analysis. *Frontiers in Physiology*, 3, 15. DOI: [10.3389/fphys.2012.00015](https://doi.org/10.3389/fphys.2012.00015)
+
+17. **Shew, W. L., Yang, H., Petermann, T., et al. (2009).** Neuronal avalanches imply maximum dynamic range in cortical networks at criticality. *Journal of Neuroscience*, 29(49), 15595-15600. DOI: [10.1523/JNEUROSCI.3864-09.2009](https://doi.org/10.1523/JNEUROSCI.3864-09.2009)
+
+### Нарушения сознания и их изучение
+
+18. **Laureys, S., Owen, A. M., & Schiff, N. D. (2004).** Brain function in coma, vegetative state, and related disorders. *The Lancet Neurology*, 3(9), 537-546. DOI: [10.1016/S1474-4422(04)00852-X](https://doi.org/10.1016/S1474-4422(04)00852-X)
+
+19. **Casali, A. G., Gosseries, O., Rosanova, M., et al. (2013).** A theoretically based index of consciousness independent of sensory processing and behavior. *Science Translational Medicine*, 5(198), 198ra105. DOI: [10.1126/scitranslmed.3006294](https://doi.org/10.1126/scitranslmed.3006294)
+
+20. **Boly, M., Massimini, M., Tsuchiya, N., et al. (2017).** Are the neural correlates of consciousness in the front or in the back of the cerebral cortex? Clinical and neuroimaging evidence. *Journal of Neuroscience*, 37(40), 9603-9613. DOI: [10.1523/JNEUROSCI.3218-16.2017](https://doi.org/10.1523/JNEUROSCI.3218-16.2017)
+
+### Предиктивная обработка и сознание
+
+21. **Clark, A. (2013).** Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181-204. DOI: [10.1017/S0140525X12000477](https://doi.org/10.1017/S0140525X12000477)
+
+22. **Hohwy, J. (2013).** The predictive mind: How the brain makes sense of the world. Oxford University Press. DOI: [10.1093/acprof:oso/9780199682737.001.0001](https://doi.org/10.1093/acprof:oso/9780199682737.001.0001)
+
+23. **Friston, K. (2010).** The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127-138. DOI: [10.1038/nrn2787](https://doi.org/10.1038/nrn2787)
+
+### Измененные состояния сознания
+
+24. **Carhart-Harris, R. L., & Friston, K. J. (2019).** REBUS and the anarchic brain: toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344. DOI: [10.1124/pr.118.017160](https://doi.org/10.1124/pr.118.017160)
+
+25. **Tagliazucchi, E., & Carhart-Harris, R. L. (2018).** The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs. *Progress in Neurobiology*, 171, 1-12. DOI: [10.1016/j.pneurobio.2018.07.003](https://doi.org/10.1016/j.pneurobio.2018.07.003)
 
 
 ---
