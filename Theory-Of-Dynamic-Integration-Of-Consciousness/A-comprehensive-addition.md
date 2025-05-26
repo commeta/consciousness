@@ -675,6 +675,88 @@
 
 ---
 
+## Источники
+
+### 1. Эволюция сознания и нейронная интеграция
+
+1. **Edelman, G. M., Tononi, G.** A universe of consciousness: How matter becomes imagination / G. M. Edelman, G. Tononi. – New York: Basic Books, 2000. – 274 p. 
+
+2. **Dehaene, S.** Consciousness and the brain: Deciphering how the brain codes our thoughts / S. Dehaene. – New York: Viking, 2014. – 352 p. 
+
+3. **Tononi, G.** Integrated information theory: from consciousness to its physical substrate / G. Tononi // Nature Reviews Neuroscience. – 2016. – Vol. 17, № 7. – P. 450-461. DOI: https://doi.org/10.1038/nrn.2016.44
+
+4. **Mashour, G. A., Roelfsema, P., Changeux, J. P., Dehaene, S.** Conscious processing and the global neuronal workspace hypothesis / G. A. Mashour, P. Roelfsema, J. P. Changeux, S. Dehaene // Neuron. – 2020. – Vol. 105, № 5. – P. 776-798. DOI: https://doi.org/10.1016/j.neuron.2020.01.026
+
+### 2. Сравнительная психология и сознание животных
+
+5. **Gallup Jr, G. G.** Self-awareness and the emergence of mind in primates / G. G. Gallup Jr // American Journal of Primatology. – 1982. – Vol. 2, № 3. – P. 237-248. DOI: https://doi.org/10.1002/ajp.1350020302
+
+6. **Prior, H., Schwarz, A., Güntürkün, O.** Mirror-induced behavior in the magpie (Pica pica): evidence of self-recognition / H. Prior, A. Schwarz, O. Güntürkün // PLoS Biology. – 2008. – Vol. 6, № 8. – e202. DOI: https://doi.org/10.1371/journal.pbio.0060202
+
+7. **Reiss, D., Marino, L.** Mirror self-recognition in the bottlenose dolphin: A case of cognitive convergence / D. Reiss, L. Marino // Proceedings of the National Academy of Sciences. – 2001. – Vol. 98, № 10. – P. 5937-5942. DOI: https://doi.org/10.1073/pnas.101086398
+
+8. **Plotnik, J. M., De Waal, F. B., Reiss, D.** Self-recognition in an Asian elephant / J. M. Plotnik, F. B. De Waal, D. Reiss // Proceedings of the National Academy of Sciences. – 2006. – Vol. 103, № 45. – P. 17053-17057. DOI: https://doi.org/10.1073/pnas.0608062103
+
+### 3. Развитие сознания в онтогенезе
+
+9. **Johnson, M. H.** Functional brain development in humans / M. H. Johnson // Nature Reviews Neuroscience. – 2001. – Vol. 2, № 7. – P. 475-483. DOI: https://doi.org/10.1038/35081509
+
+10. **Lagercrantz, H., Changeux, J. P.** The emergence of human consciousness: from fetal to neonatal life / H. Lagercrantz, J. P. Changeux // Pediatric Research. – 2009. – Vol. 65, № 3. – P. 255-260. DOI: https://doi.org/10.1203/PDR.0b013e3181973b0d
+
+11. **Zelazo, P. D.** The development of conscious control in childhood / P. D. Zelazo // Trends in Cognitive Sciences. – 2004. – Vol. 8, № 1. – P. 12-17. DOI: https://doi.org/10.1016/j.tics.2003.11.001
+
+12. **Nelson, C. A., Thomas, K. M., De Haan, M.** Neuroscience of cognitive development: The role of experience and the developing brain / C. A. Nelson, K. M. Thomas, M. De Haan. – 2nd ed. – Hoboken: Wiley, 2016. – 680 p. DOI: https://doi.org/10.1002/9781118963418
+
+### 4. Генетические основы индивидуальных различий
+
+13. **Plomin, R., Deary, I. J.** Genetics and intelligence differences: five special findings / R. Plomin, I. J. Deary // Molecular Psychiatry. – 2015. – Vol. 20, № 1. – P. 98-108. DOI: https://doi.org/10.1038/mp.2014.105
+
+14. **Diamond, A.** Executive functions / A. Diamond // Annual Review of Psychology. – 2013. – Vol. 64. – P. 135-168. DOI: https://doi.org/10.1146/annurev-psych-113011-143750
+
+15. **Weinberger, D. R., Egan, M. F., Bertolino, A.** Prefrontal neurons and the genetics of schizophrenia / D. R. Weinberger, M. F. Egan, A. Bertolino // Biological Psychiatry. – 2001. – Vol. 50, № 11. – P. 825-844. DOI: https://doi.org/10.1016/S0006-3223(01)01252-5
+
+16. **Caspi, A., Moffitt, T. E.** Gene–environment interactions in psychiatry: joining forces with neuroscience / A. Caspi, T. E. Moffitt // Nature Reviews Neuroscience. – 2006. – Vol. 7, № 7. – P. 583-590. DOI: https://doi.org/10.1038/nrn1925
+
+### 5. Социальные и культурные аспекты сознания
+
+17. **Dunbar, R. I.** The social brain hypothesis / R. I. Dunbar // Evolutionary Anthropology. – 1998. – Vol. 6, № 5. – P. 178-190. DOI: https://doi.org/10.1002/(SICI)1520-6505(1998)6:5<178::AID-EVAN5>3.0.CO;2-8
+
+18. **Tomasello, M.** The cultural origins of human cognition / M. Tomasello. – Cambridge: Harvard University Press, 1999. – 248 p. DOI: https://doi.org/10.4159/9780674044371
+
+19. **Markus, H. R., Kitayama, S.** Culture and the self: Implications for cognition, emotion, and motivation / H. R. Markus, S. Kitayama // Psychological Review. – 1991. – Vol. 98, № 2. – P. 224-253. DOI: https://doi.org/10.1037/0033-295X.98.2.224
+
+20. **Henrich, J., Heine, S. J., Norenzayan, A.** The weirdest people in the world? / J. Henrich, S. J. Heine, A. Norenzayan // Behavioral and Brain Sciences. – 2010. – Vol. 33, № 2-3. – P. 61-83. DOI: https://doi.org/10.1017/S0140525X0999152X
+
+### 6. Нейронные сети и связность мозга
+
+21. **Sporns, O.** Networks of the brain / O. Sporns. – Cambridge: MIT Press, 2010. – 412 p. DOI: https://doi.org/10.7551/mitpress/8476.001.0001
+
+22. **Buckner, R. L., Carroll, D. C.** Self-projection and the brain / R. L. Buckner, D. C. Carroll // Trends in Cognitive Sciences. – 2007. – Vol. 11, № 2. – P. 49-57. DOI: https://doi.org/10.1016/j.tics.2006.11.004
+
+23. **Menon, V.** Large-scale brain networks and psychopathology: a unifying triple network model / V. Menon // Trends in Cognitive Sciences. – 2011. – Vol. 15, № 10. – P. 483-506. DOI: https://doi.org/10.1016/j.tics.2011.08.003
+
+### 7. Медитация и измененные состояния сознания
+
+24. **Tang, Y. Y., Hölzel, B. K., Posner, M. I.** The neuroscience of mindfulness meditation / Y. Y. Tang, B. K. Hölzel, M. I. Posner // Nature Reviews Neuroscience. – 2015. – Vol. 16, № 4. – P. 213-225. DOI: https://doi.org/10.1038/nrn3916
+
+25. **Brewer, J. A., Worhunsky, P. D., Gray, J. R.** Meditation experience is associated with differences in default mode network activity and connectivity / J. A. Brewer, P. D. Worhunsky, J. R. Gray // Proceedings of the National Academy of Sciences. – 2011. – Vol. 108, № 50. – P. 20254-20259. DOI: https://doi.org/10.1073/pnas.1112029108
+
+### 8. Язык и сознание
+
+26. **Lupyan, G., Ward, E. J.** Language can boost otherwise unseen objects into visual awareness / G. Lupyan, E. J. Ward // Proceedings of the National Academy of Sciences. – 2013. – Vol. 110, № 35. – P. 14196-14201. DOI: https://doi.org/10.1073/pnas.1303312110
+
+27. **Bialystok, E., Craik, F. I., Luk, G.** Bilingualism: consequences for mind and brain / E. Bialystok, F. I. Luk, G. Craik // Trends in Cognitive Sciences. – 2012. – Vol. 16, № 4. – P. 240-250. DOI: https://doi.org/10.1016/j.tics.2012.03.001
+
+### 9. Патология сознания
+
+28. **Laureys, S., Schiff, N. D.** Coma and consciousness: paradigms (re)framed by neuroimaging / S. Laureys, N. D. Schiff // NeuroImage. – 2012. – Vol. 61, № 2. – P. 478-491. DOI: https://doi.org/10.1016/j.neuroimage.2011.12.041
+
+29. **Owen, A. M., Coleman, M. R.** Detecting awareness in the vegetative state / A. M. Owen, M. R. Coleman // Science. – 2006. – Vol. 313, № 5792. – P. 1402. DOI: https://doi.org/10.1126/science.1130197
+
+30. **Northoff, G., Qin, P.** How is our self related to midline regions and the default-mode network? / G. Northoff, P. Qin // NeuroImage. – 2011. – Vol. 57, № 3. – P. 1221-1233. DOI: https://doi.org/10.1016/j.neuroimage.2011.05.028
+
+---
+
 Оглавление:
 
 - [Теория Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/README.md)
