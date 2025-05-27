@@ -169,7 +169,7 @@
   * **Мгновенное «спайковое» единство** — за счёт кратковременного повышения Φₑ в γ-пики  
   * **Построение «сюжета» сознания** — через последовательность S-переходов, синхронизированных θ/δ-рождениями  
 
-[Полная формализация ДГА с рекуррентными петлями и Φₑ](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/dga-recurrent-loops-and-the-metric-φₑ.md)
+[Полная формализация ДГА с рекуррентными петлями и Φₑ](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/dga-recurrent-loops-and-the-metric-Fe.md)
 
 
 ---
