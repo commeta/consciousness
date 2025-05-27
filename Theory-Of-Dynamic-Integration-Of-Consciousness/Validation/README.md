@@ -234,7 +234,7 @@ $\displaystyle \Phi_e = \int I(t)\,R(t)\,dt$,
 * Высокие значения AUC > 0.8 в ROC-анализе.
 * Репродуцируемость результатов на разных субъектах.
 
-[Валидация ЭИРО и метрики Φₑ](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/EIRM-and-the-metrics-of-φₑ.md)
+[Валидация ЭИРО и метрики Φₑ](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/EIRM-and-the-metrics-of-Fe.md)
 
 ---
 
