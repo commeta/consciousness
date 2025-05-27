@@ -135,9 +135,7 @@ $$
 * DOI: [10.1038/35094565](https://doi.org/10.1038/35094565)
 * Аннотация доступна на [PubMed](https://pubmed.ncbi.nlm.nih.gov/11584308/)([Nature][4], [PubMed][5])
 
----
 
-Если вам потребуется помощь с доступом к полным текстам или дополнительная информация по этим статьям, пожалуйста, сообщите.
 
 [1]: https://europepmc.org/article/MED/22049421 "Rich-club organization of the human connectome. - Abstract - Europe PMC"
 [2]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6623027/ "Rich-Club Organization of the Human Connectome - PMC"
