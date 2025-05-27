@@ -261,6 +261,8 @@ $\displaystyle \Phi_e = \int I(t)\,R(t)\,dt$,
 
 [Валидация метрик ТДИС (Φ, D, T и КШДИС)](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/TDIC-metrics.md)
 
+[Эмпирическая формализация ТДИС: Методы измерения и математические модели](/Theory-Of-Dynamic-Integration-Of-Consciousness/Empirical-formalization.md)
+
 ---
 
 ## План 3. Валидация Динамического Глобального Аттрактора (ДГА)
