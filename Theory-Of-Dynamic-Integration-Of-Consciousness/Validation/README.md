@@ -236,6 +236,8 @@ $\displaystyle \Phi_e = \int I(t)\,R(t)\,dt$,
 
 [Валидация ЭИРО и метрики Φₑ](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/EIRM-and-the-metrics-of-Fe.md)
 
+[Метрика эмергентной интегрированной информации (Φₑ)](/Theory-Of-Dynamic-Integration-Of-Consciousness/methods/The-metric-of-emergent-integrated-information-φₑ.md)
+
 ---
 
 ## План 2. Валидация классических метрик ТДИС (Φ, D, T и КШДИС)
