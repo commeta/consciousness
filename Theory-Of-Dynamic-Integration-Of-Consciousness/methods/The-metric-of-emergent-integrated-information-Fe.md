@@ -72,6 +72,8 @@ $$
      $\,P(\text{C}|D)=P(D|\text{C})P(\text{C})/P(D)$
      иерархически разложенная на нейронную активность, когнитивные состояния и феноменальное сознание .
 
+[Валидация ЭИРО и метрики Φₑ](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/EIRM-and-the-metrics-of-Fe.md)
+
 ---
 
 ## 4. Вычислительная масштабируемость
