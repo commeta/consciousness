@@ -282,6 +282,8 @@ $\displaystyle \Phi_e = \int I(t)\,R(t)\,dt$,
 
 [Валидация Динамического Глобального Аттрактора](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/Dynamic-Global-Attractor.md)
 
+[ДГА с учетом рекуррентных петель и метрики Φₑ](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/dga-recurrent-loops-and-the-metric-Fe.md)
+
 ---
 
 Каждый из этих планов создаёт самостоятельный каркас для проверок и валидации теоретических положений. 
