@@ -8,7 +8,7 @@ $$
 
 на основе компонент интеграции $I(t)$ и рекуррентности $R(t)$ надёжно различает состояния «сознательное» (бодрствование) и «бессознательное» (глубокая анестезия) в данных ЭЭГ.
 
-[Метрика эмергентной интегрированной информации (Φₑ)](/Theory-Of-Dynamic-Integration-Of-Consciousness/methods/The-metric-of-emergent-integrated-information-φₑ.md)
+[Метрика эмергентной интегрированной информации (Φₑ)](/Theory-Of-Dynamic-Integration-Of-Consciousness/methods/The-metric-of-emergent-integrated-information-Fe.md)
 
 ---
 
