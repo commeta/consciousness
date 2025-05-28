@@ -595,8 +595,8 @@ flowchart TD
 <summary>Подробнее</summary>
 
 - [Эмерджентная интегрированная информация](/Integrated-Information-Metric.md)
-- [Калькулятор эмерджентной интегрированной информации](/Emergent-Integrated-Information-Calculator.md)
-- [Калькулятор степени интеграции информации](/Emergent-Integrated-Information-Calculator.md)
+- [Калькулятор эмерджентной интегрированной информации](/Computer-Science-and-Artificial-Intelligence/Emergent-Integrated-Information-Calculator.md)
+- [Калькулятор степени интеграции информации](/Computer-Science-and-Artificial-Intelligence/Emergent-Integrated-Information-Calculator.md)
 - Пункт 4.4. Эмерджентная интегрированная информация ($\Phi_e$)
 
 </details>
@@ -1392,7 +1392,7 @@ $I_{\text{integration}}(t)$ измеряет, насколько информа�
 <details>
 <summary>Подробнее</summary>
 
-- [Калькулятор эмерджентной интегрированной информации (Φₑ)](/Emergent-Integrated-Information-Calculator.md)
+- [Калькулятор эмерджентной интегрированной информации (Φₑ)](/Computer-Science-and-Artificial-Intelligence/Emergent-Integrated-Information-Calculator.md)
 
 </details>
 
@@ -1436,7 +1436,7 @@ $I_{\text{integration}}(t)$ измеряет, насколько информа�
 <details>
 <summary>Подробнее</summary>
 
-- [Калькулятор степени интеграции информации (I₍интеграции₎(t))](/Emergent-Integrated-Information-Calculator.md)
+- [Калькулятор степени интеграции информации (I₍интеграции₎(t))](/Computer-Science-and-Artificial-Intelligence/Emergent-Integrated-Information-Calculator.md)
 
 </details>
 
