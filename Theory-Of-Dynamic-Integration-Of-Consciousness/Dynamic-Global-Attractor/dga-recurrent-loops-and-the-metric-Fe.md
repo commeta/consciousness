@@ -1,5 +1,7 @@
 # ДГА с учетом рекуррентных петель и метрики Φₑ
 
+[Метрика эмергентной интегрированной информации (Φₑ)](/Theory-Of-Dynamic-Integration-Of-Consciousness/methods/The-metric-of-emergent-integrated-information-Fe.md)
+
 ---
 
 ## Аннотация
