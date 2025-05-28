@@ -141,7 +141,7 @@ flowchart TD
 
   - Алгоритм численного интегрирования (метод трапеций, Симпсона или Рунге-Кутты).
 
-[Калькулятор эмерджентной интегрированной информации (Φₑ) на Python 3](/Emergent-Integrated-Information-Calculator.md)
+[Калькулятор эмерджентной интегрированной информации (Φₑ) на Python 3](/Computer-Science-and-Artificial-Intelligence/Emergent-Integrated-Information-Calculator.md)
 
 #### 2.2. Калькулятор степени интеграции информации ( I_(интеграции)(t) )
 
@@ -155,7 +155,7 @@ flowchart TD
 
   - Алгоритмы теории информации.
 
-[Калькулятор степени интеграции информации на Python 3](/Information-Integration-Degree-Calculator.md)
+[Калькулятор степени интеграции информации на Python 3](/Computer-Science-and-Artificial-Intelligence/Information-Integration-Degree-Calculator.md)
 
 
 #### 2.3. Калькулятор степени рекуррентности ( R_(рекуррентности)(t) )
