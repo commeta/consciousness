@@ -43,7 +43,7 @@
 
   - [ДГА с учетом рекуррентных петель и метрики Φₑ](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/dga-recurrent-loops-and-the-metric-Fe.md)
 
-  - [Усовершенствованная модель Динамического Глобального Аттрактора (ДГА-R)](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/dga-recurrent-loops-and-the-metric-Fe2.md)
+  - [Усовершенствованная модель Динамического Глобального Аттрактора (ДГА-R)](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/dga-recurrent-loops-and-the-metric-Fe-v2.md)
 
 - [Валидация](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/README.md)
 
