@@ -209,6 +209,11 @@
 
 [Валидация Динамического Глобального Аттрактора (ДГА)](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/Dynamic-Global-Attractor.md)
 
+[Усовершенствованная модель Динамического Глобального Аттрактора (ДГА-R)](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/dga-recurrent-loops-and-the-metric-Fe-v2.md)
+
+[Решения проблемы объяснительного провала в ДГА-R](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/Solutions-in-DGA-R.md)
+
+
 ---
 
 ## Проблема «объяснительного провала» через пример цвета
