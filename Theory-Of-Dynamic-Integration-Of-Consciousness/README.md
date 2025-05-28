@@ -9,13 +9,13 @@
 
 - [Критический анализ ТДИС](/Theory-Of-Dynamic-Integration-Of-Consciousness/Critical-analysis.md) 
 
-- [Решения концептуальных проблем ТДИС](/Theory-Of-Dynamic-Integration-Of-Consciousness/Conceptual-issues.md) 
+  - [Решения концептуальных проблем ТДИС](/Theory-Of-Dynamic-Integration-Of-Consciousness/Conceptual-issues.md) 
 
-- [Решения логических и философских проблем ТДИС](/Theory-Of-Dynamic-Integration-Of-Consciousness/Logical-and-philosophical-issues.md) 
+  - [Решения логических и философских проблем ТДИС](/Theory-Of-Dynamic-Integration-Of-Consciousness/Logical-and-philosophical-issues.md) 
 
-- [Недостающие элементы ТДИС: Комплексное дополнение теории](/Theory-Of-Dynamic-Integration-Of-Consciousness/A-comprehensive-addition.md) 
+  - [Недостающие элементы ТДИС: Комплексное дополнение теории](/Theory-Of-Dynamic-Integration-Of-Consciousness/A-comprehensive-addition.md) 
 
-- [Эмпирическая формализация ТДИС: Методы измерения и математические модели](/Theory-Of-Dynamic-Integration-Of-Consciousness/Empirical-formalization.md) 
+  - [Эмпирическая формализация ТДИС: Методы измерения и математические модели](/Theory-Of-Dynamic-Integration-Of-Consciousness/Empirical-formalization.md) 
 
 **Расширение ТДИС** (experimental branch)
 
