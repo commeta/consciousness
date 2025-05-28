@@ -171,6 +171,7 @@
 
 [Полная формализация ДГА с рекуррентными петлями и Φₑ](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/dga-recurrent-loops-and-the-metric-Fe.md)
 
+[Решение проблемы объяснительного провала в рамках ДГА](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/The-Concept-Of-DGA.md)
 
 ---
 
