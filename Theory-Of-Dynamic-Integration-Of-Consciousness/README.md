@@ -1,5 +1,67 @@
 # Теория Динамической Интеграции Сознания (ТДИС)
 
+<details>
+<summary>Содержание </summary>
+
+- [Обзор Теории Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/review.md) 
+
+- [Теория Динамической Интеграции Сознания (ТДИС)](/Theory-Of-Dynamic-Integration-Of-Consciousness/README.md) 
+
+- [Критический анализ ТДИС](/Theory-Of-Dynamic-Integration-Of-Consciousness/Critical-analysis.md) 
+
+- [Решения концептуальных проблем ТДИС](/Theory-Of-Dynamic-Integration-Of-Consciousness/Conceptual-issues.md) 
+
+- [Решения логических и философских проблем ТДИС](/Theory-Of-Dynamic-Integration-Of-Consciousness/Logical-and-philosophical-issues.md) 
+
+- [Недостающие элементы ТДИС: Комплексное дополнение теории](/Theory-Of-Dynamic-Integration-Of-Consciousness/A-comprehensive-addition.md) 
+
+- [Эмпирическая формализация ТДИС: Методы измерения и математические модели](/Theory-Of-Dynamic-Integration-Of-Consciousness/Empirical-formalization.md) 
+
+**Расширение ТДИС** (experimental branch)
+
+- [Проблема объяснительного провала](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/README.md)
+
+  - [Теория Эмерджентной Феноменальной Каузации (ТЭФК)](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/The-Theory-Of-Emergent-Phenomenal-Causation.md)
+
+  - [Теория Многоуровневой Каузальной Эмерджентности (ТМКЭ)](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/Theory-Of-Multilevel-Causal-Emergence.md)
+
+  - [Концепция Каузально-информационной реализации субъективности](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/The-concept-of-Causal-information-realization-of-subjectivity.md)
+
+  - [Концепция Динамического Глобального Аттрактора (ДГА)](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/The-Concept-Of-DGA.md)
+
+  - [Гипотеза «моста» между 3-им лицом (нейродинамикой) и 1-м лицом (qualia)](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/The-bridge-hypothesis.md)
+
+
+- [Методы](/Theory-Of-Dynamic-Integration-Of-Consciousness/methods/README.md)
+
+  - [Метрика эмергентной интегрированной информации (Φₑ)](/Theory-Of-Dynamic-Integration-Of-Consciousness/methods/The-metric-of-emergent-integrated-information-Fe.md)
+
+- [Динамический Глобальный Аттракт (ДГА)](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/README.md)
+
+  - [ДГА с учетом фазовых переходов и сверхсинаптической связи](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/extrasynaptic-dga.md)
+
+  - [ДГА с учетом рекуррентных петель и метрики Φₑ](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/dga-recurrent-loops-and-the-metric-Fe.md)
+
+
+- [Валидация](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/README.md)
+
+  - [Валидация ЭИРО и метрики Φₑ](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/EIRM-and-the-metrics-of-Fe.md)
+
+  - [Валидация метрик ТДИС (Φ, D, T и КШДИС)](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/TDIC-metrics.md)
+
+  - [Валидация Динамического Глобального Аттрактора (ДГА)](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/Dynamic-Global-Attractor.md)
+
+
+- [Архитектуры AGI ИИ в Теории Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/Architectures/README.md) 
+
+  - [Пример архитектуры AGI ИИ в Теории Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/Architectures/AGI-architectures.md)
+
+  - [ARIA: Artificial Reflective Intelligence Architecture](/Theory-Of-Dynamic-Integration-Of-Consciousness/ARIA/README.md)
+
+  - [Архитектура AGI II DGA](/Theory-Of-Dynamic-Integration-Of-Consciousness/Architectures/DGA-Architecture.md)
+
+</details>
+
 ## Основные принципы
 
 ### 1. Сознание как многоуровневый интегративный процесс
