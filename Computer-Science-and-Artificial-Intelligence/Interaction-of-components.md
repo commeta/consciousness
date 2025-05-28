@@ -251,5 +251,5 @@ flowchart TD
 
 Оглавление: 
 
-- [Принципы работы электронного ядра искусственного интеллекта и современные электронные компоненты](/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
+- [Принципы работы электронного ядра искусственного интеллекта и современные электронные компоненты](/Computer-Science-and-Artificial-Intelligence/Principles-of-operation-of-the-electronic-core-of-artificial-intelligence.md)
 - [ЭИРО framework](/README.md)
