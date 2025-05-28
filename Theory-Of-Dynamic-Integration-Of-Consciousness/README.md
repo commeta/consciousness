@@ -31,6 +31,7 @@
 
   - [Гипотеза «моста» между 3-им лицом (нейродинамикой) и 1-м лицом (qualia)](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/The-bridge-hypothesis.md)
 
+  - [Решения проблемы объяснительного провала в ДГА-R](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/Solutions-in-DGA-R.md)
 
 - [Методы](/Theory-Of-Dynamic-Integration-Of-Consciousness/methods/README.md)
 
@@ -42,6 +43,7 @@
 
   - [ДГА с учетом рекуррентных петель и метрики Φₑ](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/dga-recurrent-loops-and-the-metric-Fe.md)
 
+  - [Усовершенствованная модель Динамического Глобального Аттрактора (ДГА-R)](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/dga-recurrent-loops-and-the-metric-Fe2.md)
 
 - [Валидация](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/README.md)
 
