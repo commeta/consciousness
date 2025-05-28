@@ -15,6 +15,11 @@
           ↓                ↓               ↓
 ```
 
+[ДГА с учетом рекуррентных петель и метрики Φₑ](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/dga-recurrent-loops-and-the-metric-Fe.md)
+
+[Концепция Динамического Глобального Аттрактора (ДГА)](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/The-Concept-Of-DGA.md)
+
+
 ---
 
 ## 1. Перцептивно-рабочий слой
