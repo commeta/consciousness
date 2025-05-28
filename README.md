@@ -320,11 +320,7 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
 - [Эмпирическая формализация ТДИС: Методы измерения и математические модели](/Theory-Of-Dynamic-Integration-Of-Consciousness/Empirical-formalization.md) May 24, 2025
 
-- [Пример архитектуры AGI ИИ в Теории Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/Architectures/README.md) May 24, 2025
-
-- [ARIA: Artificial Reflective Intelligence Architecture](/Theory-Of-Dynamic-Integration-Of-Consciousness/ARIA/README.md) May 24, 2025
-
-- [Обзор Теории Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/review.md) May 24, 2025
+- [Архитектуры AGI ИИ в Теории Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/Architectures/README.md) May 24, 2025
 
 </details>
 
