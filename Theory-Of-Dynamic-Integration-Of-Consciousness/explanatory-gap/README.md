@@ -207,6 +207,7 @@
 
 [Концепция Динамического Глобального Аттрактора (ДГА)](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/The-Concept-Of-DGA.md)
 
+[Валидация Динамического Глобального Аттрактора (ДГА)](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/Dynamic-Global-Attractor.md)
 
 ---
 
