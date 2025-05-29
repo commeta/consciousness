@@ -33,9 +33,15 @@
 
   - [Решения проблемы объяснительного провала в ДГА-R](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/Solutions-in-DGA-R.md)
 
+  - [Решение проблемы объяснительного провала в модели ДГА-RPE](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/Solutions-in-DGA-RPE.md)
+
+  - [Решение проблемы объяснительного провала в модели ДГА-P](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/Solutions-in-DGA-RPE-Orch-OR.md)
+
+
 - [Методы](/Theory-Of-Dynamic-Integration-Of-Consciousness/methods/README.md)
 
   - [Метрика эмергентной интегрированной информации (Φₑ)](/Theory-Of-Dynamic-Integration-Of-Consciousness/methods/The-metric-of-emergent-integrated-information-Fe.md)
+
 
 - [Динамический Глобальный Аттракт (ДГА)](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/README.md)
 
@@ -44,6 +50,11 @@
   - [ДГА с учетом рекуррентных петель и метрики Φₑ](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/dga-recurrent-loops-and-the-metric-Fe.md)
 
   - [Усовершенствованная модель Динамического Глобального Аттрактора (ДГА-R)](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/dga-recurrent-loops-and-the-metric-Fe-v2.md)
+
+  - [Модель ДГА-RPE: Динамический Глобальный Аттрактор с Рекуррентным Предиктивным Кодированием и Эфаптической связью](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/DGA-RPE.md)
+
+  - [Модель ДГА-P: Динамический Глобальный Аттрактор с Предиктивной архитектурой](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/DGA-RPE-Orch-OR.md)
+
 
 - [Валидация](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/README.md)
 
