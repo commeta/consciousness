@@ -60,7 +60,9 @@
 
   - [ARIA: Artificial Reflective Intelligence Architecture](/Theory-Of-Dynamic-Integration-Of-Consciousness/ARIA/README.md)
 
-  - [Архитектура AGI II DGA](/Theory-Of-Dynamic-Integration-Of-Consciousness/Architectures/DGA-Architecture.md)
+  - [Архитектура AGI AI DGA](/Theory-Of-Dynamic-Integration-Of-Consciousness/Architectures/DGA-Architecture.md)
+
+  - [Архитектура AGI AI DGA v2](/Theory-Of-Dynamic-Integration-Of-Consciousness/Architectures/DGA-Architecture-v2.md)
 
 </details>
 
