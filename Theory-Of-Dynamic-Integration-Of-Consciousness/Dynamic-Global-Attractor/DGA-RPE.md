@@ -432,6 +432,8 @@ cascade_time = τ_base × ∏_i (1 + exp(-component_i / threshold_i))
 
 Модель ДГА-RPE открывает новые горизонты для понимания природы сознания и создания сознательных технологий.
 
+[Решение проблемы объяснительного провала в модели ДГА-RPE](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/Solutions-in-DGA-RPE.md)
+
 
 ---
 
