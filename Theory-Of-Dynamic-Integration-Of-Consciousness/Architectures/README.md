@@ -32,7 +32,7 @@
 
 ---
 
-## АрхитектураAGI II DGA:
+## АрхитектураAGI AI DGA:
 
 ---
 
@@ -49,13 +49,33 @@
 
 Все три уровня общаются по трём потокам событий (`GWA`, `Attractor`, `Metacog`) при помощи лёгковесного Pub/Sub-протокола (gRPC/Kafka-подобная шина), что обеспечивает низкую задержку и гибкую адаптацию системы в реальном времени.
 
-[Архитектура AGI II DGA](/Theory-Of-Dynamic-Integration-Of-Consciousness/Architectures/DGA-Architecture.md)
+[Архитектура AGI AI DGA](/Theory-Of-Dynamic-Integration-Of-Consciousness/Architectures/DGA-Architecture.md)
 
 [ДГА с учетом рекуррентных петель и метрики Φₑ](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/dga-recurrent-loops-and-the-metric-Fe.md)
 
 [Концепция Динамического Глобального Аттрактора (ДГА)](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/The-Concept-Of-DGA.md)
 
 ---
+
+## Архитектура AGI-AI на базе ДГА-R
+
+Три уровня связаны лёгкой gRPC-Pub/Sub-шинкой:
+
+1. **Перцептивно-рабочий слой**: локальные R-RNN извлекают и фильтруют фазированные признаковые векторы, публикуя их в канал `P-A`.
+2. **Аттрактор-слой**: на входе FeatureVector вычисляет Φₑ, RRI, ASI, TCI и градиент ландшафта, формирует компактный StateVector и шлёт его в `A-M`.
+3. **Мета-когнитивный слой**: Predictor прогнозирует следующий StateVector, Controller по ErrorSignal мгновенно настраивает пороги, приоритеты и ритмы через канал `M-P`.
+
+Гарантируется низкая задержка (<5 мс) и непрерывная адаптация параметров в реальном времени.
+
+[Архитектура AGI AI DGA v2](/Theory-Of-Dynamic-Integration-Of-Consciousness/Architectures/DGA-Architecture-v2.md)
+
+[Усовершенствованная модель Динамического Глобального Аттрактора (ДГА-R)](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/dga-recurrent-loops-and-the-metric-Fe-v2.md)
+
+[Решения проблемы объяснительного провала в ДГА-R](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/Solutions-in-DGA-R.md)
+
+---
+
+
 
 ## ARIA: Artificial Reflective Intelligence Architecture
 
