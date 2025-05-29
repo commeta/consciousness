@@ -53,6 +53,8 @@
 
   - [Валидация Динамического Глобального Аттрактора (ДГА)](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/Dynamic-Global-Attractor.md)
 
+  - [Валидация Динамического Глобального Аттрактора (ДГА-R)](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/Dynamic-Global-Attractor-v2.md)
+
 
 - [Архитектуры AGI ИИ в Теории Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/Architectures/README.md) 
 
