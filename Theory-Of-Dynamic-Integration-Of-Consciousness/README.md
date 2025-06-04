@@ -55,6 +55,10 @@
 
   - [Модель ДГА-P: Динамический Глобальный Аттрактор с Предиктивной архитектурой](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/DGA-RPE-Orch-OR.md)
 
+  - [Модель ДГА-QRAM: Динамический Глобальный Аттрактор с Квантово-Резонансными Астроцитарными Модулями](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/DGA-QRAM.md)
+
+  - [Модель ДГА-НАГМ: Динамический Глобальный Аттрактор с Нейро-Астроцитарной Глиальной Модуляцией](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/DGA-NAGM.md)
+ 
 
 - [Валидация](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/README.md)
 
