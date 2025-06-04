@@ -366,7 +366,7 @@ consciousness_probability = f(ИНАГА-RPEA_score,
 2. Является ли метаболическое состояние компонентом квалиа?
 3. Может ли чисто глиальная активность генерировать субъективные переживания?
 
-[Решение проблемы объяснительного провала в модели ДГА-НАГМ](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/Solutions-in-DGA-NAGM.md)
+[Решение проблемы объяснительного провала в модели НАГА-RPEA](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/Solutions-in-NAGA-RPEA.md)
 
 ---
 
