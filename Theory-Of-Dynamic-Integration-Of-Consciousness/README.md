@@ -37,6 +37,10 @@
 
   - [Решение проблемы объяснительного провала в модели ДГА-P](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/Solutions-in-DGA-RPE-Orch-OR.md)
 
+  - [Решение проблемы объяснительного провала в модели ДГА-QRAM](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/Solutions-in-DGA-QRAM.md)
+
+  - [Решение проблемы объяснительного провала в модели ДГА-НАГМ](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/Solutions-in-DGA-NAGM.md)
+
 
 - [Методы](/Theory-Of-Dynamic-Integration-Of-Consciousness/methods/README.md)
 
