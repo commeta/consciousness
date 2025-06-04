@@ -41,6 +41,7 @@
 
   - [Решение проблемы объяснительного провала в модели ДГА-НАГМ](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/Solutions-in-DGA-NAGM.md)
 
+  - [Решение проблемы объяснительного провала в модели НАГА-RPEA](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/Solutions-in-NAGA-RPEA.md)
 
 - [Методы](/Theory-Of-Dynamic-Integration-Of-Consciousness/methods/README.md)
 
@@ -63,6 +64,7 @@
 
   - [Модель ДГА-НАГМ: Динамический Глобальный Аттрактор с Нейро-Астроцитарной Глиальной Модуляцией](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/DGA-NAGM.md)
  
+  - [Модель НАГА-RPEA: Нейро-Астроцитарный Глобальный Аттрактор с Рекуррентным Предиктивным Кодированием, Эфаптической связью и Астроцитарной Модуляцией](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/NAGA-RPEA.md)
 
 - [Валидация](/Theory-Of-Dynamic-Integration-Of-Consciousness/Validation/README.md)
 
