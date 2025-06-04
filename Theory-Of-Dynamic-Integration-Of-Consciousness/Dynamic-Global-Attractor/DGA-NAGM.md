@@ -373,6 +373,8 @@ weight_update = standard_hebbian + astrocytic_modulation + homeostatic_scaling
 - Глиотрансмиттерную координацию удаленных регионов
 - Долговременную астроцитарную память как основу непрерывности "Я"
 
+[Решение проблемы объяснительного провала в модели ДГА-НАГМ](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/Solutions-in-DGA-NAGM.md)
+
 ## 10. Будущие направления исследований
 
 ### 10.1 Экспериментальные приоритеты
