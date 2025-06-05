@@ -551,6 +551,10 @@
 
 [Модель НАГА-RPEA: Нейро-Астроцитарный Глобальный Аттрактор с Рекуррентным Предиктивным Кодированием, Эфаптической связью и Астроцитарной Модуляцией](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/NAGA-RPEA.md)
 
+[Механизмы extrasynaptic–передачи сигналов, синхронизации нейронной активности и когерентности](/mechanisms-of-extrasynaptic-signal-transmission-neuronal-activity-synchronization-and-coherence.md)
+
+[Нейроглия и память: парадигма, выходящая за пределы нейронов](/glia-and-memory.md)
+
 ---
 
 ### Решение проблемы объяснительного провала в модели НАГА-RPEA
