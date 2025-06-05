@@ -787,7 +787,7 @@ consciousness_probability = f(ИНАГА-RPEA_score,
 
 ---
 
-### 🔁 Астроциты, предиктивное кодирование и сознание
+### 🔁 Предиктивное кодирование и сознание
 
 27. Adams, R. A., Shipp, S., & Friston, K. J. (2013).  
     **Predictions not commands: active inference in the motor system**.  
