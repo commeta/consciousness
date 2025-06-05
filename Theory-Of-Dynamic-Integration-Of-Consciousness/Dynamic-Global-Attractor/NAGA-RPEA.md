@@ -377,4 +377,12 @@ consciousness_probability = f(ИНАГА-RPEA_score,
 
 Оглавление:
 
+
 - [Теория Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/README.md)
+
+- [Модель ДГА-RPE: Динамический Глобальный Аттрактор с Рекуррентным Предиктивным Кодированием и Эфаптической связью](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/DGA-RPE.md)
+
+- [Механизмы extrasynaptic–передачи сигналов, синхронизации нейронной активности и когерентности](/mechanisms-of-extrasynaptic-signal-transmission-neuronal-activity-synchronization-and-coherence.md)
+
+- [Нейроглия и память: парадигма, выходящая за пределы нейронов](/glia-and-memory.md)
+
