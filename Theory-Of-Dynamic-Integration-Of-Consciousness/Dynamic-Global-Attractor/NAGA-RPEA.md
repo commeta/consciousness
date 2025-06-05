@@ -591,6 +591,13 @@ consciousness_probability = f(ИНАГА-RPEA_score,
     **Regulation of rhythm genesis by volume-limited crosstalk between neurons and astrocytes**.
     *Philosophical Transactions of the Royal Society B*, 369(1654), 20130514.
 
+    [https://doi.org/10.1098/rstb.2013.0514](https://doi.org/10.1098/rstb.2013.0514)
+
+    [https://doi.org/10.1098/rstb.2013.0614](https://doi.org/10.1098/rstb.2013.0614)
+
+    [https://pmc.ncbi.nlm.nih.gov/articles/PMC4173295/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4173295/)
+
+
 18. Alberini, C. M., & Chen, D. Y. (2012).
     **Memory enhancement: the astrocyte as a novel target**.
     *Trends in Neurosciences*, 35(12), 750–759.
