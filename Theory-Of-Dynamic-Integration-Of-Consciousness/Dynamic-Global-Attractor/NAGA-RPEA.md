@@ -473,12 +473,91 @@ consciousness_probability = f(ИНАГА-RPEA_score,
 
 ---
 
+Вот обновлённый и исправленный список источников с корректными ссылками и метаданными:
+
+
+---
+
+## 📚 11. Источники
+
+### 🔁 **Трипартитные синапсы и глиотрансмиттерная модуляция**
+
+1. Perea, G., Navarrete, M., & Araque, A. (2009).
+   **Tripartite synapses: astrocytes process and control synaptic information**.
+   *Trends in Neurosciences*, 32(8), 421–431.
+   [https://doi.org/10.1016/j.tins.2009.05.001](https://doi.org/10.1016/j.tins.2009.05.001)
+
+2. Halassa, M. M., & Haydon, P. G. (2010).
+   **Integrated brain circuits: astrocytic networks modulate neuronal activity and behavior**.
+   *Annual Review of Physiology*, 72, 335–355.
+   [https://doi.org/10.1146/annurev-physiol-021909-135843](https://doi.org/10.1146/annurev-physiol-021909-135843)
+
+---
+
+### ⚡ **Эфаптическая связность и полевые взаимодействия**
+
+3. Anastassiou, C. A., Perin, R., Markram, H., & Koch, C. (2011).
+   **Ephaptic coupling of cortical neurons**.
+   *Nature Neuroscience*, 14(2), 217–223.
+   [https://doi.org/10.1038/nn.2727](https://doi.org/10.1038/nn.2727)
+
+4. Jefferys, J. G. R. (1995).
+   **Nonsynaptic modulation of neuronal activity in the brain: electric field effects**.
+   *Physiological Reviews*, 75(4), 689–723.
+   [https://doi.org/10.1152/physrev.1995.75.4.689](https://doi.org/10.1152/physrev.1995.75.4.689)
+
+---
+
+### 🔋 **Метаболическая интеграция и глюкозо-лактатный челнок**
+
+5. Magistretti, P. J., & Allaman, I. (2015).
+   **A cellular perspective on brain energy metabolism and functional imaging**.
+   *Neuron*, 86(4), 883–901.
+   [https://doi.org/10.1016/j.neuron.2015.03.035](https://doi.org/10.1016/j.neuron.2015.03.035)
+
+6. Pellerin, L., & Magistretti, P. J. (1994).
+   **Glutamate uptake into astrocytes stimulates aerobic glycolysis: a mechanism coupling neuronal activity to glucose utilization**.
+   *Proceedings of the National Academy of Sciences*, 91(22), 10625–10629.
+   [https://doi.org/10.1073/pnas.91.22.10625](https://doi.org/10.1073/pnas.91.22.10625)
+
+---
+
+### 💡 **Астроцитарная Ca²⁺ динамика и память**
+
+7. Wang, X., Lou, N., Xu, Q., Tian, G. F., Peng, W. G., Han, X., ... & Nedergaard, M. (2006).
+   **Astrocytic Ca²⁺ signaling evoked by sensory stimulation in vivo**.
+   *Nature Neuroscience*, 9(6), 816–823.
+   [https://doi.org/10.1038/nn1703](https://doi.org/10.1038/nn1703)
+
+8. Suzuki, A., Stern, S. A., Bozdagi, O., et al. (2011).
+   **Astrocyte-neuron lactate transport is required for long-term memory formation**.
+   *Cell*, 144(5), 810–823.
+   [https://doi.org/10.1016/j.cell.2011.02.018](https://doi.org/10.1016/j.cell.2011.02.018)
+
+---
+
+### 🧠 **Глиальная пластичность и обучение**
+
+9. Yang, Y., Ge, W., Chen, Y., Zhang, Z., Shen, W., Wu, C., ... & Duan, S. (2003).
+   **Contribution of astrocytes to hippocampal long-term potentiation through release of D-serine**.
+   *Proceedings of the National Academy of Sciences*, 100(25), 15194–15199.
+   [https://doi.org/10.1073/pnas.2431073100](https://doi.org/10.1073/pnas.2431073100)
+
+10. Fields, R. D., & Stevens-Graham, B. (2002).
+    **New insights into neuron-glia communication**.
+    *Science*, 298(5593), 556–562.
+    [https://doi.org/10.1126/science.298.5593.556](https://doi.org/10.1126/science.298.5593.556)
+
+
+
+
+
+---
+
 Оглавление:
 
 
 - [Теория Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/README.md)
-
-- [Модель ДГА-RPE: Динамический Глобальный Аттрактор с Рекуррентным Предиктивным Кодированием и Эфаптической связью](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/DGA-RPE.md)
 
 - [Механизмы extrasynaptic–передачи сигналов, синхронизации нейронной активности и когерентности](/mechanisms-of-extrasynaptic-signal-transmission-neuronal-activity-synchronization-and-coherence.md)
 
