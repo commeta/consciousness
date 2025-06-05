@@ -510,6 +510,11 @@ consciousness_probability = f(ИНАГА-RPEA_score,
 6. Chiang, C. C., Shivacharan, R. S., Wei, X., Gonzalez-Reyes, L. E., & Durand, D. M. (2019).
    **Slow interstitial potential shifts activate ephaptic coupling of cortical neurons**.
    *Neuron*, 104(6), 1045–1058.e4.
+   [https://doi.org/10.1016/j.neuron.2019.09.011](https://doi.org/10.1016/j.neuron.2019.09.011)
+
+   [https://doi.org/10.1113/jp276904](https://doi.org/10.1113/jp276904)
+
+   [https://pmc.ncbi.nlm.nih.gov/articles/PMC6312416/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6312416/)
 
 ---
 
@@ -528,6 +533,11 @@ consciousness_probability = f(ИНАГА-RPEA_score,
 9. Barros, L. F. (2013).
    **Metabolic signaling by lactate in the brain**.
    *Trends in Neurosciences*, 36(7), 396–404.
+   [https://doi.org/10.1016/j.tins.2013.04.003](https://doi.org/10.1016/j.tins.2013.04.003)
+
+   [https://doi.org/10.1016/j.tins.2013.04.002](https://doi.org/10.1016/j.tins.2013.04.002)
+
+   [https://pubmed.ncbi.nlm.nih.gov/23639382/](https://pubmed.ncbi.nlm.nih.gov/23639382/)
 
 10. Díaz-García, C. M., Mongeon, R., Lahmann, C., Koveal, D., Zucker, H., Yellen, G. (2017).
     **Neuronal stimulation triggers neuronal glycolysis and not astrocytic glycolysis**.
@@ -571,9 +581,7 @@ consciousness_probability = f(ИНАГА-RPEA_score,
     *Brain Structure and Function*, 218(3), 611–643.
     [https://doi.org/10.1007/s00429-012-0475-5](https://doi.org/10.1007/s00429-012-0475-5)
 
-16. Pinto-Duarte, A., Sejnowski, T. J., & Araque, A. (2019).
-    **Astrocyte-dependent predictive plasticity of cortical synapses**.
-    *Nature Communications*, 10, 2230.
+
 
 ---
 
@@ -586,6 +594,9 @@ consciousness_probability = f(ИНАГА-RPEA_score,
 18. Alberini, C. M., & Chen, D. Y. (2012).
     **Memory enhancement: the astrocyte as a novel target**.
     *Trends in Neurosciences*, 35(12), 750–759.
+    [https://doi.org/10.1016/j.tins.2012.09.007](https://doi.org/10.1016/j.tins.2012.09.007)
+
+    [https://doi.org/10.1016/j.cell.2018.05.002](https://doi.org/10.1016/j.cell.2018.05.002)
 
 ---
 
