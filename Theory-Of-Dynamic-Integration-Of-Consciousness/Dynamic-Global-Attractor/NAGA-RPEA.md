@@ -156,24 +156,112 @@ processing_capacity = f(ATP_availability × Ca_buffering_capacity ×
 - **MCI** = индекс метаболической когерентности  
 - **TSI** = индекс трипартитной синхронизации
 
-### 4.2 Специфические астроцитарные метрики
+### 4.2 Специфические астроцитарные и динамические метрики
 
-**Глиальная активность (GAI):**
+**Темпоральная когерентность (TCI)**
+
 ```
-GAI = ⟨Ca_oscillations_power⟩ × gliotransmitter_release_frequency × 
-      spatial_correlation_glia × metabolic_coupling_strength
+TCI = ⟨ correlation(phase(t), phase(t + τ)) ⟩_{τ ∈ {τ₁,…,τₖ}}
+```
+где:
+
+- **phase(t)** — фаза сигнала в момент t (например, LFP или мембранный потенциал)  
+- усреднение берётся по множеству задержек τ₁,…,τₖ, чтобы охватить разные временные масштабы.  
+
+**Рекуррентная активность (RRI)**
+
+```
+RRI = ∑_{lag=1}^L [ autocorr(signal, lag) × weight(lag) ]
 ```
 
-**Метаболическая когерентность (MCI):**
+где:
+
+- **signal** — временной ряд нейронной активности (или спайковый счёт)  
+- **autocorr(signal, lag)** — автокорреляция на лаге lag  
+- **weight(lag)** — весовой коэффициент, уменьшающий вклад больших лагов  
+- L — максимальный лаг, до которого считается рекуррентность.  
+
+**Аттракторная стабильность (ASI)**
+
 ```
-MCI = correlation(energy_demand_pattern, energy_supply_pattern) × 
-      lactate_shuttle_efficiency × ATP_spatial_distribution_uniformity
+ASI = 1 – [ variance(trajectory_in_phase_space) / mean_distance_to_attractor ]
+````
+
+где:
+
+- **trajectory_in_phase_space** — последовательность точек состояния (S(t),…) в фазовом пространстве  
+- **variance(trajectory_in_phase_space)** — дисперсия флуктуаций вдоль траектории  
+- **mean_distance_to_attractor** — среднее евклидово расстояние точек траектории до ближайшей точки аттрактора (минимум потенциальной “ямы”).  
+
+
+**Предиктивная точность (PPI)**
+
+```
+PPI = 1 – [ ⟨|prediction_error|⟩ / ⟨|signal_variance|⟩ ]
 ```
 
-**Трипартитная синхронизация (TSI):**
+где:
+
+- **prediction_error** = pred(t) – obs(t)  
+- **⟨|prediction_error|⟩** — средняя абсолютная ошибка предсказания  
+- **⟨|signal_variance|⟩** — среднее абсолютное отклонение самого сигнала (нормализация).  
+- PPI ∈ [0,1], где 1 — идеальная предсказательная точность.  
+
+**Эфаптическая связность (ECI)**
+
 ```
-TSI = |cross_correlation(neuron_activity, astrocyte_Ca_waves, LFP_oscillations)|
+ECI = ∑*{i,j} [ | cross_correlation(LFP_i, LFP_j, lag=0) | × distance_weight*{i,j} ]
 ```
+где:
+
+- **LFP_i, LFP_j** — локальные полевые потенциалы в двух точках i и j  
+- **cross_correlation(…, lag=0)** — корелляция без временного сдвига (ёмкость мгновенной эфаптической связи)  
+- **distance_weight_{i,j}** — обратная функция от расстояния между i и j (учитывает затухание).  
+
+**Глиальная активность (GAI)**
+
+```
+GAI = ⟨ Ca_oscillations_power ⟩ × gliotransmitter_release_frequency ×
+spatial_correlation_glia × metabolic_coupling_strength
+```
+
+где:
+
+- **⟨Ca_oscillations_power⟩** — средняя мощность Ca²⁺-колебаний в популяции астроцитов  
+- **gliotransmitter_release_frequency** — частота выброса глиотрансмиттеров (например, глутамат, D-серин)  
+- **spatial_correlation_glia** — коэффициент пространственной синхронности Ca-волновых фронтов  
+- **metabolic_coupling_strength** — эффективность метаболической связи «астроцит ↔ нейрон» (например, лактат-шаттл).  
+
+**Метаболическая когерентность (MCI)**
+
+```
+MCI = correlation(energy_demand_pattern, energy_supply_pattern) ×
+lactate_shuttle_efficiency × ATP_spatial_distribution_uniformity
+```
+
+где:
+
+- **energy_demand_pattern** — временной ряд потребления энергии (нейроны + астроциты)  
+- **energy_supply_pattern** — соответствующий ряд доставки субстратов (глюкоза, кислород, лактат)  
+- **lactate_shuttle_efficiency** — коэффициент перекачки лактата от астроцитов к нейронам  
+- **ATP_spatial_distribution_uniformity** — метрика равномерности распределения АТФ в ткани.  
+
+**Трипартитная синхронизация (TSI)**
+
+```
+TSI = | cross_correlation( neuron_activity, astrocyte_Ca_waves, LFP_oscillations ) |
+```
+
+где:
+
+- **neuron_activity** — временной ряд спайковой или LFP-активности нейронов  
+- **astrocyte_Ca_waves** — временной ряд активности Ca²⁺-волн астроцитов  
+- **LFP_oscillations** — локальный полевой потенциал (различные частоты)  
+- Итог берётся по абсолютному значению 3-канальной корреляции.  
+
+
+
+
 
 ### 4.3 Новые динамические биомаркеры
 
