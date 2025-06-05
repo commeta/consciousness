@@ -609,6 +609,8 @@ consciousness_probability = f(ИНАГА-RPEA_score,
 
 - [Теория Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/README.md)
 
+- [Метрика эмергентной интегрированной информации (Φₑ)](/Theory-Of-Dynamic-Integration-Of-Consciousness/methods/The-metric-of-emergent-integrated-information-Fe.md)
+
 - [Механизмы extrasynaptic–передачи сигналов, синхронизации нейронной активности и когерентности](/mechanisms-of-extrasynaptic-signal-transmission-neuronal-activity-synchronization-and-coherence.md)
 
 - [Нейроглия и память: парадигма, выходящая за пределы нейронов](/glia-and-memory.md)
