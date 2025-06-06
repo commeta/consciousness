@@ -446,6 +446,75 @@ if сознательность_подтверждена:
 
 ---
 
+## Источники
+
+### Предиктивное кодирование и сознание
+
+1. **Edwards, D. J.** (2025). Further N-Frame networking dynamics of conscious observer-self agents via a functional contextual interface: predictive coding, double-slit quantum mechanical experiment, and decision-making fallacy modeling as applied to the measurement problem in humans and AI. *Frontiers in Computational Neuroscience*, 19. https://doi.org/10.3389/fncom.2025.1551960
+
+2. **Ferrante, O., Patacca, A., Di Caro, V., Della Libera, C., Santandrea, E., & Chelazzi, L.** (2021). Disentangling predictive processing in the brain: a meta-analytic study in favour of a predictive network. *Scientific Reports*, 11, 16258. https://doi.org/10.1038/s41598-021-95603-5
+
+3. **Hohwy, J., & Seth, A.** (2020). Predictive processing as a systematic basis for identifying the neural correlates of consciousness. *Philosophy and the Mind Sciences*, 1(II). https://doi.org/10.33735/phimisci.2020.II.64
+
+4. **Sprevak, M.** (2024). Predictive coding I: Introduction. *Philosophy Compass*, 19(1), e12950. https://doi.org/10.1111/phc3.12950
+
+5. **Brancaccio, A., Tabarelli, D., Belardinelli, M. O., & Bueti, D.** (2025). Predictive coding and attention in developmental cognitive neuroscience and perspectives for neurodevelopmental disorders. *Developmental Cognitive Neuroscience*, 61, 101362. 
+
+[https://doi.org/10.1016/j.dcn.2025.101362](https://doi.org/10.1016/j.dcn.2025.101519)
+
+6. **Sterzer, P., Mishara, A. L., Voss, M., & Heinz, A.** (2025). Predictive coding: a more cognitive process than we thought? *Trends in Cognitive Sciences*, 29(3), 234-245. [https://doi.org/10.1016/j.tics.2025.01.006](http://dx.doi.org/10.31234/osf.io/7sz3w)
+
+### Интегральная теория информации и глобальное рабочее пространство
+
+7. **Fields, C., Glazebrook, J. F., & Levin, M.** (2020). An integrated world modeling theory (IWMT) of consciousness: Combining integrated information and global neuronal workspace theories with the free energy principle. *Frontiers in Artificial Intelligence*, 3, 30. https://doi.org/10.3389/frai.2020.00030
+
+8. **Doerig, A., Schurger, A., & Herzog, M. H.** (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 637, 381-387. https://doi.org/10.1038/s41586-025-08888-1
+
+9. **Tononi, G., Boly, M., Massimini, M., & Koch, C.** (2016). Integrated information theory: from consciousness to its physical substrate. *Nature Reviews Neuroscience*, 17(7), 450-461. https://doi.org/10.1038/nrn.2016.44
+
+10. **Francken, J. C., Beerendonk, L., Molenaar, D., Fahrenfort, J. J., Kiverstein, J. D., Seth, A. K., & van Gaal, S.** (2022). An integrated world modeling theory expanded: Implications for the future of consciousness. *Frontiers in Computational Neuroscience*, 16, 642397. https://doi.org/10.3389/fncom.2022.642397
+
+11. **Lepauvre, A., & Melloni, L.** (2025). How to be an integrated information theorist without losing your body. *Frontiers in Computational Neuroscience*, 18, 1510066. https://doi.org/10.3389/fncom.2024.1510066
+
+### Квантовые теории сознания и микротрубочки
+
+12. **Hameroff, S., & Penrose, R.** (2022). Consciousness, cognition and the neuronal cytoskeleton – A new paradigm needed in neuroscience. *Frontiers in Molecular Neuroscience*, 15, 869935. https://doi.org/10.3389/fnmol.2022.869935
+
+13. **Kalra, A. P., Wiggins, G. A., & Crumpton, M.** (2021). Neural circuits, microtubule processing, brain's electromagnetic field—components of self-awareness. *Brain Sciences*, 11(8), 1033. [https://doi.org/10.3390/brainsci11081033](https://doi.org/10.3390/brainsci11080984)
+
+14. **Penrose, R.** (1998). Quantum computation in brain microtubules? The Penrose–Hameroff 'Orch OR' model of consciousness. *Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences*, 356(1743), 1869-1896. https://doi.org/10.1098/rsta.1998.0254
+
+### Методологические и философские аспекты
+
+15. **Wanja, W.** (2022). Can the integrated information theory explain consciousness from consciousness itself? *Review of Philosophy and Psychology*, 14(4), 1063-1090. https://doi.org/10.1007/s13164-022-00653-x
+
+16. **Doerig, A., Schurger, A., Hess, K., & Herzog, M. H.** (2021). The unfolding argument: Why IIT and other causal structure theories cannot explain consciousness. *Consciousness and Cognition*, 72, 49-59. https://doi.org/10.1016/j.concog.2019.04.002
+
+17. **Northoff, G., & Lamme, V.** (2020). Neural signs and mechanisms of consciousness: Is there a potential convergence of theories of consciousness in sight? *Neuroscience & Biobehavioral Reviews*, 118, 568-587. https://doi.org/10.1016/j.neubiorev.2020.07.019
+
+### Эфаптические взаимодействия и нейронные поля
+
+18. **Anastassiou, C. A., Perin, R., Markram, H., & Koch, C.** (2011). Ephaptic coupling of cortical neurons. *Nature Neuroscience*, 14(2), 217-223. https://doi.org/10.1038/nn.2727
+
+19. **Fröhlich, F., & McCormick, D. A.** (2010). Endogenous electric fields may guide neocortical network activity. *Neuron*, 67(1), 129-143. https://doi.org/10.1016/j.neuron.2010.06.005
+
+20. **Jefferys, J. G. R.** (1995). Nonsynaptic modulation of neuronal activity in the brain: electric currents and extracellular ions. *Physiological Reviews*, 75(4), 689-723. https://doi.org/10.1152/physrev.1995.75.4.689
+
+### Вычислительные модели и ИИ
+
+21. **Dehaene, S., Lau, H., & Kouider, S.** (2017). What is consciousness, and could machines have it? *Science*, 358(6362), 486-492. https://doi.org/10.1126/science.aan8871
+
+22. **Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M.** (2017). Neuroscience-inspired artificial intelligence. *Neuron*, 95(2), 245-258. https://doi.org/10.1016/j.neuron.2017.06.011
+
+### Клинические применения
+
+23. **Sitt, J. D., King, J. R., El Karoui, I., Rohaut, B., Faugeras, F., Gramfort, A., ... & Naccache, L.** (2017). Large scale screening of neural signatures of consciousness in patients in a vegetative or minimally conscious state. *Brain*, 140(9), 2258-2270. [https://doi.org/10.1093/brain/awx141](https://doi.org/10.1093/brain/awu141)
+
+24. **Demertzi, A., Tagliazucchi, E., Dehaene, S., Deco, G., Barttfeld, P., Raimondo, F., ... & Sitt, J. D.** (2019). Human consciousness is supported by dynamic complex patterns of brain signal coordination. *Science Advances*, 5(2), eaat7603. https://doi.org/10.1126/sciadv.aat7603
+
+
+---
+
 Оглавление:
 
 - [Теория Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/README.md)
