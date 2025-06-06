@@ -4,6 +4,8 @@
 
 ### 1.1 Трипартитная архитектура сознания
 
+[Углубленное теоретическое обоснование трипартитной архитектуры](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/NAGA-RPEA/Strengthening-the-foundation.md#11-углубленное-теоретическое-обоснование-трипартитной-архитектуры)
+
 <details>
 <summary>блок-схема</summary>
 
@@ -32,6 +34,8 @@ flowchart LR
 
 ### 1.2 Многоуровневая иерархия НАГА-RPEA
 
+[Детализированная 6-уровневая иерархия с механизмами взаимодействия](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/NAGA-RPEA/Strengthening-the-foundation.md#12-детализированная-6-уровневая-иерархия-с-механизмами-взаимодействия)
+
 ```
 Уровень 6: Мета-нарративный аттрактор (автобиографическое Я, жизненные смыслы)
      ↑↓ Астроцитарная долгосрочная память + эпигенетическая модуляция
@@ -50,6 +54,9 @@ flowchart LR
 ## 2. Математическая формализация НАГА-RPEA
 
 ### 2.1 Расширенная метрика Φe-RPEA
+
+[Математически корректная и интерпретируемая формула Φe-RPEA](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/NAGA-RPEA/Strengthening-the-foundation.md#21-математически-корректная-и-интерпретируемая-формула-φe-rpea)
+
 ```
 Φe-RPEA = ∫[t₀ to t₁] Ψ(t) × R(t) × P(t) × E(t) × A(t) × T(t) × G(t) × M(t) dt
 ```
@@ -65,6 +72,8 @@ flowchart LR
 - **M(t)** = метаболическая когерентность (энергетическая синхронизация)
 
 ### 2.2 Трипартитная система уравнений
+
+[Математически консистентная система дифференциальных уравнений](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/NAGA-RPEA/Strengthening-the-foundation.md#22-математически-консистентная-система-дифференциальных-уравнений)
 
 **Нейронная динамика с астроцитарной модуляцией:**
 ```
@@ -92,6 +101,8 @@ dpred_i/dt = γ_pred[∑_j W_ij^pred x_j^neu + ∑_k V_ik^glio-pred x_k^ast] -
 
 ### 2.3 Астроцитарная Dense Associative Memory
 
+[Детализированные механизмы памяти в астроцитарных сетях](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/NAGA-RPEA/Strengthening-the-foundation.md#23-детализированные-механизмы-памяти-в-астроцитарных-сетях)
+
 **Энергетическая функция астроцитарной сети:**
 ```
 E_ast = -½∑_{i,j} W_ij^ast x_i^ast x_j^ast + ∑_i U_i(x_i^ast) + 
@@ -112,6 +123,8 @@ completion_probability = sigmoid(overlap × astrocyte_amplification × metabolic
 ## 3. Ключевые механизмы НАГА-RPEA
 
 ### 3.1 Трипартитные синапсы как вычислительные узлы
+
+[Трипартитные синапсы как вычислительные узлы](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/NAGA-RPEA/Detailing-the-mechanisms.md#31-трипартитные-синапсы-как-вычислительные-узлы)
 
 <details>
 <summary>блок-схема</summary>
@@ -160,6 +173,8 @@ correlation_detection_i = ∫[sliding_window] (pre_synaptic_j × post_synaptic_k
 
 ### 3.2 Глиотрансмиттерная модуляция
 
+[Механизмы глиотрансмиттерной модуляции](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/NAGA-RPEA/Detailing-the-mechanisms.md#32-механизмы-глиотрансмиттерной-модуляции)
+
 **ATP-опосредованная объемная передача:**
 ```
 [ATP]_extracel(r,t) = ∑_i release_i(t) × diffusion_kernel(r-r_i, D_ATP, degradation_rate)
@@ -178,6 +193,8 @@ LTP_probability = sigmoid(Ca_influx × D_serine_availability × coincidence_dete
 
 ### 3.3 Метаболическая интеграция
 
+[Связь метаболических процессов с информационной обработкой](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/NAGA-RPEA/Detailing-the-mechanisms.md#33-связь-метаболических-процессов-с-информационной-обработкой)
+
 **Глюкозо-лактатный челнок:**
 ```
 lactate_transfer = max_transport × ([glucose]_ast - [lactate]_neu) / 
@@ -193,6 +210,9 @@ processing_capacity = f(ATP_availability × Ca_buffering_capacity ×
 ## 4. Расширенные биомаркеры НАГА-RPEA
 
 ### 4.1 Интегральный индекс ИНАГА-RPEA
+
+[Комплексная метрика оценки сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/NAGA-RPEA/Detailing-the-mechanisms.md#41-комплексная-метрика-оценки-сознания)
+
 ```
 ИНАГА-RPEA = w₁×IGI + w₂×RRI + w₃×PPI + w₄×ECI + w₅×ASI + w₆×TCI + 
              w₇×GAI + w₈×MCI + w₉×TSI
@@ -208,6 +228,8 @@ processing_capacity = f(ATP_availability × Ca_buffering_capacity ×
 - **TSI** = индекс трипартитной синхронизации
 
 ### 4.2 Специфические астроцитарные и динамические метрики
+
+[Специализированные астроцитарные биомаркеры](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/NAGA-RPEA/Detailing-the-mechanisms.md#42-специализированные-астроцитарные-биомаркеры)
 
 **Темпоральная когерентность (TCI)**
 
@@ -312,9 +334,9 @@ TSI = | cross_correlation( neuron_activity, astrocyte_Ca_waves, LFP_oscillations
 
 
 
-
-
 ### 4.3 Новые динамические биомаркеры
+
+[Динамические и сетевые биомаркеры](/Theory-Of-Dynamic-Integration-Of-Consciousness/Dynamic-Global-Attractor/NAGA-RPEA/Detailing-the-mechanisms.md#43-динамические-и-сетевые-биомаркеры)
 
 **Индекс астроцитарной памяти (ИАП):**
 ```
