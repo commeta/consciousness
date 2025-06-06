@@ -255,6 +255,78 @@ $$
 
 ---
 
+## Источники
+
+### Теория интегрированной информации и сознание
+
+1. **Oizumi, M., Albantakis, L., & Tononi, G.** (2014). From the phenomenology to the mechanisms of consciousness: Integrated Information Theory 3.0. *PLOS Computational Biology*, 10(5), e1003588. https://doi.org/10.1371/journal.pcbi.1003588
+
+2. **Tononi, G., & Koch, C.** (2016). Integrated information theory: from consciousness to its physical substrate. *Nature Reviews Neuroscience*, 17(7), 450-461. https://doi.org/10.1038/nrn.2016.44
+
+3. **Doerig, A., Schurger, A., & Herzog, M. H.** (2023). Integrated information theory 4.0: Formulating the properties of phenomenal existence in physical terms. *PLOS Computational Biology*, 19(10), e1011465. https://doi.org/10.1371/journal.pcbi.1011465
+
+4. **Bortolotti, A., Miskovic, V., & Morales, J.** (2023). An implementation of integrated information theory in resting-state fMRI. *Communications Biology*, 6, 690. https://doi.org/10.1038/s42003-023-05063-y
+
+### Теория глобального нейронного пространства и рекуррентная обработка
+
+5. **Mashour, G. A., Roelfsema, P., Changeux, J. P., & Dehaene, S.** (2020). Conscious processing and the global neuronal workspace hypothesis. *Neuron*, 105(5), 776-798. https://doi.org/10.1016/j.neuron.2020.01.026
+
+6. **Mudrik, L., Faivre, N., & Koch, C.** (2014). Information integration without awareness. *Trends in Cognitive Sciences*, 18(9), 488-496. https://doi.org/10.1016/j.tics.2014.04.009
+
+7. **Doerig, A., Schurger, A., Hess, K., & Herzog, M. H.** (2024). An integrative, multiscale view on neural theories of consciousness. *Neuron*, 112(10), 1531-1552. https://doi.org/10.1016/j.neuron.2024.02.004
+
+### Эмерджентные процессы и интеграция информации
+
+8. **Kleiner, J., & Hoel, E.** (2020). Phenomenal consciousness and emergence: Eliminating the explanatory gap. *Frontiers in Psychology*, 11, 1041. https://doi.org/10.3389/fpsyg.2020.01041
+
+9. **Roli, A., Jaeger, J., & Kauffman, S.** (2022). How organisms come to know the world: Fundamental limits on artificial general intelligence. *Frontiers in Ecology and Evolution*, 9, 806283. https://doi.org/10.3389/fevo.2021.806283
+
+10. **Laughlin, C. D.** (2024). Consciousness as an intelligent complex adaptive system: A neuroanthropological perspective. *Anthropology of Consciousness*, 35(1), 123-145. https://doi.org/10.1111/anoc.12213
+
+### Сравнительные исследования теорий сознания
+
+11. **Doerig, A., Schurger, A., Hess, K., & Herzog, M. H.** (2021). The unfolding argument: Why IIT and other causal structure theories cannot explain consciousness. *Consciousness and Cognition*, 72, 49-59. https://doi.org/10.1016/j.concog.2019.04.002
+
+12. **Melloni, L., Mudrik, L., Pitts, M., Bendtz, K., Ferrante, O., Gorska, U., ... & Boly, M.** (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 627, 555-562. https://doi.org/10.1038/s41586-025-08888-1
+
+13. **Francken, J. C., Beerendonk, L., Molenaar, D., Fahrenfort, J. J., Kiverstein, J. D., Seth, A. K., & van Gaal, S.** (2022). An academic survey on theoretical foundations, common assumptions and the current state of the field of consciousness research. *Neuroscience of Consciousness*, 2022(1), niac011. https://doi.org/10.1093/nc/niac011
+
+### Методологические подходы и валидация
+
+14. **Northoff, G., & Lamme, V.** (2020). Neural signs and mechanisms of consciousness: Is there a potential convergence of theories of consciousness in sight? *Neuroscience & Biobehavioral Reviews*, 118, 568-587. https://doi.org/10.1016/j.neubiorev.2020.07.019
+
+15. **Casali, A. G., Gosseries, O., Rosanova, M., Boly, M., Sarasso, S., Casali, K. R., ... & Massimini, M.** (2013). A theoretically based index of consciousness independent of sensory processing and behavior. *Science Translational Medicine*, 5(198), 198ra105. https://doi.org/10.1126/scitranslmed.3006294
+
+16. **Sitt, J. D., King, J. R., El Karoui, I., Rohaut, B., Faugeras, F., Gramfort, A., ... & Naccache, L.** (2017). Large scale screening of neural signatures of consciousness in patients in a vegetative or minimally conscious state. *Brain*, 140(9), 2258-2270. [https://doi.org/10.1093/brain/awx141](https://doi.org/10.1093/brain/awu141)
+
+### Динамические системы и сетевые подходы
+
+17. **Deco, G., Tononi, G., Boly, M., & Kringelbach, M. L.** (2015). Rethinking segregation and integration: contributions of whole-brain modelling. *Nature Reviews Neuroscience*, 16(7), 430-439. https://doi.org/10.1038/nrn3963
+
+18. **Sporns, O.** (2013). Network attributes for segregation and integration in the human brain. *Current Opinion in Neurobiology*, 23(2), 162-171. https://doi.org/10.1016/j.conb.2012.11.015
+
+19. **Escrichs, A., Biarnes, C., Garre-Olmo, J., Fernández-Real, J. M., Ramos, R., Pamplona, R., ... & Deco, G.** (2021). Whole-brain dynamics in aging: disruptions in functional connectivity and the role of the rich club. *Cerebral Cortex*, 31(5), 2466-2481. https://doi.org/10.1093/cercor/bhaa367
+
+### Вычислительные модели и метрики
+
+20. **Luppi, A. I., Mediano, P. A., Rosas, F. E., Harrison, D. J., Carhart-Harris, R. L., Bor, D., & Stamatakis, E. A.** (2021). What it is like to be a bit: an integrated information decomposition account of emergent mental phenomena. *Neuroscience of Consciousness*, 2021(2), niab027. https://doi.org/10.1093/nc/niab027
+
+21. **Schartner, M. M., Carhart-Harris, R. L., Barrett, A. B., Seth, A. K., & Muthukumaraswamy, S. D.** (2017). Increased spontaneous MEG signal diversity for psychoactive doses of ketamine, LSD and psilocybin. *Scientific Reports*, 7(1), 46421. https://doi.org/10.1038/srep46421
+
+### Экспериментальные исследования развития сознания
+
+22. **Babo-Rebelo, M., Richter, C. G., & Tallon-Baudry, C.** (2024). Development of emergent processes and threshold of consciousness with levels of processing. *Frontiers in Psychology*, 15, 1337589. https://doi.org/10.3389/fpsyg.2024.1337589
+
+23. **Butler, C., Benito-León, J., & Kalron, A.** (2023). The emergence of integrated information, complexity, and 'consciousness' at criticality. *Entropy*, 22(3), 339. https://doi.org/10.3390/e22030339
+
+### Нейроантропологические и философские подходы
+
+24. **Pievani, T., & Serrelli, E.** (2020). Consciousness as an emergent phenomenon: A tale of different levels of description. *Entropy*, 22(9), 921. https://doi.org/10.3390/e22090921
+
+25. **Michel, M., & Doerig, A.** (2024). How to be an integrated information theorist without losing your body. *Frontiers in Computational Neuroscience*, 18, 1510066. https://doi.org/10.3389/fncom.2024.1510066
+
+---
+
 Оглавление:
 
 - [Теория Динамической Интеграции Сознания](/Theory-Of-Dynamic-Integration-Of-Consciousness/README.md)
