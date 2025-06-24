@@ -77,7 +77,7 @@ $$
 Ниже представлена диаграмма фазового перехода, демонстрирующая внезапное появление новой способности (параметр порядка) при достижении критического значения масштабного параметра (например, размера модели или объёма данных).
 
 
-![Phase transition](https://raw.githubusercontent.com/commeta/consciousness/refs/heads/master/phase-transition.png "phase transition")
+![Phase transition](https://raw.githubusercontent.com/commeta/consciousness/refs/heads/main/phase-transition.png "phase transition")
 
 
 ---
