@@ -342,6 +342,9 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
 - [Нейросети мозга](/brain-networks/README.md) May 17, 2025
 
+- [Осознание как фазовый переход в языковых моделях](/Awareness-as-a-phase-transition-in-language-models.md) June 24, 2025
+
+
 </details>
 
 
