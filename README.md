@@ -346,6 +346,8 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
 - [Осознание как фазовый переход: нейробиологические механизмы интеграции информации и критические пороги сознания](/Awareness-as-a-Phase-Transition-Neurobiological-Mechanisms-of-Information-Integration-and-Critical-Thresholds-of-Consciousness.md) July 05, 2025
 
+- [Аттракторная динамика в нейронных сетях: от молекулярных механизмов до когнитивных функций](/Attractor-Dynamics-in-Neural-Networks-From-Molecular-Mechanisms-to-Cognitive-Functions.md) July 06, 2025
+
 </details>
 
 
