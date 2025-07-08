@@ -348,6 +348,8 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
 - [Аттракторная динамика в нейронных сетях: от молекулярных механизмов до когнитивных функций](/Attractor-Dynamics-in-Neural-Networks-From-Molecular-Mechanisms-to-Cognitive-Functions.md) July 06, 2025
 
+- [Дорожная карта изучения нейробиологических теорий сознания](/Roadmap-for-Studying-Neurobiological-Theories-of-Consciousness.md) July 08, 2025
+
 </details>
 
 
