@@ -338,10 +338,7 @@ $\gamma=1$.
 
 Градиентpolicy‑gradient по REINFORCE:
 
-$$
-\nabla_\theta J(\theta)
-= \mathbb{E}_{\tau\sim\pi_\theta}\Bigl[\sum_{t=0}^T \nabla_\theta\log\pi_\theta(a_t|s_t)\,R(\tau)\Bigr]
-$$
+$$\nabla_\theta J(\theta) = \mathbb{E}{\tau\sim\pi\theta}\Bigl[\sum_{t=0}^T \nabla_\theta\log\pi_\theta(a_t|s_t),R(\tau)\Bigr]$$
 
 в мультиагентном самоигровом режиме обладает **нестационарным оппонентом** и **высокой дисперсией**, что приводит к «коллапсу мышления» — модель перестаёт генерировать `<think>` после ≈200 шагов ([arxiv.org][10]).
 
