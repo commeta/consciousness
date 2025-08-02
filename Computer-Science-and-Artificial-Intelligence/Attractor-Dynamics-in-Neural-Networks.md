@@ -14,6 +14,68 @@
 
 Понимание аттракторной динамики критически важно для развития механистической интерпретируемости — направления исследований, стремящегося к пониманию внутренних механизмов работы нейронных сетей (Olah et al., 2020). Современные исследования показывают, что многие феномены в глубоком обучении, включая фазовые переходы, эмерджентные свойства и стабильность обучения, можно объяснить через призму аттракторной динамики (Bahri et al., 2020).
 
+## Графики
+
+![Lorentz](https://raw.githubusercontent.com/commeta/consciousness/master/Computer-Science-and-Artificial-Intelligence/svg/Lorentz.svg "Lorentz")
+
+График аттрактора Лоренца демонстрирует трёхмерную хаотическую динамику, заданную системой ОДУ
+
+$$
+\dot x = \sigma(y - x),\quad
+\dot y = x(\rho - z) - y,\quad
+\dot z = xy - \beta z.
+$$
+
+При классических параметрах $\sigma=10$, $\rho=28$, $\beta=8/3$ траектории формируют «бабочку» из двух крыльев, бесконечно перескакивающую между ними, иллюстрируя чувствительность к начальным условиям.
+
+
+![dabbin_henon_hamblo](https://raw.githubusercontent.com/commeta/consciousness/master/Computer-Science-and-Artificial-Intelligence/svg/dabbin_henon_hamblo.svg "dabbin_henon_hamblo")
+
+Гибридный аттрактор Даббинга–Хенон–Хамбло объединяет непрерывную динамику Дюффинга и дискретные итерации карты Хёна, добавляя слабое вынуждение. В результате фазовый портрет демонстрирует сложное смешение спиральных структур и фрактальных множеств, что делает систему потенциально интересной для криптографических схем благодаря высоким степеням чувствительности к начальным условиям.
+
+
+![duffing](https://raw.githubusercontent.com/commeta/consciousness/master/Computer-Science-and-Artificial-Intelligence/svg/duffing.svg "duffing")
+
+Аттрактор Дюффинга описывает вынуждаемый осциллятор с жёсткой нелинейной пружиной:
+
+$$
+\ddot x + \delta\,\dot x + \alpha\,x + \beta\,x^3 = \gamma\cos(\omega t).
+$$
+
+При изменении параметров ($\delta, \alpha, \beta, \gamma, \omega$) система проходит через бифуркации, переходя от регулярных колебаний к хаотическому режиму.
+
+
+![mackey_glass](https://raw.githubusercontent.com/commeta/consciousness/master/Computer-Science-and-Artificial-Intelligence/svg/mackey_glass.svg "mackey_glass")
+
+
+Аттрактор Мэкки–Гласса описывает запаздывающую систему
+
+$$
+\dot x(t)=\frac{\beta\,x(t-\tau)}{1+x(t-\tau)^n}-\gamma\,x(t),
+$$
+
+где задержка $\tau$ и степень $n$ приводят к сложным бифуркациям. При достаточно больших $\tau$ и подходящих $\beta,\gamma$ траектория переходит в хаос, формируя разветвлённый аттрактор.
+
+
+
+![rossler](https://raw.githubusercontent.com/commeta/consciousness/master/Computer-Science-and-Artificial-Intelligence/svg/rossler.svg "rossler")
+
+Аттрактор Рёсслера — это простая система трёх ОДУ, демонстрирующая хаос при малых изменениях параметров.
+Уравнения:
+
+$$
+\dot x = -y - z,\quad
+\dot y = x + a\,y,\quad
+\dot z = b + z\,(x - c).
+$$
+
+При $a=0.2$, $b=0.2$, $c=5.7$ траектория образует спирально-лентовидную структуру, уходящую в хаотическое состояние.
+
+
+![Chua](https://raw.githubusercontent.com/commeta/consciousness/master/Computer-Science-and-Artificial-Intelligence/svg/chua.svg "Chua")
+
+Аттрактор Чуа возникает в электрической цепи с нелинейным резистором и описывается тремя ОДУ. При типичных параметрах система формирует характерный «двууглообразный» (double-scroll) аттрактор, демонстрируя сложную хаотическую динамику с переходами между двумя «лепестками» фазового портрета.
+
 
 
 ## 2. Математические основы аттракторной динамики
