@@ -520,7 +520,11 @@ flowchart LR
 
 ![nested_attractors](https://raw.githubusercontent.com/commeta/consciousness/refs/heads/main/brain-networks/nested_attractors.svg "nested_attractors")
 
->   *Рис. 4. Пример симуляции: быстрый микро-переменный x и медленный макро-переменный y; демонстрируется многомасштабная динамика и влияние макро на микро через гиперболический тангенс.*
+>   *Пример симуляции: быстрый микро-переменный x и медленный макро-переменный y; демонстрируется многомасштабная динамика и влияние макро на микро через гиперболический тангенс.*
+
+![manifold_trajectories](https://raw.githubusercontent.com/commeta/consciousness/refs/heads/main/brain-networks/manifold_trajectories.svg "manifold_trajectories")
+
+>   *Проекции траекторий высокоразмерной динамики на 2D (PCA), иллюстрирующие манипуляцию притяжениями к различным аттракторам.*
 
 
 **Тестируемые предсказания.**
@@ -539,7 +543,13 @@ flowchart LR
 
 ![bifurcation_time_series](https://raw.githubusercontent.com/commeta/consciousness/refs/heads/main/brain-networks/bifurcation_time_series.svg "bifurcation_time_series")
 
-> *Рис. 3. Временной ряд моделируемого параметра (k) и ответной величины силы аттрактора (r). При пересечении порога происходит быстрый переход («игниция») к высокому значению r.*
+> *Временной ряд моделируемого параметра (k) и ответной величины силы аттрактора (r). При пересечении порога происходит быстрый переход («игниция») к высокому значению r.*
+
+![bifurcation_diagram](https://raw.githubusercontent.com/commeta/consciousness/refs/heads/main/brain-networks/bifurcation_diagram.svg "bifurcation_diagram")
+
+> *Диаграмма бифуркации (равновесия vs параметр)*
+
+
 
 Переход от мезо-к макро-режиму можно формализовать как бифуркацию фазового пространства: при накоплении входной силы (sensory drive, top-down gain, neuromodulatory tone) локальная динамика пересекает порог, и система «скользит» в более глобально интегрированное состояние — это и есть эмпирически наблюдаемая «игниция». На уровне данных это сопровождается резким ростом межрегиональной корреляции, увеличением времени релаксации и ростом мер сложности; обратные переходы (например, под действием анестетиков) демонстрируют collapse репертуара состояний и снижение интеграции. ([Journal of Neuroscience][70], [PMC][71])
 
