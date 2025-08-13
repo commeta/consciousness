@@ -366,6 +366,12 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
   - [Интеграция атласов и аттракторная динамика в функциональных сетях мозга](/brain-networks/integrated-circuit-of-functional-brain-networks.md) Aug 02, 2025
 
+  - [Нейрофизиологические механизмы квалиа: аттракторно-динамический подход к трудной проблеме сознания](/brain-networks/Neurophysiological-Mechanisms-of-Qualia-An-Attractor-Dynamic-Approach-to-the-Hard-Problem-of-Consciousness.md) Aug 13, 2025
+
+  **Экспериментальное моделирование**
+
+  - [Systems Integrated Predictive Workspace (SIPW): развернутый обзор теории сознания](/brain-networks/simulation/sipw.md)  Aug 11, 2025
+
 </details>
 
 ---
