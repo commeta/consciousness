@@ -368,6 +368,8 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
   - [Нейрофизиологические механизмы квалиа: аттракторно-динамический подход к трудной проблеме сознания](/brain-networks/Neurophysiological-Mechanisms-of-Qualia-An-Attractor-Dynamic-Approach-to-the-Hard-Problem-of-Consciousness.md) Aug 13, 2025
 
+  - [Внутренний монолог: нейрофизиология, феноменология и клинические следствия](/brain-networks/Inner-speech-Neurophysiology-Phenomenology-and-Clinical-Implications.md) Aug 21, 2025
+
   **Экспериментальное моделирование**
 
   - [Systems Integrated Predictive Workspace (SIPW): развернутый обзор теории сознания](/brain-networks/simulation/sipw.md)  Aug 11, 2025
