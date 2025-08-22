@@ -8,7 +8,9 @@
 
 - [Нейрофизиологические механизмы квалиа: аттракторно-динамический подход к трудной проблеме сознания](/brain-networks/Neurophysiological-Mechanisms-of-Qualia-An-Attractor-Dynamic-Approach-to-the-Hard-Problem-of-Consciousness.md) Aug 13, 2025
 
-- [Внутренний монолог: нейрофизиология, феноменология и клинические следствия](/brain-networks/Inner-speech-Neurophysiology-Phenomenology-and-Clinical-Implications.md) Aug 21, 2025
+- [Внутренняя речь: нейрофизиология, феноменология и клинические следствия](/brain-networks/Inner-speech-Neurophysiology-Phenomenology-and-Clinical-Implications.md) Aug 21, 2025
+
+- [Внимание: интегративный обзор нейронных, вычислительных и инженерных подходов](/brain-networks/Attention-An-Integrative-Review-of-Neural-Computational-and-Engineering-Approaches.md)  Aug 22, 2025
 
 **Экспериментальное моделирование**
 
