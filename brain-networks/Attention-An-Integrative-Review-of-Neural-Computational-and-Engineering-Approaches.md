@@ -28,15 +28,15 @@
 
 ### Источники
 
-1. Posner MI, Petersen SE. *The attention system of the human brain.* Annu Rev Neurosci. 1990. DOI: 10.1146/annurev.ne.13.030190.000325. — классическая карта систем внимания (дорсальная/вентральная). ([PubMed][1])
-2. Desimone R, Duncan J. *Neural mechanisms of selective visual attention.* Annu Rev Neurosci. 1995. DOI: 10.1146/annurev.ne.18.030195.001205. — biased competition framework. ([PubMed][9])
-3. Corbetta M, Shulman GL. *Control of goal-directed and stimulus-driven attention in the brain.* Nat Rev Neurosci. 2002. DOI: 10.1038/nrn755. — дорсальная/вентральная функциональная дихотомия. ([PubMed][3], [Nature][10])
-4. Fries P. *Neuronal communication through neuronal coherence.* Trends Cogn Sci. 2005. DOI: 10.1016/j.tics.2005.08.011. — синхронизация как механизм функциональной маршрутизации. ([PubMed][11])
-5. Reynolds JH, Heeger DJ. *The normalization model of attention.* Neuron. 2009. DOI: 10.1016/j.neuron.2009.01.002. — формализация gain и divisive normalization. ([PubMed][12])
-6. Saalmann YB, Pinsk MA, Wang L, Li X, Kastner S. *The pulvinar regulates information transmission between cortical areas based on attention demands.* Science. 2012. DOI: 10.1126/science.1171402. — роль таламуса в динамическом routing. ([Наука][4])
-7. Bahdanau D., Cho K., Bengio Y. *Neural Machine Translation by Jointly Learning to Align and Translate.* 2014 (arXiv) — soft-attention в sequence-to-sequence. ([arXiv][13])
-8. Vaswani A., et al. *Attention Is All You Need.* NeurIPS / arXiv 2017 — self-attention/Transformer; архитектурный сдвиг в ML. ([arXiv][5], [papers.neurips.cc][14])
-9. Обзоры и синтезы 2020–2025: ключевые работы по интеграции нейронауки и attention-моделей, включая обзоры по sustained attention (Huang et al., 2023), обзоры по применению трансформеров в нейронауке (Cong et al., 2024), и мета-обзоры по внутреннему вниманию/рабочей памяти (Annual Review 2023). ([peerj.com][15], [Wiley Online Library][8], [Annual Reviews][2])
+* Posner MI, Petersen SE. *The attention system of the human brain.* Annu Rev Neurosci. 1990. DOI: 10.1146/annurev.ne.13.030190.000325. — классическая карта систем внимания (дорсальная/вентральная). ([PubMed][1])
+* Desimone R, Duncan J. *Neural mechanisms of selective visual attention.* Annu Rev Neurosci. 1995. DOI: 10.1146/annurev.ne.18.030195.001205. — biased competition framework. ([PubMed][9])
+* Corbetta M, Shulman GL. *Control of goal-directed and stimulus-driven attention in the brain.* Nat Rev Neurosci. 2002. DOI: 10.1038/nrn755. — дорсальная/вентральная функциональная дихотомия. ([PubMed][3], [Nature][10])
+* Fries P. *Neuronal communication through neuronal coherence.* Trends Cogn Sci. 2005. DOI: 10.1016/j.tics.2005.08.011. — синхронизация как механизм функциональной маршрутизации. ([PubMed][11])
+* Reynolds JH, Heeger DJ. *The normalization model of attention.* Neuron. 2009. DOI: 10.1016/j.neuron.2009.01.002. — формализация gain и divisive normalization. ([PubMed][12])
+* Saalmann YB, Pinsk MA, Wang L, Li X, Kastner S. *The pulvinar regulates information transmission between cortical areas based on attention demands.* Science. 2012. DOI: 10.1126/science.1171402. — роль таламуса в динамическом routing. ([Наука][4])
+* Bahdanau D., Cho K., Bengio Y. *Neural Machine Translation by Jointly Learning to Align and Translate.* 2014 (arXiv) — soft-attention в sequence-to-sequence. ([arXiv][13])
+* Vaswani A., et al. *Attention Is All You Need.* NeurIPS / arXiv 2017 — self-attention/Transformer; архитектурный сдвиг в ML. ([arXiv][5], [papers.neurips.cc][14])
+* Обзоры и синтезы 2020–2025: ключевые работы по интеграции нейронауки и attention-моделей, включая обзоры по sustained attention (Huang et al., 2023), обзоры по применению трансформеров в нейронауке (Cong et al., 2024), и мета-обзоры по внутреннему вниманию/рабочей памяти (Annual Review 2023). ([peerj.com][15], [Wiley Online Library][8], [Annual Reviews][2])
 
 [1]: https://pubmed.ncbi.nlm.nih.gov/2183676/ "The attention system of the human brain"
 [2]: https://www.annualreviews.org/doi/10.1146/annurev-psych-021422-041757 "Turning Attention Inside Out: How Working Memory Serves ..."
