@@ -1,4 +1,4 @@
-# Внутренний монолог: нейрофизиология, феноменология и клинические следствия
+# Внутренняя речь: нейрофизиология, феноменология и клинические следствия
 
 ---
 
@@ -302,7 +302,7 @@ inner speech; internal monologue; subvocalization; verbal thought; auditory imag
 
 **Ограничения и вызовы**
 
-* ECoG/UTAH arrays инвазивны; выборка пациентов неконтролируема; модели часто переобучаются под конкретного чувака/речевые материалы; декодирование внутренней (covert) речи сложнее, чем декодирование услышанной или произнесённой речи (сильнее шум/меньшая амплитуда). Этические вопросы (privacy, consent) — ключевые. ([PubMed][35], [New England Journal of Medicine][37])
+* ECoG/UTAH arrays инвазивны; выборка пациентов неконтролируема; модели часто переобучаются под конкретного человека/речевые материалы; декодирование внутренней (covert) речи сложнее, чем декодирование услышанной или произнесённой речи (сильнее шум/меньшая амплитуда). Этические вопросы (privacy, consent) — ключевые. ([PubMed][35], [New England Journal of Medicine][37])
 
 **Рекомендации исследования inner speech**
 
@@ -1119,25 +1119,25 @@ Efference copy / corollary discharge — это копия моторной ко
 
 ```mermaid
 flowchart LR
-  Intent["Интенция / цель\nPFC, IFG (семантика / план)"] --> Planner["Планировщик / генератор мотор. плана\nIFG, premotor, SMA"]
+  Intent["Интенция / цель<br/>PFC, IFG (семантика / план)"] --> Planner["Планировщик / генератор мотор. плана<br/>IFG, premotor, SMA"]
 
-  Planner --> MotorCmd["Моторная команда\n(контроль артикуляторов)"]
-  MotorCmd --> Plant["Периферический 'плант'\n(артикуляторы, вокал. тракт)"]
-  Plant --> SensActual["Фактическая сенсорная обратная связь\nA1 / STG (слух); сомато/виз. поля"]
+  Planner --> MotorCmd["Моторная команда<br/>(контроль артикуляторов)"]
+  MotorCmd --> Plant["Периферический 'плант'<br/>(артикуляторы, вокал. тракт)"]
+  Plant --> SensActual["Фактическая сенсорная обратная связь<br/>A1 / STG (слух); сомато/виз. поля"]
 
-  Planner --> Forward["Forward model / Emulator\n(cerebellum, premotor)"]
-  MotorCmd --> Efference["Efference copy\n(predicted motor)"]
-  Efference --> SensPred["Сенсорный прогноз\n(predicted A1/STG pattern)"]
+  Planner --> Forward["Forward model / Emulator<br/>(cerebellum, premotor)"]
+  MotorCmd --> Efference["Efference copy<br/>(predicted motor)"]
+  Efference --> SensPred["Сенсорный прогноз<br/>(predicted A1/STG pattern)"]
 
-  SensPred --> Comparator["Comparator / Prediction-error unit\n(pSTG / dorsal stream / IFG)"]
+  SensPred --> Comparator["Comparator / Prediction-error unit<br/>(pSTG / dorsal stream / IFG)"]
   SensActual --> Comparator
   Comparator --> Error["Prediction error"]
   Error --> Planner
 
-  Efference --> Suppress["Corollary discharge → sensory suppression\n(attenuation of A1 response)"]
+  Efference --> Suppress["Corollary discharge → sensory suppression<br/>(attenuation of A1 response)"]
   Suppress --> SensActual
 
-  Intent --> Inner["Inner speech (covert)\n(no peripheral output)"]
+  Intent --> Inner["Inner speech (covert)<br/>(no peripheral output)"]
   Inner --> Planner
   Inner --> Forward
   Inner --> Efference
