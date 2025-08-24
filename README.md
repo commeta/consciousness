@@ -372,6 +372,9 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
   - [Внимание: интегративный обзор нейронных, вычислительных и инженерных подходов](/brain-networks/Attention-An-Integrative-Review-of-Neural-Computational-and-Engineering-Approaches.md)  Aug 22, 2025
 
+  - [Архитектуры памяти: концепции, нейронные механизмы и вычислительные реализации](/brain-networks/Memory-Architectures-Concepts-Neural-Mechanisms-and-Computational-Implementations.md)  Aug 24, 2025
+
+
   **Экспериментальное моделирование**
 
   - [Systems Integrated Predictive Workspace (SIPW): развернутый обзор теории сознания](/brain-networks/simulation/sipw.md)  Aug 11, 2025
