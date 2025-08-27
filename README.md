@@ -368,16 +368,25 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
   - [Нейрофизиологические механизмы квалиа: аттракторно-динамический подход к трудной проблеме сознания](/brain-networks/Neurophysiological-Mechanisms-of-Qualia-An-Attractor-Dynamic-Approach-to-the-Hard-Problem-of-Consciousness.md) Aug 13, 2025
 
-  - [Внутренняя речь: нейрофизиология, феноменология и клинические следствия](/brain-networks/Inner-speech-Neurophysiology-Phenomenology-and-Clinical-Implications.md) Aug 21, 2025
+  **Архитектура**
 
-  - [Внимание: интегративный обзор нейронных, вычислительных и инженерных подходов](/brain-networks/Attention-An-Integrative-Review-of-Neural-Computational-and-Engineering-Approaches.md)  Aug 22, 2025
+  - [Системная нейробиология: интегративный обзор современных концепций, механизмов и методов](/brain-networks/Systemic-Neurobiology-An-Integrative-Review-of-Current-Concepts-Mechanisms-and-Methods.md) Aug 27, 2025
 
-  - [Архитектуры памяти: концепции, нейронные механизмы и вычислительные реализации](/brain-networks/Memory-Architectures-Concepts-Neural-Mechanisms-and-Computational-Implementations.md)  Aug 24, 2025
+    - [Внутренняя речь: нейрофизиология, феноменология и клинические следствия](/brain-networks/Inner-speech-Neurophysiology-Phenomenology-and-Clinical-Implications.md) Aug 21, 2025
+
+    - [Внимание: интегративный обзор нейронных, вычислительных и инженерных подходов](/brain-networks/Attention-An-Integrative-Review-of-Neural-Computational-and-Engineering-Approaches.md)  Aug 22, 2025
+
+    - [Архитектуры памяти: концепции, нейронные механизмы и вычислительные реализации](/brain-networks/Memory-Architectures-Concepts-Neural-Mechanisms-and-Computational-Implementations.md)  Aug 24, 2025
 
 
   **Экспериментальное моделирование**
 
   - [Systems Integrated Predictive Workspace (SIPW): развернутый обзор теории сознания](/brain-networks/simulation/sipw.md)  Aug 11, 2025
+
+
+
+
+
 
 </details>
 
