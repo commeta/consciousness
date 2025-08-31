@@ -74,6 +74,16 @@
 * Logothetis NK, *What we can and what we cannot do with fMRI*, Nature (2008) — ограничения интерпретации BOLD. ([PubMed][7])
 * Kriegeskorte N. et al., *Representational similarity analysis* (2008) — аналитический инструмент для сопоставления представлений. ([PMC][8])
 
+[1]: https://people.ciirc.cvut.cz/~hlavac/pub/MiscTextForStudents/1982MarrDavidVisionBook.pdf "David Marr - Vision"
+[2]: https://www.nature.com/articles/nrn2787 "The free-energy principle: a unified brain theory?"
+[3]: https://www.uab.edu/medicine/cinl/images/KFriston_FreeEnergy_BrainTheory.pdf "The free-energy principle: a unified brain theory?"
+[4]: https://www.nature.com/articles/nrn3475 "Power failure: why small sample size undermines ..."
+[5]: https://www.bmj.com/content/372/bmj.n71 "The PRISMA 2020 statement: an updated guideline for ..."
+[6]: https://www.prisma-statement.org/prisma-2020-explanation-elaboration "PRISMA 2020 Explanation & Elaboration"
+[7]: https://pubmed.ncbi.nlm.nih.gov/18548064/ "What we can do and what we cannot do with fMRI"
+[8]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2605405/ "Representational Similarity Analysis – Connecting the ..."
+
+
 ---
 
 ## 2. Методы и инструменты: запись, визуализация, вмешательство, анализ
