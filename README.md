@@ -378,6 +378,7 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
     - [Архитектуры памяти: концепции, нейронные механизмы и вычислительные реализации](/brain-networks/Memory-Architectures-Concepts-Neural-Mechanisms-and-Computational-Implementations.md)  Aug 24, 2025
 
+  - [Обзор клеточного состава и архитектуры мозга](/brain-networks/Overview-of-the-cellular-composition-and-architecture-of-the-brain.md) Sep 15, 2025
 
   **Экспериментальное моделирование**
 
