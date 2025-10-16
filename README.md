@@ -1917,7 +1917,7 @@ graph TD
 
 - [Критический анализ: Информатика и Искусственный интеллект](/Computer-Science-and-Artificial-Intelligence/Critical-Analysis-of-Computer-Science-and-Artificial-Intelligence.md) Apr 30, 2025
 
-- [Осознание как фазовый переход в языковых моделях](/Computer-Science-and-Artificial-Intelligence/Awareness-as-a-phase-transition-in-language-models.md) June 24, 2025
+- [Осознание как фазовый переход в языковых моделях](/Awareness-as-a-phase-transition-in-language-models.md) June 24, 2025
 
 - [Аттракторная динамика в нейронных сетях: комплексный анализ от теоретических основ к современным приложениям](/Computer-Science-and-Artificial-Intelligence/Attractor-Dynamics-in-Neural-Networks.md) Aug 01, 2025
 
