@@ -20,10 +20,13 @@
 
 [Обзор клеточного состава и архитектуры мозга](/brain-networks/Overview-of-the-cellular-composition-and-architecture-of-the-brain.md) Sep 15, 2025
 
+[Биологические и химические вычисления: формализм, эксперименты и перспективы](/brain-networks/Biological-and-chemical-calculations.md) Nov 02, 2025
+
 
 **Экспериментальное моделирование**
 
 - [Systems Integrated Predictive Workspace (SIPW): развернутый обзор теории сознания](/brain-networks/simulation/sipw.md)  Aug 11, 2025
+
 
 ---
 
