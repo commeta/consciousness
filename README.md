@@ -368,6 +368,8 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
   - [Нейрофизиологические механизмы квалиа: аттракторно-динамический подход к трудной проблеме сознания](/brain-networks/Neurophysiological-Mechanisms-of-Qualia-An-Attractor-Dynamic-Approach-to-the-Hard-Problem-of-Consciousness.md) Aug 13, 2025
 
+  - [Нейрофизиология агентности — от молекул до феноменологии](/brain-networks/The-Neurophysiology-of-Agency.md) Nov 05, 2025
+
   **Архитектура**
 
   - [Системная нейробиология: интегративный обзор современных концепций, механизмов и методов](/brain-networks/Systemic-Neurobiology-An-Integrative-Review-of-Current-Concepts-Mechanisms-and-Methods.md) Aug 27, 2025
