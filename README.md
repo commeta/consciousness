@@ -386,6 +386,8 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
   - [Когнитом: гиперсетевая организация когнитивных ансамблей — теория, эмпирика и методы](/brain-networks/Cognitome-Hypernetwork-Organization-of-Cognitive-Ensembles.md) Nov 08, 2025
 
+    - [Перекрывающиеся рецептивные поля и карты признаков: механизмы, модели и экспериментальные подходы](/brain-networks/Overlapping-receptive-fields-and-feature-maps.md) Nov 26, 2025
+
   **Экспериментальное моделирование**
 
   - [Systems Integrated Predictive Workspace (SIPW): развернутый обзор теории сознания](/brain-networks/simulation/sipw.md)  Aug 11, 2025
