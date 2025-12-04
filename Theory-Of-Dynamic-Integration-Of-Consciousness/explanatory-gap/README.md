@@ -267,6 +267,11 @@
 
 [Гипотеза «моста» между 3-им лицом (нейродинамикой) и 1-м лицом (qualia)](/Theory-Of-Dynamic-Integration-Of-Consciousness/explanatory-gap/The-bridge-hypothesis.md)
 
+[Эпистемологическая сложность качественных переходов в научном знании: от агрегации моделей к открытию новых законов](/The-epistemological-complexity-of-qualitative-transitions-in-scientific-knowledge.md) 
+
+[Осознание как фазовый переход: нейробиологические механизмы интеграции информации и критические пороги сознания](/Awareness-as-a-Phase-Transition-Neurobiological-Mechanisms-of-Information-Integration-and-Critical-Thresholds-of-Consciousness.md) 
+
+
 ---
 
 ## Решения проблемы объяснительного провала в ДГА-R
