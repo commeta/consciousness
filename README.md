@@ -346,6 +346,8 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
 - [Дорожная карта изучения нейробиологических теорий сознания](/Roadmap-for-Studying-Neurobiological-Theories-of-Consciousness.md) July 08, 2025
 
+- [Эпистемологическая сложность качественных переходов в научном знании: от агрегации моделей к открытию новых законов](/The-epistemological-complexity-of-qualitative-transitions-in-scientific-knowledge.md) Dec 04, 2025
+
 **ML (Machine Learning)**
 
 - [Осознание как фазовый переход в языковых моделях](/Awareness-as-a-phase-transition-in-language-models.md) June 24, 2025
