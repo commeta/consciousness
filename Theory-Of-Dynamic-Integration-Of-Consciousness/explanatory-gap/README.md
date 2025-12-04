@@ -271,7 +271,7 @@
 
 [Осознание как фазовый переход: нейробиологические механизмы интеграции информации и критические пороги сознания](/Awareness-as-a-Phase-Transition-Neurobiological-Mechanisms-of-Information-Integration-and-Critical-Thresholds-of-Consciousness.md) 
 
-[Перекрывающиеся рецептивные поля и карты признаков: механизмы, модели и экспериментальные подходы](/brain-networks/Overlapping-receptive-fields-and-feature-maps.md) Nov 26, 2025
+[Перекрывающиеся рецептивные поля и карты признаков: механизмы, модели и экспериментальные подходы](/brain-networks/Overlapping-receptive-fields-and-feature-maps.md) 
 
 ---
 
