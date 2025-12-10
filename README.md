@@ -397,6 +397,8 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
   - [Многоуровневая модель организации мозга и сознания (NIMAC) - концептуальная карта](/brain-networks/simulation/NeuroIntegrative-Multiscale-Architecture-of-Consciousness.md)  Nov 16, 2025
 
     - [model_nimac.json](/brain-networks/simulation/model_nimac.json) 10 Dec, 2025
+    
+    - [🧠 NIMAC Model Viewer](https://dcs-spb.ru/nimac_viewer.html) 10 Dec, 2025
 
 </details>
 
