@@ -34,7 +34,7 @@
 
 - [Многоуровневая модель организации мозга и сознания (NIMAC) - концептуальная карта](/brain-networks/simulation/NeuroIntegrative-Multiscale-Architecture-of-Consciousness.md)  Nov 16, 2025
 
-  - [json](/brain-networks/simulation/model_nimac.json) 10 Dec, 2025
+  - [model_nimac.json](/brain-networks/simulation/model_nimac.json) 10 Dec, 2025
 
 
 ---
