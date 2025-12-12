@@ -28,6 +28,8 @@
 
 - [Перекрывающиеся рецептивные поля и карты признаков: механизмы, модели и экспериментальные подходы](/brain-networks/Overlapping-receptive-fields-and-feature-maps.md) Nov 26, 2025
 
+[Кодирование в мозге: от синаптической пластичности до популяционной динамики](/brain-networks/Coding-in-the-brain.md) 12 Dec, 2025
+
 **Экспериментальное моделирование**
 
 - [Systems Integrated Predictive Workspace (SIPW): развернутый обзор теории сознания](/brain-networks/simulation/sipw.md)  Aug 11, 2025
