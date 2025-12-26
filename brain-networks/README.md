@@ -40,6 +40,7 @@
   
   - [🧠 NIMAC Model Viewer](https://dcs-spb.ru/nimac_viewer.html) 10 Dec, 2025
 
+[Три фундаментальных измерения сознания](/brain-networks/simulation/Three-fundamental-dimensions-of-consciousness.md) 26 Dec, 2025
 
 ---
 
