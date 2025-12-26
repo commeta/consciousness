@@ -401,6 +401,9 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
     - [model_nimac.json](/brain-networks/simulation/model_nimac.json) 10 Dec, 2025
     
     - [🧠 NIMAC Model Viewer](https://dcs-spb.ru/nimac_viewer.html) 10 Dec, 2025
+    
+  - [Три фундаментальных измерения сознания](/brain-networks/simulation/Three-fundamental-dimensions-of-consciousness.md) 26 Dec, 2025
+
 
 </details>
 
