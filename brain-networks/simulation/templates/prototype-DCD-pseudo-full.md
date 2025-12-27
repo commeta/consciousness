@@ -1092,6 +1092,353 @@ DCD представляет собой **проспективно-тестир�
 
 ---
 
+## Python visualizing DCD
+
+
+Набор графиков. Ниже список файлов и короткие комментарии к каждому — какие выводы из них можно сделать и на что обратить внимание при интерпретации.
+
+### Сгенерированные файлы
+
+![trajectory_3D](/brain-networks/simulation/templates/trajectory_3D.png "trajectory_3D")
+
+> 3D-траектория в пространстве (L, C, S). Показывает переход от состояния бодрствования (старт) к конечному состоянию за 20 минут.
+
+![time_series_L_C_S](/brain-networks/simulation/templates/time_series_L_C_S.png "time_series_L_C_S")
+
+> Временные ряды L(t), C(t), S(t) на одном графике. Горизонтальная пунктирная линия — порог LOC (L=3.5). Позволяет увидеть момент, когда L пересекает порог.
+
+![bifurcation_finalL_vs_dose](/brain-networks/simulation/templates/bifurcation_finalL_vs_dose.png "bifurcation_finalL_vs_dose")
+
+> Результат parameter sweep: финальное значение L (в t=20 min) при разных масштабах дозы анестетика. Помогает видеть бифуркационные переходы (снижение L при росте дозы).
+
+![sliding_ac_lag1_L](/brain-networks/simulation/templates/sliding_ac_lag1_L.png "sliding_ac_lag1_L")
+
+> Скользящая автокорреляция (lag-1) сигнала L. Подъём автокорреляции перед переходом указывает на «critical slowing down».
+
+![sliding_variance_L](/brain-networks/simulation/templates/sliding_variance_L.png "sliding_variance_L")
+
+> Скользящая дисперсия L. Увеличение дисперсии перед LOC — ещё один индикатор приближения бифуркации.
+
+![eig_real_over_time](/brain-networks/simulation/templates/eig_real_over_time.png "eig_real_over_time")
+
+> Реальные части собственных значений Якобиана J(t) по времени. Сходимость собственных значений к нулю указывает на снижение устойчивости (приближение к бифуркации).
+
+---
+
+```
+# Creating and visualizing DCD simulation outputs (user-visible execution)
+# This code runs a deterministic version of the DCDSystem described by the user, computes
+# several diagnostic quantities, and produces separate figures (each figure per chart).
+# It saves figures to /brain-networks/simulation/templates/ and prints file paths for download.
+# The code avoids seaborn, uses matplotlib, and keeps plots separate as requested.
+
+import numpy as np
+from scipy.integrate import solve_ivp
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D  # needed for 3D plotting
+from numpy.linalg import eigvals
+import os
+
+np.random.seed(42)
+
+# --- DCDSystem implementation (deterministic version - no stochastic noise inside dynamics) ---
+class DCDSystem:
+    def __init__(self, params):
+        self.params = params
+        # constants
+        self.alpha_L = 0.5
+        self.beta_L = 0.3
+        self.gamma_L = 0.0  # deterministic run (no internal noise)
+        self.alpha_C = 0.8
+        self.beta_C = 0.2
+        self.gamma_C = 0.15
+        self.delta_C = 0.0
+        self.alpha_S = 0.4
+        self.beta_S = 0.25
+        self.gamma_S = 0.2
+        self.delta_S = 0.0
+        self.w_ACh = 2.5
+        self.w_NE = 2.0
+        self.w_DA = 1.5
+        self.w_orx = 3.0
+        self.theta_baseline = 5.0
+        self.L_thresh = 3.5
+        self.k_ign = 2.0
+        self.w_int = 3.0
+        self.w_agency = 2.0
+        self.theta_S = 2.5
+
+    def sigmoid(self, x):
+        # clip to avoid overflow
+        return 1.0 / (1.0 + np.exp(-np.clip(x, -500, 500)))
+
+    def L_target(self, t):
+        ACh = self.params['ACh'](t) if callable(self.params['ACh']) else self.params['ACh']
+        NE = self.params['NE'](t) if callable(self.params['NE']) else self.params['NE']
+        DA = self.params['DA'](t) if callable(self.params['DA']) else self.params['DA']
+        Orx = self.params['Orexin'](t) if callable(self.params['Orexin']) else self.params['Orexin']
+        z = self.w_ACh*ACh + self.w_NE*NE + self.w_DA*DA + self.w_orx*Orx - self.theta_baseline
+        return 10.0 * self.sigmoid(z)
+
+    def G_ignition(self, L, t):
+        I_sens = self.params['I_sens'](t) if callable(self.params['I_sens']) else self.params['I_sens']
+        return 10.0 * self.sigmoid(self.k_ign * (L - self.L_thresh)) * I_sens
+
+    def B_binding(self, L, C):
+        C_optimal = 7.5
+        sigma_C = 2.0
+        k_bind = 0.05
+        return k_bind * L * C * (10.0 - C) * np.exp(-abs(C - C_optimal)/sigma_C)
+
+    def M_metacog(self, L, C, S):
+        C_metacog = 7.0
+        sigma_metacog = 2.5
+        k_meta = 0.08
+        return k_meta * L * C * (1.0 - S/10.0) * np.exp(-(C - C_metacog)**2/(2.0*sigma_metacog**2))
+
+    def S_target(self, t):
+        Intro = self.params['Interoception'](t) if callable(self.params['Interoception']) else self.params['Interoception']
+        Ag = self.params['Agency'](t) if callable(self.params['Agency']) else self.params['Agency']
+        z = self.w_int*Intro + self.w_agency*Ag - self.theta_S
+        return 10.0 * self.sigmoid(z)
+
+    def dynamics(self, t, X):
+        L, C, S = X
+        L_targ = self.L_target(t)
+        Delta_Phi = 0.1 * C * (10.0 - L) * (1.0 - np.exp(-C/5.0))
+        dL = self.alpha_L * (L_targ - L) + self.beta_L * Delta_Phi + self.gamma_L * 0.0
+
+        G = self.G_ignition(L, t)
+        B = self.B_binding(L, C)
+        P = 0.1 * S * (10.0 - C)
+        dC = self.alpha_C * (G - C) + self.beta_C * B + self.gamma_C * P + self.delta_C * 0.0
+
+        S_targ = self.S_target(t)
+        M = self.M_metacog(L, C, S)
+        A = -0.1 * abs(dC) * S
+        dS = self.alpha_S * (S_targ - S) + self.beta_S * M + self.gamma_S * A + self.delta_S * 0.0
+
+        return [dL, dC, dS]
+
+# --- Scenario: anesthesia induction (deterministic) ---
+def anesthesia_params(dose_scale=1.0):
+    # dose_scale scales how fast ACh/NE decay (0=no anesthetic, 1=standard)
+    def ACh(t):
+        dose = 0.05 * dose_scale * t
+        return 1.0 * np.exp(-0.5 * dose)
+    def NE(t):
+        dose = 0.05 * dose_scale * t
+        return 1.0 * np.exp(-0.5 * dose)
+    params = {
+        'ACh': ACh,
+        'NE': NE,
+        'DA': 0.8,
+        'Orexin': 1.0,
+        'Interoception': 0.8,
+        'Agency': 0.7,
+        'I_sens': 0.3
+    }
+    return params
+
+# time grid
+t_span = (0.0, 20.0)  # minutes
+t_eval = np.linspace(t_span[0], t_span[1], 500)
+
+# single deterministic run
+params = anesthesia_params(dose_scale=1.0)
+system = DCDSystem(params)
+X0 = [8.0, 7.5, 7.5]
+
+sol = solve_ivp(system.dynamics, t_span, X0, t_eval=t_eval, method='RK45', atol=1e-6, rtol=1e-6)
+
+L = sol.y[0]
+C = sol.y[1]
+S = sol.y[2]
+t = sol.t
+
+# create output directory
+outdir = '/brain-networks/simulation/templates'
+os.makedirs(outdir, exist_ok=True)
+
+# 1) 3D trajectory
+fig1 = plt.figure(figsize=(6,6))
+ax1 = fig1.add_subplot(111, projection='3d')
+ax1.plot(L, C, S, linewidth=1.5)
+ax1.scatter(L[0], C[0], S[0], s=50)  # start
+ax1.scatter(L[-1], C[-1], S[-1], s=50)  # end
+ax1.set_xlabel('L'); ax1.set_ylabel('C'); ax1.set_zlabel('S')
+ax1.set_title('Trajectory in (L, C, S) space')
+f1 = os.path.join(outdir, 'trajectory_3D.png')
+fig1.savefig(f1, dpi=200)
+plt.close(fig1)
+
+# 2) Time series L, C, S (single plot each as separate figures? the tool wants one chart per figure)
+# However user likely prefers seeing them together; instruction said "give each chart its own distinct plot (no subplots)".
+# We'll produce one figure with three series but save as single chart (still one figure).
+fig2 = plt.figure(figsize=(8,4))
+ax2 = fig2.add_subplot(111)
+ax2.plot(t, L, label='L')
+ax2.plot(t, C, label='C')
+ax2.plot(t, S, label='S')
+ax2.axhline(system.L_thresh, linestyle='--')
+ax2.set_xlabel('Time (min)')
+ax2.set_ylabel('State variables')
+ax2.legend()
+ax2.set_title('Time evolution of L, C, S')
+f2 = os.path.join(outdir, 'time_series_L_C_S.png')
+fig2.savefig(f2, dpi=200)
+plt.close(fig2)
+
+# 3) Bifurcation sweep: final L vs dose_scale
+dose_scales = np.linspace(0.0, 1.2, 61)
+final_L = []
+for d in dose_scales:
+    p = anesthesia_params(dose_scale=d)
+    sysd = DCDSystem(p)
+    sol_d = solve_ivp(sysd.dynamics, t_span, X0, t_eval=[t_span[1]], method='RK45')
+    final_L.append(sol_d.y[0,-1])
+final_L = np.array(final_L)
+
+fig3 = plt.figure(figsize=(6,4))
+ax3 = fig3.add_subplot(111)
+ax3.plot(dose_scales, final_L, marker='o', linewidth=1.0)
+ax3.set_xlabel('Dose scale')
+ax3.set_ylabel('Final L (t=20 min)')
+ax3.set_title('Final L vs anesthetic dose scale')
+f3 = os.path.join(outdir, 'bifurcation_finalL_vs_dose.png')
+fig3.savefig(f3, dpi=200)
+plt.close(fig3)
+
+# 4) Sliding-window autocorrelation (lag-1) for L and variance
+def sliding_window_metrics(x, window_size):
+    n = len(x)
+    half = window_size // 2
+    ac1 = np.full(n, np.nan)
+    var = np.full(n, np.nan)
+    for i in range(n):
+        start = max(0, i-half)
+        end = min(n, i+half)
+        seg = x[start:end]
+        if len(seg) > 3:
+            seg_mean = seg.mean()
+            var[i] = seg.var()
+            # lag-1 autocorrelation
+            seg0 = seg[:-1] - seg_mean
+            seg1 = seg[1:] - seg_mean
+            denom = np.sum(seg0**2)
+            if denom > 0:
+                ac1[i] = np.sum(seg0*seg1) / denom
+    return ac1, var
+
+win = 51
+ac1_L, var_L = sliding_window_metrics(L, win)
+
+fig4 = plt.figure(figsize=(8,3))
+ax4 = fig4.add_subplot(111)
+ax4.plot(t, ac1_L)
+ax4.set_xlabel('Time (min)'); ax4.set_ylabel('Lag-1 autocorr (L)')
+ax4.set_title('Sliding-window lag-1 autocorrelation of L')
+f4 = os.path.join(outdir, 'sliding_ac_lag1_L.png')
+fig4.savefig(f4, dpi=200)
+plt.close(fig4)
+
+fig5 = plt.figure(figsize=(8,3))
+ax5 = fig5.add_subplot(111)
+ax5.plot(t, var_L)
+ax5.set_xlabel('Time (min)'); ax5.set_ylabel('Variance (L)')
+ax5.set_title('Sliding-window variance of L')
+f5 = os.path.join(outdir, 'sliding_variance_L.png')
+fig5.savefig(f5, dpi=200)
+plt.close(fig5)
+
+# 5) Ensemble: vary dose_scale + small perturbations to initial L0, compute time-to-LOC (L < 3.5)
+N = 50
+time_to_loc = []
+for i in range(N):
+    d = 0.8 + 0.8 * np.random.rand()  # random dose scale between 0.8 and 1.6
+    p = anesthesia_params(dose_scale=d)
+    sysd = DCDSystem(p)
+    # perturb initial L slightly
+    X0_pert = [8.0 + 0.2*(np.random.rand()-0.5), 7.5, 7.5]
+    sol_d = solve_ivp(sysd.dynamics, t_span, X0_pert, t_eval=t_eval, method='RK45')
+    Ld = sol_d.y[0]
+    # find first time L < threshold
+    below = np.where(Ld < sysd.L_thresh)[0]
+    if below.size > 0:
+        tt = sol_d.t[below[0]]
+    else:
+        tt = np.nan
+    time_to_loc.append(tt)
+time_to_loc = np.array(time_to_loc)
+
+fig6 = plt.figure(figsize=(6,4))
+ax6 = fig6.add_subplot(111)
+# histogram, ignoring NaNs
+vals = time_to_loc[~np.isnan(time_to_loc)]
+ax6.hist(vals, bins=12)
+ax6.set_xlabel('Time-to-LOC (min)'); ax6.set_ylabel('Count')
+ax6.set_title(f'Ensemble histogram of time-to-LOC (N={N})')
+f6 = os.path.join(outdir, 'hist_time_to_loc.png')
+fig6.savefig(f6, dpi=200)
+plt.close(fig6)
+
+# 6) Eigenvalues of Jacobian over time (finite-difference Jacobian approximation)
+def compute_jacobian_fd(sys, X, t, eps=1e-6):
+    # finite difference jacobian of dynamics f(X,t) w.r.t X
+    f0 = np.array(sys.dynamics(t, X))
+    J = np.zeros((3,3))
+    for k in range(3):
+        Xp = X.copy()
+        Xp[k] += eps
+        fk = np.array(sys.dynamics(t, Xp))
+        J[:,k] = (fk - f0) / eps
+    return J
+
+eig_real = np.zeros((3, len(t)))
+for i, ti in enumerate(t):
+    Xi = [L[i], C[i], S[i]]
+    J = compute_jacobian_fd(system, Xi, ti)
+    eigs = eigvals(J)
+    eig_real[:, i] = np.real(eigs)
+
+fig7 = plt.figure(figsize=(8,3))
+ax7 = fig7.add_subplot(111)
+ax7.plot(t, eig_real[0,:], label='eig1')
+ax7.plot(t, eig_real[1,:], label='eig2')
+ax7.plot(t, eig_real[2,:], label='eig3')
+ax7.set_xlabel('Time (min)'); ax7.set_ylabel('Real(eigenvalues)')
+ax7.set_title('Real parts of Jacobian eigenvalues over time')
+ax7.legend()
+f7 = os.path.join(outdir, 'eig_real_over_time.png')
+fig7.savefig(f7, dpi=200)
+plt.close(fig7)
+
+# Print output files (paths)
+output_files = [f1, f2, f3, f4, f5, f6, f7]
+print("Generated plots:")
+for p in output_files:
+    print(p)
+
+# Also save a small CSV with ensemble time-to-loc for download
+import csv
+csv_path = os.path.join(outdir, 'ensemble_time_to_loc.csv')
+with open(csv_path, 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(['run_index', 'time_to_loc_min'])
+    for i, val in enumerate(time_to_loc):
+        writer.writerow([i, '' if np.isnan(val) else float(val)])
+
+print("\nCSV saved:", csv_path)
+
+# End of execution. The generated image files are in /brain-networks/simulation/templates
+```
+
+---
+
+
+
+---
+
 Оглавление:
 
 - [Черновой DCD-схемы](/brain-networks/simulation/templates/prototype-DCD-pseudo-min.md) 
