@@ -135,6 +135,7 @@ $$
 
 Оглавление:
 
+- [Формализация DCD-подхода](/brain-networks/simulation/templates/prototype-DCD-pseudo-full.md) 
 - [Три фундаментальных измерения сознания](/brain-networks/simulation/Three-fundamental-dimensions-of-consciousness.md) 
 - [Многоуровневая модель организации мозга и сознания (NIMAC) - концептуальная карта](/brain-networks/simulation/NeuroIntegrative-Multiscale-Architecture-of-Consciousness.md)  
 - [Нейросети мозга](/brain-networks/README.md)
