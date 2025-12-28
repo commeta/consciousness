@@ -1487,6 +1487,12 @@ ax.plot(*zip(*trajectory), marker='o', label='Anesthesia induction')
 - Стандартизированные протоколы измерения.
 - Public API для запросов ("Какие состояния похожи на (L=7, C=9, S=4)?").
 
+**Формализация**
+
+- [Черновой DCD-схемы](/brain-networks/simulation/templates/prototype-DCD-pseudo-min.md) 
+
+- [Формализация DCD-подхода](/brain-networks/simulation/templates/prototype-DCD-pseudo-full.md) 
+
 ---
 
 #### РЕЗЮМЕ: Ключевые преимущества многомерной карты
