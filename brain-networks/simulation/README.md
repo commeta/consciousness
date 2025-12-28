@@ -25,6 +25,10 @@
 
 [Три фундаментальных измерения сознания](/brain-networks/simulation/Three-fundamental-dimensions-of-consciousness.md) 
 
+- [Черновой DCD-схемы](/brain-networks/simulation/templates/prototype-DCD-pseudo-min.md) 
+
+- [Формализация DCD-подхода](/brain-networks/simulation/templates/prototype-DCD-pseudo-full.md) 
+
 ### 2. NIMAC: многоуровневая архитектура
 
 * **Суть:** карта множества уровней реализации (L0…L13). Каждый уровень описывает специфические механизмы (колоночная архитектура, клеточная механика, нейрохимия, нейроваскулярность и т.д.).
