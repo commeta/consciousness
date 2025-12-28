@@ -32,6 +32,8 @@
 
 **Экспериментальное моделирование**
 
+[Экспериментальное моделирование - обзор](/brain-networks/simulation/README.md)
+
 - [Systems Integrated Predictive Workspace (SIPW): развернутый обзор теории сознания](/brain-networks/simulation/sipw.md)  Aug 11, 2025
 
 - [Многоуровневая модель организации мозга и сознания (NIMAC) - концептуальная карта](/brain-networks/simulation/NeuroIntegrative-Multiscale-Architecture-of-Consciousness.md)  Nov 16, 2025
@@ -42,6 +44,10 @@
 
 - [Три фундаментальных измерения сознания](/brain-networks/simulation/Three-fundamental-dimensions-of-consciousness.md) 26 Dec, 2025
 
+  - [Черновой DCD-схемы](/brain-networks/simulation/templates/prototype-DCD-pseudo-min.md) 28 Dec, 2025
+
+  - [Формализация DCD-подхода](/brain-networks/simulation/templates/prototype-DCD-pseudo-full.md) 28 Dec, 2025
+  
 ---
 
 **Введение**
