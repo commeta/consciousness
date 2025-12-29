@@ -3728,7 +3728,7 @@ for p in out_paths:
 
 ![dcd2_minimal_CA_scatter_V1](/brain-networks/simulation/templates/dcd2_minimal_CA_scatter_V1.svg "dcd2_minimal_CA_scatter_V1")
 
-> C vs A scatter (V1): [Download SVG — C vs A scatter V1](/mnt/data/dcd2_minimal_CA_scatter_V1.svg)
+> C vs A scatter (V1)
 
 
 ---
