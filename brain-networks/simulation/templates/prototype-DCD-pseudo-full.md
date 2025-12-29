@@ -1765,7 +1765,7 @@ dL_cortical/dt = ... + γ_sub · (L_subcortical - L_cortical)
 - **Hydranencephaly** (Merker, 2007): L_subcortical может поддерживать rudimentary consciousness при отсутствии коры
 
 **Валидация:**
-- fMRI у blindsight пациентов: superior colliculus активность при unseen stimuli (Sahraie et al., 2010, *PNAS*)
+- fMRI у blindsight пациентов: superior colliculus активность при unseen stimuli (Sahraie et al., 1997)
 
 ---
 
@@ -4115,7 +4115,7 @@ for p in out_paths:
 
 - **Saalmann, Yuri B. and Kastner, Sabine** (2011). *Cognitive and perceptual functions of the visual thalamus*. Neuron, 71(2), 209--223. [doi](https://doi.org/10.1016/j.neuron.2011.06.027)
 
-- **Sahraie, Arash and Weiskrantz, Lawrence and Barbur, John L. and Simmons, Andrew and Williams, Steven C. R. and Brammer, Michael J.** (2010). *Pattern of neuronal activity associated with conscious and unconscious processing of visual signals*. Proceedings of the National Academy of Sciences, 107(21), 9855--9860. [doi](https://doi.org/10.1073/pnas.1004379107)
+- **Sahraie, A., Weiskrantz, L., Barbur, J. L., Alison Simmons, M. Brammer** (1997). Pattern of neuronal activity associated with conscious and unconscious processing of visual signals. Proc. Natl. Acad. Sci. U.S.A., 94:9406–9411. [doi](https://doi.org/10.1073/pnas.94.17.9406)
 
 - **Sakurai, Takeshi** (2007). *The neural circuit of orexin (hypocretin): maintaining sleep and wakefulness*. Nature Reviews Neuroscience, 8(3), 171--181. [doi](https://doi.org/10.1038/nrn2092)
 
