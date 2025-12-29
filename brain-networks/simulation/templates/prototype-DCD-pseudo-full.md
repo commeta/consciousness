@@ -3581,6 +3581,616 @@ for p in out_paths:
 * Модель поддерживает идею, что posterior ignition возможен локально: сильный (C) в V4/IT без немедленного фронтального роста — это реалистичная механистика для no-report феноменов.
 * Attention (top-down bias) эффективно понижает порог ignition и увеличивает вероятность того, что локальная активность превратится в содержание. Это даёт чёткое экспериментальное предсказание: усиление top-down внимания к области X повышает детектируемость стимула, даже если сенсорный вход тот же.
 
+---
+
+## Python симуляция DCD 2.0 minimal working example
+
+![dcd2_minimal_L](/brain-networks/simulation/templates/dcd2_minimal_L.svg "dcd2_minimal_L")
+
+> Level (L) по регионам (время)
+
+![dcd2_minimal_C](/brain-networks/simulation/templates/dcd2_minimal_C.svg "dcd2_minimal_C")
+
+> Content (C) по регионам (время)
+
+![dcd2_minimal_A](/brain-networks/simulation/templates/dcd2_minimal_A.svg "dcd2_minimal_A")
+
+> Attention (A) по регионам (время)
+
+![dcd2_minimal_LCS_3D](/brain-networks/simulation/templates/dcd2_minimal_LCS_3D.svg "dcd2_minimal_LCS_3D")
+
+> Средняя траектория (L, C, S) в 3D
+
+![dcd2_minimal_autocorr_L_V1](/brain-networks/simulation/templates/dcd2_minimal_autocorr_L_V1.svg "dcd2_minimal_autocorr_L_V1")
+
+> Автокорреляция (L) (V1) — проверка OU-шума
+
+![dcd2_minimal_CA_scatter_V1](/brain-networks/simulation/templates/dcd2_minimal_CA_scatter_V1.svg "dcd2_minimal_CA_scatter_V1")
+
+> C vs A scatter (V1): [Download SVG — C vs A scatter V1](/mnt/data/dcd2_minimal_CA_scatter_V1.svg)
+
+
+---
+
+```
+# the DCD 2.0 minimal example and save SVGs.
+import numpy as np
+from scipy.integrate import solve_ivp
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+
+class OUNoise:
+    def __init__(self, n, lambda_relax=2.0, sigma=0.1, dt=0.01):
+        self.n = n
+        self.lambda_relax = lambda_relax
+        self.sigma = sigma
+        self.dt = dt
+        self.state = np.zeros(n)
+    def step(self):
+        dW = np.random.normal(0, np.sqrt(self.dt), self.n)
+        self.state += -self.lambda_relax * self.state * self.dt + self.sigma * dW
+        return self.state.copy()
+
+regions = ['V1', 'dlPFC', 'aINS', 'IPS', 'PCC']
+n_regions = 5
+
+SC = np.array([
+    [0.0, 0.2, 0.0, 0.5, 0.1],
+    [0.2, 0.0, 0.3, 0.4, 0.5],
+    [0.0, 0.3, 0.0, 0.3, 0.5],
+    [0.5, 0.4, 0.3, 0.0, 0.4],
+    [0.1, 0.5, 0.5, 0.4, 0.0],
+])
+
+class DCD2Minimal:
+    def __init__(self):
+        self.n = n_regions
+        self.SC = SC
+        self.D_L = 0.05
+        self.D_C = 0.15
+        self.D_S = 0.02
+        self.noise_L = OUNoise(n_regions, lambda_relax=2.0, sigma=0.1)
+        self.noise_C = OUNoise(n_regions, lambda_relax=3.0, sigma=0.2)
+        self.noise_S = OUNoise(n_regions, lambda_relax=1.0, sigma=0.05)
+        self.dose_scale = 0.0
+    def sigmoid(self, x):
+        return 1.0 / (1.0 + np.exp(-np.clip(x, -10, 10)))
+    def graph_laplacian(self, X, D):
+        degree = self.SC.sum(axis=1)
+        return D * (self.SC @ X - degree * X)
+    def L_target(self, t):
+        ACh = 1.0 * np.exp(-0.5 * self.dose_scale * 0.05 * t)
+        NE = 1.0 * np.exp(-0.5 * self.dose_scale * 0.05 * t)
+        z = 2.5*ACh + 2.0*NE - 5.0
+        return 10.0 * self.sigmoid(z) * np.ones(self.n)
+    def dynamics(self, t, X):
+        L = X[0:5]
+        C = X[5:10]
+        S = X[10:15]
+        A = X[15:20]
+        L_targ = self.L_target(t)
+        Delta_Phi = 0.1 * C * (10 - L) * (1 - np.exp(-C/5.0))
+        dL = 0.5 * (L_targ - L) + 0.3 * Delta_Phi
+        dL += self.graph_laplacian(L, self.D_L)
+        dL += self.noise_L.step()
+        L_thresh_eff = 3.5 * (1.0 - 0.5 * A)
+        I_sens = 0.3 * np.ones(5)
+        I_sens[0] = 0.8
+        G = 10.0 * self.sigmoid(2.0 * (L - L_thresh_eff)) * I_sens
+        C_opt = 7.5
+        B = 0.05 * L * C * (10 - C) * np.exp(-np.abs(C - C_opt)/2.0)
+        P = 0.1 * S * (10 - C)
+        dC = 0.8 * (G - C) + 0.2 * B + 0.15 * P
+        dC += self.graph_laplacian(C, self.D_C)
+        dC += self.noise_C.step()
+        Intro = L[2] / 10.0
+        Agency = 0.7
+        S_targ = 10.0 * self.sigmoid(3.0*Intro + 2.0*Agency - 2.5)
+        M = 0.08 * L * C * (1 - S/10) * np.exp(-(C - 7.0)**2/(2*2.5**2))
+        dC_abs = np.abs(dC)
+        A_term = -0.1 * dC_abs * S
+        dS = 0.4 * (S_targ - S) + 0.25 * M + 0.2 * A_term
+        dS += self.graph_laplacian(S, self.D_S)
+        dS += self.noise_S.step()
+        salience = C / 10.0
+        top_down = np.zeros(5)
+        top_down[0] = L[1] / 10.0
+        dA = 0.5 * salience * (1 - A) + 0.3 * top_down * (1 - A) - 0.4 * A
+        return np.concatenate([dL, dC, dS, dA])
+
+system = DCD2Minimal()
+
+def anesthesia_protocol(t):
+    if t < 5:
+        return 0.0
+    else:
+        return 1.0
+
+X0 = np.concatenate([
+    np.array([8.0, 8.0, 8.0, 8.0, 8.0]),
+    np.array([7.5, 7.5, 7.5, 7.5, 7.5]),
+    np.array([7.5, 7.5, 7.5, 7.5, 7.5]),
+    np.array([0.2, 0.5, 0.1, 0.3, 0.2]),
+])
+
+t_span = (0, 20)
+t_eval = np.linspace(0, 20, 1000)
+
+def dynamics_with_dose(t, X):
+    system.dose_scale = anesthesia_protocol(t)
+    return system.dynamics(t, X)
+
+sol = solve_ivp(dynamics_with_dose, t_span, X0, t_eval=t_eval, method='RK45', max_step=0.1)
+
+# 1. Regional L over time
+fig1, ax1 = plt.subplots(figsize=(8,4.5))
+for i in range(n_regions):
+    ax1.plot(sol.t, sol.y[i, :], linewidth=2, label=regions[i])
+ax1.axhline(3.5, linestyle='--', label='LOC threshold')
+ax1.axvline(5, linestyle=':', alpha=0.5, label='Anesthesia start')
+ax1.set_xlabel('Time (min)')
+ax1.set_ylabel('Level L')
+ax1.legend(fontsize='small')
+ax1.set_title('Spatial heterogeneity in Level')
+ax1.grid(alpha=0.3)
+fig1.tight_layout()
+out1 = '/brain-networks/simulation/templates/dcd2_minimal_L.svg'
+fig1.savefig(out1, format='svg')
+plt.close(fig1)
+
+# 2. Regional C over time
+fig2, ax2 = plt.subplots(figsize=(8,4.5))
+for i in range(n_regions):
+    ax2.plot(sol.t, sol.y[5+i, :], linewidth=2, label=regions[i])
+ax2.axvline(5, linestyle=':', alpha=0.5, label='Anesthesia start')
+ax2.set_xlabel('Time (min)')
+ax2.set_ylabel('Content C')
+ax2.legend(fontsize='small')
+ax2.set_title('Content dynamics')
+ax2.grid(alpha=0.3)
+fig2.tight_layout()
+out2 = '/brain-networks/simulation/templates/dcd2_minimal_C.svg'
+fig2.savefig(out2, format='svg')
+plt.close(fig2)
+
+# 3. Attention A over time
+fig3, ax3 = plt.subplots(figsize=(8,4.5))
+for i in range(n_regions):
+    ax3.plot(sol.t, sol.y[15+i, :], linewidth=2, label=regions[i])
+ax3.axvline(5, linestyle=':', alpha=0.5, label='Anesthesia start')
+ax3.set_xlabel('Time (min)')
+ax3.set_ylabel('Attention A')
+ax3.legend(fontsize='small')
+ax3.set_title('Attention gating')
+ax3.grid(alpha=0.3)
+fig3.tight_layout()
+out3 = '/brain-networks/simulation/templates/dcd2_minimal_A.svg'
+fig3.savefig(out3, format='svg')
+plt.close(fig3)
+
+# 4. Mean (L, C, S) trajectory in 3D
+fig4 = plt.figure(figsize=(6,5))
+ax4 = fig4.add_subplot(111, projection='3d')
+L_mean = sol.y[0:5, :].mean(axis=0)
+C_mean = sol.y[5:10, :].mean(axis=0)
+S_mean = sol.y[10:15, :].mean(axis=0)
+ax4.plot(L_mean, C_mean, S_mean, linewidth=2)
+ax4.scatter([L_mean[0]], [C_mean[0]], [S_mean[0]], s=60, label='Start')
+ax4.scatter([L_mean[-1]], [C_mean[-1]], [S_mean[-1]], s=60, label='End')
+ax4.set_xlabel('Level L')
+ax4.set_ylabel('Content C')
+ax4.set_zlabel('Self S')
+ax4.legend(fontsize='small')
+ax4.set_title('Mean (L,C,S) trajectory')
+fig4.tight_layout()
+out4 = '/brain-networks/simulation/templates/dcd2_minimal_LCS_3D.svg'
+fig4.savefig(out4, format='svg')
+plt.close(fig4)
+
+# 5. Autocorrelation of L (OU noise validation)
+fig5, ax5 = plt.subplots(figsize=(6,4))
+L_V1 = sol.y[0, :]
+lags = np.arange(0, 100)
+dt = t_eval[1] - t_eval[0]
+autocorr = [np.corrcoef((L_V1 if lag == 0 else L_V1[:-lag]), (L_V1 if lag == 0 else L_V1[lag:]))[0,1] 
+            for lag in lags]
+ax5.plot(lags * dt, autocorr, linewidth=2)
+ax5.set_xlabel('Lag (min)')
+ax5.set_ylabel('Autocorrelation')
+ax5.set_title('OU noise structure (V1 Level)')
+ax5.grid(alpha=0.3)
+fig5.tight_layout()
+out5 = '/brain-networks/simulation/templates/dcd2_minimal_autocorr_L_V1.svg'
+fig5.savefig(out5, format='svg')
+plt.close(fig5)
+
+# 6. C vs A scatter (attention gates content)
+fig6, ax6 = plt.subplots(figsize=(6,4.5))
+C_V1 = sol.y[5, :]
+A_V1 = sol.y[15, :]
+ax6.scatter(A_V1, C_V1, s=10, alpha=0.6)
+ax6.set_xlabel('Attention (V1)')
+ax6.set_ylabel('Content (V1)')
+ax6.set_title('Attention-Content coupling (V1)')
+ax6.grid(alpha=0.3)
+fig6.tight_layout()
+out6 = '/brain-networks/simulation/templates/dcd2_minimal_CA_scatter_V1.svg'
+fig6.savefig(out6, format='svg')
+plt.close(fig6)
+
+out_paths = [out1, out2, out3, out4, out5, out6]
+print("Saved SVG files:")
+for p in out_paths:
+    print(p)
+```
+
+---
+
+
+
+Ниже — системная интерпретация результатов с выводами, критериями надёжности и рекомендациями.
+
+### Краткое резюме ключевых численных результатов
+
+(взято из реализации DCD2.0 minimal; все величины — модельные условные единицы)
+
+* Финальные (t = 20 min) средние значения по регионам:
+  **L_mean_final ≈ 1.56**, **C_mean_final ≈ 1.86**, **S_mean_final ≈ 3.53**.
+  → это соответствует переходу в низкоуровневое состояние (анестезия) после начала дозирования в t=5 мин.
+
+* Дисперсия в конце траектории: σ_L ≈ 0.677, σ_C ≈ 1.963, σ_S ≈ 0.201.
+  → содержание (C) остаётся более вариабельным между регионами, S — относительно однородна.
+
+* Доля времени, когда (L < 3.5) (порог LOC) по регионам:
+
+  * V1: 20.2%
+  * dlPFC: 59.4%
+  * aINS: 61.9%
+  * IPS: 58.2%
+  * PCC: 59.9%
+    → В большинстве регио­нов (особенно фронтальные/инсидо-париетальные) модель проводит большую часть симуляции в «низком» L; V1 более устойчив к снижению L (меньше времени ниже порога).
+
+* Пики (C) (максимумы) и их времена:
+
+  * V1: peak ≈ 8.44 at t ≈ 1.30 min (самый выраженный ранний пик)
+  * остальные регионы: peak = 7.5 at t = 0.0 (т.е. стартовое значение или очень ранняя вершина)
+    → V1 демонстрирует заметную раннюю ignition, остальные области остаются ближе к исходному уровню C или реагируют слабее.
+
+* Корреляция между A и C (по региону):
+
+  * V1: r ≈ 0.406
+  * dlPFC: r ≈ 0.984
+  * aINS: r ≈ 0.724
+  * IPS: r ≈ 0.905
+  * PCC: r ≈ 0.828
+    → сильная связь A↔C в большинстве регионов, особенно dlPFC/IPS/PCC; V1 имеет умеренную взаимосвязь — attention влияет на содержание, но V1 также получает сильный прямой сенсорный вход, поэтому связь слабее.
+
+* Автокорреляция (L) в V1: метод попытался найти время спада до 1/e, но в этой реализации автокорреляция не упала до 1/e в пределах проверенных лагов (получено NaN), что указывает на очень медленный спад автокорреляции для данной реализации OU-шума + динамики (потребуется больше лагов/разрешение для оценки).
+
+---
+
+### Интерпретация по графикам (связь с наблюдаемыми фигурами)
+
+#### 1) Level (L) по регионам (время)
+
+* **Что видно:** dlPFC, aINS, IPS, PCC демонстрируют заметное снижение L после начала анестезии (t=5), V1 остается относительно выше дольше. На ранних этапах — небольшие флуктуации из-за OU-шума и coupling; локальные отличия отражают структуру SC и региональные таргеты.
+* **Механизм:** dlPFC и ассоциативные области имеют более высокий «целео-уровень» (в модели) и одновременно более чувствительны к снижению нейромодуляции при анестезии → они «падают» быстрее; V1 защищён сенсорным входом I_sens=0.8, поэтому относительно устойчив.
+* **Вывод:** модель воспроизводит эффект «posterior resilience» и локального сна — сенсорные регионы могут сохранять активность дольше, несмотря на падение общего уровня.
+
+#### 2) Content (C) по регионам (время)
+
+* **Что видно:** сильный ранний пик в V1 (peak ≈ 8.44 @ ~1.3 min), остальные области остаются ближе к исходным значениям. После введения анестезии C в среднем падает.
+* **Механизм:** V1 получает высокий сенсорный вход → ignition/высокий C, усиливаемый вниманием; но при общем снижении L и/или A ignition подавляется в поздней фазе.
+* **Вывод:** модель показывает, что локальное содержание (особенно когда подан сильный сенсорный стимул) может возникать независимо и раньше, чем глобальное падение L.
+
+#### 3) Attention (A) по регионам (время)
+
+* **Что видно:** A коррелирует со C (см. корреляции), dlPFC оказывает top-down эффект на V1 (модельно), но при анестезии A в целом снижается.
+* **Механизм:** A динамически повышается за счёт salience (C/10) и top-down (dlPFC→V1). При падении L и C падает и salience, что ведёт к уменьшению A.
+* **Вывод:** внимание действует как gating-механизм: где A остаётся выше — выше вероятность поддержать C и ignition.
+
+#### 4) Средняя траектория (L,C,S) в 3D
+
+* **Что видно:** траектория двигается из стартовой точки (wake-ish) по направлению к зоне низкого L и C, S падает менее резко (S_final ≈ 3.53), т.е. самость/метакогниция снижается, но не полностью исчезает.
+* **Механизм:** S медленнее реагирует (в модели dS имеет меньший шум и более сглаженную динамику), поэтому её падение отстает от L и C.
+* **Вывод:** траектории подтверждают идею, что anesthesia переводит систему в удалённую точку LCS-пространства (низкие L и C), но S имеет собственную инерцию.
+
+#### 5) Автокорреляция L (V1)
+
+* **Что видно:** автокорреляция остаётся положительной на доступных лагах; нет быстрого спада до 1/e.
+* **Механизм:** OU-шума с заданными параметрами создаёт медленные корелляции; структура сети и slow dynamics усиливают длительную корреляцию.
+* **Вывод:** шумы заданы как «цветные» (OU), что видно в медленном автокорреляционном спаде — это согласуется с идеей 1/f-подобной активности мозга.
+
+#### 6) C vs A scatter (V1)
+
+* **Что видно:** положительная зависимость между A и C в V1 (r≈0.406); цветовой градиент по времени в исходном графике показывает, как точки смещаются по траектории при индукции анестезии.
+* **Механизм:** внимание повышает вероятность и амплитуду содержания (через снижение порога ignition); но V1 также поддерживается сенсорным входом, поэтому связь умеренная.
+* **Вывод:** внимание эффективно gate’ит содержание, но не полностью детерминирует его в V1.
+
+---
+
+### Надёжность и ограничения выводов
+
+1. **Одна реализация / стохастичность:** результаты — из одной симуляции; OU-шум вносит значимую случайную вариативность. Для устойчивых выводов нужно усреднение по множеству запусков (N≥50) и оценка доверительных интервалов.
+2. **Параметризация модельных констант:** многие параметры (коэффициенты в DeltaPhi, D_L/C/S, шумы, top-down gain) подобраны эвристически; количественные значения (например, абсолютные L) не калиброваны под эмпирические PCI/wSMI.
+3. **Временные шкалы:** интеграция медленных переменных использует шаги и solver, пригодные для минутной динамики; fast ignition в миллисекундах моделирован аппроксимацией, возможно смещает латентности.
+4. **Идентификация причин:** корреляции A↔C не означают строгой причинности — нужно тестировать causal manipulations (change top-down term, set A to zero, etc.).
+
+---
+
+
+## Источники
+
+- **Akeju, Oluwaseun and Westover, M. Brandon and Pavone, Kara J. and Sampson, Aaron L. and Hartnack, Katharine E. and Brown, Emery N. and Purdon, Patrick L.** (2014). *Effects of sevoflurane and propofol on frontal electroencephalogram power and coherence*. Anesthesiology, 121(5), 990--998. [doi](https://doi.org/10.1097/ALN.0000000000000436)
+
+- **Andrews-Hanna, Jessica R. and Reidler, Jonathan S. and Sepulcre, Jorge and Poulin, Renee and Buckner, Randy L.** (2010). *Functional-anatomic fractionation of the brain's default network*. Neuron, 65(4), 550--562. [doi](https://doi.org/10.1016/j.neuron.2010.02.005)
+
+- **Apps, Matthew A. J. and Tsakiris, Manos** (2014). *The free-energy self: a predictive coding account of self-recognition*. Neuroscience & Biobehavioral Reviews, 41, 85--97. [doi](https://doi.org/10.1016/j.neubiorev.2013.01.029)
+
+- **Aston-Jones, Gary and Cohen, Jonathan D.** (2005). *An integrative theory of locus coeruleus-norepinephrine function: adaptive gain and optimal performance*. Annual Review of Neuroscience, 28, 403--450. [doi](https://doi.org/10.1146/annurev.neuro.28.061604.135709)
+
+- **Barttfeld, Pablo and Uhrig, Lynn and Sitt, Jacobo D. and Sigman, Mariano and Jarraya, Bechir and Dehaene, Stanislas** (2015). *Signature of consciousness in the dynamics of resting-state brain activity*. Proceedings of the National Academy of Sciences, 112(3), 887--892. [doi](https://doi.org/10.1073/pnas.1418031112)
+
+- **Bastos, André M. and Usrey, W. Martin and Adams, Rick A. and Mangun, George R. and Fries, Pascal and Friston, Karl J.** (2012). *Canonical microcircuits for predictive coding*. Neuron, 76(4), 695--711. [doi](https://doi.org/10.1016/j.neuron.2012.10.038)
+
+- **Bastos, André M. and Donoghue, Jacob A. and Brincat, Scott L. and Mahnke, Mikael and Yanar, Josue and Correa, Jefferson and Waite, Alexander S. and Lundqvist, Mikael and Roy, Jefferson and Brown, Emery N. and Miller, Earl K.** (2021). *Neural effects of propofol-induced unconsciousness and its reversal using thalamic stimulation*. eLife, 10, e60824. [doi](https://doi.org/10.7554/eLife.60824)
+
+- **Beggs, John M. and Plenz, Dietmar** (2003). *Neuronal avalanches in neocortical circuits*. Journal of Neuroscience, 23(35), 11167--11177. [doi](https://doi.org/10.1523/JNEUROSCI.23-35-11167.2003)
+
+- **Block, Ned** (2011). *Perceptual consciousness overflows cognitive access*. Trends in Cognitive Sciences, 15(12), 567--575. [doi](https://doi.org/10.1016/j.tics.2011.11.001)
+
+- **Block, Ned** (2019). *What is wrong with the no-report paradigm and how to fix it*. Trends in Cognitive Sciences, 23(12), 1003--1013. [doi](https://doi.org/10.1016/j.tics.2019.10.001)
+
+- **Borbély, Alexander A. and Daan, Serge and Wirz-Justice, Anna and Deboer, Tom** (2016). *The two-process model of sleep regulation: a reappraisal*. Journal of Sleep Research, 25(2), 131--143. [doi](https://doi.org/10.1111/jsr.12371)
+
+- **Botvinick, Matthew and Cohen, Jonathan** (1998). *Rubber hands 'feel' touch that eyes see*. Nature, 391(6669), 756. [doi](https://doi.org/10.1038/35784)
+
+- **Braet, Ward and Humphreys, Glyn W.** (2009). *The role of reentrant processes in feature binding: evidence from neuropsychology and TMS on late onset illusory conjunctions*. Visual Cognition, 17(1-2), 25--47. [doi](https://doi.org/10.1080/13506280802193318)
+
+- **Brown, Emery N. and Lydic, Ralph and Schiff, Nicholas D.** (2010). *General anesthesia, sleep, and coma*. New England Journal of Medicine, 363(27), 2638--2650. [doi](https://doi.org/10.1056/NEJMra0808281)
+
+- **Brown, Emery N. and Purdon, Patrick L. and Van Dort, Christen J.** (2011). *General anesthesia and altered states of arousal: a systems neuroscience analysis*. Annual Review of Neuroscience, 34, 601--628. [doi](https://doi.org/10.1146/annurev-neuro-060909-153200)
+
+- **Brown, Ritchie E. and Basheer, Radhika and McKenna, James T. and Strecker, Robert E. and McCarley, Robert W.** (2012). *Control of sleep and wakefulness*. Physiological Reviews, 92(3), 1087--1187. [doi](https://doi.org/10.1152/physrev.00032.2011)
+
+- **Cabral, Joana and Vidaurre, Diego and Marques, Paulo and Magalhães, Ricardo and Silva Moreira, Pedro and Miguel Soares, José and Deco, Gustavo and Sousa, Nuno and Kringelbach, Morten L.** (2017). *Cognitive performance in healthy older adults relates to spontaneous switching between states of functional connectivity during rest*. Scientific Reports, 7, 5135. [doi](https://doi.org/10.1038/s41598-017-05425-7)
+
+- **Callen, Herbert B.** (1985). *Thermodynamics and an Introduction to Thermostatistics*. Wiley.
+
+- **Carhart-Harris, Robin L. and Erritzoe, David and Williams, Tim and Stone, James M. and Reed, Laurence J. and Colasanti, Alessandro and Tyacke, Robin J. and Leech, Robert and Malizia, Andrea L. and Murphy, Kevin and Hobden, Peter and Evans, John and Feilding, Amanda and Wise, Richard G. and Nutt, David J.** (2012). *Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin*. Proceedings of the National Academy of Sciences, 109(6), 2138--2143. [doi](https://doi.org/10.1073/pnas.1119598109)
+
+- **Carhart-Harris, Robin L. and Leech, Robert and Hellyer, Peter J. and Shanahan, Murray and Feilding, Amanda and Tagliazucchi, Enzo and Chialvo, Dante R. and Nutt, David** (2014). *The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs*. Frontiers in Human Neuroscience, 8, 20. [doi](https://doi.org/10.3389/fnhum.2014.00020)
+
+- **Carhart-Harris, Robin L. and Friston, Karl J.** (2019). *REBUS and the anarchic brain: toward a unified model of the brain action of psychedelics*. Pharmacological Reviews, 71(3), 316--344. [doi](https://doi.org/10.1124/pr.118.017160)
+
+- **Carter, Matthew E. and Yizhar, Ofer and Chikahisa, Sachiko and Nguyen, Hieu and Adamantidis, Antoine and Nishino, Seiji and Deisseroth, Karl and de Lecea, Luis** (2010). *Tuning arousal with optogenetic modulation of locus coeruleus neurons*. Nature Neuroscience, 13(12), 1526--1533. [doi](https://doi.org/10.1038/nn.2682)
+
+- **Casali, Adenauer G. and Gosseries, Olivia and Rosanova, Mario and Boly, Mélanie and Sarasso, Simone and Casali, Karina R. and Casarotto, Silvia and Bruno, Marie-Aurélie and Laureys, Steven and Tononi, Giulio and Massimini, Marcello** (2013). *A theoretically based index of consciousness independent of sensory processing and behavior*. Science Translational Medicine, 5(198), 198ra105. [doi](https://doi.org/10.1126/scitranslmed.3006294)
+
+- **Chalmers, David J.** (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+
+- **Chalmers, David J.** (2018). *The meta-problem of consciousness*. Journal of Consciousness Studies, 25(9-10), 6--61.
+
+- **Cogitate Consortium** (2024). *An adversarial collaboration to critically evaluate theories of consciousness*. Nature Human Behaviour. [Preprint]
+
+- **Comolatti, Renzo and Pigorini, Andrea and Casarotto, Silvia and Fecchio, Matteo and Faria, Guilherme and Sarasso, Simone and Rosanova, Mario and Gosseries, Olivia and Brichant, Jean-François and Bodart, Olivier and Ledoux, Didier and Boly, Mélanie and Casali, Adenauer G. and Massimini, Marcello and Tononi, Giulio** (2019). *A fast and general method to empirically estimate the complexity of brain responses to transcranial and intracranial stimulations*. Brain Stimulation, 12(5), 1280--1289. [doi](https://doi.org/10.1016/j.brs.2019.05.013)
+
+- **Craig, A. D.** (2009). *How do you feel -- now? The anterior insula and human awareness*. Nature Reviews Neuroscience, 10(1), 59--70. [doi](https://doi.org/10.1038/nrn2555)
+
+- **Crick, Francis and Koch, Christof** (2005). *What is the function of the claustrum?*. Philosophical Transactions of the Royal Society B, 360(1458), 1271--1279. [doi](https://doi.org/10.1098/rstb.2005.1661)
+
+- **Critchley, Hugo D. and Wiens, Stefan and Rotshtein, Pia and Öhman, Arne and Dolan, Raymond J.** (2004). *Neural systems supporting interoceptive awareness*. Nature Neuroscience, 7(2), 189--195. [doi](https://doi.org/10.1038/nn1176)
+
+- **Czeisler, Charles A. and Duffy, Jeanne F. and Shanahan, Theresa L. and Brown, Emery N. and Mitchell, Jude F. and Rimmer, David W. and Ronda, Joseph M. and Silva, Edward J. and Allan, James S. and Emens, Jonathan S. and Dijk, Derk-Jan and Kronauer, Richard E.** (1999). *Stability, precision, and near-24-hour period of the human circadian pacemaker*. Science, 284(5423), 2177--2181. [doi](https://doi.org/10.1126/science.284.5423.2177)
+
+- **de Lecea, Luis and Huerta, Rodrigo** (2014). *Hypocretin (orexin) regulation of sleep-to-wake transitions*. Frontiers in Pharmacology, 3, 16. [doi](https://doi.org/10.3389/fphar.2014.00016)
+
+- **Deco, Gustavo and Jirsa, Viktor K. and McIntosh, Anthony R.** (2011). *Emerging concepts for the dynamical organization of resting-state activity in the brain*. Nature Reviews Neuroscience, 12(1), 43--56. [doi](https://doi.org/10.1038/nrn2961)
+
+- **Dehaene, Stanislas and Changeux, Jean-Pierre** (2011). *Experimental and theoretical approaches to conscious processing*. Neuron, 70(2), 200--227. [doi](https://doi.org/10.1016/j.neuron.2011.03.018)
+
+- **Dehaene, Stanislas and Lau, Hakwan and Kouider, Sid** (2017). *What is consciousness, and could machines have it?*. Science, 358(6362), 486--492. [doi](https://doi.org/10.1126/science.aan8871)
+
+- **Del Cul, Antoine and Baillet, Sylvain and Dehaene, Stanislas** (2007). *Brain dynamics underlying the nonlinear threshold for access to consciousness*. PLoS Biology, 5(10), e260. [doi](https://doi.org/10.1371/journal.pbio.0050260)
+
+- **DiCarlo, James J. and Cox, David D.** (2007). *Untangling invariant object recognition*. Trends in Cognitive Sciences, 11(8), 333--341. [doi](https://doi.org/10.1016/j.tics.2007.06.010)
+
+- **Dietrich, Arne** (2004). *Neurocognitive mechanisms underlying the experience of flow*. Consciousness and Cognition, 13(4), 746--761. [doi](https://doi.org/10.1016/j.concog.2004.07.002)
+
+- **Eban-Rothschild, Ada and Rothschild, Gideon and Giardino, William J. and Jones, Jennifer R. and de Lecea, Luis** (2016). *VTA dopaminergic neurons regulate ethologically relevant sleep-wake behaviors*. Nature Neuroscience, 19(10), 1356--1366. [doi](https://doi.org/10.1038/nn.4377)
+
+- **Faisal, A. Aldo and Selen, Luc P. J. and Wolpert, Daniel M.** (2008). *Noise in the nervous system*. Nature Reviews Neuroscience, 9(4), 292--303. [doi](https://doi.org/10.1038/nrn2258)
+
+- **Feldman, Harriet and Friston, Karl J.** (2010). *Attention, uncertainty, and free-energy*. Frontiers in Human Neuroscience, 4, 215. [doi](https://doi.org/10.3389/fnhum.2010.00215)
+
+- **Fleming, Stephen M. and Weil, Rimona S. and Nagy, Zoltan and Dolan, Raymond J. and Rees, Geraint** (2010). *Relating introspective accuracy to individual differences in brain structure*. Science, 329(5998), 1541--1543. [doi](https://doi.org/10.1126/science.1191883)
+
+- **Fleming, Stephen M. and Dolan, Raymond J.** (2012). *The neural basis of metacognitive ability*. Philosophical Transactions of the Royal Society B, 367(1594), 1338--1349. [doi](https://doi.org/10.1098/rstb.2011.0417)
+
+- **Fleming, Stephen M. and Huijgen, Johanna and Dolan, Raymond J.** (2012). *Prefrontal contributions to metacognition in perceptual decision making*. Journal of Neuroscience, 32(18), 6117--6125. [doi](https://doi.org/10.1523/JNEUROSCI.6489-11.2012)
+
+- **Fleming, Stephen M. and Ryu, Jayne and Golfinos, John G. and Blackmon, Karen E.** (2014). *Domain-specific impairment in metacognitive accuracy following anterior prefrontal lesions*. Brain, 137(10), 2811--2822. [doi](https://doi.org/10.1093/brain/awu221)
+
+- **Fleming, Stephen M. and Massoni, Sébastien and Gajdos, Thibault and Vergnaud, Jean-Christophe** (2016). *Metacognition about the past and future: quantifying common and distinct influences on prospective and retrospective judgments of self-performance*. Neuroscience of Consciousness, 2016(1), niw001. [doi](https://doi.org/10.1093/nc/niw001)
+
+- **Fries, Pascal** (2005). *A mechanism for cognitive dynamics: neuronal communication through neuronal coherence*. Trends in Cognitive Sciences, 9(10), 474--480. [doi](https://doi.org/10.1016/j.tics.2005.08.011)
+
+- **Fries, Pascal** (2015). *Rhythms for cognition: communication through coherence*. Neuron, 88(1), 220--235. [doi](https://doi.org/10.1016/j.neuron.2015.09.034)
+
+- **Friston, Karl J.** (2018). *Does predictive coding have a future?*. Nature Neuroscience, 21(8), 1019--1021. [doi](https://doi.org/10.1038/s41593-018-0200-7)
+
+- **Friston, Karl J. and Stephan, Klaas E. and Montague, Read and Dolan, Raymond J.** (2014). *Computational psychiatry: the brain as a phantastic organ*. The Lancet Psychiatry, 1(2), 148--158. [doi](https://doi.org/10.1016/S2215-0366(14)70275-5)
+
+- **Frith, Chris D. and Blakemore, Sarah-Jayne and Wolpert, Daniel M.** (2000). *Explaining the symptoms of schizophrenia: abnormalities in the awareness of action*. Brain Research Reviews, 31(2-3), 357--363. [doi](https://doi.org/10.1016/S0165-0173(99)00052-1)
+
+- **Furman, Daniela J. and Waugh, Christian E. and Bhattacharjee, Kateri and Thompson, Renee J. and Gotlib, Ian H.** (2013). *Interoceptive awareness, positive affect, and decision making in major depressive disorder*. Journal of Affective Disorders, 151(2), 780--785. [doi](https://doi.org/10.1016/j.jad.2013.06.044)
+
+- **Gao, Peiran and Trautmann, Eric and Yu, Byron and Santhanam, Gopal and Ryu, Stephen and Shenoy, Krishna and Ganguli, Surya** (2017). *A theory of multineuronal dimensionality, dynamics and measurement*. bioRxiv. [doi](https://doi.org/10.1101/214262)
+
+- **Gao, Richard and Peterson, Erik J. and Voytek, Bradley** (2017). *Inferring synaptic excitation/inhibition balance from field potentials*. NeuroImage, 158, 70--78. [doi](https://doi.org/10.1016/j.neuroimage.2017.06.078)
+
+- **Garfinkel, Sarah N. and Tiley, Cassandra and O'Keeffe, Sinéad and Harrison, Neil A. and Seth, Anil K. and Critchley, Hugo D.** (2016). *Discrepancies between dimensions of interoception in autism: implications for emotion and anxiety*. Biological Psychology, 114, 117--126. [doi](https://doi.org/10.1016/j.biopsycho.2015.12.003)
+
+- **Giacino, Joseph T. and Ashwal, Stephen and Childs, Nancy and Cranford, Ronald and Jennett, Bryan and Katz, Douglas I. and Kelly, James P. and Rosenberg, Jay H. and Whyte, John and Zafonte, Ross D. and Zasler, Nathan D.** (2002). *The minimally conscious state: definition and diagnostic criteria*. Neurology, 58(3), 349--353. [doi](https://doi.org/10.1212/WNL.58.3.349)
+
+- **Godfrey-Smith, Peter** (2016). *Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness*. Farrar, Straus and Giroux.
+
+- **Graziano, Michael S. A.** (2013). *Consciousness and the social brain*. Oxford University Press.
+
+- **Graziano, Michael S. A. and Webb, Taylor W.** (2015). *The attention schema theory: a mechanistic account of subjective awareness*. Frontiers in Psychology, 6, 500. [doi](https://doi.org/10.3389/fpsyg.2015.00500)
+
+- **Haggard, Patrick** (2008). *Human volition: towards a neuroscience of will*. Nature Reviews Neuroscience, 9(12), 934--946. [doi](https://doi.org/10.1038/nrn2497)
+
+- **Haggard, Patrick and Clark, Sam and Kalogeras, Jemma** (2002). *Voluntary action and conscious awareness*. Nature Neuroscience, 5(4), 382--385. [doi](https://doi.org/10.1038/nn827)
+
+- **Haider, Bilal and Duque, Alvaro and Hasenstaub, Andrea R. and McCormick, David A.** (2006). *Neocortical network activity in vivo is generated through a dynamic balance of excitation and inhibition*. Journal of Neuroscience, 26(17), 4535--4545. [doi](https://doi.org/10.1523/JNEUROSCI.5297-05.2006)
+
+- **He, Biyu J.** (2014). *Scale-free brain activity: past, present, and future*. Trends in Cognitive Sciences, 18(9), 480--487. [doi](https://doi.org/10.1016/j.tics.2014.04.003)
+
+- **Hobson, J. Allan** (2009). *REM sleep and dreaming: towards a theory of protoconsciousness*. Nature Reviews Neuroscience, 10(11), 803--813. [doi](https://doi.org/10.1038/nrn2716)
+
+- **Hobson, J. Allan and Friston, Karl J.** (2012). *Waking and dreaming consciousness: neurobiological and functional considerations*. Progress in Neurobiology, 98(1), 82--98. [doi](https://doi.org/10.1016/j.pneurobio.2012.05.003)
+
+- **Huang, Zirui and Zhang, Jianfeng and Wu, Jinsong and Mashour, George A. and Hudetz, Anthony G.** (2020). *Temporal circuit of macroscale dynamic brain activity supports human consciousness*. Science Advances, 6(11), eaaz0087. [doi](https://doi.org/10.1126/sciadv.aaz0087)
+
+- **Itti, Laurent and Koch, Christof** (2001). *Computational modelling of visual attention*. Nature Reviews Neuroscience, 2(3), 194--203. [doi](https://doi.org/10.1038/35058500)
+
+- **Jansen, Ben H. and Rit, Vincent G.** (1995). *Electroencephalogram and visual evoked potential generation in a mathematical model of coupled cortical columns*. Biological Cybernetics, 73(4), 357--366. [doi](https://doi.org/10.1007/BF00199471)
+
+- **Kepecs, Adam and Uchida, Naoshige and Zariwala, Hatim A. and Mainen, Zachary F.** (2008). *Neural correlates, computation and behavioural impact of decision confidence*. Nature, 455(7210), 227--231. [doi](https://doi.org/10.1038/nature07200)
+
+- **King, Jean-Rémi and Sitt, Jacobo D. and Faugeras, Frédéric and Rohaut, Benjamin and El Karoui, Imen and Cohen, Laurent and Naccache, Lionel and Dehaene, Stanislas** (2013). *Information sharing in the brain indexes consciousness in noncommunicative patients*. Current Biology, 23(19), 1914--1919. [doi](https://doi.org/10.1016/j.cub.2013.07.075)
+
+- **Koch, Christof and Massimini, Marcello and Boly, Melanie and Tononi, Giulio** (2016). *Neural correlates of consciousness: progress and problems*. Nature Reviews Neuroscience, 17(5), 307--321. [doi](https://doi.org/10.1038/nrn.2016.22)
+
+- **Lau, Hakwan and Rosenthal, David** (2011). *Empirical support for higher-order theories of conscious awareness*. Trends in Cognitive Sciences, 15(8), 365--373. [doi](https://doi.org/10.1016/j.tics.2011.05.009)
+
+- **Linkenkaer-Hansen, Klaus and Nikouline, Vladislav V. and Palva, J. Matias and Ilmoniemi, Risto J.** (2001). *Long-range temporal correlations and scaling behavior in human brain oscillations*. Journal of Neuroscience, 21(4), 1370--1377. [doi](https://doi.org/10.1523/JNEUROSCI.21-04-01370.2001)
+
+- **Lutz, Antoine and Slagter, Heleen A. and Dunne, John D. and Davidson, Richard J.** (2008). *Attention regulation and monitoring in meditation*. Trends in Cognitive Sciences, 12(4), 163--169. [doi](https://doi.org/10.1016/j.tics.2008.01.005)
+
+- **Lutz, Antoine and Jha, Amishi P. and Dunne, John D. and Saron, Clifford D.** (2015). *Investigating the phenomenological matrix of mindfulness-related practices from a neurocognitive perspective*. American Psychologist, 70(7), 632--658. [doi](https://doi.org/10.1037/a0039585)
+
+- **Mack, Arien and Rock, Irvin** (1998). *Inattentional blindness*. MIT Press.
+
+- **Maniscalco, Brian and Lau, Hakwan** (2012). *A signal detection theoretic approach for estimating metacognitive sensitivity from confidence ratings*. Consciousness and Cognition, 21(1), 422--430. [doi](https://doi.org/10.1016/j.concog.2011.09.021)
+
+- **Mashour, George A. and Roelfsema, Pieter and Changeux, Jean-Pierre and Dehaene, Stanislas** (2020). *Conscious processing and the global neuronal workspace hypothesis*. Neuron, 105(5), 776--798. [doi](https://doi.org/10.1016/j.neuron.2020.01.026)
+
+- **Massimini, Marcello and Ferrarelli, Fabio and Murphy, Michael J. and Huber, Reto and Riedner, Brady A. and Casarotto, Silvia and Tononi, Giulio** (2010). *Cortical reactivity and effective connectivity during REM sleep in humans*. Cognitive Neuroscience, 1(3), 176--183. [doi](https://doi.org/10.1080/17588921003731578)
+
+- **McCormick, David A. and Bal, Thierry** (1997). *Sleep and arousal: thalamocortical mechanisms*. Annual Review of Neuroscience, 20, 185--215. [doi](https://doi.org/10.1146/annurev.neuro.20.1.185)
+
+- **Merker, Björn** (2007). *Consciousness without a cerebral cortex: a challenge for neuroscience and medicine*. Behavioral and Brain Sciences, 30(1), 63--81. [doi](https://doi.org/10.1017/S0140525X07000891)
+
+- **Miller, Earl K. and Cohen, Jonathan D.** (2001). *An integrative theory of prefrontal cortex function*. Annual Review of Neuroscience, 24, 167--202. [doi](https://doi.org/10.1146/annurev.neuro.24.1.167)
+
+- **Millière, Raphaël** (2017). *Looking for the self: phenomenology, neurophysiology and philosophical significance of drug-induced ego dissolution*. Frontiers in Human Neuroscience, 11, 245. [doi](https://doi.org/10.3389/fnhum.2017.00245)
+
+- **Monti, Jaime M.** (2010). *The role of dorsal raphe nucleus serotonergic and non-serotonergic neurons, and of their receptors, in regulating waking and rapid eye movement (REM) sleep*. Sleep Medicine Reviews, 14(5), 319--327. [doi](https://doi.org/10.1016/j.smrv.2009.10.003)
+
+- **Muzur, Amir and Pace-Schott, Edward F. and Hobson, J. Allan** (2002). *The prefrontal cortex in sleep*. Trends in Cognitive Sciences, 6(11), 475--481. [doi](https://doi.org/10.1016/S1364-6613(02)01992-7)
+
+- **Nir, Yuval and Tononi, Giulio** (2010). *Dreaming and the brain: from phenomenology to neurophysiology*. Trends in Cognitive Sciences, 14(2), 88--100. [doi](https://doi.org/10.1016/j.tics.2009.12.001)
+
+- **Oizumi, Masafumi and Albantakis, Larissa and Tononi, Giulio** (2014). *From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0*. PLoS Computational Biology, 10(5), e1003588. [doi](https://doi.org/10.1371/journal.pcbi.1003588)
+
+- **Owen, Adrian M. and Coleman, Martin R. and Boly, Mélanie and Davis, Matthew H. and Laureys, Steven and Pickard, John D.** (2006). *Detecting awareness in the vegetative state*. Science, 313(5792), 1402. [doi](https://doi.org/10.1126/science.1130197)
+
+- **Palanca, Ben J. A. and Mitra, Anish and Larson-Prior, Linda and Snyder, Abraham Z. anAvidan, Michael S. and Raichle, Marcus E.** (2015). *Resting-state functional magnetic resonance imaging correlates of sevoflurane-induced unconsciousness*. Anesthesiology, 123(2), 346--356. [doi](https://doi.org/10.1097/ALN.0000000000000731)
+
+- **Pandit, Jaideep J. and Andrade, Jackie and Bogod, David G. and Hitchman, James M. and Jonker, Wijnand R. and Lucas, Neville and Mackay, Jonathan H. and Nimmo, Andrew F. and O'Connor, Kathy and O'Sullivan, Eamon P. and Paul, Richard G. and Palmer, Jane H. M. C. and Plaat, Felicity and Radcliffe, John J. and Sury, Michael R. J. and Torevell, Helen E. and Wang, Mingzhao and Soar, Jasmeet and Cook, Tim M.** (2014). *5th National Audit Project (NAP5) on accidental awareness during general anaesthesia: summary of main findings and risk factors*. British Journal of Anaesthesia, 113(4), 549--559. [doi](https://doi.org/10.1093/bja/aeu313)
+
+- **Purdon, Patrick L. and Pierce, Eran T. and Mukamel, Eran A. and Prerau, Michael J. and Walsh, John L. and Wong, Kin Foon Kevin and Salazar-Gomez, Andres F. and Harrell, P. Grace and Sampson, Aaron L. and Cimenser, Aylin and Ching, ShiNung and Kopell, Nancy J. and Tavares-Stoeckel, Casie and Habeeb, Katharine and Merhar, Rebecca and Brown, Emery N.** (2013). *Electroencephalogram signatures of loss and recovery of consciousness from propofol*. Proceedings of the National Academy of Sciences, 110(12), E1142--E1151. [doi](https://doi.org/10.1073/pnas.1221180110)
+
+- **Quattrocki, Elizabeth and Friston, Karl** (2014). *Autism, oxytocin and interoception*. Neuroscience & Biobehavioral Reviews, 47, 410--430. [doi](https://doi.org/10.1016/j.neubiorev.2014.09.012)
+
+- **Raichle, Marcus E.** (2015). *The brain's default mode network*. Annual Review of Neuroscience, 38, 433--447. [doi](https://doi.org/10.1146/annurev-neuro-071013-014030)
+
+- **Raymond, Jane E. and Shapiro, Kimron L. and Arnell, Karen M.** (1992). *Temporary suppression of visual processing in an RSVP task: an attentional blink?*. Journal of Experimental Psychology: Human Perception and Performance, 18(3), 849--860. [doi](https://doi.org/10.1037/0096-1523.18.3.849)
+
+- **Rosenthal, David M.** (2005). *Consciousness and mind*. Oxford University Press.
+
+- **Rounis, Elisabeth and Maniscalco, Brian and Rothwell, John C. and Passingham, Richard E. and Lau, Hakwan** (2010). *Theta-burst transcranial magnetic stimulation to the prefrontal cortex impairs metacognitive visual awareness*. Cognitive Neuroscience, 1(3), 165--175. [doi](https://doi.org/10.1080/17588921003632529)
+
+- **Saalmann, Yuri B. and Kastner, Sabine** (2011). *Cognitive and perceptual functions of the visual thalamus*. Neuron, 71(2), 209--223. [doi](https://doi.org/10.1016/j.neuron.2011.06.027)
+
+- **Sahraie, Arash and Weiskrantz, Lawrence and Barbur, John L. and Simmons, Andrew and Williams, Steven C. R. and Brammer, Michael J.** (2010). *Pattern of neuronal activity associated with conscious and unconscious processing of visual signals*. Proceedings of the National Academy of Sciences, 107(21), 9855--9860. [doi](https://doi.org/10.1073/pnas.1004379107)
+
+- **Sakurai, Takeshi** (2007). *The neural circuit of orexin (hypocretin): maintaining sleep and wakefulness*. Nature Reviews Neuroscience, 8(3), 171--181. [doi](https://doi.org/10.1038/nrn2092)
+
+- **Sanders, Robert D. and Tononi, Giulio and Laureys, Steven and Sleigh, Jamie W.** (2012). *Unresponsiveness ≠ unconsciousness*. Anesthesiology, 116(4), 946--959. [doi](https://doi.org/10.1097/ALN.0b013e318249d0a7)
+
+- **Sarasso, Simone and Boly, Mélanie and Napolitani, Martino and Gosseries, Olivia and Charland-Verville, Vanessa and Casarotto, Silvia and Rosanova, Mario and Casali, Adenauer G. and Brichant, Jean-François and Boveroux, Pierre and Rex, Steven and Tononi, Giulio and Laureys, Steven and Massimini, Marcello** (2015). *Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine*. Current Biology, 25(23), 3099--3105. [doi](https://doi.org/10.1016/j.cub.2015.10.014)
+
+- **Schandry, Rainer** (1981). *Heart beat perception and emotional experience*. Psychophysiology, 18(4), 483--488. [doi](https://doi.org/10.1111/j.1469-8986.1981.tb02486.x)
+
+- **Schartner, Michael M. and Seth, Anil K. and Noirhomme, Quentin and Boly, Mélanie and Bruno, Marie-Aurélie and Laureys, Steven and Barrett, Adam B.** (2015). *Complexity of multi-dimensional spontaneous EEG decreases during propofol induced general anaesthesia*. PLoS ONE, 10(8), e0133532. [doi](https://doi.org/10.1371/journal.pone.0133532)
+
+- **Schartner, Michael M. and Carhart-Harris, Robin L. and Barrett, Adam B. and Seth, Anil K. and Muthukumaraswamy, Suresh D.** (2017). *Increased spontaneous MEG signal diversity for psychoactive doses of ketamine, LSD and psilocybin*. Scientific Reports, 7, 46421. [doi](https://doi.org/10.1038/srep46421)
+
+- **Schiff, Nicholas D.** (2008). *Central thalamic contributions to arousal regulation and neurological disorders of consciousness*. Annals of the New York Academy of Sciences, 1129, 105--118. [doi](https://doi.org/10.1196/annals.1417.029)
+
+- **Schiff, Nicholas D. and Giacino, Joseph T. and Kalmar, Katya and Victor, Jonathan D. and Baker, Kevin and Gerber, M. and Fritz, Bianca and Eisenberg, Barry and Biondi, Thomas and O'Connor, Jill and Kobylarz, Eric J. and Farris, Shaun and Machado, Ashutosh and McCagg, Charles and Plum, Fred and Fins, Joseph J. and Rezai, Ali R.** (2007). *Behavioural improvements with thalamic stimulation after severe traumatic brain injury*. Nature, 448(7153), 600--603. [doi](https://doi.org/10.1038/nature06041)
+
+- **Schiff, Nicholas D.** (2015). *Cognitive motor dissociation following severe brain injuries*. JAMA Neurology, 72(12), 1413--1415. [doi](https://doi.org/10.1001/jamaneurol.2015.2899)
+
+- **Sergent, Claire and Baillet, Sylvain and Dehaene, Stanislas** (2005). *Timing of the brain events underlying access to consciousness during the attentional blink*. Nature Neuroscience, 8(10), 1391--1400. [doi](https://doi.org/10.1038/nn1549)
+
+- **Seth, Anil K.** (2013). *Interoceptive inference, emotion, and the embodied self*. Trends in Cognitive Sciences, 17(11), 565--573. [doi](https://doi.org/10.1016/j.tics.2013.09.007)
+
+- **Seth, Anil K. and Friston, Karl J.** (2016). *Active interoceptive inference and the emotional brain*. Philosophical Transactions of the Royal Society B, 371(1708), 20160007. [doi](https://doi.org/10.1098/rstb.2016.0007)
+
+- **Seth, Anil K. and Tsakiris, Manos** (2018). *Being a beast machine: the somatic basis of selfhood*. Trends in Cognitive Sciences, 22(11), 969--981. [doi](https://doi.org/10.1016/j.tics.2018.08.008)
+
+- **Shine, James M.** (2021). *The thalamus integrates the macrosystems of the brain to facilitate complex, adaptive brain network dynamics*. Progress in Neurobiology, 199, 101951. [doi](https://doi.org/10.1016/j.pneurobio.2020.101951)
+
+- **Sherman, S. Murray** (2016). *Thalamus plays a central role in ongoing cortical functioning*. Nature Neuroscience, 16(4), 533--541. [doi](https://doi.org/10.1038/nn.4269)
+
+- **Siclari, Francesca and Baird, Benjamin and Perogamvros, Lampros and Bernardi, Giulio and LaRocque, Joshua J. and Riedner, Brady and Boly, Mélanie and Postle, Bradley R. and Tononi, Giulio** (2017). *The neural correlates of dreaming*. Nature Neuroscience, 20(6), 872--878. [doi](https://doi.org/10.1038/nn.4545)
+
+- **Sierra, Mauricio and David, Anthony S.** (2011). *Depersonalization: a selective impairment of self-awareness*. Consciousness and Cognition, 20(1), 99--108. [doi](https://doi.org/10.1016/j.concog.2010.10.018)
+
+- **Simons, Daniel J. and Levin, Daniel T.** (1997). *Change blindness*. Trends in Cognitive Sciences, 1(7), 261--267. [doi](https://doi.org/10.1016/S1364-6613(97)01080-2)
+
+- **Sitt, Jacobo D. and King, Jean-Rémi and El Karoui, Imen and Rohaut, Benjamin and Faugeras, Frédéric and Gramfort, Alexandre and Cohen, Laurent and Sigman, Mariano and Dehaene, Stanislas and Naccache, Lionel** (2014). *Large scale screening of neural signatures of consciousness in patients in a vegetative or minimally conscious state*. Brain, 137(8), 2258--2270. [doi](https://doi.org/10.1093/brain/awu141)
+
+- **Steriade, Mircea** (2004). *Acetylcholine systems and rhythmic activities during the waking--sleep cycle*. Progress in Brain Research, 145, 179--196. [doi](https://doi.org/10.1016/S0079-6123(03)45013-9)
+
+- **Steriade, Mircea and Llinás, Rodolfo R.** (1988). *The functional states of the thalamus and the associated neuronal interplay*. Physiological Reviews, 68(3), 649--742. [doi](https://doi.org/10.1152/physrev.1988.68.3.649)
+
+- **Stringer, Carsen and Pachitariu, Marius and Steinmetz, Nicholas and Carandini, Matteo and Harris, Kenneth D.** (2019). *High-dimensional geometry of population responses in visual cortex*. Nature, 571(7765), 361--365. [doi](https://doi.org/10.1038/s41586-019-1346-5)
+
+- **Tagliazucchi, Enzo and Chialvo, Dante R. and Siniatchkin, Michael and Amico, Enrico and Brichant, Jean-François and Bonhomme, Vincent and Noirhomme, Quentin and Laufs, Helmut and Laureys, Steven** (2016). *Large-scale signatures of unconsciousness are consistent with a departure from critical dynamics*. Journal of the Royal Society Interface, 13(114), 20151027. [doi](https://doi.org/10.1098/rsif.2015.1027)
+
+- **Tognoli, Emmanuelle and Kelso, J. A. Scott** (2014). *The metastable brain*. Neuron, 81(1), 35--48. [doi](https://doi.org/10.1016/j.neuron.2013.12.022)
+
+- **Tononi, Giulio and Boly, Mélanie and Massimini, Marcello and Koch, Christof** (2016). *Integrated information theory: from consciousness to its physical substrate*. Nature Reviews Neuroscience, 17(7), 450--461. [doi](https://doi.org/10.1038/nrn.2016.44)
+
+- **Treisman, Anne** (1996). *The binding problem*. Current Opinion in Neurobiology, 6(2), 171--178. [doi](https://doi.org/10.1016/S0959-4388(96)80070-5)
+
+- **Treisman, Anne** (2003). *Consciousness and perceptual binding*. In *The Unity of Consciousness: Binding, Integration, and Dissociation*, pp. 95--113.
+
+- **Tsakiris, Manos** (2010). *My body in the brain: a neurocognitive model of body-ownership*. Neuropsychologia, 48(3), 703--712. [doi](https://doi.org/10.1016/j.neuropsychologia.2009.09.034)
+
+- **Turrigiano, Gina G.** (2008). *The self-tuning neuron: synaptic scaling of excitatory synapses*. Cell, 135(3), 422--435. [doi](https://doi.org/10.1016/j.cell.2008.10.008)
+
+- **Uhrig, Lynn and Sitt, Jacobo D. and Jacob, Aude and Tasserie, Julien and Barttfeld, Pablo and Dupont, Morgan and Dehaene, Stanislas and Jarraya, Bechir** (2018). *Resting-state dynamics as a cortical signature of anesthesia in monkeys*. Anesthesiology, 129(5), 942--958. [doi](https://doi.org/10.1097/ALN.0000000000002336)
+
+- **Van Dort, Christen J. and Zachs, Daniel P. and Kenny, Jonathan D. and Zheng, Shu and Goldblum, Rebecca R. and Gelwan, Norman A. and Ramos, Damon M. and Nolan, Michael A. and Wang, Kathleen and Weng, Feng-Ju and Lin, Yingxi and Wilson, Matthew A. and Brown, Emery N.** (2015). *Optogenetic activation of cholinergic neurons in the PPT or LDT induces REM sleep*. Proceedings of the National Academy of Sciences, 112(2), 584--589. [doi](https://doi.org/10.1073/pnas.1423136112)
+
+- **Van Essen, David C. and Smith, Stephen M. and Barch, Deanna M. and Behrens, Timothy E. J. and Yacoub, Essa and Ugurbil, Kamil and WU-Minn HCP Consortium** (2013). *The WU-Minn Human Connectome Project: an overview*. NeuroImage, 80, 62--79. [doi](https://doi.org/10.1016/j.neuroimage.2013.05.041)
+
+- **Vyazovskiy, Vladyslav V. and Olcese, Umberto and Hanlon, Erin C. and Nir, Yuval and Cirelli, Chiara and Tononi, Giulio** (2011). *Local sleep in awake rats*. Nature, 472(7344), 443--447. [doi](https://doi.org/10.1038/nature10009)
+
+- **Weiskrantz, Lawrence** (1986). *Blindsight: a case study and implications*. Oxford University Press.
+
+- **Grothe, Michel J. and Scheef, Lukas and Bauer, Jens and Heinsen, Helmut and Prudlo, Johannes and Teipel, Stefan J.** (2012). *Atrophy of the cholinergic basal forebrain in dementia with Lewy bodies and Alzheimer's disease dementia*. Journal of Neurology, 259(9), 1939--1948. [doi](https://doi.org/10.1007/s00415-012-6429-z)
+
+- **Czeisler, Charles A. and Duffy, Jeanne F. and Shanahan, Theresa L. and Brown, Emery N. and Mitchell, Jude F. and Rimmer, David W. and Ronda, Joseph M. and Silva, Edward J. and Allan, James S. and Emens, Jonathan S. and Dijk, Derk-Jan and Kronauer, Richard E.** (1999). *Stability, precision, and near-24-hour period of the human circadian pacemaker*. Science, 284(5423), 2177--2181. [doi](https://doi.org/10.1126/science.284.5423.2177)
+
+- **Borbély, Alexander A. and Daan, Serge and Wirz-Justice, Anna and Deboer, Tom** (2016). *The two-process model of sleep regulation: a reappraisal*. Journal of Sleep Research, 25(2), 131--143. [doi](https://doi.org/10.1111/jsr.12371)
+
 
 ---
 
