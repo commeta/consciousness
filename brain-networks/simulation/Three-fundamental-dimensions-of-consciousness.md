@@ -3723,6 +3723,70 @@ dC/dt = r_C * C^2 * (C_max - C) / C_max^2 + ...  # cubic nonlinearity
 - **Quattrocki, Elizabeth and Friston, Karl** (2014). *Autism, oxytocin and interoception*. Neuroscience & Biobehavioral Reviews, 47, 410--430. [doi](https://doi.org/10.1016/j.neubiorev.2014.09.012)
 - **Garfinkel, Sarah N. and Tiley, Cassandra and O'Keeffe, Sinéad and Harrison, Neil A. and Seth, Anil K. and Critchley, Hugo D.** (2016). *Discrepancies between dimensions of interoception in autism: implications for emotion and anxiety*. Biological Psychology, 114, 117--126. [doi](https://doi.org/10.1016/j.biopsycho.2015.12.003)
 - **Godfrey-Smith, Peter** (2016). *Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness*. Farrar, Straus and Giroux.
+- **Pearl, J.** (2009). *Causality: Models, Reasoning, and Inference* (2nd ed.). Cambridge University Press.
+- **Peters, J., Janzing, D., & Schölkopf, B.** (2017). *Elements of Causal Inference: Foundations and Learning Algorithms*. MIT Press.
+- **Overgaard, M., & Sandberg, K.** (2012). Kinds of access: different methods for report reveal different kinds of metacognitive access. *Philosophical Transactions of the Royal Society B*, *367*(1594), 1287–1296. https://doi.org/10.1098/rstb.2011.0425
+- **Shea, N., & Frith, C. D.** (2019). The global workspace needs metacognition. *Trends in Cognitive Sciences*, *23*(7), 560–571. https://doi.org/10.1016/j.tics.2019.04.007
+- **Rausch, M., Müller, H. J., & Zehetleitner, M.** (2015). Metacognitive sensitivity of subjective reports of decisional confidence and visual experience. *Consciousness and Cognition*, *35*, 192–205. https://doi.org/10.1016/j.concog.2015.02.011
+- **Meyniel, F., Sigman, M., & Mainen, Z. F.** (2015). Confidence as Bayesian probability: from neural origins to behavior. *Neuron*, *88*(1), 78–92. https://doi.org/10.1016/j.neuron.2015.09.039
+- **Kok, P., Jehee, J. F. M., & de Lange, F. P.** (2012). Less is more: expectation sharpens representations in the primary visual cortex. *Neuron*, *75*(2), 265–270. https://doi.org/10.1016/j.neuron.2012.04.034
+- **Ranganath, C., & Rainer, G.** (2003). Neural mechanisms for detecting and remembering novel events. *Nature Reviews Neuroscience*, *4*(3), 193–202. https://doi.org/10.1038/nrn1052
+- **Borbély, A. A., & Achermann, P.** (1999). Sleep homeostasis and models of sleep regulation. *Journal of Biological Rhythms*, *14*(6), 557–568. https://doi.org/10.1177/074873099129000894
+- **Strogatz, S. H.** (2015). *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering* (2nd ed.). Westview Press.
+- **Sarter, M., Parikh, V., & Howe, W. M.** (2009). Phasic acetylcholine release and the volume transmission hypothesis: time to move on. *Nature Reviews Neuroscience*, *10*(5), 383–390. https://doi.org/10.1038/nrn2635
+- **Reynolds, J. H., & Heeger, D. J.** (2009). The normalization model of attention. *Neuron*, *61*(2), 168–185. https://doi.org/10.1016/j.neuron.2009.01.002
+- **Simoncelli, E. P., & Olshausen, B. A.** (2001). Natural image statistics and neural representation. *Annual Review of Neuroscience*, *24*, 1193–1216. https://doi.org/10.1146/annurev.neuro.24.1.1193
+- **Baddeley, A.** (2003). Working memory: looking back and looking forward. *Nature Reviews Neuroscience*, *4*(10), 829–839. https://doi.org/10.1038/nrn1201
+- **Preller, K. H., Burt, J. B., Ji, J. L., Schleifer, C. H., Adkinson, B. D., Stämpfli, P., ... & Anticevic, A.** (2018). Changes in global and thalamic brain connectivity in LSD-induced altered states of consciousness are attributable to the 5-HT2A receptor. *eLife*, *7*, e35082. https://doi.org/10.7554/eLife.35082
+- **Shenhav, A., Musslick, S., Lieder, F., Kool, W., Griffiths, T. L., Cohen, J. D., & Botvinick, M. M.** (2017). Toward a rational and mechanistic account of mental effort. *Annual Review of Neuroscience*, *40*, 99–124. https://doi.org/10.1146/annurev-neuro-072116-031526
+- **Honey, C. J., Sporns, O., Cammoun, L., Gigandet, X., Thiran, J. P., Meuli, R., & Hagmann, P.** (2009). Predicting human resting-state functional connectivity from structural connectivity. *Proceedings of the National Academy of Sciences*, *106*(6), 2035–2040. https://doi.org/10.1073/pnas.0811168106
+- **Rosanova, M., Gosseries, O., Casarotto, S., Boly, M., Casali, A. G., Bruno, M. A., ... & Massimini, M.** (2012). Recovery of cortical effective connectivity and recovery of consciousness in vegetative patients. *Brain*, *135*(4), 1308–1320. https://doi.org/10.1093/brain/awr340
+- **Dijk, D. J.** (2009). Regulation and functional correlates of slow wave sleep. *Journal of Clinical Sleep Medicine*, *5*(2 Suppl), S6–S15.
+- **Schiff, N. D.** (2010). Recovery of consciousness after brain injury: a mesocircuit hypothesis. *Trends in Neurosciences*, *33*(1), 1–9. https://doi.org/10.1016/j.tins.2009.11.002
+- **Ching, S., Cimenser, A., Purdon, P. L., Brown, E. N., & Kopell, N. J.** (2010). Thalamocortical model for a propofol-induced alpha-rhythm associated with loss of consciousness. *Proceedings of the National Academy of Sciences*, *107*(52), 22665–22670. https://doi.org/10.1073/pnas.1017069108
+- **McCarley, R. W., & Hobson, J. A.** (1975). Neuronal excitability modulation over the sleep cycle: a structural and mathematical model. *Science*, *189*(4196), 58–60. https://doi.org/10.1126/science.1135627
+- **Lu, J., Sherman, D., Devor, M., & Saper, C. B.** (2006). A putative flip–flop switch for control of REM sleep. *Nature*, *441*(7093), 589–594. https://doi.org/10.1038/nature04767
+- **Saper, C. B., Fuller, P. M., Pedersen, N. P., Lu, J., & Scammell, T. E.** (2010). Sleep state switching. *Neuron*, *68*(6), 1023–1042. https://doi.org/10.1016/j.neuron.2010.11.032
+- **Millière, R.** (2017). Looking for the self: phenomenology, neurophysiology and philosophical significance of drug-induced ego dissolution. *Frontiers in Human Neuroscience*, *11*, 245. https://doi.org/10.3389/fnhum.2017.00245
+- **Battleday, R. M., & Brem, A. K.** (2015). Modafinil for cognitive neuroenhancement in healthy non-sleep-deprived subjects: a systematic review. *European Neuropsychopharmacology*, *25*(11), 1865–1881. https://doi.org/10.1016/j.euroneuro.2015.07.028
+- **Hayward, D. A., Handel, A., Brunert, E., & Reiner, M.** (2017). The effect of right prefrontal cortex stimulation on self-awareness: A systematic review. *Cortex*, *96*, 25–37. https://doi.org/10.1016/j.cortex.2017.08.023
+- **Dennison, P.** (2019). The human default consciousness and its disruption: insights from an EEG study of Buddhist jhāna meditation. *Frontiers in Human Neuroscience*, *13*, 178. https://doi.org/10.3389/fnhum.2019.00178
+- **Manna, A., Raffone, A., Perrucci, M. G., Nardo, D., Ferretti, A., Tartaro, A., ... & Romani, G. L.** (2010). Neural correlates of focused attention and cognitive monitoring in meditation. *Brain Research Bulletin*, *82*(1-2), 46–56. https://doi.org/10.1016/j.brainresbull.2010.03.001
+- **Friston, K., Mattout, J., Trujillo-Barreto, N., Ashburner, J., & Penny, W.** (2007). Variational free energy and the Laplace approximation. *NeuroImage*, *34*(1), 220–234. https://doi.org/10.1016/j.neuroimage.2006.08.035
+- **Raissi, M., Perdikaris, P., & Karniadakis, G. E.** (2019). Physics-informed neural networks: a deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations. *Journal of Computational Physics*, *378*, 686–707. https://doi.org/10.1016/j.jcp.2018.10.045
+- **Purdon, P. L., Sampson, A., Pavone, K. J., & Brown, E. N.** (2015). Clinical electroencephalography for anesthesiologists: part I: background and basic signatures. *Anesthesiology*, *123*(4), 937–960. https://doi.org/10.1097/ALN.0000000000000841
+- **Husserl, E.** (1991). *On the Phenomenology of the Consciousness of Internal Time (1893–1917)* (J. B. Brough, Trans.). Kluwer Academic Publishers. (Original work published 1905)
+- **Varela, F. J.** (1999). The specious present: a neurophenomenology of time consciousness. *Naturalizing Phenomenology*, 266–314.
+- **Pöppel, E.** (2009). Pre-semantically defined temporal windows for cognitive processing. *Philosophical Transactions of the Royal Society B*, *364*(1525), 1887–1896. https://doi.org/10.1098/rstb.2009.0015
+- **Friston, K.** (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience*, *11*(2), 127–138. https://doi.org/10.1038/nrn2787
+- **Wikenheiser, A. M., & Redish, A. D.** (2015). Hippocampal theta sequences reflect current goals. *Nature Neuroscience*, *18*(2), 289–294. https://doi.org/10.1038/nn.3909
+- **Honey, C. J., Thesen, T., Donner, T. H., Silbert, L. J., Carlson, C. E., Devinsky, O., ... & Hasson, U.** (2012). Slow cortical dynamics and the accumulation of information over long timescales. *Neuron*, *76*(2), 423–434. https://doi.org/10.1016/j.neuron.2012.08.011
+- **Salinas, E., & Sejnowski, T. J.** (2001). Correlated neuronal activity and the flow of neural information. *Nature Reviews Neuroscience*, *2*(8), 539–550. https://doi.org/10.1038/35086012
+- **Khanna, A., Pascual-Leone, A., Michel, C. M., & Farzan, F.** (2015). Microstates in resting-state EEG: current status and future directions. *Neuroscience & Biobehavioral Reviews*, *49*, 105–113. https://doi.org/10.1016/j.neubiorev.2014.12.010
+- **Breakspear, M.** (2017). Dynamic models of large-scale brain activity. *Nature Neuroscience*, *20*(3), 340–352. https://doi.org/10.1038/nn.4497
+- **Deco, G., Jirsa, V. K., & McIntosh, A. R.** (2011). Emerging concepts for the dynamical organization of resting-state activity in the brain. *Nature Reviews Neuroscience*, *12*(1), 43–56. https://doi.org/10.1038/nrn2961
+- **Deco, G., Ponce-Alvarez, A., Mantini, D., Romani, G. L., Hagmann, P., & Corbetta, M.** (2013). Resting-state functional connectivity emerges from structurally and dynamically shaped slow linear fluctuations. *Journal of Neuroscience*, *33*(27), 11239–11252. https://doi.org/10.1523/JNEUROSCI.1091-13.2013
+- **Seth, A. K., Barrett, A. B., & Barnett, L.** (2015). Granger causality analysis in neuroscience and neuroimaging. *Journal of Neuroscience*, *35*(8), 3293–3297. https://doi.org/10.1523/JNEUROSCI.4399-14.2015
+- **Berridge, K. C., & Kringelbach, M. L.** (2015). Pleasure systems in the brain. *Neuron*, *86*(3), 646–664. https://doi.org/10.1016/j.neuron.2015.02.018
+- **Barrett, A. B., & Seth, A. K.** (2011). Practical measures of integrated information for time-series data. *PLoS Computational Biology*, *7*(1), e1001052. https://doi.org/10.1371/journal.pcbi.1001052
+- **Grosenick, L., Marshel, J. H., & Deisseroth, K.** (2015). Closed-loop and activity-guided optogenetic control. *Neuron*, *86*(1), 106–139. https://doi.org/10.1016/j.neuron.2015.03.034
+- **Whitehead, A. N.** (1929). *Process and Reality: An Essay in Cosmology*. Macmillan.
+- **Thompson, E.** (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+- **Seibt, J.** (2018). Process philosophy. In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (Winter 2018 Edition). https://plato.stanford.edu/archives/win2018/entries/process-philosophy/
+- **Bedau, M. A.** (1997). Weak emergence. *Philosophical Perspectives*, *11*, 375–399. https://doi.org/10.1111/0029-4624.31.s11.17
+- **Kim, J.** (1999). Making sense of emergence. *Philosophical Studies*, *95*(1-2), 3–36. https://doi.org/10.1023/A:1004563122154
+- **Chalmers, D. J.** (1995). Facing up to the problem of consciousness. *Journal of Consciousness Studies*, *2*(3), 200–219.
+- **Chalmers, D. J.** (2013). Panpsychism and panprotopsychism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism* (pp. 246–276). Oxford University Press.
+- **Dennett, D. C.** (1991). *Consciousness Explained*. Little, Brown and Company.
+- **McGinn, C.** (1989). Can we solve the mind-body problem? *Mind*, *98*(391), 349–366. https://doi.org/10.1093/mind/XCVIII.391.349
+- **Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T.** (2018). The preregistration revolution. *Proceedings of the National Academy of Sciences*, *115*(11), 2600–2606. https://doi.org/10.1073/pnas.1708274114
+- **Koch, C.** (2024). What the latest evidence reveals about theories of consciousness. *Nature*, *626*, 492–494. https://doi.org/10.1038/d41586-024-00401-8
+- **Raymond, J. E., Shapiro, K. L., & Arnell, K. M.** (1992). Temporary suppression of visual processing in an RSVP task: an attentional blink? *Journal of Experimental Psychology: Human Perception and Performance*, *18*(3), 849–860. https://doi.org/10.1037/0096-1523.18.3.849
+- **Gazzaniga, M. S.** (2005). Forty-five years of split-brain research and still going strong. *Nature Reviews Neuroscience*, *6*(8), 653–659. https://doi.org/10.1038/nrn1723
+- **Sterzer, P., Adams, R. A., Fletcher, P., Frith, C., Lawrie, S. M., Muckli, L., ... & Corlett, P. R.** (2018). The predictive coding account of psychosis. *Biological Psychiatry*, *84*(9), 634–643. https://doi.org/10.1016/j.biopsych.2018.05.015
+- **Cogitate Consortium.** (2024). An adversarial collaboration to critically evaluate theories of consciousness. *Nature Human Behaviour*. [Article in press/preprint referenced]
+- **Nour, M. M., Evans, L., Nutt, D., & Carhart-Harris, R. L.** (2016). Ego-dissolution and psychedelics: validation of the ego-dissolution inventory (EDI). *Frontiers in Human Neuroscience*, *10*, 269. https://doi.org/10.3389/fnhum.2016.00269
+
 
 ---
 
