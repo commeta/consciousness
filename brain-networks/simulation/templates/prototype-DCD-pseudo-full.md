@@ -1102,27 +1102,27 @@ DCD представляет собой **проспективно-тестир�
 
 ### Сгенерированные файлы
 
-![trajectory_3D](/brain-networks/simulation/templates/trajectory_3D.png "trajectory_3D")
+![trajectory_3D](/brain-networks/simulation/templates/img/trajectory_3D.png "trajectory_3D")
 
 > 3D-траектория в пространстве (L, C, S). Показывает переход от состояния бодрствования (старт) к конечному состоянию за 20 минут.
 
-![time_series_L_C_S](/brain-networks/simulation/templates/time_series_L_C_S.png "time_series_L_C_S")
+![time_series_L_C_S](/brain-networks/simulation/templates/img/time_series_L_C_S.png "time_series_L_C_S")
 
 > Временные ряды L(t), C(t), S(t) на одном графике. Горизонтальная пунктирная линия — порог LOC (L=3.5). Позволяет увидеть момент, когда L пересекает порог.
 
-![bifurcation_finalL_vs_dose](/brain-networks/simulation/templates/bifurcation_finalL_vs_dose.png "bifurcation_finalL_vs_dose")
+![bifurcation_finalL_vs_dose](/brain-networks/simulation/templates/img/bifurcation_finalL_vs_dose.png "bifurcation_finalL_vs_dose")
 
 > Результат parameter sweep: финальное значение L (в t=20 min) при разных масштабах дозы анестетика. Помогает видеть бифуркационные переходы (снижение L при росте дозы).
 
-![sliding_ac_lag1_L](/brain-networks/simulation/templates/sliding_ac_lag1_L.png "sliding_ac_lag1_L")
+![sliding_ac_lag1_L](/brain-networks/simulation/templates/img/sliding_ac_lag1_L.png "sliding_ac_lag1_L")
 
 > Скользящая автокорреляция (lag-1) сигнала L. Подъём автокорреляции перед переходом указывает на «critical slowing down».
 
-![sliding_variance_L](/brain-networks/simulation/templates/sliding_variance_L.png "sliding_variance_L")
+![sliding_variance_L](/brain-networks/simulation/templates/img/sliding_variance_L.png "sliding_variance_L")
 
 > Скользящая дисперсия L. Увеличение дисперсии перед LOC — ещё один индикатор приближения бифуркации.
 
-![eig_real_over_time](/brain-networks/simulation/templates/eig_real_over_time.png "eig_real_over_time")
+![eig_real_over_time](/brain-networks/simulation/templates/img/eig_real_over_time.png "eig_real_over_time")
 
 > Реальные части собственных значений Якобиана J(t) по времени. Сходимость собственных значений к нулю указывает на снижение устойчивости (приближение к бифуркации).
 
@@ -1132,7 +1132,7 @@ DCD представляет собой **проспективно-тестир�
 # Creating and visualizing DCD simulation outputs (user-visible execution)
 # This code runs a deterministic version of the DCDSystem described by the user, computes
 # several diagnostic quantities, and produces separate figures (each figure per chart).
-# It saves figures to /brain-networks/simulation/templates/ and prints file paths for download.
+# It saves figures to /brain-networks/simulation/templates/img/ and prints file paths for download.
 # The code avoids seaborn, uses matplotlib, and keeps plots separate as requested.
 
 import numpy as np
@@ -3063,7 +3063,7 @@ print(f"\n{'='*60}\n")
 ## Python симуляция DCD 2.0 - визуализация траекторий уровня (L) для 13 регионов
 
 
-![dcd2_L_timeseries](/brain-networks/simulation/templates/dcd2_L_timeseries.svg "dcd2_L_timeseries")
+![dcd2_L_timeseries](/brain-networks/simulation/templates/img/dcd2_L_timeseries.svg "dcd2_L_timeseries")
 
 Короткое пояснение к изображению:
 
@@ -3278,7 +3278,7 @@ plt.title('DCD 2.0 — Spatial heterogeneity: L trajectories (13 regions)')
 plt.legend(loc='upper right', fontsize='small', ncol=2)
 plt.tight_layout()
 
-out_path = '/brain-networks/simulation/templates/dcd2_L_timeseries.svg'
+out_path = '/brain-networks/simulation/templates/img/dcd2_L_timeseries.svg'
 plt.savefig(out_path, format='svg')
 plt.close()
 
@@ -3365,20 +3365,20 @@ print(f"Saved SVG to {out_path}")
 ## Python симуляция DCD 2.0 - визуализация траекторий уровней (CSA) для 13 регионов
 
 
-![dcd2_final_L_heatmap](/brain-networks/simulation/templates/dcd2_final_L_heatmap.svg "dcd2_final_L_heatmap")
+![dcd2_final_L_heatmap](/brain-networks/simulation/templates/img/dcd2_final_L_heatmap.svg "dcd2_final_L_heatmap")
 
 > Heatmap final (L): показывает распределение уровня (L) по регионам в конце симуляции (вертикальная ось — регионы). Высокие значения → регионы с более «подготовленным» уровнем.
 
 
-![dcd2_C_timeseries](/brain-networks/simulation/templates/dcd2_C_timeseries.svg "dcd2_C_timeseries")
+![dcd2_C_timeseries](/brain-networks/simulation/templates/img/dcd2_C_timeseries.svg "dcd2_C_timeseries")
 
 > Траектории (C) (время): ищите пики после стимулов (ок. 1.0–1.5 и 2.0–2.1 мин), их латентности и различия между posterior и frontal узлами.
 
-![dcd2_S_timeseries](/brain-networks/simulation/templates/dcd2_S_timeseries.svg "dcd2_S_timeseries")
+![dcd2_S_timeseries](/brain-networks/simulation/templates/img/dcd2_S_timeseries.svg "dcd2_S_timeseries")
 
 > Траектории (S) (время): медленные, сглаженные изменения — отражают метакогнитивную/самостную динамику; сравните стабильность фронтальных и задних областей.
 
-![dcd2_A_timeseries](/brain-networks/simulation/templates/dcd2_A_timeseries.svg "dcd2_A_timeseries")
+![dcd2_A_timeseries](/brain-networks/simulation/templates/img/dcd2_A_timeseries.svg "dcd2_A_timeseries")
 
 > Динамика внимания (A) (время): показывает, как внимание усиливается в ответ на salience и top-down bias (V4 имеет сознательно заданный top-down эффект).
 
@@ -3391,7 +3391,7 @@ print(f"Saved SVG to {out_path}")
 # 3) Trajectories of S (all regions)
 # 4) Dynamics of Attention A (all regions)
 #
-# Files saved to /brain-networks/simulation/templates/
+# Files saved to /brain-networks/simulation/templates/img/
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -3565,7 +3565,7 @@ plt.yticks(ticks=np.arange(n_regions), labels=regions)
 plt.xticks([])
 plt.title('Final L (t = {:.2f} min)'.format(times[-1]))
 plt.tight_layout()
-out1 = '/brain-networks/simulation/templates/dcd2_final_L_heatmap.svg'
+out1 = '/brain-networks/simulation/templates/img/dcd2_final_L_heatmap.svg'
 plt.savefig(out1, format='svg')
 plt.close()
 
@@ -3578,7 +3578,7 @@ plt.ylabel('C (content variable)')
 plt.title('DCD 2.0 — Trajectories of C (13 regions)')
 plt.legend(loc='upper right', fontsize='small', ncol=2)
 plt.tight_layout()
-out2 = '/brain-networks/simulation/templates/dcd2_C_timeseries.svg'
+out2 = '/brain-networks/simulation/templates/img/dcd2_C_timeseries.svg'
 plt.savefig(out2, format='svg')
 plt.close()
 
@@ -3591,7 +3591,7 @@ plt.ylabel('S (self / metacognition)')
 plt.title('DCD 2.0 — Trajectories of S (13 regions)')
 plt.legend(loc='upper right', fontsize='small', ncol=2)
 plt.tight_layout()
-out3 = '/brain-networks/simulation/templates/dcd2_S_timeseries.svg'
+out3 = '/brain-networks/simulation/templates/img/dcd2_S_timeseries.svg'
 plt.savefig(out3, format='svg')
 plt.close()
 
@@ -3604,7 +3604,7 @@ plt.ylabel('A (attention, 0-1)')
 plt.title('DCD 2.0 — Attention dynamics A (13 regions)')
 plt.legend(loc='upper right', fontsize='small', ncol=2)
 plt.tight_layout()
-out4 = '/brain-networks/simulation/templates/dcd2_A_timeseries.svg'
+out4 = '/brain-networks/simulation/templates/img/dcd2_A_timeseries.svg'
 plt.savefig(out4, format='svg')
 plt.close()
 
@@ -3706,27 +3706,27 @@ for p in out_paths:
 
 ## Python симуляция DCD 2.0 minimal working example
 
-![dcd2_minimal_L](/brain-networks/simulation/templates/dcd2_minimal_L.svg "dcd2_minimal_L")
+![dcd2_minimal_L](/brain-networks/simulation/templates/img/dcd2_minimal_L.svg "dcd2_minimal_L")
 
 > Level (L) по регионам (время)
 
-![dcd2_minimal_C](/brain-networks/simulation/templates/dcd2_minimal_C.svg "dcd2_minimal_C")
+![dcd2_minimal_C](/brain-networks/simulation/templates/img/dcd2_minimal_C.svg "dcd2_minimal_C")
 
 > Content (C) по регионам (время)
 
-![dcd2_minimal_A](/brain-networks/simulation/templates/dcd2_minimal_A.svg "dcd2_minimal_A")
+![dcd2_minimal_A](/brain-networks/simulation/templates/img/dcd2_minimal_A.svg "dcd2_minimal_A")
 
 > Attention (A) по регионам (время)
 
-![dcd2_minimal_LCS_3D](/brain-networks/simulation/templates/dcd2_minimal_LCS_3D.svg "dcd2_minimal_LCS_3D")
+![dcd2_minimal_LCS_3D](/brain-networks/simulation/templates/img/dcd2_minimal_LCS_3D.svg "dcd2_minimal_LCS_3D")
 
 > Средняя траектория (L, C, S) в 3D
 
-![dcd2_minimal_autocorr_L_V1](/brain-networks/simulation/templates/dcd2_minimal_autocorr_L_V1.svg "dcd2_minimal_autocorr_L_V1")
+![dcd2_minimal_autocorr_L_V1](/brain-networks/simulation/templates/img/dcd2_minimal_autocorr_L_V1.svg "dcd2_minimal_autocorr_L_V1")
 
 > Автокорреляция (L) (V1) — проверка OU-шума
 
-![dcd2_minimal_CA_scatter_V1](/brain-networks/simulation/templates/dcd2_minimal_CA_scatter_V1.svg "dcd2_minimal_CA_scatter_V1")
+![dcd2_minimal_CA_scatter_V1](/brain-networks/simulation/templates/img/dcd2_minimal_CA_scatter_V1.svg "dcd2_minimal_CA_scatter_V1")
 
 > C vs A scatter (V1)
 
@@ -3855,7 +3855,7 @@ ax1.legend(fontsize='small')
 ax1.set_title('Spatial heterogeneity in Level')
 ax1.grid(alpha=0.3)
 fig1.tight_layout()
-out1 = '/brain-networks/simulation/templates/dcd2_minimal_L.svg'
+out1 = '/brain-networks/simulation/templates/img/dcd2_minimal_L.svg'
 fig1.savefig(out1, format='svg')
 plt.close(fig1)
 
@@ -3870,7 +3870,7 @@ ax2.legend(fontsize='small')
 ax2.set_title('Content dynamics')
 ax2.grid(alpha=0.3)
 fig2.tight_layout()
-out2 = '/brain-networks/simulation/templates/dcd2_minimal_C.svg'
+out2 = '/brain-networks/simulation/templates/img/dcd2_minimal_C.svg'
 fig2.savefig(out2, format='svg')
 plt.close(fig2)
 
@@ -3885,7 +3885,7 @@ ax3.legend(fontsize='small')
 ax3.set_title('Attention gating')
 ax3.grid(alpha=0.3)
 fig3.tight_layout()
-out3 = '/brain-networks/simulation/templates/dcd2_minimal_A.svg'
+out3 = '/brain-networks/simulation/templates/img/dcd2_minimal_A.svg'
 fig3.savefig(out3, format='svg')
 plt.close(fig3)
 
@@ -3904,7 +3904,7 @@ ax4.set_zlabel('Self S')
 ax4.legend(fontsize='small')
 ax4.set_title('Mean (L,C,S) trajectory')
 fig4.tight_layout()
-out4 = '/brain-networks/simulation/templates/dcd2_minimal_LCS_3D.svg'
+out4 = '/brain-networks/simulation/templates/img/dcd2_minimal_LCS_3D.svg'
 fig4.savefig(out4, format='svg')
 plt.close(fig4)
 
@@ -3921,7 +3921,7 @@ ax5.set_ylabel('Autocorrelation')
 ax5.set_title('OU noise structure (V1 Level)')
 ax5.grid(alpha=0.3)
 fig5.tight_layout()
-out5 = '/brain-networks/simulation/templates/dcd2_minimal_autocorr_L_V1.svg'
+out5 = '/brain-networks/simulation/templates/img/dcd2_minimal_autocorr_L_V1.svg'
 fig5.savefig(out5, format='svg')
 plt.close(fig5)
 
@@ -3935,7 +3935,7 @@ ax6.set_ylabel('Content (V1)')
 ax6.set_title('Attention-Content coupling (V1)')
 ax6.grid(alpha=0.3)
 fig6.tight_layout()
-out6 = '/brain-networks/simulation/templates/dcd2_minimal_CA_scatter_V1.svg'
+out6 = '/brain-networks/simulation/templates/img/dcd2_minimal_CA_scatter_V1.svg'
 fig6.savefig(out6, format='svg')
 plt.close(fig6)
 
@@ -4317,7 +4317,7 @@ for p in out_paths:
 
 Оглавление:
 
-- [Черновой DCD-схемы](/brain-networks/simulation/templates/prototype-DCD-pseudo-min.md) 
+- [Черновой DCD-схемы](/brain-networks/simulation/templates/img/prototype-DCD-pseudo-min.md) 
 - [Три фундаментальных измерения сознания](/brain-networks/simulation/Three-fundamental-dimensions-of-consciousness.md) 
 - [Нейросети мозга](/brain-networks/README.md)
 - [ЭИРО framework](/README.md)
