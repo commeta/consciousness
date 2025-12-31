@@ -154,11 +154,11 @@ $$
 * Сгенерированы PNG-файлы (по одному на сценарий):
 
 
-![dcd_baseline](/brain-networks/simulation/templates/dcd_baseline.png "dcd_baseline")
+![dcd_baseline](/brain-networks/simulation/templates/img/dcd_baseline.png "dcd_baseline")
 
-![dcd_high_w_LC](/brain-networks/simulation/templates/dcd_high_w_LC.png "dcd_high_w_LC")
+![dcd_high_w_LC](/brain-networks/simulation/templates/img/dcd_high_w_LC.png "dcd_high_w_LC")
 
-![dcd_low_w_SL.png](/brain-networks/simulation/templates/dcd_low_w_SL.png "dcd_low_w_SL.png")
+![dcd_low_w_SL.png](/brain-networks/simulation/templates/img/dcd_low_w_SL.png "dcd_low_w_SL.png")
 
 
 Сводная таблица (показана в интерактивном виде) — ключевые числовые показатели:
@@ -488,7 +488,7 @@ Saved figure: dcd_low_w_SL.png
 
 Оглавление:
 
-- [Формализация DCD-подхода](/brain-networks/simulation/templates/prototype-DCD-pseudo-full.md) 
+- [Формализация DCD-подхода](/brain-networks/simulation/templates/img/prototype-DCD-pseudo-full.md) 
 - [Три фундаментальных измерения сознания](/brain-networks/simulation/Three-fundamental-dimensions-of-consciousness.md) 
 - [Многоуровневая модель организации мозга и сознания (NIMAC) - концептуальная карта](/brain-networks/simulation/NeuroIntegrative-Multiscale-Architecture-of-Consciousness.md)  
 - [Нейросети мозга](/brain-networks/README.md)
