@@ -6,10 +6,20 @@
 
 **Ключевая проблема**: СЕТЕВАЯ МОДЕЛЬ вводит явные направленные взаимодействия с эмпирически обоснованными весами (w_LC = +0.6, w_LS = +0.7, etc.), в то время как DCD 2.0 использует ad hoc функциональные формы (например, ΔΦ) без строгой каузальной интерпретации.
 
-- [Три фундаментальных измерения сознания](/brain-networks/simulation/Three-fundamental-dimensions-of-consciousness.md) 
-- [СЕТЕВАЯ МОДЕЛЬ С КАУЗАЛЬНЫМИ СВЯЗЯМИ](/brain-networks/simulation/Three-fundamental-dimensions-of-consciousness.md#51-сетевая-модель-с-каузальными-связями) 
+[Три фундаментальных измерения сознания](/brain-networks/simulation/Three-fundamental-dimensions-of-consciousness.md) 
+
+- [Черновой DCD-схемы](/brain-networks/simulation/templates/prototype-DCD-pseudo-min.md) 
+
 - [Формализация DCD-подхода](/brain-networks/simulation/templates/prototype-DCD-pseudo-full.md) 
+
 - [DCD 2.0: Пространственно-распределённая стохастическая модель с адаптивными параметрами](/brain-networks/simulation/templates/prototype-DCD-pseudo-full.md#dcd-20-пространственно-распределённая-стохастическая-модель-с-адаптивными-параметрами) 
+
+[СЕТЕВАЯ МОДЕЛЬ С КАУЗАЛЬНЫМИ СВЯЗЯМИ](/brain-networks/simulation/Three-fundamental-dimensions-of-consciousness.md#51-сетевая-модель-с-каузальными-связями) 
+
+- [Формализация DCD 3.0 (Differentiable Consciousness Dynamics) — Unified Causal Network](/brain-networks/simulation/templates/prototype-DCD-Unified-Causal-Network.md)
+
+  - [DCD 3.0 — Interactive Visualization Suite](https://dcs-spb.ru/DCD3.html)
+
 
 ---
 
