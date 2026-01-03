@@ -35,6 +35,8 @@
 
 - [Формализация DCD 3.0 (Differentiable Consciousness Dynamics) — Unified Causal Network](/brain-networks/simulation/templates/prototype-DCD-Unified-Causal-Network.md)
 
+  - [DCD 3.0 — Interactive Visualization Suite](https://dcs-spb.ru/DCD3.html)
+
 
 ### 2. NIMAC: многоуровневая архитектура
 
