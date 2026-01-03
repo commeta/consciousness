@@ -37,6 +37,11 @@
 
   - [DCD 3.0 — Interactive Visualization Suite](https://dcs-spb.ru/DCD3.html)
 
+  - [DCD 3.0 — Interactive Visualization Suite](https://dcs-spb.ru/DCD3.html)
+
+- [Формализация DCD 4.0 (Differentiable Consciousness Dynamics) — The mechanistic model](/brain-networks/simulation/templates/prototype-DCD-the-mechanistic-model.md)
+
+
 
 ### 2. NIMAC: многоуровневая архитектура
 
