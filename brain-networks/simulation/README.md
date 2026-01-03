@@ -25,13 +25,13 @@
 
 [Три фундаментальных измерения сознания](/brain-networks/simulation/Three-fundamental-dimensions-of-consciousness.md) 
 
-- [СЕТЕВАЯ МОДЕЛЬ С КАУЗАЛЬНЫМИ СВЯЗЯМИ](/brain-networks/simulation/Three-fundamental-dimensions-of-consciousness.md#51-сетевая-модель-с-каузальными-связями) 
-
 - [Черновой DCD-схемы](/brain-networks/simulation/templates/prototype-DCD-pseudo-min.md) 
 
 - [Формализация DCD-подхода](/brain-networks/simulation/templates/prototype-DCD-pseudo-full.md) 
 
 - [DCD 2.0: Пространственно-распределённая стохастическая модель с адаптивными параметрами](/brain-networks/simulation/templates/prototype-DCD-pseudo-full.md#dcd-20-пространственно-распределённая-стохастическая-модель-с-адаптивными-параметрами) 
+
+[СЕТЕВАЯ МОДЕЛЬ С КАУЗАЛЬНЫМИ СВЯЗЯМИ](/brain-networks/simulation/Three-fundamental-dimensions-of-consciousness.md#51-сетевая-модель-с-каузальными-связями) 
 
 - [Формализация DCD 3.0 (Differentiable Consciousness Dynamics) — Unified Causal Network](/brain-networks/simulation/templates/prototype-DCD-Unified-Causal-Network.md)
 
