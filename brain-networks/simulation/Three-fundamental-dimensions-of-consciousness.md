@@ -3457,6 +3457,7 @@ dC/dt = r_C * C^2 * (C_max - C) / C_max^2 + ...  # cubic nonlinearity
 - [Формализация DCD-подхода](/brain-networks/simulation/templates/prototype-DCD-pseudo-full.md) 
 - [DCD 2.0: Пространственно-распределённая стохастическая модель с адаптивными параметрами](/brain-networks/simulation/templates/prototype-DCD-pseudo-full.md#dcd-20-пространственно-распределённая-стохастическая-модель-с-адаптивными-параметрами) 
 - [Формализация DCD 3.0 (Differentiable Consciousness Dynamics) — Unified Causal Network](/brain-networks/simulation/templates/prototype-DCD-Unified-Causal-Network.md)
+- [Формализация DCD 4.0 (Differentiable Consciousness Dynamics) — The mechanistic model](/brain-networks/simulation/templates/prototype-DCD-the-mechanistic-model.md)
 
 ---
 
@@ -3803,6 +3804,7 @@ dC/dt = r_C * C^2 * (C_max - C) / C_max^2 + ...  # cubic nonlinearity
 - [Формализация DCD-подхода](/brain-networks/simulation/templates/prototype-DCD-pseudo-full.md) 
 - [DCD 2.0: Пространственно-распределённая стохастическая модель с адаптивными параметрами](/brain-networks/simulation/templates/prototype-DCD-pseudo-full.md#dcd-20-пространственно-распределённая-стохастическая-модель-с-адаптивными-параметрами) 
 - [Формализация DCD 3.0 (Differentiable Consciousness Dynamics) — Unified Causal Network](/brain-networks/simulation/templates/prototype-DCD-Unified-Causal-Network.md)
+- [Формализация DCD 4.0 (Differentiable Consciousness Dynamics) — The mechanistic model](/brain-networks/simulation/templates/prototype-DCD-the-mechanistic-model.md)
 - [Нейросети мозга](/brain-networks/README.md)
 - [ЭИРО framework](/README.md)
 
