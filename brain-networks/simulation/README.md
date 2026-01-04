@@ -39,7 +39,7 @@
 
 - [Формализация DCD 4.0 (Differentiable Consciousness Dynamics) — The mechanistic model](/brain-networks/simulation/templates/prototype-DCD-the-mechanistic-model.md)
 
-  - [DCD 4.0 Interactive Dashboard](https://dcs-spb.ru/dcd4.html), [Описание](/brain-networks/simulation/templates/prototype-DCD-the-mechanistic-model.md#-dcd-40-interactive-dashboard)
+  - [DCD 4.0 Interactive Dashboard](https://dcs-spb.ru/dcd4.html), [Описание](/brain-networks/simulation/templates/Interactive-Dashboard/README.md)
 
 ### 2. NIMAC: многоуровневая архитектура
 
