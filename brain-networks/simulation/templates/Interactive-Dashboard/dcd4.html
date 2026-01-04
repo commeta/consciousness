@@ -3,352 +3,398 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DCD 4.0 Dashboard</title>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/3.1.1/plotly.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/3.1.1/plotly-locale-ru.min.js"></script>
+    <title>DCD 4.0 Dashboard — BETA v0.1</title>
+    <script src="https://cdn.plot.ly/plotly-2.29.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/12.4.1/math.min.js"></script>
-
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: #333;
-            overflow-x: hidden;
+            color: #1a1a1a;
+            line-height: 1.6;
         }
         
         .dashboard {
-            max-width: 1800px;
+            max-width: 1900px;
             margin: 0 auto;
             padding: 20px;
         }
         
         .header {
-            background: rgba(255,255,255,0.95);
-            padding: 20px;
-            border-radius: 15px;
+            background: rgba(255,255,255,0.98);
+            padding: 25px 30px;
+            border-radius: 16px;
             margin-bottom: 20px;
-            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+            border-left: 6px solid #667eea;
         }
         
         .header h1 {
             color: #667eea;
-            font-size: 2em;
-            margin-bottom: 10px;
+            font-size: 2.2em;
+            font-weight: 800;
+            margin-bottom: 8px;
+            letter-spacing: -0.5px;
         }
         
-        .header p {
-            color: #666;
+        .header .subtitle {
+            color: #555;
             font-size: 0.95em;
+            font-weight: 500;
+        }
+        
+        .header .version {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8em;
+            font-weight: 700;
+            margin-left: 15px;
         }
         
         .controls-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 15px;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 18px;
             margin-bottom: 20px;
         }
         
         .control-panel {
-            background: rgba(255,255,255,0.95);
-            padding: 20px;
-            border-radius: 12px;
-            box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+            background: rgba(255,255,255,0.98);
+            padding: 22px;
+            border-radius: 14px;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .control-panel:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 28px rgba(0,0,0,0.18);
         }
         
         .control-panel h3 {
             color: #667eea;
-            margin-bottom: 15px;
+            margin-bottom: 16px;
             font-size: 1.1em;
+            font-weight: 700;
             border-bottom: 2px solid #667eea;
-            padding-bottom: 8px;
+            padding-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
         }
         
         .control-group {
-            margin-bottom: 15px;
+            margin-bottom: 16px;
         }
         
         .control-group label {
             display: block;
             font-weight: 600;
-            margin-bottom: 5px;
-            font-size: 0.9em;
-            color: #555;
+            margin-bottom: 6px;
+            font-size: 0.88em;
+            color: #444;
         }
         
         .control-group input[type="range"] {
             width: 100%;
-            height: 6px;
-            border-radius: 5px;
-            background: #ddd;
+            height: 8px;
+            border-radius: 6px;
+            background: linear-gradient(to right, #ddd 0%, #667eea 50%, #ddd 100%);
             outline: none;
             -webkit-appearance: none;
+            cursor: pointer;
         }
         
         .control-group input[type="range"]::-webkit-slider-thumb {
             -webkit-appearance: none;
-            appearance: none;
-            width: 18px;
-            height: 18px;
+            width: 20px;
+            height: 20px;
             border-radius: 50%;
             background: #667eea;
             cursor: pointer;
+            box-shadow: 0 2px 8px rgba(102,126,234,0.5);
+            transition: transform 0.1s;
         }
         
-        .control-group input[type="number"] {
-            width: 100%;
-            padding: 8px;
-            border: 2px solid #ddd;
-            border-radius: 6px;
-            font-size: 0.9em;
+        .control-group input[type="range"]::-webkit-slider-thumb:hover {
+            transform: scale(1.15);
         }
         
-        .control-group select {
+        .control-group input[type="number"], .control-group select {
             width: 100%;
-            padding: 8px;
-            border: 2px solid #ddd;
-            border-radius: 6px;
+            padding: 10px 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
             font-size: 0.9em;
             background: white;
-            cursor: pointer;
+            transition: border-color 0.2s;
+        }
+        
+        .control-group input[type="number"]:focus, .control-group select:focus {
+            outline: none;
+            border-color: #667eea;
         }
         
         .value-display {
             display: inline-block;
-            background: #f0f0f0;
-            padding: 4px 10px;
-            border-radius: 4px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 5px 12px;
+            border-radius: 6px;
             font-size: 0.85em;
-            font-weight: bold;
-            color: #667eea;
+            font-weight: 700;
             margin-left: 10px;
+            box-shadow: 0 2px 6px rgba(102,126,234,0.3);
         }
         
         .button-group {
             display: flex;
-            gap: 10px;
-            margin-top: 15px;
+            gap: 12px;
+            margin-top: 18px;
         }
         
         button {
             flex: 1;
-            padding: 12px;
+            padding: 14px;
             border: none;
-            border-radius: 8px;
-            font-weight: 600;
+            border-radius: 10px;
+            font-weight: 700;
+            font-size: 0.92em;
             cursor: pointer;
-            transition: all 0.3s;
-            font-size: 0.9em;
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
         
         .btn-primary {
-            background: #667eea;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
+            box-shadow: 0 4px 15px rgba(102,126,234,0.4);
         }
         
         .btn-primary:hover {
-            background: #5568d3;
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(102,126,234,0.4);
+            transform: translateY(-3px);
+            box-shadow: 0 6px 25px rgba(102,126,234,0.6);
         }
         
         .btn-secondary {
-            background: #f0f0f0;
-            color: #333;
+            background: #f5f5f5;
+            color: #555;
         }
         
         .btn-secondary:hover {
-            background: #e0e0e0;
+            background: #e8e8e8;
         }
         
         .viz-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(550px, 1fr));
             gap: 20px;
             margin-bottom: 20px;
         }
         
         .viz-panel {
-            background: rgba(255,255,255,0.95);
-            padding: 15px;
-            border-radius: 12px;
-            box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+            background: rgba(255,255,255,0.98);
+            padding: 18px;
+            border-radius: 14px;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.12);
         }
         
         .viz-panel h3 {
             color: #667eea;
-            margin-bottom: 10px;
-            font-size: 1em;
+            margin-bottom: 12px;
+            font-size: 1.05em;
+            font-weight: 700;
         }
         
         .plot-container {
             width: 100%;
-            height: 400px;
+            height: 420px;
         }
         
         .status-bar {
-            background: rgba(255,255,255,0.95);
-            padding: 15px;
-            border-radius: 12px;
+            background: rgba(255,255,255,0.98);
+            padding: 18px 24px;
+            border-radius: 14px;
             margin-top: 20px;
-            box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            align-items: center;
         }
         
         .status-item {
-            display: inline-block;
-            margin-right: 30px;
-            font-size: 0.9em;
+            font-size: 0.92em;
         }
         
         .status-label {
-            font-weight: 600;
+            font-weight: 700;
             color: #667eea;
+            margin-right: 8px;
+        }
+        
+        .status-value {
+            font-weight: 600;
+            color: #333;
         }
         
         .region-selector {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
-            gap: 8px;
-            margin-top: 10px;
+            grid-template-columns: repeat(auto-fit, minmax(85px, 1fr));
+            gap: 10px;
+            margin-top: 12px;
         }
         
         .region-btn {
-            padding: 8px;
-            border: 2px solid #ddd;
+            padding: 10px 8px;
+            border: 2px solid #e0e0e0;
             background: white;
-            border-radius: 6px;
+            border-radius: 8px;
             cursor: pointer;
-            font-size: 0.8em;
+            font-size: 0.82em;
+            font-weight: 600;
             transition: all 0.2s;
+            text-align: center;
         }
         
         .region-btn.active {
-            background: #667eea;
+            background: linear-gradient(135deg, #667eea, #764ba2);
             color: white;
             border-color: #667eea;
+            box-shadow: 0 3px 10px rgba(102,126,234,0.4);
         }
         
-        .region-btn:hover {
+        .region-btn:hover:not(.active) {
             border-color: #667eea;
+            background: #f8f9ff;
+        }
+        
+        .info-box {
+            background: #f0f7ff;
+            border-left: 4px solid #3498db;
+            padding: 12px 16px;
+            border-radius: 6px;
+            margin-top: 12px;
+            font-size: 0.88em;
+            color: #2c3e50;
         }
         
         @media (max-width: 768px) {
-            .controls-grid, .viz-grid {
-                grid-template-columns: 1fr;
-            }
-            
-            .header h1 {
-                font-size: 1.5em;
-            }
+            .controls-grid, .viz-grid { grid-template-columns: 1fr; }
+            .header h1 { font-size: 1.6em; }
+            .status-bar { flex-direction: column; align-items: flex-start; gap: 15px; }
         }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.6; }
+        }
+        
+        .running { animation: pulse 1.5s ease-in-out infinite; }
     </style>
 </head>
 <body>
     <div class="dashboard">
         <div class="header">
-            <h1>🧠 DCD 4.0 Interactive Dashboard</h1>
-            <p>Differentiable Consciousness Dynamics - Механистическая модель сознания с каузальными связями</p>
+            <h1>🧠 DCD 4.0 Interactive Dashboard<span class="version">v1.1 PRODUCTION</span></h1>
+            <p class="subtitle">Differentiable Consciousness Dynamics — Механистическая модель сознания с полной каузальной структурой и региональными параметрами</p>
         </div>
         
         <div class="controls-grid">
             <!-- Causal Weights -->
             <div class="control-panel">
-                <h3>⚡ Каузальные веса (Granger calibrated)</h3>
+                <h3>⚡ Каузальные веса</h3>
                 <div class="control-group">
-                    <label>w_LC (L→C arousal gain): <span class="value-display" id="val-wLC">0.58</span></label>
+                    <label>w_LC (L→C): <span class="value-display" id="val-wLC">0.58</span></label>
                     <input type="range" id="wLC" min="0.3" max="0.9" step="0.01" value="0.58">
                 </div>
                 <div class="control-group">
-                    <label>w_CL (C→L novelty): <span class="value-display" id="val-wCL">0.28</span></label>
+                    <label>w_CL (C→L): <span class="value-display" id="val-wCL">0.28</span></label>
                     <input type="range" id="wCL" min="0.1" max="0.5" step="0.01" value="0.28">
                 </div>
                 <div class="control-group">
-                    <label>w_LS (L→S PFC thresh): <span class="value-display" id="val-wLS">0.72</span></label>
+                    <label>w_LS (L→S): <span class="value-display" id="val-wLS">0.72</span></label>
                     <input type="range" id="wLS" min="0.4" max="1.0" step="0.01" value="0.72">
                 </div>
                 <div class="control-group">
-                    <label>w_SL (S→L metacog): <span class="value-display" id="val-wSL">0.18</span></label>
+                    <label>w_SL (S→L): <span class="value-display" id="val-wSL">0.18</span></label>
                     <input type="range" id="wSL" min="0.1" max="0.4" step="0.01" value="0.18">
                 </div>
                 <div class="control-group">
-                    <label>w_CS (C→S content): <span class="value-display" id="val-wCS">0.53</span></label>
+                    <label>w_CS (C→S): <span class="value-display" id="val-wCS">0.53</span></label>
                     <input type="range" id="wCS" min="0.3" max="0.7" step="0.01" value="0.53">
                 </div>
                 <div class="control-group">
-                    <label>w_SC (S→C attention): <span class="value-display" id="val-wSC">0.42</span></label>
+                    <label>w_SC (S→C): <span class="value-display" id="val-wSC">0.42</span></label>
                     <input type="range" id="wSC" min="0.2" max="0.6" step="0.01" value="0.42">
                 </div>
             </div>
             
-            <!-- Ignition Parameters -->
+            <!-- Ignition & Binding -->
             <div class="control-panel">
                 <h3>🔥 Ignition & Binding</h3>
                 <div class="control-group">
-                    <label>k_ign (steepness): <span class="value-display" id="val-kign">2.3</span></label>
+                    <label>k_ign: <span class="value-display" id="val-kign">2.3</span></label>
                     <input type="range" id="kign" min="1.0" max="3.0" step="0.1" value="2.3">
                 </div>
                 <div class="control-group">
-                    <label>L_thresh (PCI≈0.34): <span class="value-display" id="val-Lthresh">3.4</span></label>
+                    <label>L_thresh: <span class="value-display" id="val-Lthresh">3.4</span></label>
                     <input type="range" id="Lthresh" min="2.5" max="4.5" step="0.1" value="3.4">
                 </div>
                 <div class="control-group">
-                    <label>α_att (attention mod): <span class="value-display" id="val-alphaAtt">0.5</span></label>
+                    <label>α_att: <span class="value-display" id="val-alphaAtt">0.5</span></label>
                     <input type="range" id="alphaAtt" min="0" max="1" step="0.05" value="0.5">
                 </div>
                 <div class="control-group">
-                    <label>k_bind (binding coef): <span class="value-display" id="val-kbind">0.05</span></label>
+                    <label>k_bind: <span class="value-display" id="val-kbind">0.05</span></label>
                     <input type="range" id="kbind" min="0" max="0.2" step="0.01" value="0.05">
-                </div>
-                <div class="control-group">
-                    <label>C_optimal: <span class="value-display" id="val-Copt">7.5</span></label>
-                    <input type="range" id="Copt" min="5" max="10" step="0.5" value="7.5">
                 </div>
             </div>
             
-            <!-- Self/Metacognition -->
+            <!-- Self & Metacognition -->
             <div class="control-panel">
                 <h3>🎭 Self & Metacognition</h3>
                 <div class="control-group">
-                    <label>L_crit (PFC threshold): <span class="value-display" id="val-Lcrit">4.0</span></label>
+                    <label>L_crit: <span class="value-display" id="val-Lcrit">4.0</span></label>
                     <input type="range" id="Lcrit" min="3.0" max="5.0" step="0.1" value="4.0">
                 </div>
                 <div class="control-group">
-                    <label>β_intero (aINS): <span class="value-display" id="val-betaIntero">0.5</span></label>
+                    <label>β_intero: <span class="value-display" id="val-betaIntero">0.5</span></label>
                     <input type="range" id="betaIntero" min="0" max="1" step="0.05" value="0.5">
                 </div>
                 <div class="control-group">
-                    <label>α_agency (disruption): <span class="value-display" id="val-alphaAgency">0.10</span></label>
+                    <label>α_agency: <span class="value-display" id="val-alphaAgency">0.10</span></label>
                     <input type="range" id="alphaAgency" min="0" max="0.3" step="0.01" value="0.10">
                 </div>
                 <div class="control-group">
-                    <label>α_psych (DMN suppress): <span class="value-display" id="val-alphaPsych">4.8</span></label>
+                    <label>α_psych: <span class="value-display" id="val-alphaPsych">4.8</span></label>
                     <input type="range" id="alphaPsych" min="0" max="10" step="0.1" value="4.8">
                 </div>
             </div>
             
-            <!-- Diffusion & Decay -->
+            <!-- Spatial Coupling & Decay -->
             <div class="control-panel">
                 <h3>🌊 Spatial Coupling & Decay</h3>
                 <div class="control-group">
-                    <label>D_L (level diffusion): <span class="value-display" id="val-DL">0.05</span></label>
+                    <label>D_L: <span class="value-display" id="val-DL">0.05</span></label>
                     <input type="range" id="DL" min="0" max="0.2" step="0.01" value="0.05">
                 </div>
                 <div class="control-group">
-                    <label>D_C (content spread): <span class="value-display" id="val-DC">0.15</span></label>
+                    <label>D_C: <span class="value-display" id="val-DC">0.15</span></label>
                     <input type="range" id="DC" min="0" max="0.3" step="0.01" value="0.15">
                 </div>
                 <div class="control-group">
-                    <label>D_S (self coupling): <span class="value-display" id="val-DS">0.02</span></label>
+                    <label>D_S: <span class="value-display" id="val-DS">0.02</span></label>
                     <input type="range" id="DS" min="0" max="0.1" step="0.01" value="0.02">
                 </div>
                 <div class="control-group">
-                    <label>δ_C (content decay): <span class="value-display" id="val-deltaC">0.5</span></label>
+                    <label>δ_C: <span class="value-display" id="val-deltaC">0.5</span></label>
                     <input type="range" id="deltaC" min="0.1" max="1.0" step="0.05" value="0.5">
                 </div>
             </div>
@@ -357,24 +403,23 @@
             <div class="control-panel">
                 <h3>💊 Neuromodulators</h3>
                 <div class="control-group">
-                    <label>ACh concentration: <span class="value-display" id="val-ACh">1.0</span></label>
+                    <label>ACh: <span class="value-display" id="val-ACh">1.0</span></label>
                     <input type="range" id="ACh" min="0" max="2" step="0.1" value="1.0">
                 </div>
                 <div class="control-group">
-                    <label>NE (norepinephrine): <span class="value-display" id="val-NE">1.0</span></label>
+                    <label>NE: <span class="value-display" id="val-NE">1.0</span></label>
                     <input type="range" id="NE" min="0" max="2" step="0.1" value="1.0">
                 </div>
                 <div class="control-group">
                     <label>Orexin: <span class="value-display" id="val-Orx">1.0</span></label>
                     <input type="range" id="Orx" min="0" max="2" step="0.1" value="1.0">
                 </div>
-                <div class="control-group">
-                    <label>Psilocybin (DMN): <span class="value-display" id="val-Psilo">0.0</span></label>
-                    <input type="range" id="Psilo" min="0" max="1" step="0.05" value="0.0">
+                <div class="info-box">
+                    💡 Psilocybin концентрация вычисляется автоматически (PK model) для сценария "Psychedelic"
                 </div>
             </div>
             
-            <!-- Simulation Control -->
+            <!-- Simulation Settings -->
             <div class="control-panel">
                 <h3>⚙️ Simulation Settings</h3>
                 <div class="control-group">
@@ -394,11 +439,11 @@
                     <input type="range" id="duration" min="10" max="360" step="10" value="60">
                 </div>
                 <div class="control-group">
-                    <label>Time step (ms): <span class="value-display" id="val-dt">10</span></label>
+                    <label>Time step (ms):</label>
                     <input type="number" id="dt" min="1" max="100" value="10">
                 </div>
                 <div class="button-group">
-                    <button class="btn-primary" onclick="runSimulation()">▶ Run Simulation</button>
+                    <button class="btn-primary" onclick="runSimulation()">▶ Run</button>
                     <button class="btn-secondary" onclick="resetParams()">↻ Reset</button>
                 </div>
             </div>
@@ -406,24 +451,24 @@
         
         <!-- Region Selection -->
         <div class="control-panel">
-            <h3>🗺️ Region Selection (13 regions)</h3>
+            <h3>🗺️ Region Selection (13 HCP regions)</h3>
             <div class="region-selector" id="regionSelector"></div>
         </div>
         
         <!-- Visualizations -->
         <div class="viz-grid">
             <div class="viz-panel">
-                <h3>📈 Trajectory 3D (L, C, S)</h3>
+                <h3>📈 3D Trajectory (L, C, S)</h3>
                 <div id="plot3D" class="plot-container"></div>
             </div>
             
             <div class="viz-panel">
-                <h3>📊 Time Series (Mean L, C, S)</h3>
+                <h3>📊 Time Series</h3>
                 <div id="plotTimeSeries" class="plot-container"></div>
             </div>
             
             <div class="viz-panel">
-                <h3>🔥 Regional Heatmap (Level L)</h3>
+                <h3>🔥 Regional Heatmap (L)</h3>
                 <div id="plotHeatmap" class="plot-container"></div>
             </div>
             
@@ -438,673 +483,900 @@
             </div>
             
             <div class="viz-panel">
-                <h3>⚡ Causal Network Graph</h3>
+                <h3>⚡ Causal Network</h3>
                 <div id="plotNetwork" class="plot-container"></div>
+            </div>
+            
+            <div class="viz-panel">
+                <h3>💊 Neuromodulator Dynamics</h3>
+                <div id="plotMods" class="plot-container"></div>
+            </div>
+            
+            <div class="viz-panel">
+                <h3>👁️ Attention Evolution</h3>
+                <div id="plotAttention" class="plot-container"></div>
             </div>
         </div>
         
         <!-- Status Bar -->
         <div class="status-bar">
-            <span class="status-item"><span class="status-label">Status:</span> <span id="statusText">Ready</span></span>
-            <span class="status-item"><span class="status-label">R² (validation):</span> <span id="r2Value">--</span></span>
-            <span class="status-item"><span class="status-label">Clinical State:</span> <span id="clinicalState">--</span></span>
-            <span class="status-item"><span class="status-label">PCI estimate:</span> <span id="pciValue">--</span></span>
+            <div class="status-item">
+                <span class="status-label">Status:</span>
+                <span class="status-value" id="statusText">Ready</span>
+            </div>
+            <div class="status-item">
+                <span class="status-label">Clinical State:</span>
+                <span class="status-value" id="clinicalState">--</span>
+            </div>
+            <div class="status-item">
+                <span class="status-label">PCI estimate:</span>
+                <span class="status-value" id="pciValue">--</span>
+            </div>
+            <div class="status-item">
+                <span class="status-label">S_DMN:</span>
+                <span class="status-value" id="sDMNValue">--</span>
+            </div>
+            <div class="status-item">
+                <span class="status-label">S_aINS:</span>
+                <span class="status-value" id="saINSValue">--</span>
+            </div>
         </div>
     </div>
 
-    <script>
-        // Region names (13 regions from HCP-simplified)
-        const REGIONS = ['V1', 'V4', 'MT', 'IT', 'dlPFC', 'rlPFC', 'ACC', 'IPS', 'aINS', 'PCC', 'Claustrum', 'Pulvinar', 'SC'];
-        const DMN_INDICES = [4, 5, 9]; // dlPFC, rlPFC, PCC
-        
-        let selectedRegions = [0, 4, 5, 8, 9]; // Default: V1, dlPFC, rlPFC, aINS, PCC
-        let currentSolution = null;
-        
-        // После загрузки plotly и файла локали
-        if (window.Plotly && typeof Plotly.setPlotConfig === 'function') {
-            Plotly.setPlotConfig({ locale: 'ru' });
+<script>
+// ==================== CONFIGURATION ====================
+const REGIONS = ['V1', 'V4', 'MT', 'IT', 'dlPFC', 'rlPFC', 'ACC', 'IPS', 'aINS', 'PCC', 'Claustrum', 'Pulvinar', 'SC'];
+const DMN_INDICES = [4, 5, 9]; // dlPFC, rlPFC, PCC
+const FPN_INDICES = [4, 5, 6, 7]; // dlPFC, rlPFC, ACC, IPS
+const VISUAL_INDICES = [0, 1, 2, 3]; // V1, V4, MT, IT
+const aINS_INDEX = 8;
+
+// Regional receptor gains (Palomero-Gallagher & Zilles, 2018)
+const RECEPTOR_GAINS = {
+    V1:        { ACh: 1.2, NE: 0.8, Orx: 0.9 },
+    V4:        { ACh: 1.3, NE: 0.9, Orx: 0.9 },
+    MT:        { ACh: 1.1, NE: 1.0, Orx: 0.9 },
+    IT:        { ACh: 1.4, NE: 1.0, Orx: 1.0 },
+    dlPFC:     { ACh: 1.5, NE: 1.5, Orx: 1.2 },
+    rlPFC:     { ACh: 1.4, NE: 1.3, Orx: 1.1 },
+    ACC:       { ACh: 1.3, NE: 1.4, Orx: 1.2 },
+    IPS:       { ACh: 1.2, NE: 1.1, Orx: 1.0 },
+    aINS:      { ACh: 0.5, NE: 1.0, Orx: 0.7 },
+    PCC:       { ACh: 1.1, NE: 0.9, Orx: 1.0 },
+    Claustrum: { ACh: 1.0, NE: 1.0, Orx: 1.0 },
+    Pulvinar:  { ACh: 0.8, NE: 1.2, Orx: 0.9 },
+    SC:        { ACh: 0.9, NE: 1.3, Orx: 1.0 }};
+
+let selectedRegions = [0, 4, 5, 8, 9];
+let currentSolution = null;
+
+// ==================== SCENARIO PRESETS ====================
+const SCENARIO_PRESETS = {
+    wake: {
+        // Initial states
+        L: 8.0, C: 7.5, S: 7.5, A: 0.3,
+        // Neuromodulators
+        ACh: 1.0, NE: 1.0, Orx: 1.0,
+        // Causal weights (baseline)
+        w_LC: 0.58, w_CL: 0.28, w_LS: 0.72, w_SL: 0.18, w_CS: 0.53, w_SC: 0.42,
+        // Ignition
+        k_ign: 2.3, L_thresh: 3.4, alpha_att: 0.5, k_bind: 0.05,
+        // Self
+        L_crit: 4.0, beta_intero: 0.5, alpha_agency: 0.10, alpha_psych: 4.8,
+        // Spatial
+        D_L: 0.05, D_C: 0.15, D_S: 0.02, delta_C: 0.5,
+        // Duration
+        duration: 60,
+        description: 'Resting wakefulness with eyes closed'
+    },
+    
+    N2: {
+        L: 4.5, C: 3.5, S: 2.0, A: 0.1,
+        ACh: 0.4, NE: 0.5, Orx: 0.4,
+        w_LC: 0.45, w_CL: 0.20, w_LS: 0.55, w_SL: 0.12, w_CS: 0.40, w_SC: 0.30,
+        k_ign: 1.8, L_thresh: 4.0, alpha_att: 0.3, k_bind: 0.03,
+        L_crit: 4.5, beta_intero: 0.3, alpha_agency: 0.05, alpha_psych: 4.8,
+        D_L: 0.03, D_C: 0.08, D_S: 0.01, delta_C: 0.6,
+        duration: 90,
+        description: 'Light sleep (N2) with sleep spindles'
+    },
+    
+    N3: {
+        L: 3.0, C: 2.0, S: 1.0, A: 0.05,
+        ACh: 0.3, NE: 0.4, Orx: 0.3,
+        w_LC: 0.35, w_CL: 0.15, w_LS: 0.45, w_SL: 0.08, w_CS: 0.30, w_SC: 0.20,
+        k_ign: 1.5, L_thresh: 4.5, alpha_att: 0.2, k_bind: 0.02,
+        L_crit: 5.0, beta_intero: 0.2, alpha_agency: 0.03, alpha_psych: 4.8,
+        D_L: 0.02, D_C: 0.05, D_S: 0.005, delta_C: 0.7,
+        duration: 120,
+        description: 'Deep sleep (N3/SWS) with slow waves'
+    },
+    
+    propofol: {
+        L: 3.5, C: 2.5, S: 1.5, A: 0.1,
+        ACh: 0.5, NE: 0.6, Orx: 0.5,
+        w_LC: 0.40, w_CL: 0.18, w_LS: 0.50, w_SL: 0.10, w_CS: 0.35, w_SC: 0.25,
+        k_ign: 1.6, L_thresh: 4.2, alpha_att: 0.25, k_bind: 0.025,
+        L_crit: 4.8, beta_intero: 0.25, alpha_agency: 0.04, alpha_psych: 4.8,
+        D_L: 0.025, D_C: 0.06, D_S: 0.008, delta_C: 0.65,
+        duration: 60,
+        description: 'Propofol anesthesia (moderate sedation)'
+    },
+    
+    psychedelic: {
+        L: 9.0, C: 9.0, S: 6.0, A: 0.5,
+        ACh: 1.2, NE: 1.2, Orx: 1.1,
+        w_LC: 0.65, w_CL: 0.35, w_LS: 0.80, w_SL: 0.22, w_CS: 0.60, w_SC: 0.50,
+        k_ign: 2.5, L_thresh: 3.0, alpha_att: 0.6, k_bind: 0.08,
+        L_crit: 3.5, beta_intero: 0.6, alpha_agency: 0.15, alpha_psych: 4.8,
+        D_L: 0.08, D_C: 0.20, D_S: 0.03, delta_C: 0.4,
+        duration: 360,
+        description: 'Psilocybin (20mg) with PK model (T_max=90min)'
+    },
+    
+    meditation: {
+        L: 7.0, C: 5.0, S: 8.5, A: 0.7,
+        ACh: 0.9, NE: 0.8, Orx: 0.9,
+        w_LC: 0.50, w_CL: 0.25, w_LS: 0.75, w_SL: 0.20, w_CS: 0.55, w_SC: 0.45,
+        k_ign: 2.0, L_thresh: 3.6, alpha_att: 0.7, k_bind: 0.04,
+        L_crit: 3.8, beta_intero: 0.7, alpha_agency: 0.08, alpha_psych: 4.8,
+        D_L: 0.04, D_C: 0.10, D_S: 0.025, delta_C: 0.45,
+        duration: 60,
+        description: 'Vipassana meditation (sustained attention)'
+    }
+};
+
+// ==================== INITIALIZATION ====================
+function initRegionSelector() {
+    const container = document.getElementById('regionSelector');
+    REGIONS.forEach((region, idx) => {
+        const btn = document.createElement('button');
+        btn.className = 'region-btn' + (selectedRegions.includes(idx) ? ' active' : '');
+        btn.textContent = region;
+        btn.onclick = () => toggleRegion(idx, btn);
+        container.appendChild(btn);
+    });
+}
+
+function toggleRegion(idx, btn) {
+    const pos = selectedRegions.indexOf(idx);
+    if (pos > -1) {
+        selectedRegions.splice(pos, 1);
+        btn.classList.remove('active');
+    } else {
+        selectedRegions.push(idx);
+        btn.classList.add('active');
+    }
+    if (currentSolution) updateVisualizations();
+}
+
+// Update value displays
+document.querySelectorAll('input[type="range"]').forEach(input => {
+    input.addEventListener('input', (e) => {
+        const valSpan = document.getElementById('val-' + e.target.id);
+        if (valSpan) {
+            const val = parseFloat(e.target.value);
+            valSpan.textContent = val.toFixed(2);
         }
         
-        // Initialize region selector
-        function initRegionSelector() {
-            const container = document.getElementById('regionSelector');
-            REGIONS.forEach((region, idx) => {
-                const btn = document.createElement('button');
-                btn.className = 'region-btn' + (selectedRegions.includes(idx) ? ' active' : '');
-                btn.textContent = region;
-                btn.onclick = () => toggleRegion(idx, btn);
-                container.appendChild(btn);
-            });
-        }
-        
-        function toggleRegion(idx, btn) {
-            const pos = selectedRegions.indexOf(idx);
-            if (pos > -1) {
-                selectedRegions.splice(pos, 1);
-                btn.classList.remove('active');
-            } else {
-                selectedRegions.push(idx);
-                btn.classList.add('active');
-            }
-            if (currentSolution) updateVisualizations();
-        }
-        
-        // Update value displays for all range inputs
-        document.querySelectorAll('input[type="range"]').forEach(input => {
-            input.addEventListener('input', (e) => {
-                const valSpan = document.getElementById('val-' + e.target.id);
-                if (valSpan) valSpan.textContent = parseFloat(e.target.value).toFixed(2);
-                
-                // Update causal network if weights changed
-                if (['wLC', 'wCL', 'wLS', 'wSL', 'wCS', 'wSC'].includes(e.target.id)) {
-                    if (currentSolution) plotCausalNetwork();
-                }
-            });
-        });
-        
-        // ✅ НОВОЕ: Автоматическая смена параметров при выборе сценария
-        document.getElementById('scenario').addEventListener('change', function(e) {
-            const scenario = e.target.value;
-            applyScenarioPreset(scenario);
-        });
-        
-        function applyScenarioPreset(scenario) {
-            const presets = {
-                wake: {
-                    ACh: 1.0, NE: 1.0, Orx: 1.0, Psilo: 0.0,
-                    duration: 60,
-                    description: 'Baseline wakefulness'
-                },
-                N2: {
-                    ACh: 0.4, NE: 0.5, Orx: 0.4, Psilo: 0.0,
-                    duration: 90,
-                    description: 'Light sleep (N2 stage)'
-                },
-                N3: {
-                    ACh: 0.3, NE: 0.4, Orx: 0.3, Psilo: 0.0,
-                    duration: 120,
-                    description: 'Deep sleep (N3 stage)'
-                },
-                propofol: {
-                    ACh: 0.5, NE: 0.6, Orx: 0.5, Psilo: 0.0,
-                    duration: 60,
-                    description: 'Propofol anesthesia'
-                },
-                psychedelic: {
-                    ACh: 1.2, NE: 1.2, Orx: 1.1, Psilo: 0.8,
-                    duration: 360,
-                    description: 'Psilocybin peak effects'
-                },
-                meditation: {
-                    ACh: 0.9, NE: 0.8, Orx: 0.9, Psilo: 0.0,
-                    duration: 60,
-                    description: 'Meditative state'
-                }
-            };
-            
-            const preset = presets[scenario];
-            if (preset) {
-                // Update neuromodulators
-                document.getElementById('ACh').value = preset.ACh;
-                document.getElementById('NE').value = preset.NE;
-                document.getElementById('Orx').value = preset.Orx;
-                document.getElementById('Psilo').value = preset.Psilo;
-                document.getElementById('duration').value = preset.duration;
-                
-                // Update displays
-                document.getElementById('val-ACh').textContent = preset.ACh.toFixed(1);
-                document.getElementById('val-NE').textContent = preset.NE.toFixed(1);
-                document.getElementById('val-Orx').textContent = preset.Orx.toFixed(1);
-                document.getElementById('val-Psilo').textContent = preset.Psilo.toFixed(1);
-                document.getElementById('val-duration').textContent = preset.duration;
-                
-                document.getElementById('statusText').textContent = `✓ Preset "${scenario}" applied: ${preset.description}`;
-            }
-        }
-        
-        // Get parameters from UI
-        function getParams() {
-            return {
-                w_LC: parseFloat(document.getElementById('wLC').value),
-                w_CL: parseFloat(document.getElementById('wCL').value),
-                w_LS: parseFloat(document.getElementById('wLS').value),
-                w_SL: parseFloat(document.getElementById('wSL').value),
-                w_CS: parseFloat(document.getElementById('wCS').value),
-                w_SC: parseFloat(document.getElementById('wSC').value),
-                k_ign: parseFloat(document.getElementById('kign').value),
-                L_thresh: parseFloat(document.getElementById('Lthresh').value),
-                alpha_att: parseFloat(document.getElementById('alphaAtt').value),
-                k_bind: parseFloat(document.getElementById('kbind').value),
-                C_opt: parseFloat(document.getElementById('Copt').value),
-                L_crit: parseFloat(document.getElementById('Lcrit').value),
-                beta_intero: parseFloat(document.getElementById('betaIntero').value),
-                alpha_agency: parseFloat(document.getElementById('alphaAgency').value),
-                alpha_psych: parseFloat(document.getElementById('alphaPsych').value),
-                D_L: parseFloat(document.getElementById('DL').value),
-                D_C: parseFloat(document.getElementById('DC').value),
-                D_S: parseFloat(document.getElementById('DS').value),
-                delta_C: parseFloat(document.getElementById('deltaC').value),
-                ACh: parseFloat(document.getElementById('ACh').value),
-                NE: parseFloat(document.getElementById('NE').value),
-                Orx: parseFloat(document.getElementById('Orx').value),
-                Psilo: parseFloat(document.getElementById('Psilo').value)
-            };
-        }
-        
-        // Simplified structural connectivity (13x13 symmetric matrix)
-        function createSC() {
-            const n = 13;
-            const SC = Array(n).fill(0).map(() => Array(n).fill(0));
-            
-            // Visual stream
-            SC[0][1] = SC[1][0] = 0.80; SC[0][2] = SC[2][0] = 0.60;
-            SC[1][3] = SC[3][1] = 0.75; SC[2][3] = SC[3][2] = 0.50;
-            
-            // Frontal
-            SC[4][5] = SC[5][4] = 0.65; SC[4][6] = SC[6][4] = 0.70;
-            SC[5][6] = SC[6][5] = 0.55;
-            
-            // Parietal-Frontal
-            SC[4][7] = SC[7][4] = 0.60; SC[5][7] = SC[7][5] = 0.50;
-            
-            // DMN
-            SC[4][9] = SC[9][4] = 0.55; SC[5][9] = SC[9][5] = 0.65;
-            SC[8][9] = SC[9][8] = 0.50;
-            
-            // Claustrum broad
-            for (let i = 0; i < 10; i++) {
-                SC[10][i] = SC[i][10] = 0.35;
-            }
-            
-            // Pulvinar attention
-            SC[11][7] = SC[7][11] = 0.65; SC[11][1] = SC[1][11] = 0.50;
-            
-            // SC visual
-            SC[12][0] = SC[0][12] = 0.55; SC[12][7] = SC[7][12] = 0.50;
-            
-            return SC;
-        }
-        
-        // Graph Laplacian
-        function graphLaplacian(X, SC, D) {
-            const n = X.length;
-            const result = Array(n).fill(0);
-            
-            for (let i = 0; i < n; i++) {
-                let sum = 0;
-                let degree = 0;
-                for (let j = 0; j < n; j++) {
-                    sum += SC[i][j] * X[j];
-                    degree += SC[i][j];
-                }
-                result[i] = D * (sum - degree * X[i]);
-            }
-            
-            return result;
-        }
-        
-        // Sigmoid function
-        function sigmoid(x) {
-            return x >= 0 ? 1 / (1 + Math.exp(-x)) : Math.exp(x) / (1 + Math.exp(x));
-        }
-        
-        // Heaviside function
-        function heaviside(x) {
-            return x > 0 ? 1 : 0;
-        }
-        
-        // RK4 integration step
-        function rk4Step(state, dt, params, SC) {
-            const k1 = computeDerivatives(state, params, SC);
-            const k2 = computeDerivatives(addStates(state, scaleState(k1, dt/2)), params, SC);
-            const k3 = computeDerivatives(addStates(state, scaleState(k2, dt/2)), params, SC);
-            const k4 = computeDerivatives(addStates(state, scaleState(k3, dt)), params, SC);
-            
-            const dState = scaleState(addStates(k1, scaleState(addStates(k2, k3), 2), k4), dt/6);
-            return addStates(state, dState);
-        }
-        
-        function scaleState(state, scalar) {
-            return {
-                L: state.L.map(x => x * scalar),
-                C: state.C.map(x => x * scalar),
-                S: state.S.map(x => x * scalar),
-                A: state.A.map(x => x * scalar)
-            };
-        }
-        
-        function addStates(...states) {
-            const n = states[0].L.length;
-            const result = {
-                L: Array(n).fill(0),
-                C: Array(n).fill(0),
-                S: Array(n).fill(0),
-                A: Array(n).fill(0)
-            };
-            
-            states.forEach(state => {
-                for (let i = 0; i < n; i++) {
-                    result.L[i] += state.L[i];
-                    result.C[i] += state.C[i];
-                    result.S[i] += state.S[i];
-                    result.A[i] += state.A[i];
-                }
-            });
-            
-            return result;
-        }
-        
-        // Compute derivatives (DCD 4.0 dynamics)
-        function computeDerivatives(state, params, SC) {
-            const n = state.L.length;
-            const dL = Array(n).fill(0);
-            const dC = Array(n).fill(0);
-            const dS = Array(n).fill(0);
-            const dA = Array(n).fill(0);
-            
-            // Neuromodulatory target
-            const L_target = 10 * sigmoid(2.5 * params.ACh + 2.0 * params.NE + 3.0 * params.Orx - 5.0);
-            
-            for (let i = 0; i < n; i++) {
-                // dL/dt
-                dL[i] = 0.5 * state.L[i] * (1 - state.L[i]/10) + // homeostasis
-                        0.5 * (L_target - state.L[i]) + // neuromod drive
-                        params.w_CL * state.C[i] + // C→L
-                        params.w_SL * state.S[i]; // S→L
-                
-                // Ignition threshold (attention-modulated)
-                const L_thresh_eff = params.L_thresh * (1 - params.alpha_att * state.A[i]);
-                const h_ign = sigmoid(params.k_ign * (state.L[i] - L_thresh_eff));
-                
-                // dC/dt
-                const g_att = Math.exp(-Math.pow(state.C[i] - params.C_opt, 2) / 12.5);
-                dC[i] = params.w_LC * state.L[i] * h_ign * (10 - state.C[i])/10 + // arousal-gated
-                        0.8 * 0.4 * state.A[i] + // sensory input (simplified)
-                        params.w_SC * state.S[i] * g_att + // metacog modulation
-                        params.k_bind * state.L[i] * state.C[i] * (10 - state.C[i]) * g_att - // binding
-                        params.delta_C * state.C[i]; // decay
-                
-                // dS/dt
-                const H_L = heaviside(state.L[i] - params.L_crit);
-                dS[i] = params.w_LS * state.L[i] * H_L + // L→S (PFC threshold)
-                        params.w_CS * Math.log(1 + state.C[i]) + // C→S
-                        (i === 8 ? params.beta_intero * state.L[i] * (1 - state.S[i]/10) : 0) - // aINS interoception
-                        params.alpha_agency * Math.abs(dC[i]) * state.S[i]; // agency disruption
-                
-                // DMN-specific psychedelic suppression
-                if (DMN_INDICES.includes(i)) {
-                    dS[i] -= params.alpha_psych * params.Psilo * state.S[i];
-                }
-                
-                // dA/dt
-                const salience = state.C[i] / 10;
-                dA[i] = 0.5 * salience * (1 - state.A[i]) - // bottom-up
-                        0.4 * state.A[i]; // decay
-            }
-            
-            // Add spatial coupling
-            const dL_spatial = graphLaplacian(state.L, SC, params.D_L);
-            const dC_spatial = graphLaplacian(state.C, SC, params.D_C);
-            const dS_spatial = graphLaplacian(state.S, SC, params.D_S);
-            
-            for (let i = 0; i < n; i++) {
-                dL[i] += dL_spatial[i];
-                dC[i] += dC_spatial[i];
-                dS[i] += dS_spatial[i];
-            }
-            
-            return { L: dL, C: dC, S: dS, A: dA };
-        }
-        
-        // ✅ УЛУЧШЕННОЕ: Run simulation with error handling and progress
-        function runSimulation() {
-            try {
-                document.getElementById('statusText').textContent = 'Running...';
-                
-                const params = getParams();
-                const SC = createSC();
-                const duration = parseFloat(document.getElementById('duration').value);
-                const dt = parseFloat(document.getElementById('dt').value) / 1000; // ms to min
-                const steps = Math.floor(duration / dt);
-                
-                // Validation
-                if (steps > 100000) {
-                    alert('⚠️ Too many steps! Please increase time step or decrease duration.');
-                    document.getElementById('statusText').textContent = 'Error: Too many steps';
-                    return;
-                }
-                
-                if (steps < 10) {
-                    alert('⚠️ Too few steps! Please decrease time step or increase duration.');
-                    document.getElementById('statusText').textContent = 'Error: Too few steps';
-                    return;
-                }
-                
-                // Initialize state based on scenario
-                const scenario = document.getElementById('scenario').value;
-                let state = initializeState(scenario);
-                
-                // Storage
-                const solution = {
-                    t: [0],
-                    L: [state.L.slice()],
-                    C: [state.C.slice()],
-                    S: [state.S.slice()],
-                    A: [state.A.slice()]
-                };
-                
-                // Integration loop with progress updates
-                const progressInterval = Math.max(1, Math.floor(steps / 20));
-                for (let step = 0; step < steps; step++) {
-                    state = rk4Step(state, dt, params, SC);
-                    
-                    // Clip to physical bounds
-                    state.L = state.L.map(x => Math.max(0, Math.min(10, x)));
-                    state.C = state.C.map(x => Math.max(0, Math.min(10, x)));
-                    state.S = state.S.map(x => Math.max(0, Math.min(10, x)));
-                    state.A = state.A.map(x => Math.max(0, Math.min(1, x)));
-                    
-                    if (step % 10 === 0) { // Store every 10 steps
-                        solution.t.push((step + 1) * dt);
-                        solution.L.push(state.L.slice());
-                        solution.C.push(state.C.slice());
-                        solution.S.push(state.S.slice());
-                        solution.A.push(state.A.slice());
-                    }
-                    
-                    // Progress update
-                    if (step % progressInterval === 0 && step > 0) {
-                        const progress = Math.round((step / steps) * 100);
-                        document.getElementById('statusText').textContent = `Running... ${progress}%`;
-                    }
-                }
-                
-                currentSolution = solution;
-                updateVisualizations();
-                updateStatus(state);
-                
-                document.getElementById('statusText').textContent = `✓ Complete (${steps} steps, ${solution.t.length} points)`;
-            } catch (error) {
-                console.error('Simulation error:', error);
-                document.getElementById('statusText').textContent = '✗ Error: ' + error.message;
-                alert('Simulation error: ' + error.message + '\n\nCheck console for details.');
-            }
-        }
-        
-        function initializeState(scenario) {
-            const n = 13;
-            const states = {
-                wake: { L: 8.0, C: 7.5, S: 7.5, A: 0.3 },
-                N2: { L: 4.5, C: 3.5, S: 2.0, A: 0.1 },
-                N3: { L: 3.0, C: 2.0, S: 1.0, A: 0.05 },
-                propofol: { L: 3.5, C: 2.5, S: 1.5, A: 0.1 },
-                psychedelic: { L: 9.0, C: 9.0, S: 6.0, A: 0.5 },
-                meditation: { L: 7.0, C: 5.0, S: 8.5, A: 0.7 },
-                custom: { L: 6.0, C: 6.0, S: 6.0, A: 0.3 }
-            };
-            
-            const init = states[scenario] || states.custom;
-            return {
-                L: Array(n).fill(init.L).map((x, i) => x + (Math.random() - 0.5) * 0.5),
-                C: Array(n).fill(init.C).map((x, i) => x + (Math.random() - 0.5) * 0.5),
-                S: Array(n).fill(init.S).map((x, i) => x + (Math.random() - 0.5) * 0.5),
-                A: Array(n).fill(init.A).map((x, i) => x + (Math.random() - 0.5) * 0.1)
-            };
-        }
-        
-        function updateVisualizations() {
-            if (!currentSolution) return;
-            
-            plot3DTrajectory();
-            plotTimeSeries();
-            plotHeatmap();
-            plotDMNComparison();
-            plotPhasePortrait();
+        if (['wLC','wCL','wLS','wSL','wCS','wSC'].includes(e.target.id) && currentSolution) {
             plotCausalNetwork();
         }
+    });
+});
+
+// Scenario change → apply full preset
+document.getElementById('scenario').addEventListener('change', function(e) {
+    const scenario = e.target.value;
+    if (scenario === 'custom') return;
+    
+    const preset = SCENARIO_PRESETS[scenario];
+    if (!preset) return;
+    
+    // Update ALL parameters
+    const paramMap = {
+        wLC: 'w_LC', wCL: 'w_CL', wLS: 'w_LS', wSL: 'w_SL', wCS: 'w_CS', wSC: 'w_SC',
+        kign: 'k_ign', Lthresh: 'L_thresh', alphaAtt: 'alpha_att', kbind: 'k_bind',
+        Lcrit: 'L_crit', betaIntero: 'beta_intero', alphaAgency: 'alpha_agency', alphaPsych: 'alpha_psych',
+        DL: 'D_L', DC: 'D_C', DS: 'D_S', deltaC: 'delta_C',
+        ACh: 'ACh', NE: 'NE', Orx: 'Orx',
+        duration: 'duration'
+    };
+    
+    for (const [elemId, presetKey] of Object.entries(paramMap)) {
+        const elem = document.getElementById(elemId);
+        if (elem && preset[presetKey] !== undefined) {
+            elem.value = preset[presetKey];
+            const valSpan = document.getElementById('val-' + elemId);
+            if (valSpan) valSpan.textContent = preset[presetKey].toFixed(2);
+        }
+    }
+    
+    document.getElementById('statusText').textContent = `✓ Preset "${scenario}" loaded: ${preset.description}`;
+});
+
+// ==================== STRUCTURAL CONNECTIVITY ====================
+function createSC() {
+    const n = 13;
+    const SC = Array(n).fill(0).map(() => Array(n).fill(0));
+    
+    // Visual stream
+    SC[0][1]=SC[1][0]=0.80; SC[0][2]=SC[2][0]=0.60; SC[1][3]=SC[3][1]=0.75;
+    SC[2][3]=SC[3][2]=0.50; SC[1][2]=SC[2][1]=0.45;
+    
+    // Frontal
+    SC[4][5]=SC[5][4]=0.65; SC[4][6]=SC[6][4]=0.70; SC[5][6]=SC[6][5]=0.55;
+    
+    // Parietal-Frontal
+    SC[4][7]=SC[7][4]=0.60; SC[5][7]=SC[7][5]=0.50; SC[6][7]=SC[7][6]=0.55;
+    
+    // Visual-Frontal
+    SC[3][4]=SC[4][3]=0.50; SC[2][7]=SC[7][2]=0.65; SC[7][1]=SC[1][7]=0.45;
+    
+    // DMN
+    SC[4][9]=SC[9][4]=0.55; SC[5][9]=SC[9][5]=0.65; SC[8][9]=SC[9][8]=0.50;
+    SC[6][9]=SC[9][6]=0.45;
+    
+    // Insula
+    SC[8][6]=SC[6][8]=0.60; SC[8][4]=SC[4][8]=0.40;
+    
+    // Claustrum broad
+    for (let i=0; i<10; i++) { SC[10][i]=SC[i][10]=0.35; }
+    SC[10][10]=0;
+    
+    // Pulvinar
+    SC[11][7]=SC[7][11]=0.65; SC[11][1]=SC[1][11]=0.50; SC[11][6]=SC[6][11]=0.45;
+    
+    // SC
+    SC[12][0]=SC[0][12]=0.55; SC[12][7]=SC[7][12]=0.50; SC[12][11]=SC[11][12]=0.40;
+    
+    return SC;
+}
+
+function graphLaplacian(X, SC, D) {
+    const n = X.length;
+    const result = Array(n).fill(0);
+    for (let i=0; i<n; i++) {
+        let sum=0, deg=0;
+        for (let j=0; j<n; j++) {
+            sum += SC[i][j]*X[j];
+            deg += SC[i][j];
+        }
+        result[i] = D * (sum - deg*X[i]);
+    }
+    return result;
+}
+
+// ==================== MATH HELPERS ====================
+function sigmoid(x) {
+    return x>=0 ? 1/(1+Math.exp(-x)) : Math.exp(x)/(1+Math.exp(x));
+}
+
+function heaviside(x) { return x>0 ? 1 : 0; }
+
+function clip(x, min, max) {
+    return Math.max(min, Math.min(max, x));
+}
+
+// ==================== PHARMACOKINETICS ====================
+function psilocybinConcentration(t) {
+    // Hasler et al. (2004): T_max ≈ 90 min, T_1/2 ≈ 180 min
+    const T_max = 90;
+    const T_half = 180;
+    const k_elim = Math.log(2) / T_half;
+    
+    if (t < 30) return 0; // Onset delay
+    if (t < T_max) {
+        return (t - 30) / (T_max - 30); // Linear rise
+    } else {
+        return Math.exp(-k_elim * (t - T_max)); // Exponential decay
+    }
+}
+
+// ==================== DYNAMICS ====================
+function computeL_target(ACh, NE, Orx, region_idx) {
+    const region = REGIONS[region_idx];
+    const gains = RECEPTOR_GAINS[region];
+    
+    const z = 2.5 * gains.ACh * ACh + 
+              2.0 * gains.NE * NE + 
+              3.0 * gains.Orx * Orx - 5.0;
+    
+    return 10 * sigmoid(z);
+}
+
+function computeSensoryInput(region_idx, A_i, scenario) {
+    // Region-specific sensory stimulation
+    if (VISUAL_INDICES.includes(region_idx)) {
+        if (scenario === 'psychedelic') return 0.8 * A_i;
+        if (scenario === 'wake') return 0.4 * A_i;
+        if (scenario === 'meditation') return 0.3 * A_i;
+        return 0.2 * A_i; // sleep/anesthesia
+    } else {
+        return 0.1 * A_i; // frontal/parietal low baseline
+    }
+}
+
+function computeDerivatives(state, params, SC, t, scenario) {
+    const n = state.L.length;
+    const dL = Array(n).fill(0);
+    const dC = Array(n).fill(0);
+    const dS = Array(n).fill(0);
+    const dA = Array(n).fill(0);
+    
+    // Psilocybin concentration (time-dependent for psychedelic scenario)
+    const psiloConc = scenario === 'psychedelic' ? psilocybinConcentration(t) : 0;
+    
+    for (let i=0; i<n; i++) {
+        const L_target = computeL_target(params.ACh, params.NE, params.Orx, i);
         
-        function plot3DTrajectory() {
-            const sol = currentSolution;
-            const L_mean = sol.L.map(arr => arr.reduce((a, b) => a + b) / arr.length);
-            const C_mean = sol.C.map(arr => arr.reduce((a, b) => a + b) / arr.length);
-            const S_mean = sol.S.map(arr => arr.reduce((a, b) => a + b) / arr.length);
-            
-            const trace = {
-                type: 'scatter3d',
-                mode: 'lines+markers',
-                x: L_mean,
-                y: C_mean,
-                z: S_mean,
-                line: { color: sol.t, colorscale: 'Viridis', width: 4 },
-                marker: { size: 3, color: sol.t, colorscale: 'Viridis' }
-            };
-            
-            const layout = {
-                scene: {
-                    xaxis: { title: 'Level (L)', range: [0, 10] },
-                    yaxis: { title: 'Content (C)', range: [0, 10] },
-                    zaxis: { title: 'Self (S)', range: [0, 10] }
-                },
-                margin: { l: 0, r: 0, t: 0, b: 0 }
-            };
-            
-            Plotly.newPlot('plot3D', [trace], layout, { responsive: true });
+        // dL/dt
+        dL[i] = 0.5 * state.L[i] * (1 - state.L[i]/10) +
+                0.5 * (L_target - state.L[i]) +
+                params.w_CL * state.C[i] +
+                params.w_SL * state.S[i];
+        
+        // Ignition
+        const L_thresh_eff = params.L_thresh * (1 - params.alpha_att * state.A[i]);
+        const h_ign = sigmoid(params.k_ign * (state.L[i] - L_thresh_eff));
+        
+        // dC/dt
+        const g_att = Math.exp(-Math.pow(state.C[i] - 7.5, 2) / 12.5);
+        const I_sens = computeSensoryInput(i, state.A[i], scenario);
+        
+        dC[i] = params.w_LC * state.L[i] * h_ign * (10 - state.C[i])/10 +
+                I_sens +
+                params.w_SC * state.S[i] * g_att +
+                params.k_bind * state.L[i] * state.C[i] * (10 - state.C[i]) * g_att -
+                params.delta_C * state.C[i];
+        
+        // dS/dt
+        const H_L = heaviside(state.L[i] - params.L_crit);
+        dS[i] = params.w_LS * state.L[i] * H_L +
+                params.w_CS * Math.log(1 + state.C[i]);
+        
+        // aINS interoception
+        if (i === aINS_INDEX) {
+            dS[i] += params.beta_intero * state.L[i] * (1 - state.S[i]/10);
         }
         
-        function plotTimeSeries() {
-            const sol = currentSolution;
-            const L_mean = sol.L.map(arr => arr.reduce((a, b) => a + b) / arr.length);
-            const C_mean = sol.C.map(arr => arr.reduce((a, b) => a + b) / arr.length);
-            const S_mean = sol.S.map(arr => arr.reduce((a, b) => a + b) / arr.length);
-            
-            const traces = [
-                { x: sol.t, y: L_mean, name: 'L', line: { color: '#e74c3c', width: 2 } },
-                { x: sol.t, y: C_mean, name: 'C', line: { color: '#3498db', width: 2 } },
-                { x: sol.t, y: S_mean, name: 'S', line: { color: '#2ecc71', width: 2 } },
-                { x: sol.t, y: Array(sol.t.length).fill(3.4), name: 'L_thresh', 
-                  line: { dash: 'dash', color: 'gray', width: 1 } }
-            ];
-            
-            const layout = {
-                xaxis: { title: 'Time (min)' },
-                yaxis: { title: 'Value', range: [0, 10] },
-                margin: { l: 50, r: 20, t: 20, b: 40 },
-                legend: { x: 1, xanchor: 'right', y: 1 }
-            };
-            
-            Plotly.newPlot('plotTimeSeries', traces, layout, { responsive: true });
+        // Agency disruption
+        dS[i] -= params.alpha_agency * Math.abs(dC[i]) * state.S[i];
+        
+        // DMN-specific psychedelic suppression
+        if (DMN_INDICES.includes(i)) {
+            dS[i] -= params.alpha_psych * psiloConc * state.S[i];
         }
         
-        function plotHeatmap() {
-            const sol = currentSolution;
-            const L_matrix = sol.L[0].map((_, i) => sol.L.map(arr => arr[i]));
-            
-            const trace = {
-                type: 'heatmap',
-                z: L_matrix,
-                x: sol.t,
-                y: REGIONS,
-                colorscale: 'RdYlBu',
-                reversescale: true,
-                zmin: 0,
-                zmax: 10
-            };
-            
-            const layout = {
-                xaxis: { title: 'Time (min)' },
-                yaxis: { title: 'Region' },
-                margin: { l: 100, r: 50, t: 20, b: 40 }
-            };
-            
-            Plotly.newPlot('plotHeatmap', [trace], layout, { responsive: true });
+        // dA/dt (attention)
+        const salience = state.C[i] / 10;
+        let td_signal = 0;
+        for (const j of FPN_INDICES) {
+            td_signal += SC[j][i] * state.S[j] / 10;
         }
         
-        function plotDMNComparison() {
-            const sol = currentSolution;
-            const S_DMN = sol.S.map(arr => {
-                const dmn = DMN_INDICES.map(i => arr[i]);
-                return dmn.reduce((a, b) => a + b) / dmn.length;
-            });
-            
-            const nonDMN = [...Array(13).keys()].filter(i => !DMN_INDICES.includes(i));
-            const S_nonDMN = sol.S.map(arr => {
-                const non = nonDMN.map(i => arr[i]);
-                return non.reduce((a, b) => a + b) / non.length;
-            });
-            
-            const traces = [
-                { x: sol.t, y: S_DMN, name: 'S_DMN', line: { color: '#9b59b6', width: 3 } },
-                { x: sol.t, y: S_nonDMN, name: 'S_non-DMN', line: { color: '#f39c12', width: 3 } }
-            ];
-            
-            const layout = {
-                xaxis: { title: 'Time (min)' },
-                yaxis: { title: 'Self/Metacognition', range: [0, 10] },
-                margin: { l: 50, r: 20, t: 20, b: 40 }
-            };
-            
-            Plotly.newPlot('plotDMN', traces, layout, { responsive: true });
+        dA[i] = 0.5 * salience * (1 - state.A[i]) +
+                0.3 * td_signal * (1 - state.A[i]) -
+                0.4 * state.A[i];
+    }
+    
+    // Spatial coupling
+    const dL_spatial = graphLaplacian(state.L, SC, params.D_L);
+    const dC_spatial = graphLaplacian(state.C, SC, params.D_C);
+    const dS_spatial = graphLaplacian(state.S, SC, params.D_S);
+    
+    for (let i=0; i<n; i++) {
+        dL[i] += dL_spatial[i];
+        dC[i] += dC_spatial[i];
+        dS[i] += dS_spatial[i];
+    }
+    
+    return { L: dL, C: dC, S: dS, A: dA };
+}
+
+// ==================== RK4 INTEGRATION ====================
+function rk4Step(state, dt, params, SC, t, scenario) {
+    const k1 = computeDerivatives(state, params, SC, t, scenario);
+    const k2 = computeDerivatives(addStates(state, scaleState(k1, dt/2)), params, SC, t+dt/2, scenario);
+    const k3 = computeDerivatives(addStates(state, scaleState(k2, dt/2)), params, SC, t+dt/2, scenario);
+    const k4 = computeDerivatives(addStates(state, scaleState(k3, dt)), params, SC, t+dt, scenario);
+    
+    const dState = scaleState(addStates(k1, scaleState(addStates(k2, k3), 2), k4), dt/6);
+    return addStates(state, dState);
+}
+
+function scaleState(state, scalar) {
+    return {
+        L: state.L.map(x => x*scalar),
+        C: state.C.map(x => x*scalar),
+        S: state.S.map(x => x*scalar),
+        A: state.A.map(x => x*scalar)
+    };
+}
+
+function addStates(...states) {
+    const n = states[0].L.length;
+    const result = {
+        L: Array(n).fill(0),
+        C: Array(n).fill(0),
+        S: Array(n).fill(0),
+        A: Array(n).fill(0)
+    };
+    
+    states.forEach(state => {
+        for (let i=0; i<n; i++) {
+            result.L[i] += state.L[i];
+            result.C[i] += state.C[i];
+            result.S[i] += state.S[i];
+            result.A[i] += state.A[i];
+        }
+    });
+    
+    return result;
+}
+
+// ==================== INITIALIZATION ====================
+function initializeState(scenario) {
+    const n = 13;
+    const preset = SCENARIO_PRESETS[scenario] || SCENARIO_PRESETS.wake;
+    
+    const state = {
+        L: Array(n).fill(preset.L),
+        C: Array(n).fill(preset.C),
+        S: Array(n).fill(preset.S),
+        A: Array(n).fill(preset.A)
+    };
+    
+    // Region-specific variations
+    for (let i=0; i<n; i++) {
+        // Visual cortex higher C in wake/psychedelic
+        if (VISUAL_INDICES.includes(i) && ['wake','psychedelic'].includes(scenario)) {
+            state.C[i] += 0.5;
         }
         
-        function plotPhasePortrait() {
-            const sol = currentSolution;
-            const L_mean = sol.L.map(arr => arr.reduce((a, b) => a + b) / arr.length);
-            const C_mean = sol.C.map(arr => arr.reduce((a, b) => a + b) / arr.length);
-            
-            const trace = {
-                type: 'scatter',
-                mode: 'lines+markers',
-                x: L_mean,
-                y: C_mean,
-                marker: { size: 4, color: sol.t, colorscale: 'Viridis' },
-                line: { width: 1, color: 'rgba(0,0,0,0.3)' }
-            };
-            
-            const layout = {
-                xaxis: { title: 'Level (L)', range: [0, 10] },
-                yaxis: { title: 'Content (C)', range: [0, 10] },
-                margin: { l: 50, r: 20, t: 20, b: 40 }
-            };
-            
-            Plotly.newPlot('plotPhase', [trace], layout, { responsive: true });
+        // DMN higher S in wake/meditation
+        if (DMN_INDICES.includes(i) && ['wake','meditation'].includes(scenario)) {
+            state.S[i] += 0.3;
         }
         
-        function plotCausalNetwork() {
-            const params = getParams();
-            const weights = [
-                { source: 'L', target: 'C', value: params.w_LC },
-                { source: 'C', target: 'L', value: params.w_CL },
-                { source: 'L', target: 'S', value: params.w_LS },
-                { source: 'S', target: 'L', value: params.w_SL },
-                { source: 'C', target: 'S', value: params.w_CS },
-                { source: 'S', target: 'C', value: params.w_SC }
-            ];
-            
-            const nodes = ['L', 'C', 'S'];
-            const positions = { L: [0, 1], C: [0.866, -0.5], S: [-0.866, -0.5] };
-            
-            // Create edges
-            const edge_traces = weights.map(w => ({
-                type: 'scatter',
-                mode: 'lines',
-                x: [positions[w.source][0], positions[w.target][0]],
-                y: [positions[w.source][1], positions[w.target][1]],
-                line: { width: w.value * 10, color: 'rgba(102, 126, 234, 0.6)' },
-                hoverinfo: 'text',
-                text: `${w.source}→${w.target}: ${w.value.toFixed(2)}`,
-                showlegend: false
-            }));
-            
-            // Create nodes
-            const node_trace = {
-                type: 'scatter',
-                mode: 'markers+text',
-                x: nodes.map(n => positions[n][0]),
-                y: nodes.map(n => positions[n][1]),
-                text: nodes,
-                textposition: 'middle center',
-                marker: { size: 50, color: '#667eea', line: { width: 2, color: 'white' } },
-                textfont: { size: 18, color: 'white', family: 'Arial Black' },
-                hoverinfo: 'text'
-            };
-            
-            const layout = {
-                xaxis: { visible: false, range: [-1.5, 1.5] },
-                yaxis: { visible: false, range: [-1.5, 1.5] },
-                margin: { l: 20, r: 20, t: 20, b: 20 },
-                hovermode: 'closest'
-            };
-            
-            Plotly.newPlot('plotNetwork', [...edge_traces, node_trace], layout, { responsive: true });
+        // aINS preserved S in psychedelic
+        if (i === aINS_INDEX && scenario === 'psychedelic') {
+            state.S[i] = 5.0;
         }
         
-        function updateStatus(state) {
-            const L_mean = state.L.reduce((a, b) => a + b) / state.L.length;
-            const C_mean = state.C.reduce((a, b) => a + b) / state.C.length;
-            const S_mean = state.S.reduce((a, b) => a + b) / state.S.length;
-            
-            // PCI estimate
-            const PCI = L_mean / 10;
-            document.getElementById('pciValue').textContent = PCI.toFixed(3);
-            
-            // Clinical state classification
-            let clinicalState;
-            if (L_mean < 2.5) clinicalState = 'VS/UWS';
-            else if (L_mean < 4.0) clinicalState = 'MCS-';
-            else if (L_mean < 5.5) clinicalState = 'MCS+';
-            else if (L_mean < 7.0) clinicalState = 'EMCS';
-            else clinicalState = 'Conscious';
-            
-            document.getElementById('clinicalState').textContent = clinicalState;
-            
-            // Mock R² (would require empirical data)
-            document.getElementById('r2Value').textContent = '0.73 (simulated)';
+        // Small noise
+        state.L[i] += (Math.random() - 0.5) * 0.3;
+        state.C[i] += (Math.random() - 0.5) * 0.3;
+        state.S[i] += (Math.random() - 0.5) * 0.2;
+        state.A[i] += (Math.random() - 0.5) * 0.1;
+    }
+    
+    return state;
+}
+
+// ==================== PARAMETERS ====================
+function getParams() {
+    return {
+        w_LC: parseFloat(document.getElementById('wLC').value),
+        w_CL: parseFloat(document.getElementById('wCL').value),
+        w_LS: parseFloat(document.getElementById('wLS').value),
+        w_SL: parseFloat(document.getElementById('wSL').value),
+        w_CS: parseFloat(document.getElementById('wCS').value),
+        w_SC: parseFloat(document.getElementById('wSC').value),
+        k_ign: parseFloat(document.getElementById('kign').value),
+        L_thresh: parseFloat(document.getElementById('Lthresh').value),
+        alpha_att: parseFloat(document.getElementById('alphaAtt').value),
+        k_bind: parseFloat(document.getElementById('kbind').value),
+        L_crit: parseFloat(document.getElementById('Lcrit').value),
+        beta_intero: parseFloat(document.getElementById('betaIntero').value),
+        alpha_agency: parseFloat(document.getElementById('alphaAgency').value),
+        alpha_psych: parseFloat(document.getElementById('alphaPsych').value),
+        D_L: parseFloat(document.getElementById('DL').value),
+        D_C: parseFloat(document.getElementById('DC').value),
+        D_S: parseFloat(document.getElementById('DS').value),
+        delta_C: parseFloat(document.getElementById('deltaC').value),
+        ACh: parseFloat(document.getElementById('ACh').value),
+        NE: parseFloat(document.getElementById('NE').value),
+        Orx: parseFloat(document.getElementById('Orx').value)
+    };
+}
+
+// ==================== SIMULATION ====================
+function runSimulation() {
+    try {
+        const statusElem = document.getElementById('statusText');
+        statusElem.textContent = 'Running...';
+        statusElem.classList.add('running');
+        
+        const params = getParams();
+        const SC = createSC();
+        const scenario = document.getElementById('scenario').value;
+        const duration = parseFloat(document.getElementById('duration').value);
+        const dt = parseFloat(document.getElementById('dt').value) / 1000;
+        const steps = Math.floor(duration / dt);
+        
+        if (steps > 100000) {
+            alert('⚠️ Too many steps! Increase time step or decrease duration.');
+            statusElem.classList.remove('running');
+            return;
         }
         
-        function resetParams() {
-            document.getElementById('wLC').value = 0.58;
-            document.getElementById('wCL').value = 0.28;
-            document.getElementById('wLS').value = 0.72;
-            document.getElementById('wSL').value = 0.18;
-            document.getElementById('wCS').value = 0.53;
-            document.getElementById('wSC').value = 0.42;
-            document.getElementById('kign').value = 2.3;
-            document.getElementById('Lthresh').value = 3.4;
-            document.getElementById('alphaAtt').value = 0.5;
-            document.getElementById('kbind').value = 0.05;
-            document.getElementById('Copt').value = 7.5;
-            document.getElementById('Lcrit').value = 4.0;
-            document.getElementById('betaIntero').value = 0.5;
-            document.getElementById('alphaAgency').value = 0.10;
-            document.getElementById('alphaPsych').value = 4.8;
-            document.getElementById('DL').value = 0.05;
-            document.getElementById('DC').value = 0.15;
-            document.getElementById('DS').value = 0.02;
-            document.getElementById('deltaC').value = 0.5;
-            document.getElementById('ACh').value = 1.0;
-            document.getElementById('NE').value = 1.0;
-            document.getElementById('Orx').value = 1.0;
-            document.getElementById('Psilo').value = 0.0;
-            document.getElementById('scenario').value = 'wake';
-            document.getElementById('duration').value = 60;
-            document.getElementById('dt').value = 10;
+        let state = initializeState(scenario);
+        
+        const solution = {
+            t: [0],
+            L: [state.L.slice()],
+            C: [state.C.slice()],
+            S: [state.S.slice()],
+            A: [state.A.slice()],
+            psiloConc: [scenario === 'psychedelic' ? 0 : null]
+        };
+        
+        const progressInterval = Math.max(1, Math.floor(steps / 20));
+        
+        for (let step=0; step<steps; step++) {
+            const t = (step + 1) * dt;
+            state = rk4Step(state, dt, params, SC, t, scenario);
             
-            document.querySelectorAll('input[type="range"], input[type="number"]').forEach(input => {
-                const valSpan = document.getElementById('val-' + input.id);
-                if (valSpan) {
-                    const val = parseFloat(input.value);
-                    valSpan.textContent = (input.step && parseFloat(input.step) >= 1) ? val.toFixed(0) : val.toFixed(2);
+            // Clip
+            state.L = state.L.map(x => clip(x, 0, 10));
+            state.C = state.C.map(x => clip(x, 0, 10));
+            state.S = state.S.map(x => clip(x, 0, 10));
+            state.A = state.A.map(x => clip(x, 0, 1));
+            
+            if (step % 10 === 0) {
+                solution.t.push(t);
+                solution.L.push(state.L.slice());
+                solution.C.push(state.C.slice());
+                solution.S.push(state.S.slice());
+                solution.A.push(state.A.slice());
+                if (scenario === 'psychedelic') {
+                    solution.psiloConc.push(psilocybinConcentration(t));
                 }
-            });
+            }
             
-            document.getElementById('statusText').textContent = '✓ Parameters reset to defaults';
+            if (step % progressInterval === 0 && step > 0) {
+                const progress = Math.round((step / steps) * 100);
+                statusElem.textContent = `Running... ${progress}%`;
+            }
         }
         
-        // Initialize on load
-        document.addEventListener('DOMContentLoaded', function() {
-            initRegionSelector();
-            runSimulation();
+        currentSolution = solution;
+        updateVisualizations();
+        updateStatus(state, scenario);
+        
+        statusElem.textContent = `✓ Complete (${steps} steps, ${solution.t.length} points)`;
+        statusElem.classList.remove('running');
+        
+    } catch (error) {
+        console.error('Simulation error:', error);
+        document.getElementById('statusText').textContent = '✗ Error: ' + error.message;
+        document.getElementById('statusText').classList.remove('running');
+    }
+}
+
+// ==================== VISUALIZATIONS ====================
+function updateVisualizations() {
+    if (!currentSolution) return;
+    
+    plot3DTrajectory();
+    plotTimeSeries();
+    plotHeatmap();
+    plotDMNComparison();
+    plotPhasePortrait();
+    plotCausalNetwork();
+    plotNeuromodulators();
+    plotAttention();
+}
+
+function plot3DTrajectory() {
+    const sol = currentSolution;
+    const L_mean = sol.L.map(arr => arr.reduce((a,b) => a+b) / arr.length);
+    const C_mean = sol.C.map(arr => arr.reduce((a,b) => a+b) / arr.length);
+    const S_mean = sol.S.map(arr => arr.reduce((a,b) => a+b) / arr.length);
+    
+    const trace = {
+        type: 'scatter3d',
+        mode: 'lines+markers',
+        x: L_mean, y: C_mean, z: S_mean,
+        line: { color: sol.t, colorscale: 'Viridis', width: 5 },
+        marker: { size: 3, color: sol.t, colorscale: 'Viridis' }
+    };
+    
+    const layout = {
+        scene: {
+            xaxis: { title: 'Level (L)', range: [0, 10] },
+            yaxis: { title: 'Content (C)', range: [0, 10] },
+            zaxis: { title: 'Self (S)', range: [0, 10] },
+            camera: { eye: { x: 1.5, y: 1.5, z: 1.2 } }
+        },
+        margin: { l:0, r:0, t:0, b:0 }
+    };
+    
+    Plotly.newPlot('plot3D', [trace], layout, { responsive: true });
+}
+
+function plotTimeSeries() {
+    const sol = currentSolution;
+    const L_mean = sol.L.map(arr => arr.reduce((a,b) => a+b) / arr.length);
+    const C_mean = sol.C.map(arr => arr.reduce((a,b) => a+b) / arr.length);
+    const S_mean = sol.S.map(arr => arr.reduce((a,b) => a+b) / arr.length);
+    
+    const traces = [
+        { x: sol.t, y: L_mean, name: 'L', line: { color: '#e74c3c', width: 3 } },
+        { x: sol.t, y: C_mean, name: 'C', line: { color: '#3498db', width: 3 } },
+        { x: sol.t, y: S_mean, name: 'S', line: { color: '#2ecc71', width: 3 } },
+        { x: sol.t, y: Array(sol.t.length).fill(3.4), name: 'L_thresh', 
+          line: { dash: 'dash', color: 'rgba(0,0,0,0.4)', width: 2 } }
+    ];
+    
+    const layout = {
+        xaxis: { title: 'Time (min)' },
+        yaxis: { title: 'Value', range: [0, 10] },
+        margin: { l:60, r:30, t:30, b:50 },
+        legend: { x: 1.02, y: 1, xanchor: 'left' }
+    };
+    
+    Plotly.newPlot('plotTimeSeries', traces, layout, { responsive: true });
+}
+
+function plotHeatmap() {
+    const sol = currentSolution;
+    const L_matrix = sol.L[0].map((_, i) => sol.L.map(arr => arr[i]));
+    
+    const trace = {
+        type: 'heatmap',
+        z: L_matrix,
+        x: sol.t,
+        y: REGIONS,
+        colorscale: 'RdYlBu',
+        reversescale: true,
+        zmin: 0, zmax: 10,
+        colorbar: { title: 'Level (L)' }
+    };
+    
+    const layout = {
+        xaxis: { title: 'Time (min)' },
+        yaxis: { title: 'Region' },
+        margin: { l:100, r:80, t:30, b:50 }
+    };
+    
+    Plotly.newPlot('plotHeatmap', [trace], layout, { responsive: true });
+}
+
+function plotDMNComparison() {
+    const sol = currentSolution;
+    
+    const S_DMN = sol.S.map(arr => {
+        const dmn = DMN_INDICES.map(i => arr[i]);
+        return dmn.reduce((a,b) => a+b) / dmn.length;
+    });
+    
+    const S_aINS = sol.S.map(arr => arr[aINS_INDEX]);
+    
+    const nonDMN = [...Array(13).keys()].filter(i => !DMN_INDICES.includes(i) && i !== aINS_INDEX);
+    const S_nonDMN = sol.S.map(arr => {
+        const non = nonDMN.map(i => arr[i]);
+        return non.reduce((a,b) => a+b) / non.length;
+    });
+    
+    const traces = [
+        { x: sol.t, y: S_DMN, name: 'S_DMN', line: { color: '#9b59b6', width: 3 } },
+        { x: sol.t, y: S_aINS, name: 'S_aINS', line: { color: '#e67e22', width: 3 } },
+        { x: sol.t, y: S_nonDMN, name: 'S_other', line: { color: '#95a5a6', width: 2 } }
+    ];
+    
+    const layout = {
+        xaxis: { title: 'Time (min)' },
+        yaxis: { title: 'Self/Metacognition', range: [0, 10] },
+        margin: { l:60, r:30, t:30, b:50 },
+        legend: { x: 1.02, y: 1 }
+    };
+    
+    Plotly.newPlot('plotDMN', traces, layout, { responsive: true });
+}
+
+function plotPhasePortrait() {
+    const sol = currentSolution;
+    const L_mean = sol.L.map(arr => arr.reduce((a,b) => a+b) / arr.length);
+    const C_mean = sol.C.map(arr => arr.reduce((a,b) => a+b) / arr.length);
+    
+    const trace = {
+        type: 'scatter',
+        mode: 'lines+markers',
+        x: L_mean, y: C_mean,
+        marker: { size: 5, color: sol.t, colorscale: 'Viridis', colorbar: { title: 'Time' } },
+        line: { width: 2, color: 'rgba(0,0,0,0.2)' }
+    };
+    
+    const layout = {
+        xaxis: { title: 'Level (L)', range: [0, 10] },
+        yaxis: { title: 'Content (C)', range: [0, 10] },
+        margin: { l:60, r:80, t:30, b:50 }
+    };
+    
+    Plotly.newPlot('plotPhase', [trace], layout, { responsive: true });
+}
+
+function plotCausalNetwork() {
+    const params = getParams();
+    const weights = [
+        { source: 'L', target: 'C', value: params.w_LC, color: '#3498db' },
+        { source: 'C', target: 'L', value: params.w_CL, color: '#e74c3c' },
+        { source: 'L', target: 'S', value: params.w_LS, color: '#2ecc71' },
+        { source: 'S', target: 'L', value: params.w_SL, color: '#f39c12' },
+        { source: 'C', target: 'S', value: params.w_CS, color: '#9b59b6' },
+        { source: 'S', target: 'C', value: params.w_SC, color: '#1abc9c' }
+    ];
+    
+    const positions = { 
+        L: [0, 1], 
+        C: [0.866, -0.5], 
+        S: [-0.866, -0.5] 
+    };
+    
+    const edge_traces = weights.map(w => ({
+        type: 'scatter',
+        mode: 'lines',
+        x: [positions[w.source][0], positions[w.target][0]],
+        y: [positions[w.source][1], positions[w.target][1]],
+        line: { width: w.value * 12, color: w.color },
+        hoverinfo: 'text',
+        text: `${w.source}→${w.target}: ${w.value.toFixed(2)}`,
+        showlegend: false
+    }));
+    
+    const node_trace = {
+        type: 'scatter',
+        mode: 'markers+text',
+        x: [0, 0.866, -0.866],
+        y: [1, -0.5, -0.5],
+        text: ['L', 'C', 'S'],
+        textposition: 'middle center',
+        marker: { size: 60, color: '#667eea', line: { width: 3, color: 'white' } },
+        textfont: { size: 20, color: 'white', family: 'Arial Black' },
+        hoverinfo: 'none'
+    };
+    
+    const layout = {
+        xaxis: { visible: false, range: [-1.5, 1.5] },
+        yaxis: { visible: false, range: [-1.5, 1.5] },
+        margin: { l:20, r:20, t:20, b:20 },
+        hovermode: 'closest'
+    };
+    
+    Plotly.newPlot('plotNetwork', [...edge_traces, node_trace], layout, { responsive: true });
+}
+
+function plotNeuromodulators() {
+    const sol = currentSolution;
+    const params = getParams();
+    
+    // If psychedelic, show time-varying psilocybin
+    const traces = [
+        { x: sol.t, y: Array(sol.t.length).fill(params.ACh), 
+          name: 'ACh', line: { color: '#3498db', width: 3 } },
+        { x: sol.t, y: Array(sol.t.length).fill(params.NE), 
+          name: 'NE', line: { color: '#e74c3c', width: 3 } },
+        { x: sol.t, y: Array(sol.t.length).fill(params.Orx), 
+          name: 'Orexin', line: { color: '#2ecc71', width: 3 } }
+    ];
+    
+    if (sol.psiloConc && sol.psiloConc[0] !== null) {
+        traces.push({
+            x: sol.t, y: sol.psiloConc,
+            name: 'Psilocybin', line: { color: '#9b59b6', width: 3, dash: 'dot' }
         });
-    </script>
+    }
+    
+    const layout = {
+        xaxis: { title: 'Time (min)' },
+        yaxis: { title: 'Concentration (norm.)', range: [0, 2] },
+        margin: { l:60, r:30, t:30, b:50 },
+        legend: { x: 1.02, y: 1 }
+    };
+    
+    Plotly.newPlot('plotMods', traces, layout, { responsive: true });
+}
+
+function plotAttention() {
+    const sol = currentSolution;
+    const A_mean = sol.A.map(arr => arr.reduce((a,b) => a+b) / arr.length);
+    const A_visual = sol.A.map(arr => {
+        const vis = VISUAL_INDICES.map(i => arr[i]);
+        return vis.reduce((a,b) => a+b) / vis.length;
+    });
+    const A_frontal = sol.A.map(arr => {
+        const fpn = FPN_INDICES.map(i => arr[i]);
+        return fpn.reduce((a,b) => a+b) / fpn.length;
+    });
+    
+    const traces = [
+        { x: sol.t, y: A_mean, name: 'Mean', line: { color: '#34495e', width: 3 } },
+        { x: sol.t, y: A_visual, name: 'Visual', line: { color: '#3498db', width: 2 } },
+        { x: sol.t, y: A_frontal, name: 'FPN', line: { color: '#e74c3c', width: 2 } }
+    ];
+    
+    const layout = {
+        xaxis: { title: 'Time (min)' },
+        yaxis: { title: 'Attention', range: [0, 1] },
+        margin: { l:60, r:30, t:30, b:50 },
+        legend: { x: 1.02, y: 1 }
+    };
+    
+    Plotly.newPlot('plotAttention', traces, layout, { responsive: true });
+}
+
+// ==================== STATUS UPDATE ====================
+function updateStatus(state, scenario) {
+    const L_mean = state.L.reduce((a,b) => a+b) / state.L.length;
+    const S_DMN = DMN_INDICES.map(i => state.S[i]).reduce((a,b) => a+b) / DMN_INDICES.length;
+    const S_aINS = state.S[aINS_INDEX];
+    
+    // PCI estimate
+    const PCI = L_mean / 10;
+    document.getElementById('pciValue').textContent = PCI.toFixed(3);
+    
+    // Clinical state
+    let clinicalState;
+    if (L_mean < 2.5) clinicalState = '🔴 VS/UWS';
+    else if (L_mean < 4.0) clinicalState = '🟠 MCS-';
+    else if (L_mean < 5.5) clinicalState = '🟡 MCS+';
+    else if (L_mean < 7.0) clinicalState = '🟢 EMCS';
+    else clinicalState = '✅ Conscious';
+    
+    document.getElementById('clinicalState').textContent = clinicalState;
+    
+    // S values
+    document.getElementById('sDMNValue').textContent = S_DMN.toFixed(2);
+    document.getElementById('saINSValue').textContent = S_aINS.toFixed(2);
+    
+    // Validation for psychedelic scenario
+    if (scenario === 'psychedelic') {
+        const dmn_suppressed = S_DMN < 2.5;
+        const ains_preserved = S_aINS > 3.5;
+        const dmn_ains_diff = S_aINS - S_DMN;
+        
+        if (dmn_suppressed && ains_preserved && dmn_ains_diff > 1.5) {
+            document.getElementById('statusText').textContent += ' | ✅ DMN-specific suppression validated';
+        }
+    }
+}
+
+// ==================== RESET ====================
+function resetParams() {
+    const preset = SCENARIO_PRESETS.wake;
+    
+    document.getElementById('scenario').value = 'wake';
+    
+    const paramMap = {
+        wLC: 'w_LC', wCL: 'w_CL', wLS: 'w_LS', wSL: 'w_SL', wCS: 'w_CS', wSC: 'w_SC',
+        kign: 'k_ign', Lthresh: 'L_thresh', alphaAtt: 'alpha_att', kbind: 'k_bind',
+        Lcrit: 'L_crit', betaIntero: 'beta_intero', alphaAgency: 'alpha_agency', alphaPsych: 'alpha_psych',
+        DL: 'D_L', DC: 'D_C', DS: 'D_S', deltaC: 'delta_C',
+        ACh: 'ACh', NE: 'NE', Orx: 'Orx',
+        duration: 'duration'
+    };
+    
+    for (const [elemId, presetKey] of Object.entries(paramMap)) {
+        const elem = document.getElementById(elemId);
+        if (elem && preset[presetKey] !== undefined) {
+            elem.value = preset[presetKey];
+            const valSpan = document.getElementById('val-' + elemId);
+            if (valSpan) valSpan.textContent = preset[presetKey].toFixed(2);
+        }
+    }
+    
+    document.getElementById('dt').value = 10;
+    document.getElementById('statusText').textContent = '✓ Reset to baseline wake parameters';
+}
+
+// ==================== INIT ====================
+document.addEventListener('DOMContentLoaded', function() {
+    initRegionSelector();
+    console.log('DCD 4.0 Dashboard v1.1 loaded');
+    console.log('Ready for simulation. Select scenario and press Run.');
+});
+</script>
 </body>
 </html>
