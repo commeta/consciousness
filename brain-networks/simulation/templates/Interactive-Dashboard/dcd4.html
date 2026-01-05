@@ -160,7 +160,7 @@
         
         button {
             flex: 1;
-            padding: 14px;
+            padding: 4px;
             border: none;
             border-radius: 10px;
             font-weight: 700;
@@ -169,6 +169,7 @@
             transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
             text-transform: uppercase;
             letter-spacing: 0.5px;
+            white-space: nowrap;
         }
         
         .btn-primary {
@@ -445,6 +446,7 @@
                 <div class="button-group">
                     <button class="btn-primary" onclick="runSimulation()">▶ Run</button>
                     <button class="btn-secondary" onclick="resetParams()">↻ Reset</button>
+                    <button class="btn-secondary" id="exportJsonBtn" onclick="exportJSON()">⬇️ Export</button>
                 </div>
             </div>
         </div>
@@ -1439,6 +1441,97 @@ function resetParams() {
     document.getElementById('dt').value = 10;
     document.getElementById('statusText').textContent = '✓ Reset to baseline wake parameters';
 }
+
+// ==================== JSON EXPORT ====================
+/**
+ * Собирает все ключевые объекты (параметры, solution, структура, метаданные)
+ * и возвращает объект, готовый к сериализации в JSON.
+ */
+function getExportObject() {
+    const params = getParams();
+    const scenario = document.getElementById('scenario').value;
+    const duration = parseFloat(document.getElementById('duration').value);
+    const dt_ms = parseFloat(document.getElementById('dt').value);
+    const SC = createSC();
+
+    const exportObj = {
+        metadata: {
+            app: 'DCD 4.0 Dashboard',
+            version: 'v0.3 BETA',
+            exported_at: (new Date()).toISOString(),
+            scenario: scenario,
+            duration_min: duration,
+            dt_ms: dt_ms
+        },
+        regions: REGIONS.slice(),
+        receptor_gains: RECEPTOR_GAINS,
+        selected_regions: selectedRegions.slice(),
+        structural_connectivity: SC,
+        params: params,
+        // currentSolution может быть null (если симуляция не запускалась)
+        solution: currentSolution ? currentSolution : null,
+        scenario_presets: SCENARIO_PRESETS
+    };
+
+    return exportObj;
+}
+
+/**
+ * Скачивает JSON-файл с предложенным именем.
+ * Также пытается скопировать JSON в буфер обмена (если доступно).
+ */
+function downloadJSON(filename, obj) {
+    try {
+        const json = JSON.stringify(obj, null, 2);
+        const blob = new Blob([json], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = filename;
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+        URL.revokeObjectURL(url);
+
+        // Попытка скопировать в clipboard (не критично)
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(json).then(() => {
+                document.getElementById('statusText').textContent = `✓ JSON exported & copied to clipboard (${filename})`;
+            }).catch(() => {
+                document.getElementById('statusText').textContent = `✓ JSON exported (${filename}) — clipboard unavailable`;
+            });
+        } else {
+            document.getElementById('statusText').textContent = `✓ JSON exported (${filename})`;
+        }
+    } catch (err) {
+        console.error('Export error:', err);
+        document.getElementById('statusText').textContent = '✗ Error exporting JSON: ' + (err && err.message ? err.message : String(err));
+    }
+}
+
+/**
+ * UI-обёртка: собирает объект, валидирует минимально и инициирует загрузку.
+ */
+function exportJSON() {
+    // Небольшая валидация: если currentSolution отсутствует, предупреждаем пользователя
+    const solutionExists = !!currentSolution;
+    const exportObj = getExportObject();
+
+    if (!solutionExists) {
+        // спрашивать подтверждение Мы не делаем — просто информируем и экспортируем текущее состояние
+        document.getElementById('statusText').textContent = '⚠️ No simulation results yet — exporting current parameters only';
+    } else {
+        document.getElementById('statusText').textContent = 'Exporting JSON...';
+    }
+
+    // Имя файла включает сценарий и метку времени
+    const scenario = (exportObj.metadata && exportObj.metadata.scenario) ? exportObj.metadata.scenario : 'custom';
+    const ts = (new Date()).toISOString().replace(/[:.]/g,'-');
+    const filename = `DCD4.0_export_${scenario}_${ts}.json`;
+
+    downloadJSON(filename, exportObj);
+}
+
 
 // ==================== INIT ====================
 document.addEventListener('DOMContentLoaded', function() {
