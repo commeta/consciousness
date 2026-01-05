@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DCD 4.0 Dashboard — BETA v0.1</title>
+    <title>DCD 4.0 Dashboard — BETA v0.3</title>
     <script src="https://cdn.plot.ly/plotly-2.29.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/12.4.1/math.min.js"></script>
     <style>
@@ -302,7 +302,7 @@
 <body>
     <div class="dashboard">
         <div class="header">
-            <h1>🧠 DCD 4.0 Interactive Dashboard<span class="version">v0.1 BETA</span></h1>
+            <h1>🧠 DCD 4.0 Interactive Dashboard<span class="version">v0.3 BETA</span></h1>
             <p class="subtitle">Differentiable Consciousness Dynamics — Механистическая модель сознания с полной каузальной структурой и региональными параметрами</p>
         </div>
         
@@ -545,7 +545,8 @@ const RECEPTOR_GAINS = {
     PCC:       { ACh: 1.1, NE: 0.9, Orx: 1.0 },
     Claustrum: { ACh: 1.0, NE: 1.0, Orx: 1.0 },
     Pulvinar:  { ACh: 0.8, NE: 1.2, Orx: 0.9 },
-    SC:        { ACh: 0.9, NE: 1.3, Orx: 1.0 }};
+    SC:        { ACh: 0.9, NE: 1.3, Orx: 1.0 }
+};
 
 let selectedRegions = [0, 4, 5, 8, 9];
 let currentSolution = null;
@@ -553,19 +554,12 @@ let currentSolution = null;
 // ==================== SCENARIO PRESETS ====================
 const SCENARIO_PRESETS = {
     wake: {
-        // Initial states
         L: 8.0, C: 7.5, S: 7.5, A: 0.3,
-        // Neuromodulators
         ACh: 1.0, NE: 1.0, Orx: 1.0,
-        // Causal weights (baseline)
         w_LC: 0.58, w_CL: 0.28, w_LS: 0.72, w_SL: 0.18, w_CS: 0.53, w_SC: 0.42,
-        // Ignition
-        k_ign: 2.3, L_thresh: 3.4, alpha_att: 0.5, k_bind: 0.05,
-        // Self
+        k_ign: 5.0, L_thresh: 3.4, alpha_att: 0.5, k_bind: 0.05,  // k_ign увеличен
         L_crit: 4.0, beta_intero: 0.5, alpha_agency: 0.10, alpha_psych: 4.8,
-        // Spatial
-        D_L: 0.05, D_C: 0.15, D_S: 0.02, delta_C: 0.5,
-        // Duration
+        D_L: 0.10, D_C: 0.30, D_S: 0.05, delta_C: 0.5,  // увеличены коэффициенты диффузии
         duration: 60,
         description: 'Resting wakefulness with eyes closed'
     },
@@ -573,54 +567,54 @@ const SCENARIO_PRESETS = {
     N2: {
         L: 4.5, C: 3.5, S: 2.0, A: 0.1,
         ACh: 0.4, NE: 0.5, Orx: 0.4,
-        w_LC: 0.45, w_CL: 0.20, w_LS: 0.55, w_SL: 0.12, w_CS: 0.40, w_SC: 0.30,
-        k_ign: 1.8, L_thresh: 4.0, alpha_att: 0.3, k_bind: 0.03,
-        L_crit: 4.5, beta_intero: 0.3, alpha_agency: 0.05, alpha_psych: 4.8,
-        D_L: 0.03, D_C: 0.08, D_S: 0.01, delta_C: 0.6,
+        w_LC: 0.35, w_CL: 0.15, w_LS: 0.50, w_SL: 0.10, w_CS: 0.35, w_SC: 0.25,  // снижены веса
+        k_ign: 3.5, L_thresh: 4.5, alpha_att: 0.2, k_bind: 0.02,  // порог поднят
+        L_crit: 5.0, beta_intero: 0.2, alpha_agency: 0.03, alpha_psych: 4.8,
+        D_L: 0.05, D_C: 0.12, D_S: 0.02, delta_C: 0.7,  // decay увеличен
         duration: 90,
         description: 'Light sleep (N2) with sleep spindles'
     },
     
     N3: {
-        L: 3.0, C: 2.0, S: 1.0, A: 0.05,
-        ACh: 0.3, NE: 0.4, Orx: 0.3,
-        w_LC: 0.35, w_CL: 0.15, w_LS: 0.45, w_SL: 0.08, w_CS: 0.30, w_SC: 0.20,
-        k_ign: 1.5, L_thresh: 4.5, alpha_att: 0.2, k_bind: 0.02,
-        L_crit: 5.0, beta_intero: 0.2, alpha_agency: 0.03, alpha_psych: 4.8,
-        D_L: 0.02, D_C: 0.05, D_S: 0.005, delta_C: 0.7,
+        L: 2.5, C: 1.5, S: 0.8, A: 0.05,  // ещё ниже baseline
+        ACh: 0.25, NE: 0.35, Orx: 0.25,  // сильнее подавлены
+        w_LC: 0.25, w_CL: 0.10, w_LS: 0.35, w_SL: 0.06, w_CS: 0.25, w_SC: 0.15,  // минимальная связность
+        k_ign: 2.5, L_thresh: 5.0, alpha_att: 0.1, k_bind: 0.01,
+        L_crit: 5.5, beta_intero: 0.15, alpha_agency: 0.02, alpha_psych: 4.8,
+        D_L: 0.03, D_C: 0.08, D_S: 0.01, delta_C: 0.85,  // очень быстрый decay
         duration: 120,
         description: 'Deep sleep (N3/SWS) with slow waves'
     },
     
     propofol: {
-        L: 3.5, C: 2.5, S: 1.5, A: 0.1,
-        ACh: 0.5, NE: 0.6, Orx: 0.5,
-        w_LC: 0.40, w_CL: 0.18, w_LS: 0.50, w_SL: 0.10, w_CS: 0.35, w_SC: 0.25,
-        k_ign: 1.6, L_thresh: 4.2, alpha_att: 0.25, k_bind: 0.025,
-        L_crit: 4.8, beta_intero: 0.25, alpha_agency: 0.04, alpha_psych: 4.8,
-        D_L: 0.025, D_C: 0.06, D_S: 0.008, delta_C: 0.65,
+        L: 3.2, C: 2.2, S: 1.2, A: 0.08,  // близко к LOC threshold
+        ACh: 0.45, NE: 0.55, Orx: 0.45,
+        w_LC: 0.30, w_CL: 0.12, w_LS: 0.40, w_SL: 0.08, w_CS: 0.28, w_SC: 0.20,
+        k_ign: 3.0, L_thresh: 4.8, alpha_att: 0.15, k_bind: 0.015,
+        L_crit: 5.2, beta_intero: 0.18, alpha_agency: 0.025, alpha_psych: 4.8,
+        D_L: 0.04, D_C: 0.10, D_S: 0.015, delta_C: 0.75,
         duration: 60,
         description: 'Propofol anesthesia (moderate sedation)'
     },
     
     psychedelic: {
-        L: 9.0, C: 9.0, S: 6.0, A: 0.5,
+        L: 9.0, C: 9.0, S: 7.0, A: 0.5,  // S baseline выше (для демонстрации падения)
         ACh: 1.2, NE: 1.2, Orx: 1.1,
         w_LC: 0.65, w_CL: 0.35, w_LS: 0.80, w_SL: 0.22, w_CS: 0.60, w_SC: 0.50,
-        k_ign: 2.5, L_thresh: 3.0, alpha_att: 0.6, k_bind: 0.08,
-        L_crit: 3.5, beta_intero: 0.6, alpha_agency: 0.15, alpha_psych: 4.8,
-        D_L: 0.08, D_C: 0.20, D_S: 0.03, delta_C: 0.4,
+        k_ign: 6.0, L_thresh: 2.8, alpha_att: 0.7, k_bind: 0.10,  // порог снижен, k_ign выше
+        L_crit: 3.2, beta_intero: 0.7, alpha_agency: 0.20, alpha_psych: 8.5,  // alpha_psych увеличен
+        D_L: 0.15, D_C: 0.40, D_S: 0.08, delta_C: 0.35,  // высокая диффузия
         duration: 360,
         description: 'Psilocybin (20mg) with PK model (T_max=90min)'
     },
     
     meditation: {
-        L: 7.0, C: 5.0, S: 8.5, A: 0.7,
-        ACh: 0.9, NE: 0.8, Orx: 0.9,
-        w_LC: 0.50, w_CL: 0.25, w_LS: 0.75, w_SL: 0.20, w_CS: 0.55, w_SC: 0.45,
-        k_ign: 2.0, L_thresh: 3.6, alpha_att: 0.7, k_bind: 0.04,
-        L_crit: 3.8, beta_intero: 0.7, alpha_agency: 0.08, alpha_psych: 4.8,
-        D_L: 0.04, D_C: 0.10, D_S: 0.025, delta_C: 0.45,
+        L: 7.5, C: 5.5, S: 8.5, A: 0.7,
+        ACh: 0.95, NE: 0.85, Orx: 0.95,
+        w_LC: 0.48, w_CL: 0.22, w_LS: 0.78, w_SL: 0.20, w_CS: 0.58, w_SC: 0.48,
+        k_ign: 4.5, L_thresh: 3.6, alpha_att: 0.75, k_bind: 0.045,
+        L_crit: 3.5, beta_intero: 0.75, alpha_agency: 0.06, alpha_psych: 4.8,
+        D_L: 0.08, D_C: 0.18, D_S: 0.06, delta_C: 0.42,
         duration: 60,
         description: 'Vipassana meditation (sustained attention)'
     }
@@ -673,7 +667,6 @@ document.getElementById('scenario').addEventListener('change', function(e) {
     const preset = SCENARIO_PRESETS[scenario];
     if (!preset) return;
     
-    // Update ALL parameters
     const paramMap = {
         wLC: 'w_LC', wCL: 'w_CL', wLS: 'w_LS', wSL: 'w_SL', wCS: 'w_CS', wSC: 'w_SC',
         kign: 'k_ign', Lthresh: 'L_thresh', alphaAtt: 'alpha_att', kbind: 'k_bind',
@@ -761,16 +754,69 @@ function clip(x, min, max) {
 // ==================== PHARMACOKINETICS ====================
 function psilocybinConcentration(t) {
     // Hasler et al. (2004): T_max ≈ 90 min, T_1/2 ≈ 180 min
-    const T_max = 90;
-    const T_half = 180;
+    const T_onset = 30;   // начало действия
+    const T_max = 90;     // пик
+    const T_half = 180;   // период полувыведения
     const k_elim = Math.log(2) / T_half;
     
-    if (t < 30) return 0; // Onset delay
+    if (t < T_onset) return 0;
+    
     if (t < T_max) {
-        return (t - 30) / (T_max - 30); // Linear rise
+        // Нелинейный рост (Hill-подобная кривая)
+        const progress = (t - T_onset) / (T_max - T_onset);
+        return Math.pow(progress, 1.5);  // нелинейность
     } else {
-        return Math.exp(-k_elim * (t - T_max)); // Exponential decay
+        // Биэкспоненциальный распад (быстрая + медленная фазы)
+        const t_elapsed = t - T_max;
+        const fast_component = 0.7 * Math.exp(-k_elim * 1.5 * t_elapsed);  // быстрая фаза
+        const slow_component = 0.3 * Math.exp(-k_elim * 0.5 * t_elapsed);  // медленная фаза
+        return fast_component + slow_component;
     }
+}
+
+// ==================== ВРЕМЕННАЯ МОДУЛЯЦИЯ (НОВОЕ) ====================
+function computeCircadianDrive(t) {
+    // Синусоидальная модуляция с минимумом в 3 AM, максимумом в 3 PM
+    // t в минутах от начала симуляции; предполагаем старт в 9 AM
+    const hour_of_day = 9 + (t / 60) % 24;
+    const phase = (hour_of_day - 15) * Math.PI / 12;  // сдвиг фазы для пика в 15:00
+    return 0.5 + 0.5 * Math.sin(phase);
+}
+
+function computeSleepPressure(t, scenario) {
+    // Экспоненциальное накопление sleep pressure во время бодрствования
+    if (['N2', 'N3', 'propofol'].includes(scenario)) {
+        return 0.9;  // высокий sleep pressure
+    }
+    
+    const tau_sleep = 16 * 60;  // константа накопления (16 часов)
+    return 1.0 - Math.exp(-t / tau_sleep);
+}
+
+function computeNeuromodulators(t, scenario, base_ACh, base_NE, base_Orx) {
+    const circadian = computeCircadianDrive(t);
+    const sleep_pressure = computeSleepPressure(t, scenario);
+    
+    let ACh, NE, Orx;
+    
+    if (['N2', 'N3'].includes(scenario)) {
+        // Сильное подавление во сне
+        ACh = base_ACh * (0.3 + 0.2 * circadian) * (1 - sleep_pressure * 0.6);
+        NE = base_NE * (0.35 + 0.15 * circadian) * (1 - sleep_pressure * 0.5);
+        Orx = base_Orx * (0.25 + 0.2 * circadian) * (1 - sleep_pressure * 0.7);
+    } else if (scenario === 'propofol') {
+        // Фармакологическое подавление (стабильное)
+        ACh = base_ACh * 0.45;
+        NE = base_NE * 0.55;
+        Orx = base_Orx * 0.45;
+    } else {
+        // Wake/psychedelic/meditation: циркадная модуляция
+        ACh = base_ACh * (0.8 + 0.2 * circadian);
+        NE = base_NE * (0.85 + 0.15 * circadian);
+        Orx = base_Orx * (0.9 + 0.1 * circadian) * (1 - sleep_pressure * 0.3);
+    }
+    
+    return { ACh, NE, Orx };
 }
 
 // ==================== DYNAMICS ====================
@@ -778,22 +824,22 @@ function computeL_target(ACh, NE, Orx, region_idx) {
     const region = REGIONS[region_idx];
     const gains = RECEPTOR_GAINS[region];
     
-    const z = 2.5 * gains.ACh * ACh + 
-              2.0 * gains.NE * NE + 
-              3.0 * gains.Orx * Orx - 5.0;
+    // более агрессивная зависимость
+    const z = 3.0 * gains.ACh * ACh + 
+              2.5 * gains.NE * NE + 
+              3.5 * gains.Orx * Orx - 6.0;  // повышен порог
     
     return 10 * sigmoid(z);
 }
 
 function computeSensoryInput(region_idx, A_i, scenario) {
-    // Region-specific sensory stimulation
     if (VISUAL_INDICES.includes(region_idx)) {
-        if (scenario === 'psychedelic') return 0.8 * A_i;
-        if (scenario === 'wake') return 0.4 * A_i;
-        if (scenario === 'meditation') return 0.3 * A_i;
-        return 0.2 * A_i; // sleep/anesthesia
+        if (scenario === 'psychedelic') return 0.9 * A_i;  // увеличен
+        if (scenario === 'wake') return 0.5 * A_i;
+        if (scenario === 'meditation') return 0.35 * A_i;
+        return 0.15 * A_i;  // sleep/anesthesia
     } else {
-        return 0.1 * A_i; // frontal/parietal low baseline
+        return 0.08 * A_i;
     }
 }
 
@@ -804,48 +850,52 @@ function computeDerivatives(state, params, SC, t, scenario) {
     const dS = Array(n).fill(0);
     const dA = Array(n).fill(0);
     
-    // Psilocybin concentration (time-dependent for psychedelic scenario)
+    // Временная модуляция нейромодуляторов
+    const mods = computeNeuromodulators(t, scenario, params.ACh, params.NE, params.Orx);
+    
+    // Psilocybin concentration (time-dependent)
     const psiloConc = scenario === 'psychedelic' ? psilocybinConcentration(t) : 0;
     
     for (let i=0; i<n; i++) {
-        const L_target = computeL_target(params.ACh, params.NE, params.Orx, i);
+        const L_target = computeL_target(mods.ACh, mods.NE, mods.Orx, i);
         
-        // dL/dt
-        dL[i] = 0.5 * state.L[i] * (1 - state.L[i]/10) +
-                0.5 * (L_target - state.L[i]) +
+        // dL/dt (более сильные взаимодействия)
+        dL[i] = 0.6 * state.L[i] * (1 - state.L[i]/10) +  // homeostasis
+                0.8 * (L_target - state.L[i]) +            // быстрее сходимость к target
                 params.w_CL * state.C[i] +
                 params.w_SL * state.S[i];
         
-        // Ignition
+        // Ignition (более резкий переход)
         const L_thresh_eff = params.L_thresh * (1 - params.alpha_att * state.A[i]);
         const h_ign = sigmoid(params.k_ign * (state.L[i] - L_thresh_eff));
         
-        // dC/dt
+        // dC/dt 
         const g_att = Math.exp(-Math.pow(state.C[i] - 7.5, 2) / 12.5);
         const I_sens = computeSensoryInput(i, state.A[i], scenario);
         
         dC[i] = params.w_LC * state.L[i] * h_ign * (10 - state.C[i])/10 +
-                I_sens +
+                I_sens * 1.2 +  // усилен сенсорный вход
                 params.w_SC * state.S[i] * g_att +
                 params.k_bind * state.L[i] * state.C[i] * (10 - state.C[i]) * g_att -
                 params.delta_C * state.C[i];
         
-        // dS/dt
+        // dS/dt (более резкий порог PFC)
         const H_L = heaviside(state.L[i] - params.L_crit);
         dS[i] = params.w_LS * state.L[i] * H_L +
                 params.w_CS * Math.log(1 + state.C[i]);
         
-        // aINS interoception
+        // aINS interoception (сильнее)
         if (i === aINS_INDEX) {
-            dS[i] += params.beta_intero * state.L[i] * (1 - state.S[i]/10);
+            dS[i] += params.beta_intero * state.L[i] * 1.5 * (1 - state.S[i]/10);
         }
         
-        // Agency disruption
-        dS[i] -= params.alpha_agency * Math.abs(dC[i]) * state.S[i];
+        // Agency disruption (увеличен коэффициент)
+        dS[i] -= params.alpha_agency * 1.5 * Math.abs(dC[i]) * state.S[i];
         
-        // DMN-specific psychedelic suppression
+        // DMN-specific psychedelic suppression (более агрессивный)
         if (DMN_INDICES.includes(i)) {
-            dS[i] -= params.alpha_psych * psiloConc * state.S[i];
+            const suppression_factor = params.alpha_psych * psiloConc * state.S[i];
+            dS[i] -= suppression_factor * (1 + 0.5 * psiloConc);  // НОВОЕ: нелинейное усиление
         }
         
         // dA/dt (attention)
@@ -860,7 +910,7 @@ function computeDerivatives(state, params, SC, t, scenario) {
                 0.4 * state.A[i];
     }
     
-    // Spatial coupling
+    // Spatial coupling (увеличены коэффициенты)
     const dL_spatial = graphLaplacian(state.L, SC, params.D_L);
     const dC_spatial = graphLaplacian(state.C, SC, params.D_C);
     const dS_spatial = graphLaplacian(state.S, SC, params.D_S);
@@ -869,6 +919,13 @@ function computeDerivatives(state, params, SC, t, scenario) {
         dL[i] += dL_spatial[i];
         dC[i] += dC_spatial[i];
         dS[i] += dS_spatial[i];
+        
+        // НОВОЕ: дополнительное затухание для sleep сценариев
+        if (['N2', 'N3'].includes(scenario)) {
+            dL[i] -= 0.15 * state.L[i];  // дополнительный decay
+            dC[i] -= 0.20 * state.C[i];
+            dS[i] -= 0.25 * state.S[i];
+        }
     }
     
     return { L: dL, C: dC, S: dS, A: dA };
@@ -927,28 +984,36 @@ function initializeState(scenario) {
         A: Array(n).fill(preset.A)
     };
     
-    // Region-specific variations
+    // Region-specific variations (более консервативные)
     for (let i=0; i<n; i++) {
-        // Visual cortex higher C in wake/psychedelic
-        if (VISUAL_INDICES.includes(i) && ['wake','psychedelic'].includes(scenario)) {
-            state.C[i] += 0.5;
+        // Visual cortex
+        if (VISUAL_INDICES.includes(i)) {
+            if (['wake','psychedelic'].includes(scenario)) {
+                state.C[i] += 0.3;
+            } else if (['N2','N3','propofol'].includes(scenario)) {
+                state.C[i] -= 0.2;  // НОВОЕ: дополнительное подавление
+            }
         }
         
-        // DMN higher S in wake/meditation
-        if (DMN_INDICES.includes(i) && ['wake','meditation'].includes(scenario)) {
-            state.S[i] += 0.3;
+        // DMN
+        if (DMN_INDICES.includes(i)) {
+            if (['wake','meditation'].includes(scenario)) {
+                state.S[i] += 0.2;
+            } else if (scenario === 'psychedelic') {
+                state.S[i] += 0.5;  // выше baseline для демонстрации падения
+            }
         }
         
-        // aINS preserved S in psychedelic
+        // aINS preserved in psychedelic
         if (i === aINS_INDEX && scenario === 'psychedelic') {
-            state.S[i] = 5.0;
+            state.S[i] = 6.5;  // выше для контраста с DMN
         }
         
-        // Small noise
-        state.L[i] += (Math.random() - 0.5) * 0.3;
-        state.C[i] += (Math.random() - 0.5) * 0.3;
-        state.S[i] += (Math.random() - 0.5) * 0.2;
-        state.A[i] += (Math.random() - 0.5) * 0.1;
+        // Minimal noise (снижен шум)
+        state.L[i] += (Math.random() - 0.5) * 0.15;
+        state.C[i] += (Math.random() - 0.5) * 0.15;
+        state.S[i] += (Math.random() - 0.5) * 0.10;
+        state.A[i] += (Math.random() - 0.5) * 0.05;
     }
     
     return state;
@@ -1009,7 +1074,8 @@ function runSimulation() {
             C: [state.C.slice()],
             S: [state.S.slice()],
             A: [state.A.slice()],
-            psiloConc: [scenario === 'psychedelic' ? 0 : null]
+            psiloConc: [scenario === 'psychedelic' ? 0 : null],
+            neuromod: [computeNeuromodulators(0, scenario, params.ACh, params.NE, params.Orx)]  // НОВОЕ
         };
         
         const progressInterval = Math.max(1, Math.floor(steps / 20));
@@ -1033,6 +1099,7 @@ function runSimulation() {
                 if (scenario === 'psychedelic') {
                     solution.psiloConc.push(psilocybinConcentration(t));
                 }
+                solution.neuromod.push(computeNeuromodulators(t, scenario, params.ACh, params.NE, params.Orx));
             }
             
             if (step % progressInterval === 0 && step > 0) {
@@ -1250,16 +1317,16 @@ function plotCausalNetwork() {
 
 function plotNeuromodulators() {
     const sol = currentSolution;
-    const params = getParams();
     
-    // If psychedelic, show time-varying psilocybin
+    // показываем временную динамику из solution.neuromod
+    const ACh_t = sol.neuromod.map(m => m.ACh);
+    const NE_t = sol.neuromod.map(m => m.NE);
+    const Orx_t = sol.neuromod.map(m => m.Orx);
+    
     const traces = [
-        { x: sol.t, y: Array(sol.t.length).fill(params.ACh), 
-          name: 'ACh', line: { color: '#3498db', width: 3 } },
-        { x: sol.t, y: Array(sol.t.length).fill(params.NE), 
-          name: 'NE', line: { color: '#e74c3c', width: 3 } },
-        { x: sol.t, y: Array(sol.t.length).fill(params.Orx), 
-          name: 'Orexin', line: { color: '#2ecc71', width: 3 } }
+        { x: sol.t, y: ACh_t, name: 'ACh', line: { color: '#3498db', width: 3 } },
+        { x: sol.t, y: NE_t, name: 'NE', line: { color: '#e74c3c', width: 3 } },
+        { x: sol.t, y: Orx_t, name: 'Orexin', line: { color: '#2ecc71', width: 3 } }
     ];
     
     if (sol.psiloConc && sol.psiloConc[0] !== null) {
@@ -1339,6 +1406,8 @@ function updateStatus(state, scenario) {
         
         if (dmn_suppressed && ains_preserved && dmn_ains_diff > 1.5) {
             document.getElementById('statusText').textContent += ' | ✅ DMN-specific suppression validated';
+        } else {
+            document.getElementById('statusText').textContent += ` | ⚠️ Validation: S_DMN=${S_DMN.toFixed(2)}, S_aINS=${S_aINS.toFixed(2)}, Δ=${dmn_ains_diff.toFixed(2)}`;
         }
     }
 }
@@ -1374,9 +1443,10 @@ function resetParams() {
 // ==================== INIT ====================
 document.addEventListener('DOMContentLoaded', function() {
     initRegionSelector();
-    console.log('DCD 4.0 Dashboard v1.1 loaded');
-    console.log('Ready for simulation. Select scenario and press Run.');
+    console.log('DCD 4.0 Dashboard BETA v0.3');
+    console.log('Ready for simulation.');
 });
 </script>
+
 </body>
 </html>
