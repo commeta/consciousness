@@ -2265,7 +2265,7 @@
                     };
 
                     const layout = {
-                        title: 'Feature Importance (L²-norm of weights)',
+                        title: '',
                         margin: { l: 50, r: 80, t: 40, b: 80 },
                         xaxis: { tickangle: -45 }
                     };
@@ -2289,7 +2289,7 @@
                     marker: { color: colors, line: { width: 1, color: '#667eea' } }
                 };
                 const layout = {
-                    title: 'Predicted State Probabilities',
+                    title: '',
                     margin: { l: 50, r: 30, t: 40, b: 70 },
                     yaxis: { range: [0, 1], title: 'Probability' },
                     xaxis: { tickangle: -30 }
@@ -2374,7 +2374,7 @@
                             type: 'scatter'
                         };
 
-                        Plotly.react('tfPlotLatent', [trace], { title: 'Latent Space (raw)' }, { responsive: true });
+                        Plotly.react('tfPlotLatent', [trace], { title: '' }, { responsive: true });
                     }
 
                 } catch (err) {
@@ -2416,7 +2416,7 @@
                 ];
 
                 const layout = {
-                    title: 'Training Progress',
+                    title: '',
                     margin: { l: 50, r: 60, t: 40, b: 50 },
                     xaxis: { title: 'Epoch' },
                     yaxis: { title: 'Loss', side: 'left' },
