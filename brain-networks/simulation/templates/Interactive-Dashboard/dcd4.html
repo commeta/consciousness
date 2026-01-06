@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DCD 4.0 Dashboard — BETA v0.3.2</title>
+    <title>DCD 4.0 Dashboard — BETA v0.3.3</title>
     <script src="https://cdn.plot.ly/plotly-2.29.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/12.4.1/math.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.10.0/dist/tf.min.js"></script>
@@ -334,7 +334,7 @@
 <body>
     <div class="dashboard">
         <div class="header">
-            <h1>🧠 DCD 4.0 Interactive Dashboard<span class="version">v0.3.2 BETA</span></h1>
+            <h1>🧠 DCD 4.0 Interactive Dashboard<span class="version">v0.3.3 BETA</span></h1>
             <p class="subtitle">Differentiable Consciousness Dynamics — Механистическая модель сознания с полной
                 каузальной структурой и региональными параметрами</p>
         </div>
@@ -531,23 +531,74 @@
                 <div id="plotAttention" class="plot-container"></div>
             </div>
 
-            <!-- TF.js Widget (add into .viz-grid or elsewhere) -->
+            <!-- TF.js Widget (enhanced v2) -->
             <div class="viz-panel" id="tfjsWidgetPanel">
-                <h3>🤖 ML (TensorFlow.js) — Real-time Inference</h3>
-                <div style="display:flex; gap:12px; flex-wrap:wrap; margin-bottom:12px;">
-                    <button class="btn-primary" id="tfTrainBtn">Train demo model</button>
-                    <button class="btn-secondary" id="tfInferBtn">Run inference</button>
-                    <button class="btn-secondary" id="tfExportBtn">Export model (tfjs)</button>
-                    <button class="btn-secondary" id="tfClearBtn">Clear model</button>
+                <h3>🤖 ML (TensorFlow.js) — Enhanced Real-time Inference</h3>
+
+                <!-- Hyperparameters -->
+                <div style="display:flex; gap:8px; margin-bottom:10px; flex-wrap:wrap; align-items:center;">
+                    <label style="font-size:0.85em; font-weight:600;">Epochs:
+                        <input type="number" id="tfEpochs" min="5" max="50" value="18" style="width:50px; padding:4px;">
+                    </label>
+                    <label style="font-size:0.85em; font-weight:600;">Batch:
+                        <input type="number" id="tfBatch" min="8" max="64" step="8" value="24"
+                            style="width:50px; padding:4px;">
+                    </label>
+                    <label style="font-size:0.85em; font-weight:600;">LR:
+                        <input type="number" id="tfLR" min="0.0001" max="0.01" step="0.0001" value="0.001"
+                            style="width:70px; padding:4px;">
+                    </label>
+                    <label style="font-size:0.85em;">
+                        <input type="checkbox" id="tfAugment" checked> Augmentation
+                    </label>
+                    <label style="font-size:0.85em;">
+                        <input type="checkbox" id="tfNormalize" checked> Z-score norm
+                    </label>
                 </div>
 
-                <div id="tfLog" class="info-box" style="min-height:48px; font-size:0.9em;">
-                    ML widget ready — press «Train demo model» to build a quick classifier/regressor from synthetic
-                    data.
+                <!-- Buttons -->
+                <div style="display:flex; gap:10px; flex-wrap:wrap; margin-bottom:12px;">
+                    <button class="btn-primary" id="tfTrainBtn" style="flex:1; min-width:140px;">▶ Train model</button>
+                    <button class="btn-secondary" id="tfInferBtn" style="flex:1; min-width:120px;">🔮 Infer</button>
+                    <button class="btn-secondary" id="tfImportanceBtn" style="flex:1; min-width:120px;">🔍
+                        Importance</button>
+                    <button class="btn-secondary" id="tfExportBtn" style="flex:0.8; min-width:100px;">⬇️ Export</button>
+                    <button class="btn-secondary" id="tfClearBtn" style="flex:0.6; min-width:80px;">🗑️ Clear</button>
                 </div>
 
-                <div id="tfPlotProbs" class="plot-container" style="height:220px; margin-top:12px;"></div>
-                <div id="tfPlotLatent" class="plot-container" style="height:220px; margin-top:12px;"></div>
+                <!-- Progress bar -->
+                <div id="tfProgressBar"
+                    style="width:100%; height:8px; background:#e0e0e0; border-radius:4px; overflow:hidden; margin-bottom:8px; display:none;">
+                    <div id="tfProgressFill"
+                        style="width:0%; height:100%; background:linear-gradient(90deg,#667eea,#764ba2); transition:width 0.2s ease;">
+                    </div>
+                </div>
+
+                <!-- Log -->
+                <div id="tfLog" class="info-box" style="min-height:52px; font-size:0.88em; margin-bottom:12px;">
+                    ✅ ML widget ready — configure hyperparameters above, then press «Train model»
+                </div>
+
+                <!-- Metrics dashboard -->
+                <div id="tfMetrics"
+                    style="display:none; margin-bottom:12px; padding:12px; background:#f0f7ff; border-left:4px solid #3498db; border-radius:6px; font-size:0.86em;">
+                    <div style="font-weight:700; margin-bottom:6px; color:#2c3e50;">Training Metrics (last epoch)</div>
+                    <div style="display:flex; gap:20px; flex-wrap:wrap;">
+                        <span><strong>Train:</strong> loss=<span id="tfTrainLoss"
+                                style="font-family:monospace;">--</span>, acc=<span id="tfTrainAcc"
+                                style="font-family:monospace;">--</span></span>
+                        <span><strong>Val:</strong> loss=<span id="tfValLoss" style="font-family:monospace;">--</span>,
+                            acc=<span id="tfValAcc" style="font-family:monospace;">--</span></span>
+                    </div>
+                </div>
+
+                <!-- Plots grid -->
+                <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:12px;">
+                    <div id="tfPlotProbs" class="plot-container" style="height:240px;"></div>
+                    <div id="tfPlotLatent" class="plot-container" style="height:240px;"></div>
+                    <div id="tfPlotTraining" class="plot-container" style="height:240px;"></div>
+                    <div id="tfPlotImportance" class="plot-container" style="height:240px;"></div>
+                </div>
             </div>
 
 
@@ -829,7 +880,7 @@
             }
         }
 
-        // ==================== ВРЕМЕННАЯ МОДУЛЯЦИЯ (НОВОЕ) ====================
+        // ==================== ВРЕМЕННАЯ МОДУЛЯЦИЯ ====================
         function computeCircadianDrive(t) {
             // Синусоидальная модуляция с минимумом в 3 AM, максимумом в 3 PM
             // t в минутах от начала симуляции; предполагаем старт в 9 AM
@@ -950,7 +1001,7 @@
                 // DMN-specific psychedelic suppression (более агрессивный)
                 if (DMN_INDICES.includes(i)) {
                     const suppression_factor = params.alpha_psych * psiloConc * state.S[i];
-                    dS[i] -= suppression_factor * (1 + 0.5 * psiloConc);  // НОВОЕ: нелинейное усиление
+                    dS[i] -= suppression_factor * (1 + 0.5 * psiloConc);  // нелинейное усиление
                 }
 
                 // dA/dt (attention)
@@ -975,7 +1026,7 @@
                 dC[i] += dC_spatial[i];
                 dS[i] += dS_spatial[i];
 
-                // НОВОЕ: дополнительное затухание для sleep сценариев
+                // дополнительное затухание для sleep сценариев
                 if (['N2', 'N3'].includes(scenario)) {
                     dL[i] -= 0.15 * state.L[i];  // дополнительный decay
                     dC[i] -= 0.20 * state.C[i];
@@ -1046,7 +1097,7 @@
                     if (['wake', 'psychedelic'].includes(scenario)) {
                         state.C[i] += 0.3;
                     } else if (['N2', 'N3', 'propofol'].includes(scenario)) {
-                        state.C[i] -= 0.2;  // НОВОЕ: дополнительное подавление
+                        state.C[i] -= 0.2;  // дополнительное подавление
                     }
                 }
 
@@ -1130,7 +1181,7 @@
                     S: [state.S.slice()],
                     A: [state.A.slice()],
                     psiloConc: [scenario === 'psychedelic' ? 0 : null],
-                    neuromod: [computeNeuromodulators(0, scenario, params.ACh, params.NE, params.Orx)]  // НОВОЕ
+                    neuromod: [computeNeuromodulators(0, scenario, params.ACh, params.NE, params.Orx)]
                 };
 
                 const progressInterval = Math.max(1, Math.floor(steps / 20));
@@ -1512,7 +1563,7 @@
             const exportObj = {
                 metadata: {
                     app: 'DCD 4.0 Dashboard',
-                    version: 'v0.3.2 BETA',
+                    version: 'v0.3.3 BETA',
                     exported_at: (new Date()).toISOString(),
                     scenario: scenario,
                     duration_min: duration,
@@ -1591,7 +1642,7 @@
         // ==================== INIT ====================
         document.addEventListener('DOMContentLoaded', function () {
             initRegionSelector();
-            console.log('DCD 4.0 Dashboard BETA v0.3.2');
+            console.log('DCD 4.0 Dashboard BETA v0.3.3');
             console.log('Ready for simulation.');
         });
     </script>
@@ -1599,485 +1650,748 @@
 
 
     <script>
-        // ================= TF.JS WIDGET =================
-        /*
-          Маленький, self-contained TF.js widget:
-          - extracts features from currentSolution
-          - builds small MLP with bottleneck (latent) + dual heads: softmax(classes) + regression (PCI)
-          - can generate synthetic demo dataset and train in-browser
-          - inference: shows class probs bar chart and 2D latent scatter (Plotly)
-        */
+        // ================= ENHANCED TF.JS WIDGET v2.0 =================
+        /**
+         * Improvements:
+         * - Fixed int32/float32 type mismatch (one-hot encoding)
+         * - Added memory management (tensor disposal)
+         * - Implemented z-score normalization
+         * - Added validation split (20%)
+         * - Enhanced architecture (deeper bottleneck)
+         * - Real-time training curves
+         * - Feature importance visualization
+         * - Data augmentation toggle
+         * - Progress bar & metrics dashboard
+         * - Robust error handling
+         */
 
-        (async function setupTFWidget() {
+        (async function setupEnhancedTFWidget() {
             if (typeof tf === 'undefined') {
-                console.warn('TensorFlow.js not loaded. Make sure to include the CDN script.');
+                console.warn('⚠️ TensorFlow.js not loaded.');
+                document.getElementById('tfLog').textContent = '❌ TensorFlow.js library not available';
                 return;
             }
 
-            // CONFIG
+            // ==================== CONFIG ====================
             const TF_WIDGET = {
-                windowSize: 32,         // number of time points used as input (truncate/pad)
-                regions: REGIONS.length,
-                featuresPerRegion: 3,   // L,C,S
+                windowSize: 32,
+                regions: 13,
+                featuresPerRegion: 3,
                 classes: ['VS/UWS', 'MCS-', 'MCS+', 'EMCS', 'Conscious'],
-                model: null
+                model: null,
+                normalizer: null, // {mean, std}
+                trainingHistory: {
+                    loss: [], val_loss: [], acc: [], val_acc: [], pci_mse: [], val_pci_mse: []
+                }
             };
 
             // UI elements
             const trainBtn = document.getElementById('tfTrainBtn');
             const inferBtn = document.getElementById('tfInferBtn');
+            const importanceBtn = document.getElementById('tfImportanceBtn');
             const exportBtn = document.getElementById('tfExportBtn');
             const clearBtn = document.getElementById('tfClearBtn');
             const tfLog = document.getElementById('tfLog');
+            const tfProgressBar = document.getElementById('tfProgressBar');
+            const tfProgressFill = document.getElementById('tfProgressFill');
+            const tfMetrics = document.getElementById('tfMetrics');
 
-            // helper UI log
-            function logTF(msg) {
-                tfLog.textContent = msg;
+            // ==================== UTILITIES ====================
+            function logTF(msg, type = 'info') {
+                const icons = { info: 'ℹ️', success: '✅', warning: '⚠️', error: '❌' };
+                tfLog.textContent = `${icons[type] || ''} ${msg}`;
                 console.log('[TFWidget]', msg);
             }
 
-            // ---------------- Feature extraction ----------------
-            // Input: currentSolution (structure used in dashboard)
-            // Output: Float32Array shape [windowSize, regions * featuresPerRegion]
+            function updateProgress(percent) {
+                tfProgressFill.style.width = `${Math.min(100, Math.max(0, percent))}%`;
+            }
+
+            function updateMetrics(logs) {
+                tfMetrics.style.display = 'block';
+                document.getElementById('tfTrainLoss').textContent = (logs.loss || 0).toFixed(4);
+                document.getElementById('tfTrainAcc').textContent = (logs.classOut_accuracy || 0).toFixed(3);
+                document.getElementById('tfValLoss').textContent = (logs.val_loss || 0).toFixed(4);
+                document.getElementById('tfValAcc').textContent = (logs.val_classOut_accuracy || 0).toFixed(3);
+            }
+
+            function clip(x, min, max) {
+                return Math.max(min, Math.min(max, x));
+            }
+
+            // ==================== FEATURE EXTRACTION ====================
+            /**
+             * Extracts [windowSize, regions*3] window from currentSolution
+             * Returns: Float32Array (flattened) or null
+             */
             function extractWindowFromSolution(sol, windowSize = TF_WIDGET.windowSize) {
-                if (!sol || !sol.t || !sol.L) return null;
+                if (!sol || !sol.t || !sol.L || !sol.C || !sol.S) {
+                    throw new Error('Invalid solution structure');
+                }
+
                 const T = sol.t.length;
-                // Build array of shape [T, regions, 3]
-                const arr = new Array(T);
-                for (let ti = 0; ti < T; ti++) {
+                if (T < 1) throw new Error('Empty solution');
+
+                // Build [T, regions*3] array
+                const data = [];
+                for (let t = 0; t < T; t++) {
                     const row = [];
                     for (let r = 0; r < TF_WIDGET.regions; r++) {
-                        row.push(sol.L[ti][r] || 0);
-                        row.push(sol.C[ti][r] || 0);
-                        row.push(sol.S[ti][r] || 0);
+                        row.push(sol.L[t][r] || 0, sol.C[t][r] || 0, sol.S[t][r] || 0);
                     }
-                    arr[ti] = row;
+                    data.push(row);
                 }
-                // take last windowSize timepoints (pad with zeros at front if needed)
+
+                // Take last windowSize points (pad with zeros if needed)
                 const start = Math.max(0, T - windowSize);
-                const window = [];
-                for (let i = start; i < T; i++) window.push(arr[i]);
-                while (window.length < windowSize) window.unshift(new Array(TF_WIDGET.regions * TF_WIDGET.featuresPerRegion).fill(0));
-                // Flatten to 1D Float32Array (row-major time first)
-                const flat = new Float32Array(windowSize * TF_WIDGET.regions * TF_WIDGET.featuresPerRegion);
-                let idx = 0;
-                for (let ti = 0; ti < windowSize; ti++) {
-                    const row = window[ti];
-                    for (let k = 0; k < row.length; k++) flat[idx++] = row[k];
+                const window = data.slice(start);
+                while (window.length < windowSize) {
+                    window.unshift(new Array(TF_WIDGET.regions * 3).fill(0));
                 }
+
+                // Flatten
+                const flat = new Float32Array(windowSize * TF_WIDGET.regions * 3);
+                let idx = 0;
+                for (const row of window) {
+                    for (const val of row) flat[idx++] = val;
+                }
+
                 return flat;
             }
 
-            // ---------------- Synthetic dataset generator ----------------
-            // Generates N synthetic examples by sampling around scenario presets.
-            // Each sample is (inputVector, labelClassIndex, pciValue)
-            function generateSyntheticDataset(N = 200, windowSize = TF_WIDGET.windowSize) {
+            // ==================== NORMALIZATION ====================
+            function computeNormalizer(dataset) {
+                const n = dataset.length;
+                const dim = dataset[0].x.length;
+
+                // Compute mean
+                const mean = new Float32Array(dim);
+                for (const sample of dataset) {
+                    for (let i = 0; i < dim; i++) mean[i] += sample.x[i];
+                }
+                for (let i = 0; i < dim; i++) mean[i] /= n;
+
+                // Compute std
+                const std = new Float32Array(dim);
+                for (const sample of dataset) {
+                    for (let i = 0; i < dim; i++) {
+                        const diff = sample.x[i] - mean[i];
+                        std[i] += diff * diff;
+                    }
+                }
+                for (let i = 0; i < dim; i++) {
+                    std[i] = Math.sqrt(std[i] / Math.max(1, n - 1));
+                    if (std[i] < 1e-6) std[i] = 1.0; // avoid division by zero
+                }
+
+                return { mean, std };
+            }
+
+            function normalize(x, normalizer) {
+                const result = new Float32Array(x.length);
+                for (let i = 0; i < x.length; i++) {
+                    result[i] = (x[i] - normalizer.mean[i]) / normalizer.std[i];
+                }
+                return result;
+            }
+
+            // ==================== DATA AUGMENTATION ====================
+            function augmentSample(sample, normalizer) {
+                const windowSize = TF_WIDGET.windowSize;
+                const featDim = TF_WIDGET.regions * 3;
+                const aug = new Float32Array(sample.length);
+
+                // Random time shift (±3 timepoints)
+                const timeShift = Math.floor((Math.random() - 0.5) * 6);
+
+                for (let i = 0; i < sample.length; i++) {
+                    const tIdx = Math.floor(i / featDim);
+                    const newTIdx = clip(tIdx + timeShift, 0, windowSize - 1);
+                    const offset = i % featDim;
+                    const newIdx = newTIdx * featDim + offset;
+
+                    // Add gaussian noise (σ=0.1 after normalization)
+                    const noise = (Math.random() - 0.5) * 0.2;
+                    aug[i] = sample[newIdx] + noise;
+                }
+
+                return aug;
+            }
+
+            // ==================== SYNTHETIC DATASET ====================
+            function generateSyntheticDataset(N = 300, windowSize = TF_WIDGET.windowSize) {
                 const examples = [];
                 const scenarios = Object.keys(SCENARIO_PRESETS);
+
                 for (let i = 0; i < N; i++) {
-                    // choose random scenario as center
                     const scKey = scenarios[Math.floor(Math.random() * scenarios.length)];
                     const preset = SCENARIO_PRESETS[scKey];
-                    // create synthetic time-series: sample gaussian noise around preset L/C/S
-                    const T = windowSize;
-                    const sample = new Float32Array(T * TF_WIDGET.regions * TF_WIDGET.featuresPerRegion);
-                    let idx = 0;
-                    // small random drift across time per example
-                    const driftL = (Math.random() - 0.5) * 1.2;
-                    const driftC = (Math.random() - 0.5) * 1.2;
+
+                    const sample = new Float32Array(windowSize * TF_WIDGET.regions * 3);
+
+                    // Random global drifts
+                    const driftL = (Math.random() - 0.5) * 1.5;
+                    const driftC = (Math.random() - 0.5) * 1.5;
                     const driftS = (Math.random() - 0.5) * 1.2;
 
-                    for (let t = 0; t < T; t++) {
+                    let idx = 0;
+                    for (let t = 0; t < windowSize; t++) {
+                        const tFrac = t / windowSize;
                         for (let r = 0; r < TF_WIDGET.regions; r++) {
-                            // base values informed by preset; add region-specific var and time noise
-                            const baseL = preset.L + (Math.random() - 0.5) * 0.6 + 0.05 * r + driftL * (t / T);
-                            const baseC = preset.C + (Math.random() - 0.5) * 0.6 + 0.03 * r + driftC * (t / T);
-                            const baseS = preset.S + (Math.random() - 0.5) * 0.6 + 0.02 * r + driftS * (t / T);
-                            sample[idx++] = clip(baseL + (Math.random() - 0.5) * 0.3, 0, 10);
-                            sample[idx++] = clip(baseC + (Math.random() - 0.5) * 0.3, 0, 10);
-                            sample[idx++] = clip(baseS + (Math.random() - 0.5) * 0.2, 0, 10);
+                            const regionNoise = (Math.random() - 0.5) * 0.4;
+                            const timeNoise = (Math.random() - 0.5) * 0.3;
+
+                            const L = clip(preset.L + driftL * tFrac + regionNoise + timeNoise, 0, 10);
+                            const C = clip(preset.C + driftC * tFrac + regionNoise * 0.8 + timeNoise, 0, 10);
+                            const S = clip(preset.S + driftS * tFrac + regionNoise * 0.6 + timeNoise, 0, 10);
+
+                            sample[idx++] = L;
+                            sample[idx++] = C;
+                            sample[idx++] = S;
                         }
                     }
 
-                    // label by the same logic as updateStatus: use mean L across regions at final timepoint
-                    const lastL = (() => {
-                        const offset = (T - 1) * (TF_WIDGET.regions * TF_WIDGET.featuresPerRegion);
-                        let sum = 0;
-                        for (let r = 0; r < TF_WIDGET.regions; r++) sum += sample[offset + r * 3]; // L values
-                        return sum / TF_WIDGET.regions;
-                    })();
+                    // Label: use mean L from last timepoint
+                    const lastOffset = (windowSize - 1) * (TF_WIDGET.regions * 3);
+                    let sumL = 0;
+                    for (let r = 0; r < TF_WIDGET.regions; r++) {
+                        sumL += sample[lastOffset + r * 3];
+                    }
+                    const meanL = sumL / TF_WIDGET.regions;
+                    const pci = meanL / 10.0;
 
-                    // PCI proxy
-                    const pci = lastL / 10.0;
-
-                    // clinical class thresholds (same as updateStatus)
-                    let cls = 4; // 0..4 mapping to classes array
-                    if (lastL < 2.5) cls = 0;
-                    else if (lastL < 4.0) cls = 1;
-                    else if (lastL < 5.5) cls = 2;
-                    else if (lastL < 7.0) cls = 3;
-                    else cls = 4;
+                    // Clinical classification
+                    let cls = 4;
+                    if (meanL < 2.5) cls = 0;
+                    else if (meanL < 4.0) cls = 1;
+                    else if (meanL < 5.5) cls = 2;
+                    else if (meanL < 7.0) cls = 3;
 
                     examples.push({ x: sample, yClass: cls, yPCI: pci });
                 }
+
                 return examples;
             }
 
-            // ---------------- Model builder ----------------
+            // ==================== MODEL BUILDER ====================
             function buildModel(inputDim) {
-                // input: flattened vector length inputDim
-                // architecture: [input] -> Dense(128) -> Dense(32) (bottleneck) -> heads
                 const input = tf.input({ shape: [inputDim] });
-                const d1 = tf.layers.dense({ units: 128, activation: 'relu' }).apply(input);
-                const bn = tf.layers.dense({ units: 32, activation: 'relu', name: 'bottleneck' }).apply(d1);
-                const dropout = tf.layers.dropout({ rate: 0.2 }).apply(bn);
 
-                const classOut = tf.layers.dense({ units: TF_WIDGET.classes.length, activation: 'softmax', name: 'classOut' }).apply(dropout);
-                const pciOut = tf.layers.dense({ units: 1, activation: 'linear', name: 'pciOut' }).apply(dropout);
+                // Deeper architecture: 1248 -> 512 -> 128 -> 64 (bottleneck)
+                let x = tf.layers.dense({ units: 512, activation: 'relu', kernelInitializer: 'heNormal' }).apply(input);
+                x = tf.layers.batchNormalization().apply(x);
+                x = tf.layers.dropout({ rate: 0.3 }).apply(x);
+
+                x = tf.layers.dense({ units: 128, activation: 'relu', kernelInitializer: 'heNormal' }).apply(x);
+                x = tf.layers.batchNormalization().apply(x);
+
+                const bottleneck = tf.layers.dense({ units: 64, activation: 'relu', name: 'bottleneck' }).apply(x);
+                const dropout = tf.layers.dropout({ rate: 0.25 }).apply(bottleneck);
+
+                // Dual heads
+                const classOut = tf.layers.dense({
+                    units: TF_WIDGET.classes.length,
+                    activation: 'softmax',
+                    name: 'classOut'
+                }).apply(dropout);
+
+                const pciOut = tf.layers.dense({
+                    units: 1,
+                    activation: 'linear',
+                    name: 'pciOut'
+                }).apply(dropout);
 
                 const model = tf.model({ inputs: input, outputs: [classOut, pciOut] });
 
                 model.compile({
-                    optimizer: tf.train.adam(0.001),
-                    loss: { classOut: 'sparseCategoricalCrossentropy', pciOut: 'meanSquaredError' },
-                    metrics: { classOut: 'accuracy', pciOut: 'mse' }
+                    optimizer: tf.train.adam(parseFloat(document.getElementById('tfLR').value)),
+                    loss: {
+                        classOut: 'categoricalCrossentropy', // one-hot labels
+                        pciOut: 'meanSquaredError'
+                    },
+                    metrics: {
+                        classOut: ['accuracy'],
+                        pciOut: ['mse']
+                    }
                 });
 
                 return model;
             }
 
-            // ---------------- Train function ----------------
-            // ================== ЗАМЕНА: trainOnSynthetic ==================
-            async function trainOnSynthetic(N = 200, epochs = 18, batchSize = 24) {
-                logTF('Generating synthetic dataset...');
+            // ==================== TRAINING ====================
+            async function trainOnSynthetic() {
+                const N = 300;
+                const epochs = parseInt(document.getElementById('tfEpochs').value);
+                const batchSize = parseInt(document.getElementById('tfBatch').value);
+                const useAugment = document.getElementById('tfAugment').checked;
+                const useNorm = document.getElementById('tfNormalize').checked;
+
+                logTF(`Generating ${N} synthetic examples...`, 'info');
                 const dataset = generateSyntheticDataset(N);
-                const inputDim = TF_WIDGET.windowSize * TF_WIDGET.regions * TF_WIDGET.featuresPerRegion;
 
-                // X: [N, inputDim]
-                const X = tf.tensor2d(dataset.map(d => Array.from(d.x)), [dataset.length, inputDim], 'float32');
+                // Compute normalizer
+                if (useNorm) {
+                    TF_WIDGET.normalizer = computeNormalizer(dataset);
+                    logTF('Z-score normalization computed', 'success');
+                } else {
+                    TF_WIDGET.normalizer = null;
+                }
 
-                // yClass: convert to one-hot float32 to avoid int32 -> floor() issues
+                // Apply normalization
+                if (TF_WIDGET.normalizer) {
+                    for (const sample of dataset) {
+                        sample.x = normalize(sample.x, TF_WIDGET.normalizer);
+                    }
+                }
+
+                // Data augmentation (double dataset size)
+                if (useAugment) {
+                    const augmented = [];
+                    for (const sample of dataset) {
+                        augmented.push({
+                            x: augmentSample(sample.x, TF_WIDGET.normalizer),
+                            yClass: sample.yClass,
+                            yPCI: sample.yPCI
+                        });
+                    }
+                    dataset.push(...augmented);
+                    logTF(`Augmentation: ${dataset.length} total samples`, 'success');
+                }
+
+                // Convert to tensors
+                const inputDim = dataset[0].x.length;
+                const X = tf.tensor2d(dataset.map(d => Array.from(d.x)), [dataset.length, inputDim]);
+
+                // One-hot encode class labels (CRITICAL FIX)
                 const numClasses = TF_WIDGET.classes.length;
                 const yClassArr = dataset.map(d => {
-                    const one = new Array(numClasses).fill(0);
-                    one[d.yClass] = 1;
-                    return one;
+                    const oneHot = new Array(numClasses).fill(0);
+                    oneHot[d.yClass] = 1;
+                    return oneHot;
                 });
                 const yClass = tf.tensor2d(yClassArr, [dataset.length, numClasses], 'float32');
 
-                // yPCI: regression target (float32)
-                const yPCI = tf.tensor2d(dataset.map(d => [d.yPCI]), [dataset.length, 1], 'float32');
+                const yPCI = tf.tensor2d(dataset.map(d => [d.yPCI]), [dataset.length, 1]);
 
-                logTF('Building model...');
+                // Build model
+                logTF('Building model...', 'info');
                 TF_WIDGET.model = buildModel(inputDim);
 
-                // Re-compile model to use categoricalCrossentropy for one-hot labels
-                TF_WIDGET.model.compile({
-                    optimizer: tf.train.adam(0.001),
-                    loss: { classOut: 'categoricalCrossentropy', pciOut: 'meanSquaredError' },
-                    metrics: { classOut: 'accuracy', pciOut: 'mse' }
-                });
+                // Reset history
+                TF_WIDGET.trainingHistory = {
+                    loss: [], val_loss: [], acc: [], val_acc: [], pci_mse: [], val_pci_mse: []
+                };
 
-                logTF(`Training model: N=${N}, epochs=${epochs}, batch=${batchSize}...`);
+                // Training
+                tfProgressBar.style.display = 'block';
+                updateProgress(0);
+
+                logTF(`Training: ${epochs} epochs, batch ${batchSize}...`, 'info');
+
                 try {
-                    const history = await TF_WIDGET.model.fit(X, { classOut: yClass, pciOut: yPCI }, {
-                        epochs, batchSize, shuffle: true,
+                    await TF_WIDGET.model.fit(X, { classOut: yClass, pciOut: yPCI }, {
+                        epochs,
+                        batchSize,
+                        validationSplit: 0.2,
+                        shuffle: true,
                         callbacks: {
+                            onEpochBegin: async () => {
+                                await tf.nextFrame();
+                            },
                             onEpochEnd: async (epoch, logs) => {
-                                logTF(`Epoch ${epoch + 1}/${epochs} — loss=${(logs.loss || 0).toFixed(4)} class_acc=${(logs.classOut_accuracy || 0).toFixed(3)} pci_mse=${(logs.pciOut_mse || 0).toFixed(5)}`);
+                                // Update history
+                                TF_WIDGET.trainingHistory.loss.push(logs.loss);
+                                TF_WIDGET.trainingHistory.val_loss.push(logs.val_loss || null);
+                                TF_WIDGET.trainingHistory.acc.push(logs.classOut_accuracy);
+                                TF_WIDGET.trainingHistory.val_acc.push(logs.val_classOut_accuracy || null);
+                                TF_WIDGET.trainingHistory.pci_mse.push(logs.pciOut_mse);
+                                TF_WIDGET.trainingHistory.val_pci_mse.push(logs.val_pciOut_mse || null);
+
+                                // Update UI
+                                const progress = ((epoch + 1) / epochs) * 100;
+                                updateProgress(progress);
+                                updateMetrics(logs);
+
+                                logTF(`Epoch ${epoch + 1}/${epochs} — val_loss=${(logs.val_loss || 0).toFixed(4)} val_acc=${(logs.val_classOut_accuracy || 0).toFixed(3)}`, 'info');
+
+                                // Update training curves every 2 epochs
+                                if (epoch % 2 === 0 || epoch === epochs - 1) {
+                                    updateTrainingCurves();
+                                }
+
                                 await tf.nextFrame();
                             }
                         }
                     });
-                    logTF('Training complete — model ready for inference.');
+
+                    updateProgress(100);
+                    logTF('✅ Training complete! Model ready for inference.', 'success');
+
                 } catch (err) {
-                    console.error('Training pipeline error:', err);
-                    logTF('Training error: ' + (err && err.message ? err.message : String(err)));
+                    console.error('Training error:', err);
+                    logTF(`Training failed: ${err.message}`, 'error');
                 } finally {
-                    // освобождаем тензоры, чтобы не накапливать память
+                    // Cleanup tensors
                     X.dispose();
                     yClass.dispose();
                     yPCI.dispose();
+                    tfProgressBar.style.display = 'none';
                     await tf.nextFrame();
                 }
             }
 
-            // ---------------- Inference ----------------
+            // ==================== INFERENCE ====================
             async function inferCurrentSolution() {
                 if (!TF_WIDGET.model) {
-                    logTF('No model: press "Train demo model" first.');
+                    logTF('No model loaded. Train first.', 'warning');
                     return;
                 }
                 if (!currentSolution) {
-                    logTF('No simulation result (currentSolution is null). Run a simulation first.');
+                    logTF('No simulation data (currentSolution is null). Run a simulation first.', 'warning');
                     return;
                 }
 
-                const flat = extractWindowFromSolution(currentSolution);
-                if (!flat) {
-                    logTF('Could not extract features from currentSolution.');
-                    return;
+                try {
+                    // Extract features
+                    let flat = extractWindowFromSolution(currentSolution);
+
+                    // Normalize
+                    if (TF_WIDGET.normalizer) {
+                        flat = normalize(flat, TF_WIDGET.normalizer);
+                    }
+
+                    const inputDim = flat.length;
+                    const xs = tf.tensor2d([Array.from(flat)], [1, inputDim]);
+
+                    // Predict
+                    const [predProbs, predPCI] = TF_WIDGET.model.predict(xs);
+                    const probs = Array.from(await predProbs.data());
+                    const pciVal = (await predPCI.data())[0];
+
+                    // Cleanup tensors (CRITICAL FIX for memory leak)
+                    xs.dispose();
+                    predProbs.dispose();
+                    predPCI.dispose();
+
+                    // Update visualizations
+                    plotProbs(probs);
+                    await plotLatentProjection(flat);
+
+                    // Log results
+                    const maxIdx = probs.indexOf(Math.max(...probs));
+                    const predictedLabel = TF_WIDGET.classes[maxIdx];
+                    logTF(`Predicted: ${predictedLabel} (p=${probs[maxIdx].toFixed(3)}), PCI≈${pciVal.toFixed(3)}`, 'success');
+
+                    // Update main status bar
+                    document.getElementById('statusText').textContent =
+                        `🤖 ML: ${predictedLabel} (conf=${(probs[maxIdx] * 100).toFixed(0)}%), PCI=${pciVal.toFixed(3)}`;
+
+                } catch (err) {
+                    console.error('Inference error:', err);
+                    logTF(`Inference failed: ${err.message}`, 'error');
                 }
-                const inputDim = flat.length;
-                const xs = tf.tensor2d([Array.from(flat)], [1, inputDim]);
-
-                // predict
-                const [predProbs, predPCI] = TF_WIDGET.model.predict(xs);
-                const probs = (await predProbs.data()).slice();
-                const pciVal = (await predPCI.data())[0];
-
-                xs.dispose(); predProbs.dispose(); predPCI.dispose();
-
-                // Update UI charts
-                plotProbs(probs);
-                plotLatentProjection(flat);
-
-                // Map predicted class index to label
-                const maxIdx = probs.indexOf(Math.max(...probs));
-                const predictedLabel = TF_WIDGET.classes[maxIdx];
-
-                logTF(`Inference: predicted="${predictedLabel}" (prob ${probs[maxIdx].toFixed(3)}), PCI≈${pciVal.toFixed(3)}`);
-
-                // Optionally update status bar
-                document.getElementById('statusText').textContent = `ML: predicted ${predictedLabel} (p=${probs[maxIdx].toFixed(2)}), PCI=${pciVal.toFixed(3)}`;
             }
 
-            // ---------------- Visualization helpers ----------------
+            // ==================== FEATURE IMPORTANCE ====================
+            async function computeFeatureImportance() {
+                if (!TF_WIDGET.model) {
+                    logTF('No model. Train first.', 'warning');
+                    return;
+                }
+
+                try {
+                    logTF('Computing feature importance...', 'info');
+
+                    // Extract weights from first dense layer
+                    const firstDense = TF_WIDGET.model.layers.find(l => l.name.includes('dense'));
+                    if (!firstDense) throw new Error('No dense layer found');
+
+                    const weights = firstDense.getWeights()[0]; // [inputDim, units]
+                    const wData = await weights.array();
+
+                    // Compute L2 norm for each input feature
+                    const inputDim = wData.length;
+                    const importance = new Array(inputDim);
+                    for (let i = 0; i < inputDim; i++) {
+                        let sum = 0;
+                        for (const val of wData[i]) sum += val * val;
+                        importance[i] = Math.sqrt(sum);
+                    }
+
+                    // Aggregate by region and variable (L/C/S)
+                    const regionImportance = new Array(TF_WIDGET.regions).fill(0).map(() => ({ L: 0, C: 0, S: 0 }));
+                    for (let t = 0; t < TF_WIDGET.windowSize; t++) {
+                        for (let r = 0; r < TF_WIDGET.regions; r++) {
+                            const idx = t * (TF_WIDGET.regions * 3) + r * 3;
+                            regionImportance[r].L += importance[idx];
+                            regionImportance[r].C += importance[idx + 1];
+                            regionImportance[r].S += importance[idx + 2];
+                        }
+                    }
+
+                    // Normalize to [0, 1]
+                    const maxImp = Math.max(...regionImportance.flatMap(ri => [ri.L, ri.C, ri.S]));
+                    if (maxImp > 0) {
+                        regionImportance.forEach(ri => {
+                            ri.L /= maxImp;
+                            ri.C /= maxImp;
+                            ri.S /= maxImp;
+                        });
+                    }
+
+                    // Plot heatmap
+                    const trace = {
+                        type: 'heatmap',
+                        z: [
+                            regionImportance.map(ri => ri.L),
+                            regionImportance.map(ri => ri.C),
+                            regionImportance.map(ri => ri.S)
+                        ],
+                        x: REGIONS,
+                        y: ['L', 'C', 'S'],
+                        colorscale: 'Viridis',
+                        colorbar: { title: 'Importance' }
+                    };
+
+                    const layout = {
+                        title: 'Feature Importance (L²-norm of weights)',
+                        margin: { l: 50, r: 80, t: 40, b: 80 },
+                        xaxis: { tickangle: -45 }
+                    };
+
+                    Plotly.react('tfPlotImportance', [trace], layout, { responsive: true });
+                    logTF('Feature importance computed', 'success');
+
+                } catch (err) {
+                    console.error('Importance error:', err);
+                    logTF(`Importance calculation failed: ${err.message}`, 'error');
+                }
+            }
+
+            // ==================== VISUALIZATION ====================
             function plotProbs(probs) {
+                const colors = probs.map(p => `rgba(102, 126, 234, ${0.3 + 0.7 * p})`);
                 const trace = {
                     x: TF_WIDGET.classes,
                     y: probs,
                     type: 'bar',
-                    marker: { color: probs.map(p => `rgba(100,150,240,${0.3 + 0.7 * p})`) }
+                    marker: { color: colors, line: { width: 1, color: '#667eea' } }
                 };
                 const layout = {
-                    title: 'Predicted clinical state probabilities',
-                    margin: { l: 40, r: 20, t: 30, b: 60 },
-                    yaxis: { range: [0, 1] }
+                    title: 'Predicted State Probabilities',
+                    margin: { l: 50, r: 30, t: 40, b: 70 },
+                    yaxis: { range: [0, 1], title: 'Probability' },
+                    xaxis: { tickangle: -30 }
                 };
                 Plotly.react('tfPlotProbs', [trace], layout, { responsive: true });
             }
 
-            // For latent projection we use the bottleneck output (32-d) and reduce to 2D via SVD (PCA)
             async function plotLatentProjection(flatInput) {
                 if (!TF_WIDGET.model) return;
-                // create a small dataset comprised of: current input + small random perturbations to visualize local cloud
-                const nPoints = 30;
-                const inputDim = flatInput.length;
-                const arr = [];
-                for (let i = 0; i < nPoints; i++) {
-                    const pert = new Float32Array(inputDim);
-                    for (let k = 0; k < inputDim; k++) {
-                        // small noise
-                        pert[k] = flatInput[k] + (Math.random() - 0.5) * 0.3;
-                    }
-                    arr.push(pert);
-                }
-                // run through bottleneck layer to get embedding (we can run model up to 'bottleneck')
-                const bottleneck = TF_WIDGET.model.getLayer('bottleneck'); // layer reference
-                if (!bottleneck) {
-                    logTF('No bottleneck layer found for latent plotting.');
-                    return;
-                }
-                // create a submodel from input to bottleneck
-                const subModel = tf.model({ inputs: TF_WIDGET.model.inputs, outputs: bottleneck.output });
 
-                const X = tf.tensor2d(arr.map(v => Array.from(v)), [nPoints, inputDim]);
-                const Z = subModel.predict(X); // shape [nPoints, 32]
-                const Zmat = await Z.array(); // convert to nested arrays
-                X.dispose(); Z.dispose();
-
-                // compute PCA via SVD (tf.linalg.svd) if available, otherwise use JS fallback
                 try {
-                    // If tf.linalg.svd exists, use it (fast / GPU-capable)
+                    // Generate local perturbations (30 points)
+                    const nPoints = 30;
+                    const inputDim = flatInput.length;
+                    const samples = [];
+
+                    for (let i = 0; i < nPoints; i++) {
+                        const pert = new Float32Array(inputDim);
+                        for (let k = 0; k < inputDim; k++) {
+                            pert[k] = flatInput[k] + (Math.random() - 0.5) * 0.4; // σ=0.2
+                        }
+                        samples.push(pert);
+                    }
+
+                    // Get bottleneck embeddings
+                    const bottleneck = TF_WIDGET.model.getLayer('bottleneck');
+                    if (!bottleneck) throw new Error('No bottleneck layer');
+
+                    const subModel = tf.model({ inputs: TF_WIDGET.model.inputs, outputs: bottleneck.output });
+                    const X = tf.tensor2d(samples.map(s => Array.from(s)), [nPoints, inputDim]);
+                    const Z = subModel.predict(X); // [nPoints, 64]
+                    const Zmat = await Z.array();
+
+                    X.dispose();
+                    Z.dispose();
+
+                    // PCA via SVD (if available)
                     if (tf.linalg && typeof tf.linalg.svd === 'function') {
                         const Ztf = tf.tensor2d(Zmat);
                         const mean = Ztf.mean(0);
                         const Zc = Ztf.sub(mean);
+
                         const svd = tf.linalg.svd(Zc, true);
                         const V = svd.v;
                         const V2 = V.slice([0, 0], [V.shape[0], 2]);
                         const proj = Zc.matMul(V2);
                         const projArr = await proj.array();
 
-                        // dispose tensors
-                        Ztf.dispose(); mean.dispose(); Zc.dispose();
+                        // Cleanup
+                        Ztf.dispose();
+                        mean.dispose();
+                        Zc.dispose();
                         if (svd.u) svd.u.dispose();
                         if (svd.s) svd.s.dispose();
-                        if (V) V.dispose();
-                        if (V2) V2.dispose();
-                        if (proj) proj.dispose();
+                        V.dispose();
+                        V2.dispose();
+                        proj.dispose();
 
                         const trace = {
                             x: projArr.map(p => p[0]),
                             y: projArr.map(p => p[1]),
                             mode: 'markers',
-                            marker: { size: 7 },
+                            marker: { size: 8, color: '#667eea', opacity: 0.6 },
                             type: 'scatter'
                         };
-                        const layout = { title: 'Local bottleneck projection (PCA)', margin: { l: 40, r: 20, t: 30, b: 40 } };
+
+                        const layout = {
+                            title: 'Latent Space (PCA projection)',
+                            margin: { l: 50, r: 30, t: 40, b: 50 },
+                            xaxis: { title: 'PC1' },
+                            yaxis: { title: 'PC2' }
+                        };
+
                         Plotly.react('tfPlotLatent', [trace], layout, { responsive: true });
                     } else {
-                        // FALLBACK: compute PCA via covariance + power iteration (JS-only)
-                        function computePCA2D(ZmatLocal) {
-                            const n = ZmatLocal.length;
-                            const d = ZmatLocal[0].length;
-                            // mean center
-                            const mean = new Array(d).fill(0);
-                            for (let i = 0; i < n; i++) for (let j = 0; j < d; j++) mean[j] += ZmatLocal[i][j];
-                            for (let j = 0; j < d; j++) mean[j] /= n;
-                            const Zc = new Array(n);
-                            for (let i = 0; i < n; i++) {
-                                Zc[i] = new Array(d);
-                                for (let j = 0; j < d; j++) Zc[i][j] = ZmatLocal[i][j] - mean[j];
-                            }
-                            // covariance matrix d x d
-                            const cov = Array.from({ length: d }, () => new Array(d).fill(0));
-                            const denom = Math.max(1, n - 1);
-                            for (let i = 0; i < n; i++) {
-                                const row = Zc[i];
-                                for (let a = 0; a < d; a++) {
-                                    const va = row[a];
-                                    for (let b = 0; b < d; b++) {
-                                        cov[a][b] += va * row[b];
-                                    }
-                                }
-                            }
-                            for (let a = 0; a < d; a++) for (let b = 0; b < d; b++) cov[a][b] /= denom;
-
-                            // helpers
-                            function matVecMul(M, v) {
-                                const m = M.length, p = v.length;
-                                const out = new Array(m).fill(0);
-                                for (let i = 0; i < m; i++) {
-                                    let s = 0;
-                                    const Mi = M[i];
-                                    for (let j = 0; j < p; j++) s += Mi[j] * v[j];
-                                    out[i] = s;
-                                }
-                                return out;
-                            }
-                            function dot(u, v) {
-                                let s = 0;
-                                for (let i = 0; i < u.length; i++) s += u[i] * v[i];
-                                return s;
-                            }
-                            function norm(v) {
-                                return Math.sqrt(dot(v, v)) || 1e-12;
-                            }
-                            function scalarOuter(v1, v2) {
-                                const n = v1.length;
-                                const M = Array.from({ length: n }, () => new Array(n).fill(0));
-                                for (let i = 0; i < n; i++) for (let j = 0; j < n; j++) M[i][j] = v1[i] * v2[j];
-                                return M;
-                            }
-                            function subtractScaledOuter(C, lambda, v) {
-                                const n = C.length;
-                                for (let i = 0; i < n; i++) {
-                                    for (let j = 0; j < n; j++) {
-                                        C[i][j] -= lambda * v[i] * v[j];
-                                    }
-                                }
-                                return C;
-                            }
-
-                            // power iteration to get top eigenvector
-                            function powerIter(C, maxIter = 200, tol = 1e-6) {
-                                const dim = C.length;
-                                let x = new Array(dim);
-                                for (let i = 0; i < dim; i++) x[i] = Math.random() - 0.5;
-                                let xnorm = norm(x);
-                                for (let i = 0; i < dim; i++) x[i] /= xnorm;
-                                let lambda = 0;
-                                for (let it = 0; it < maxIter; it++) {
-                                    const y = matVecMul(C, x);
-                                    const yNorm = norm(y);
-                                    if (yNorm === 0) break;
-                                    for (let k = 0; k < dim; k++) x[k] = y[k] / yNorm;
-                                    const lambdaNew = dot(x, matVecMul(C, x));
-                                    if (Math.abs(lambdaNew - lambda) < tol) { lambda = lambdaNew; break; }
-                                    lambda = lambdaNew;
-                                }
-                                return { vec: x, val: lambda };
-                            }
-
-                            // first eigenvector
-                            const e1 = powerIter(cov);
-                            // deflate
-                            subtractScaledOuter(cov, e1.val, e1.vec);
-                            const e2 = powerIter(cov);
-
-                            // project Zc onto e1, e2
-                            const proj = Zc.map(row => [dot(row, e1.vec), dot(row, e2.vec)]);
-                            return proj;
-                        }
-
-                        const projArr = computePCA2D(Zmat);
+                        // Fallback: first 2 dimensions
                         const trace = {
-                            x: projArr.map(p => p[0]),
-                            y: projArr.map(p => p[1]),
+                            x: Zmat.map(z => z[0]),
+                            y: Zmat.map(z => z[1]),
                             mode: 'markers',
-                            marker: { size: 7 },
+                            marker: { size: 8, color: '#667eea', opacity: 0.6 },
                             type: 'scatter'
                         };
-                        const layout = { title: 'Local bottleneck projection (PCA, fallback)', margin: { l: 40, r: 20, t: 30, b: 40 } };
-                        Plotly.react('tfPlotLatent', [trace], layout, { responsive: true });
-                        logTF('PCA fallback used (tf.linalg.svd not available).');
-                    }
-                } catch (err) {
-                    console.warn('PCA via SVD/JS fallback failed:', err);
-                    // fallback: simple 2D scatter from first two features of Z
-                    const fallback = {
-                        x: Zmat.map(z => z[0]),
-                        y: Zmat.map(z => z[1] || 0),
-                        mode: 'markers',
-                        marker: { size: 7 },
-                        type: 'scatter'
-                    };
-                    Plotly.react('tfPlotLatent', [fallback], { title: 'Latent (fallback)' }, { responsive: true });
-                }
 
+                        Plotly.react('tfPlotLatent', [trace], { title: 'Latent Space (raw)' }, { responsive: true });
+                    }
+
+                } catch (err) {
+                    console.warn('Latent projection failed:', err);
+                }
             }
 
-            // ---------------- Export/clear ----------------
+            function updateTrainingCurves() {
+                const h = TF_WIDGET.trainingHistory;
+                const epochs = h.loss.map((_, i) => i + 1);
+
+                const traces = [
+                    {
+                        x: epochs,
+                        y: h.loss,
+                        name: 'Train loss',
+                        line: { color: '#e74c3c', width: 2 }
+                    },
+                    {
+                        x: epochs,
+                        y: h.val_loss,
+                        name: 'Val loss',
+                        line: { color: '#e74c3c', width: 2, dash: 'dot' }
+                    },
+                    {
+                        x: epochs,
+                        y: h.acc,
+                        name: 'Train acc',
+                        yaxis: 'y2',
+                        line: { color: '#2ecc71', width: 2 }
+                    },
+                    {
+                        x: epochs,
+                        y: h.val_acc,
+                        name: 'Val acc',
+                        yaxis: 'y2',
+                        line: { color: '#2ecc71', width: 2, dash: 'dot' }
+                    }
+                ];
+
+                const layout = {
+                    title: 'Training Progress',
+                    margin: { l: 50, r: 60, t: 40, b: 50 },
+                    xaxis: { title: 'Epoch' },
+                    yaxis: { title: 'Loss', side: 'left' },
+                    yaxis2: {
+                        title: 'Accuracy',
+                        overlaying: 'y',
+                        side: 'right',
+                        range: [0, 1]
+                    },
+                    legend: { x: 1.1, y: 1 }
+                };
+
+                Plotly.react('tfPlotTraining', traces, layout, { responsive: true });
+            }
+
+            // ==================== EXPORT/CLEAR ====================
             async function exportModel() {
                 if (!TF_WIDGET.model) {
-                    logTF('No model to export.');
+                    logTF('No model to export', 'warning');
                     return;
                 }
-                logTF('Saving model to browser download (tfjs format)...');
-                await TF_WIDGET.model.save('downloads://dcd4_tfjs_model');
-                logTF('Model exported (download initiated).');
+
+                try {
+                    logTF('Exporting model (tfjs format)...', 'info');
+                    await TF_WIDGET.model.save('downloads://dcd4_tfjs_model');
+
+                    // Also export normalizer as JSON
+                    if (TF_WIDGET.normalizer) {
+                        const normJSON = JSON.stringify({
+                            mean: Array.from(TF_WIDGET.normalizer.mean),
+                            std: Array.from(TF_WIDGET.normalizer.std)
+                        }, null, 2);
+
+                        const blob = new Blob([normJSON], { type: 'application/json' });
+                        const url = URL.createObjectURL(blob);
+                        const a = document.createElement('a');
+                        a.href = url;
+                        a.download = 'dcd4_normalizer.json';
+                        a.click();
+                        URL.revokeObjectURL(url);
+                    }
+
+                    logTF('Model + normalizer exported', 'success');
+                } catch (err) {
+                    console.error('Export error:', err);
+                    logTF(`Export failed: ${err.message}`, 'error');
+                }
             }
 
             function clearModel() {
                 if (TF_WIDGET.model) {
                     TF_WIDGET.model.dispose();
                     TF_WIDGET.model = null;
-                    logTF('Model cleared from memory.');
+                    TF_WIDGET.normalizer = null;
+                    TF_WIDGET.trainingHistory = { loss: [], val_loss: [], acc: [], val_acc: [], pci_mse: [], val_pci_mse: [] };
+
+                    // Clear plots
                     Plotly.react('tfPlotProbs', [], {});
                     Plotly.react('tfPlotLatent', [], {});
+                    Plotly.react('tfPlotTraining', [], {});
+                    Plotly.react('tfPlotImportance', [], {});
+
+                    tfMetrics.style.display = 'none';
+                    logTF('Model cleared from memory', 'success');
                 } else {
-                    logTF('No model to clear.');
+                    logTF('No model to clear', 'warning');
                 }
             }
 
-            // ---------------- Wiring UI ----------------
+            // ==================== EVENT HANDLERS ====================
             trainBtn.addEventListener('click', async () => {
                 trainBtn.disabled = true;
                 inferBtn.disabled = true;
+                importanceBtn.disabled = true;
                 exportBtn.disabled = true;
                 clearBtn.disabled = true;
+
                 try {
-                    logTF('Starting demo training (this runs entirely in-browser)...');
-                    // light parameters to keep it quick
-                    await trainOnSynthetic(300, 16, 32);
+                    await trainOnSynthetic();
                 } catch (err) {
-                    console.error(err);
-                    logTF('Training error: ' + err.message);
+                    console.error('Training pipeline error:', err);
+                    logTF(`Training failed: ${err.message}`, 'error');
                 } finally {
                     trainBtn.disabled = false;
                     inferBtn.disabled = false;
+                    importanceBtn.disabled = false;
                     exportBtn.disabled = false;
                     clearBtn.disabled = false;
                 }
@@ -2088,20 +2402,32 @@
                 try {
                     await inferCurrentSolution();
                 } catch (err) {
-                    console.error(err);
-                    logTF('Inference error: ' + err.message);
+                    console.error('Inference error:', err);
+                    logTF(`Inference failed: ${err.message}`, 'error');
                 } finally {
                     inferBtn.disabled = false;
+                }
+            });
+
+            importanceBtn.addEventListener('click', async () => {
+                importanceBtn.disabled = true;
+                try {
+                    await computeFeatureImportance();
+                } catch (err) {
+                    console.error('Importance error:', err);
+                    logTF(`Importance failed: ${err.message}`, 'error');
+                } finally {
+                    importanceBtn.disabled = false;
                 }
             });
 
             exportBtn.addEventListener('click', exportModel);
             clearBtn.addEventListener('click', clearModel);
 
-            logTF('TF.js widget initialized. You can train a demo model or run inference if a model is loaded.');
+            // ==================== INITIALIZATION ====================
+            logTF('Enhanced TF.js widget v2.0 initialized', 'success');
+            console.log('[TFWidget] Ready. TensorFlow.js version:', tf.version.tfjs);
         })();
     </script>
-
 </body>
-
 </html>
