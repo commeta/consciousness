@@ -8,7 +8,6 @@
     <script src="https://cdn.plot.ly/plotly-2.29.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/12.4.1/math.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.10.0/dist/tf.min.js"></script>
-
     <style>
         * {
             margin: 0;
@@ -169,7 +168,7 @@
 
         button {
             flex: 1;
-            padding: 4px;
+            padding: 14px;
             border: none;
             border-radius: 10px;
             font-weight: 700;
@@ -231,7 +230,7 @@
             background: rgba(255, 255, 255, 0.98);
             padding: 18px 24px;
             border-radius: 14px;
-            margin-top: 20px;
+            margin: 20px 0;
             box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
             display: flex;
             flex-wrap: wrap;
@@ -295,6 +294,109 @@
             color: #2c3e50;
         }
 
+        /* TF.js Widget specific styles */
+        .tf-hyperparams {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 10px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .tf-hyperparams label {
+            font-size: 0.85em;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .tf-hyperparams input[type="number"] {
+            width: 60px;
+            padding: 6px 8px;
+            border: 2px solid #e0e0e0;
+            border-radius: 6px;
+            font-size: 0.88em;
+        }
+
+        .tf-hyperparams input[type="checkbox"] {
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
+        }
+
+        .tf-button-row {
+            background: rgba(255, 255, 255, 0.98);
+            padding: 18px 22px;
+            border-radius: 14px;
+            margin-bottom: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+        }
+
+        .tf-button-row h3 {
+            color: #667eea;
+            margin-bottom: 14px;
+            font-size: 1.1em;
+            font-weight: 700;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 10px;
+        }
+
+        .tf-buttons {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        .tf-buttons button {
+            flex: 1;
+            min-width: 120px;
+            padding: 12px 16px;
+        }
+
+        .tf-progress-bar {
+            width: 100%;
+            height: 8px;
+            background: #e0e0e0;
+            border-radius: 4px;
+            overflow: hidden;
+            margin-top: 12px;
+            display: none;
+        }
+
+        .tf-progress-fill {
+            width: 0%;
+            height: 100%;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            transition: width 0.2s ease;
+        }
+
+        .tf-metrics {
+            display: none;
+            margin-top: 12px;
+            padding: 14px;
+            background: #f0f7ff;
+            border-left: 4px solid #3498db;
+            border-radius: 6px;
+            font-size: 0.86em;
+        }
+
+        .tf-metrics-title {
+            font-weight: 700;
+            margin-bottom: 8px;
+            color: #2c3e50;
+        }
+
+        .tf-metrics-values {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .tf-metrics-values span {
+            font-family: 'Courier New', monospace;
+        }
+
         @media (max-width: 768px) {
 
             .controls-grid,
@@ -310,6 +412,19 @@
                 flex-direction: column;
                 align-items: flex-start;
                 gap: 15px;
+            }
+
+            .tf-hyperparams {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .tf-buttons {
+                flex-direction: column;
+            }
+
+            .tf-buttons button {
+                width: 100%;
             }
         }
 
@@ -338,7 +453,6 @@
             <p class="subtitle">Differentiable Consciousness Dynamics — Механистическая модель сознания с полной
                 каузальной структурой и региональными параметрами</p>
         </div>
-
         <div class="controls-grid">
             <!-- Causal Weights -->
             <div class="control-panel">
@@ -368,7 +482,6 @@
                     <input type="range" id="wSC" min="0.2" max="0.6" step="0.01" value="0.42">
                 </div>
             </div>
-
             <!-- Ignition & Binding -->
             <div class="control-panel">
                 <h3>🔥 Ignition & Binding</h3>
@@ -389,7 +502,6 @@
                     <input type="range" id="kbind" min="0" max="0.2" step="0.01" value="0.05">
                 </div>
             </div>
-
             <!-- Self & Metacognition -->
             <div class="control-panel">
                 <h3>🎭 Self & Metacognition</h3>
@@ -410,7 +522,6 @@
                     <input type="range" id="alphaPsych" min="0" max="10" step="0.1" value="4.8">
                 </div>
             </div>
-
             <!-- Spatial Coupling & Decay -->
             <div class="control-panel">
                 <h3>🌊 Spatial Coupling & Decay</h3>
@@ -431,7 +542,6 @@
                     <input type="range" id="deltaC" min="0.1" max="1.0" step="0.05" value="0.5">
                 </div>
             </div>
-
             <!-- Neuromodulators -->
             <div class="control-panel">
                 <h3>💊 Neuromodulators</h3>
@@ -481,6 +591,35 @@
                     <button class="btn-secondary" id="exportJsonBtn" onclick="exportJSON()">⬇️ Export</button>
                 </div>
             </div>
+
+            <!-- ML Hyperparameters -->
+            <div class="control-panel">
+                <h3>🤖 ML Hyperparameters</h3>
+                <div class="control-group">
+                    <label>Epochs:</label>
+                    <input type="number" id="tfEpochs" min="5" max="50" value="18">
+                </div>
+                <div class="control-group">
+                    <label>Batch Size:</label>
+                    <input type="number" id="tfBatch" min="8" max="64" step="8" value="24">
+                </div>
+                <div class="control-group">
+                    <label>Learning Rate:</label>
+                    <input type="number" id="tfLR" min="0.0001" max="0.01" step="0.0001" value="0.001">
+                </div>
+                <div class="control-group">
+                    <label style="display: flex; align-items: center; gap: 8px;">
+                        <input type="checkbox" id="tfAugment" checked style="width: 18px; height: 18px;">
+                        Data Augmentation
+                    </label>
+                </div>
+                <div class="control-group">
+                    <label style="display: flex; align-items: center; gap: 8px;">
+                        <input type="checkbox" id="tfNormalize" checked style="width: 18px; height: 18px;">
+                        Z-score Normalization
+                    </label>
+                </div>
+            </div>
         </div>
 
         <!-- Region Selection -->
@@ -495,112 +634,34 @@
                 <h3>📈 3D Trajectory (L, C, S)</h3>
                 <div id="plot3D" class="plot-container"></div>
             </div>
-
             <div class="viz-panel">
                 <h3>📊 Time Series</h3>
                 <div id="plotTimeSeries" class="plot-container"></div>
             </div>
-
             <div class="viz-panel">
                 <h3>🔥 Regional Heatmap (L)</h3>
                 <div id="plotHeatmap" class="plot-container"></div>
             </div>
-
             <div class="viz-panel">
                 <h3>🧩 DMN vs Non-DMN Self</h3>
                 <div id="plotDMN" class="plot-container"></div>
             </div>
-
             <div class="viz-panel">
                 <h3>🎯 Phase Portrait (L-C)</h3>
                 <div id="plotPhase" class="plot-container"></div>
             </div>
-
             <div class="viz-panel">
                 <h3>⚡ Causal Network</h3>
                 <div id="plotNetwork" class="plot-container"></div>
             </div>
-
             <div class="viz-panel">
                 <h3>💊 Neuromodulator Dynamics</h3>
                 <div id="plotMods" class="plot-container"></div>
             </div>
-
             <div class="viz-panel">
                 <h3>👁️ Attention Evolution</h3>
                 <div id="plotAttention" class="plot-container"></div>
             </div>
-
-            <!-- TF.js Widget (enhanced v2) -->
-            <div class="viz-panel" id="tfjsWidgetPanel">
-                <h3>🤖 ML (TensorFlow.js) — Enhanced Real-time Inference</h3>
-
-                <!-- Hyperparameters -->
-                <div style="display:flex; gap:8px; margin-bottom:10px; flex-wrap:wrap; align-items:center;">
-                    <label style="font-size:0.85em; font-weight:600;">Epochs:
-                        <input type="number" id="tfEpochs" min="5" max="50" value="18" style="width:50px; padding:4px;">
-                    </label>
-                    <label style="font-size:0.85em; font-weight:600;">Batch:
-                        <input type="number" id="tfBatch" min="8" max="64" step="8" value="24"
-                            style="width:50px; padding:4px;">
-                    </label>
-                    <label style="font-size:0.85em; font-weight:600;">LR:
-                        <input type="number" id="tfLR" min="0.0001" max="0.01" step="0.0001" value="0.001"
-                            style="width:70px; padding:4px;">
-                    </label>
-                    <label style="font-size:0.85em;">
-                        <input type="checkbox" id="tfAugment" checked> Augmentation
-                    </label>
-                    <label style="font-size:0.85em;">
-                        <input type="checkbox" id="tfNormalize" checked> Z-score norm
-                    </label>
-                </div>
-
-                <!-- Buttons -->
-                <div style="display:flex; gap:10px; flex-wrap:wrap; margin-bottom:12px;">
-                    <button class="btn-primary" id="tfTrainBtn" style="flex:1; min-width:140px;">▶ Train model</button>
-                    <button class="btn-secondary" id="tfInferBtn" style="flex:1; min-width:120px;">🔮 Infer</button>
-                    <button class="btn-secondary" id="tfImportanceBtn" style="flex:1; min-width:120px;">🔍
-                        Importance</button>
-                    <button class="btn-secondary" id="tfExportBtn" style="flex:0.8; min-width:100px;">⬇️ Export</button>
-                    <button class="btn-secondary" id="tfClearBtn" style="flex:0.6; min-width:80px;">🗑️ Clear</button>
-                </div>
-
-                <!-- Progress bar -->
-                <div id="tfProgressBar"
-                    style="width:100%; height:8px; background:#e0e0e0; border-radius:4px; overflow:hidden; margin-bottom:8px; display:none;">
-                    <div id="tfProgressFill"
-                        style="width:0%; height:100%; background:linear-gradient(90deg,#667eea,#764ba2); transition:width 0.2s ease;">
-                    </div>
-                </div>
-
-                <!-- Log -->
-                <div id="tfLog" class="info-box" style="min-height:52px; font-size:0.88em; margin-bottom:12px;">
-                    ✅ ML widget ready — configure hyperparameters above, then press «Train model»
-                </div>
-
-                <!-- Metrics dashboard -->
-                <div id="tfMetrics"
-                    style="display:none; margin-bottom:12px; padding:12px; background:#f0f7ff; border-left:4px solid #3498db; border-radius:6px; font-size:0.86em;">
-                    <div style="font-weight:700; margin-bottom:6px; color:#2c3e50;">Training Metrics (last epoch)</div>
-                    <div style="display:flex; gap:20px; flex-wrap:wrap;">
-                        <span><strong>Train:</strong> loss=<span id="tfTrainLoss"
-                                style="font-family:monospace;">--</span>, acc=<span id="tfTrainAcc"
-                                style="font-family:monospace;">--</span></span>
-                        <span><strong>Val:</strong> loss=<span id="tfValLoss" style="font-family:monospace;">--</span>,
-                            acc=<span id="tfValAcc" style="font-family:monospace;">--</span></span>
-                    </div>
-                </div>
-
-                <!-- Plots grid -->
-                <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:12px;">
-                    <div id="tfPlotProbs" class="plot-container" style="height:240px;"></div>
-                    <div id="tfPlotLatent" class="plot-container" style="height:240px;"></div>
-                    <div id="tfPlotTraining" class="plot-container" style="height:240px;"></div>
-                    <div id="tfPlotImportance" class="plot-container" style="height:240px;"></div>
-                </div>
-            </div>
-
 
         </div>
 
@@ -627,6 +688,56 @@
                 <span class="status-value" id="saINSValue">--</span>
             </div>
         </div>
+
+        <!-- ML Controls (full width) -->
+        <div class="tf-button-row">
+            <h3>🤖 ML (TensorFlow.js) — Real-time Inference (ENHANCED v2.0)</h3>
+            <div class="tf-buttons">
+                <button class="btn-primary" id="tfTrainBtn">▶ Train model</button>
+                <button class="btn-secondary" id="tfInferBtn">🔮 Infer</button>
+                <button class="btn-secondary" id="tfImportanceBtn">🔍 Importance</button>
+                <button class="btn-secondary" id="tfExportBtn">⬇️ Export</button>
+                <button class="btn-secondary" id="tfClearBtn">🗑️ Clear</button>
+            </div>
+            <div class="tf-progress-bar" id="tfProgressBar">
+                <div class="tf-progress-fill" id="tfProgressFill"></div>
+            </div>
+            <div class="info-box" id="tfLog" style="margin-top: 12px; min-height: 52px;">
+                ✅ ML widget ready — configure hyperparameters, then press «Train model»
+            </div>
+            <div class="tf-metrics" id="tfMetrics">
+                <div class="tf-metrics-title">Training Metrics (last epoch)</div>
+                <div class="tf-metrics-values">
+                    <span><strong>Train:</strong> loss=<span id="tfTrainLoss">--</span>, acc=<span
+                            id="tfTrainAcc">--</span></span>
+                    <span><strong>Val:</strong> loss=<span id="tfValLoss">--</span>, acc=<span
+                            id="tfValAcc">--</span></span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Visualizations -->
+        <div class="viz-grid">
+
+            <!-- ML Visualizations -->
+            <div class="viz-panel">
+                <h3>📉 Training Progress</h3>
+                <div id="tfPlotTraining" class="plot-container"></div>
+            </div>
+            <div class="viz-panel">
+                <h3>🎲 Predicted State Probabilities</h3>
+                <div id="tfPlotProbs" class="plot-container"></div>
+            </div>
+            <div class="viz-panel">
+                <h3>🧬 Latent Space (raw)</h3>
+                <div id="tfPlotLatent" class="plot-container"></div>
+            </div>
+            <div class="viz-panel">
+                <h3>🔬 Feature Importance (L²-norm of weights)</h3>
+                <div id="tfPlotImportance" class="plot-container"></div>
+            </div>
+        </div>
+
     </div>
 
     <script>
@@ -1649,7 +1760,7 @@
 
 
 
-    <script>
+    <script id="tf">
         // ================= ENHANCED TF.JS WIDGET v2.0 =================
         /**
          * Improvements:
@@ -2363,10 +2474,10 @@
                     TF_WIDGET.trainingHistory = { loss: [], val_loss: [], acc: [], val_acc: [], pci_mse: [], val_pci_mse: [] };
 
                     // Clear plots
-                    Plotly.react('tfPlotProbs', [], {});
-                    Plotly.react('tfPlotLatent', [], {});
-                    Plotly.react('tfPlotTraining', [], {});
-                    Plotly.react('tfPlotImportance', [], {});
+                    Plotly.purge('tfPlotProbs');
+                    Plotly.purge('tfPlotLatent');
+                    Plotly.purge('tfPlotTraining');
+                    Plotly.purge('tfPlotImportance');
 
                     tfMetrics.style.display = 'none';
                     logTF('Model cleared from memory', 'success');
@@ -2427,7 +2538,9 @@
             // ==================== INITIALIZATION ====================
             logTF('Enhanced TF.js widget v2.0 initialized', 'success');
             console.log('[TFWidget] Ready. TensorFlow.js version:', tf.version.tfjs);
+
         })();
     </script>
+
 </body>
 </html>
