@@ -392,7 +392,11 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
   - [Кодирование в мозге: от синаптической пластичности до популяционной динамики](/brain-networks/Coding-in-the-brain.md) 12 Dec, 2025
 
+  - [Связывание в нейронауке: механизмы, методы и перспективы](/brain-networks/Binding-in-neuroscience.md) 09 Jan, 2026
+
   **Экспериментальное моделирование**
+
+  [Экспериментальное моделирование - обзор](/brain-networks/simulation/README.md)
 
   - [Systems Integrated Predictive Workspace (SIPW): развернутый обзор теории сознания](/brain-networks/simulation/sipw.md)  Aug 11, 2025
 
@@ -403,7 +407,21 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
     - [🧠 NIMAC Model Viewer](https://dcs-spb.ru/nimac_viewer.html) 10 Dec, 2025
     
   - [Три фундаментальных измерения сознания](/brain-networks/simulation/Three-fundamental-dimensions-of-consciousness.md) 26 Dec, 2025
+  
+    - [Черновой DCD-схемы](/brain-networks/simulation/templates/prototype-DCD-pseudo-min.md) 28 Dec, 2025
 
+    - [Формализация DCD-подхода](/brain-networks/simulation/templates/prototype-DCD-pseudo-full.md) 28 Dec, 2025
+
+    - [Формализация DCD 3.0 (Differentiable Consciousness Dynamics) — Unified Causal Network](/brain-networks/simulation/templates/prototype-DCD-Unified-Causal-Network.md)
+
+      - [DCD 3.0 — Interactive Visualization Suite](https://dcs-spb.ru/DCD3.html)
+
+    - [Формализация DCD 4.0 (Differentiable Consciousness Dynamics) — The mechanistic model](/brain-networks/simulation/templates/prototype-DCD-the-mechanistic-model.md)
+
+      - [Template — Interactive Dashboard](/brain-networks/simulation/templates/Interactive-Dashboard/README.md)
+
+      - [DCD 4.0 Interactive Dashboard](https://dcs-spb.ru/dcd4.html)
+        
 
 </details>
 
