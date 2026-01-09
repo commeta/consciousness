@@ -44,6 +44,33 @@
 
 ### 1.2. Типы задачи связывания — систематизация (что конкретно может требоваться «связать»)
 
+```mermaid
+flowchart TD
+  B[Binding — проблема связывания]
+
+  B --> FB["Feature binding<br>(перцептуальная)"]
+  B --> TB["Temporal binding<br>(синхронность)"]
+  B --> SB["Spatial / topographic<br>(retinotopy)"]
+  B --> WM["Working memory<br>(транзиентное связывание)"]
+  B --> VB["Variable / symbolic binding<br>(TPR / VSA)"]
+
+  FB --> FB_scale[Время: ~10–200 ms<br>Метрики: visual search, conj. errors]
+  TB --> TB_scale[Время: <1 ms–100 ms<br>Метрики: PLV/PLI, spike synchrony, CFC]
+  SB --> SB_scale[Пространство: fine topography<br>Метрики: fMRI MVPA, retinotopic mapping]
+  WM --> WM_scale[Время: s → min<br>Метрики: change-detection, swap-rate, precision]
+  VB --> VB_scale[Композиция/роли<br>Метрики: computational readouts, decoding]
+
+  style B fill:#efefef,stroke:#333,stroke-width:1px
+  classDef scales fill:#fff,stroke-dasharray: 2 2
+  class FB_scale,TB_scale,SB_scale,WM_scale,VB_scale scales
+```
+
+> «Таксономия основных версий задачи связывания: каждая ветвь содержит краткое сопоставление типового временного/пространственного масштаба и метрик исследования.»
+> * Центральный узел — общая проблема связывания; от него расходятся основные типы/версии.
+> * Для каждой ветви указаны типовые временные/пространственные шкалы и рекомендуемые измерительные метрики.
+
+---
+
 Ниже — компактная, но исчерпывающая систематизация разновидностей связывания, которые различают в современной литературе; к каждому пункту указаны ключевые ссылки.
 
 #### 1.2.1. Перцептуальное (feature) binding
@@ -1820,6 +1847,32 @@ Hypothesis: **temporal binding** — мс-точная фазовая синхр
 * **JPSTH reference** — классический метод и пояснения на страницах (MuLab / UPenn) + несколько GitHub gist-реализаций JPSTH на Python (полезны для старта и модификации). Рекомендую сопоставлять JPSTH с shift-predictor controls (см. tutorial). ([Персентр медицины Пенсильвании][157])
 
 ### 12.2.3. Примеры «быстрого» пайплайна (концептуально — для воспроизведения эксперимента)
+
+```mermaid
+flowchart LR
+  Raw["Сырые данные<br>(спайки / LFP / EEG/MEG / fMRI)"]
+  Raw --> Pre["Preprocessing<br>(фильтрация, артефакт-репроведение, epoching)"]
+  Pre --> FE["Feature extraction<br>(time–freq / spike counts / voxel patterns)"]
+  FE -->|Temporal hypothesis| Phase["Phase metrics<br>(PLV, PLI, PPC, CFC)"]
+  FE -->|Rate / assembly hypothesis| Rate["Population & assembly<br>(decoding, assembly detection)"]
+  FE -->|Spatial / representational| MVPA[MVPA / RSA / RDMs]
+  Phase --> StatsPhase[Статистика<br>surrogate tests, permutations]
+  Rate --> StatsRate[Статистика<br>cross-validation, bootstrap]
+  MVPA --> StatsMVPA[Статистика<br>permutation, cluster-correction]
+  StatsPhase --> Inference[Интерпретация<br>сопоставление с гипотезой]
+  StatsRate --> Inference
+  StatsMVPA --> Inference
+  Inference --> Report["Отчёт / визуализации<br>(plots, effect sizes, params)"]
+
+  %% подсказки по инструментам (комментируйте/удаляйте при необходимости)
+  click Pre href "https://mne.tools" "Рекомендуемые: MNE-Python, FieldTrip, EEGLAB"
+  click FE href "https://www.scipy.org" "Инструменты: SciPy, MNE, nilearn, sklearn"
+```
+
+> «Практический аналитический пайплайн: от предобработки данных и извлечения признаков до разветвления аналитических стратегий, статистических проверок и интерпретации в контексте конкретных гипотез связывания.»
+> * Пайплайн структурирован как ветвление по формулировке гипотезы: временные (phase), скоростные/assembly, представления (MVPA).
+> * Для каждой ветви указаны типичные метрики и рекомендуемые статистические проверки (surrogates, permutations, cross-val).
+
 
 1. **Подготовка данных**
 
