@@ -3437,5 +3437,6 @@ flowchart TB
 
 Оглавление:
 
+- [Архитектуры памяти: концепции, нейронные механизмы и вычислительные реализации](/brain-networks/Memory-Architectures-Concepts-Neural-Mechanisms-and-Computational-Implementations.md) 
 - [Нейросети мозга](/brain-networks/README.md)
 - [ЭИРО framework](/README.md)
