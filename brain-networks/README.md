@@ -32,6 +32,9 @@
 
 [Связывание в нейронауке: механизмы, методы и перспективы](/brain-networks/Binding-in-neuroscience.md) 09 Jan, 2026
 
+[Молекулярная архитектура памяти: от нейронной активации к геномной стабилизации энграмм](/brain-networks/Molecular-Architecture-of-Memory-From-Neural-Activation-to-Genomic-Stabilization-of-Engrams.md) 11 Jan, 2026
+
+
 **Экспериментальное моделирование**
 
 [Экспериментальное моделирование - обзор](/brain-networks/simulation/README.md)
