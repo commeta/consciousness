@@ -1877,5 +1877,7 @@ graph TD
 
 Оглавление:
 
+- [Молекулярная архитектура памяти: от нейронной активации к геномной стабилизации энграмм](/brain-networks/Molecular-Architecture-of-Memory-From-Neural-Activation-to-Genomic-Stabilization-of-Engrams.md) 
+- [Нейросети мозга](/brain-networks/README.md)
 - [ЭИРО framework](/README.md)
 
