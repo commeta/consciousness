@@ -10,6 +10,8 @@
 
 [Нейрофизиология агентности — от молекул до феноменологии](/brain-networks/The-Neurophysiology-of-Agency.md) Nov 05, 2025
 
+[Микроскопическое и вычислительное моделирование: инструменты, модели и масштабные симуляции](/brain-networks/Microscopic-and-computational-modeling.md) Fev 02, 2026
+
 **Архитектура**
 
 [Системная нейробиология: интегративный обзор современных концепций, механизмов и методов](/brain-networks/Systemic-Neurobiology-An-Integrative-Review-of-Current-Concepts-Mechanisms-and-Methods.md) Aug 27, 2025
