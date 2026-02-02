@@ -396,6 +396,9 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
   - [Молекулярная архитектура памяти: от нейронной активации к геномной стабилизации энграмм](/brain-networks/Molecular-Architecture-of-Memory-From-Neural-Activation-to-Genomic-Stabilization-of-Engrams.md) 11 Jan, 2026
 
+  - [Микроскопическое и вычислительное моделирование: инструменты, модели и масштабные симуляции](/brain-networks/Microscopic-and-computational-modeling.md) Fev 02, 2026
+
+
   **Экспериментальное моделирование**
 
   [Экспериментальное моделирование - обзор](/brain-networks/simulation/README.md)
