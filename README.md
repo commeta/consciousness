@@ -326,6 +326,13 @@ $\frac{dx}{dt} = f(x(t), u(t), W),$
 
 
 <details>
+<summary>Теория сознания (Beta 0.3) </summary>
+
+- [Интегративная многоуровневая теория сознания: междисциплинарный научный синтез](/Integrative-Theory-Of-Consciousness/README.md) Jul 16, 2026
+
+</details>
+
+<details>
 <summary>Обзоры и справочники</summary>
 
 - [Механизмы extrasynaptic–передачи сигналов, синхронизации нейронной активности и когерентности](/mechanisms-of-extrasynaptic-signal-transmission-neuronal-activity-synchronization-and-coherence.md) Apr 11, 2025 
