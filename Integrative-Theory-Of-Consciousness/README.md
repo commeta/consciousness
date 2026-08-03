@@ -1561,392 +1561,779 @@ PCI — не единственный индекс подобного рода, 
 ## Библиография
 
 Aaronson, S. (2014). Why I am not an integrated information theorist (or, the unconscious expander). *Shtetl-Optimized* (21 мая 2014 г.).
+
 Adler, J. (1966). Chemotaxis in bacteria. *Science*, 153(3737), 708–716.
+
 Albantakis, L., Barbosa, L., Findlay, G., Grasso, M., Haun, A. M., Marshall, W., et al. (2023). Integrated information theory (IIT) 4.0: Formulating the properties of phenomenal existence in physical terms. *PLOS Computational Biology*, 19(10), e1011465.
+
 Alderson-Day, B., & Fernyhough, C. (2015). Inner speech: development, cognitive functions, phenomenology, and neural correlates. *Psychological Bulletin*, 141(5), 931–965.
+
 Alkire, M. T., Hudetz, A. G., & Tononi, G. (2008). Consciousness and anesthesia. *Science*, 322(5903), 876–880.
+
 Anastassiou, C. A., Perin, R., Markram, H., & Koch, C. (2011). Ephaptic coupling of cortical neurons. *Nature Neuroscience*, 14(2), 217–223.
+
 Andrews, K., Birch, J., Sebo, J., et al. (2024). *The New York Declaration on Animal Consciousness*. New York University, 19 April 2024.
+
 Araque, A., Parpura, V., Sanzgiri, R. P., & Haydon, P. G. (1999). Tripartite synapses: glia, the unacknowledged partner. *Trends in Neurosciences*, 22(5), 208–215.
+
 Aru, J., Bachmann, T., Singer, W., & Melloni, L. (2012). Distilling the neural correlates of consciousness. *Neuroscience & Biobehavioral Reviews*, 36(2), 737–746.
+
 Aru, J., Larkum, M. E., & Shine, J. M. (2023). The feasibility of artificial consciousness through the lens of neuroscience. *Trends in Neurosciences*, 46(12), 1008–1017.
+
 Aru, J., Siclari, F., Phillips, W. A., & Storm, J. F. (2020). Apical drive — a cellular mechanism of dreaming? *Neuroscience & Biobehavioral Reviews*, 119, 440–455.
+
 Aru, J., Suzuki, M., & Larkum, M. E. (2020). Cellular mechanisms of conscious processing. *Trends in Cognitive Sciences*, 24(10), 814–825.
+
 Ashby, W. R. (1956). *An Introduction to Cybernetics*. Chapman & Hall.
+
 Aston-Jones, G., & Cohen, J. D. (2005). An integrative theory of locus coeruleus-norepinephrine function: adaptive gain and optimal performance. *Annual Review of Neuroscience*, 28, 403–450.
+
 Atkinson, E. G., Audesse, A. J., Palacios, J. A., Bobo, D. M., Webb, A. E., Ramachandran, S., & Henn, B. M. (2018). No evidence for recent selection at FOXP2 among diverse human populations. *Cell*, 174(6), 1424–1435.e15.
+
 Attwell, D., & Laughlin, S. B. (2001). An energy budget for signaling in the grey matter of the brain. *Journal of Cerebral Blood Flow & Metabolism*, 21(10), 1133–1145.
+
 Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
+
 Bachmann, T., Suzuki, M., & Aru, J. (2020). Dendritic integration theory: a thalamo-cortical theory of state and content of consciousness. *Philosophy and the Mind Sciences*, 1(II), 1–24.
+
 Baddeley, A. (2000). The episodic buffer: a new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417–423.
+
 Barttfeld, P., Uhrig, L., Sitt, J. D., Sigman, M., Jarraya, B., & Dehaene, S. (2015). Signature of consciousness in the dynamics of resting-state brain activity. *Proceedings of the National Academy of Sciences*, 112(3), 887–892.
+
 Battiston, F., Amico, E., Barrat, A., Bianconi, G., Ferraz de Arruda, G., Franceschiello, B., Iacopini, I., Kéfi, S., Latora, V., Moreno, Y., Murray, M. M., Peixoto, T. P., Vaccarino, F., & Petri, G. (2021). The physics of higher-order interactions in complex systems. *Nature Physics*, 17(10), 1093–1098.
+
 Battiston, F., Cencetti, G., Iacopini, I., Latora, V., Lucas, M., Patania, A., Young, J.-G., & Petri, G. (2020). Networks beyond pairwise interactions: structure and dynamics. *Physics Reports*, 874, 1–92.
+
 Bayne, T., Frohlich, J., Cusack, R., Moser, J., & Naci, L. (2023). Consciousness in the cradle: on the emergence of infant experience. *Trends in Cognitive Sciences*, 27(12), 1135–1149.
+
 Bayne, T., Hohwy, J., & Owen, A. M. (2016). Are there levels of consciousness? *Trends in Cognitive Sciences*, 20(6), 405–413.
+
 Becker, E. (1973). *The Denial of Death*. Free Press.
+
 Bedau, M. A. (1997). Weak emergence. *Philosophical Perspectives*, 11, 375–399.
+
 Beekman, M., & Latty, T. (2015). Brainless but multi-headed: decision making by the acellular slime mould *Physarum polycephalum*. *Journal of Molecular Biology*, 427(23), 3734–3743.
+
 Beggs, J. M., & Plenz, D. (2003). Neuronal avalanches in neocortical circuits. *Journal of Neuroscience*, 23(35), 11167–11177.
+
 Bekinschtein, T. A., Dehaene, S., Rohaut, B., Tadel, F., Cohen, L., & Naccache, L. (2009). Neural signature of the conscious processing of auditory regularities. *Proceedings of the National Academy of Sciences*, 106(5), 1672–1677.
+
 Ben-Jacob, E., Becker, I., Shapira, Y., & Levine, H. (2004). Bacterial linguistic communication and social intelligence. *Trends in Microbiology*, 12(8), 366–372.
+
 Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big? In *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency* (FAccT '21) (pp. 610–623). Association for Computing Machinery.
+
 Berg, H. C., & Purcell, E. M. (1977). Physics of chemoreception. *Biophysical Journal*, 20(2), 193–219.
+
 Bhattacharyya, S., Bhattarai, N., Pfannenstiel, D. M., Wilkins, B., Singh, A., & Harshey, R. M. (2023). A heritable iron memory enables decision-making in *Escherichia coli*. *Proceedings of the National Academy of Sciences*, 120(48), e2309082120.
+
 Bickel, S., & Parvizi, J. (2019). Electrical stimulation of the human claustrum. *Epilepsy & Behavior*, 97, 296–303.
+
 Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
+
 Birch, J., Ginsburg, S., & Jablonka, E. (2020). Unlimited Associative Learning and the origins of consciousness: a primer and some predictions. *Biology & Philosophy*, 35(6), 56.
+
 Blakemore, S. J., Wolpert, D., & Frith, C. D. (1998). Central cancellation of self-produced tickle sensation. *Nature Neuroscience*, 1(7), 635–640.
+
 Block, N. (1978). Troubles with functionalism. In C. W. Savage (Ed.), *Perception and Cognition: Issues in the Foundations of Psychology* (Minnesota Studies in the Philosophy of Science, Vol. 9, pp. 261–325). University of Minnesota Press.
+
 Block, N. (1995). On a confusion about a function of consciousness. *Behavioral and Brain Sciences*, 18(2), 227–247.
+
 Block, N. (2002). The harder problem of consciousness. *Journal of Philosophy*, 99(8), 391–425.
+
 Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567–575.
+
 Blumenfeld, H. (2005). Consciousness and epilepsy: why are patients with absence seizures absent? *Progress in Brain Research*, 150, 271–286.
+
 Blumenfeld, H. (2012). Impaired consciousness in epilepsy. *The Lancet Neurology*, 11(9), 814–826.
+
 Boisseau, R. P., Vogel, D., & Dussutour, A. (2016). Habituation in non-neural organisms: evidence from slime moulds. *Proceedings of the Royal Society B*, 283(1845), 20160446.
+
 Bor, D., Schwartzman, D. J., Barrett, A. B., & Seth, A. K. (2017). Theta-burst transcranial magnetic stimulation to the prefrontal or parietal cortex does not impair metacognitive visual awareness. *PLoS ONE*, 12(2), e0171793.
+
 Botvinick, M., & Cohen, J. (1998). Rubber hands 'feel' touch that eyes see. *Nature*, 391(6669), 756.
+
 Bourget, D., & Chalmers, D. J. (2023). Philosophers on philosophy: The 2020 PhilPapers survey. *Philosophers' Imprint*, 23.
+
 Boussard, A., Fessel, A., Oettmeier, C., Briard, L., Döbereiner, H.-G., & Dussutour, A. (2021). Adaptive behaviour and learning in slime moulds: the role of oscillations. *Philosophical Transactions of the Royal Society B*, 376(1820), 20190757. *(Подтверждено перекрёстным цитированием в нескольких первичных источниках, не прямым запросом — см. преамбулу.)*
+
 Bravo, J. A., Forsythe, P., Chew, M. V., Escaravage, E., Savignac, H. M., Dinan, T. G., Bienenstock, J., & Cryan, J. F. (2011). Ingestion of Lactobacillus strain regulates emotional behavior and central GABA receptor expression in a mouse via the vagus nerve. *Proceedings of the National Academy of Sciences*, 108(38), 16050–16055.
+
 Brown, R., Lau, H., & LeDoux, J. E. (2019). Understanding the Higher-Order Approach to Consciousness. *Trends in Cognitive Sciences*, 23(9), 754–768.
+
 Bruno, M.-A., Vanhaudenhuyse, A., Thibaut, A., Moonen, G., & Laureys, S. (2011). From unresponsive wakefulness to minimally conscious PLUS and functional locked-in syndromes: recent advances in our understanding of disorders of consciousness. *Journal of Neurology*, 258(7), 1373–1384.
+
 Bullmore, E., & Sporns, O. (2009). Complex brain networks: graph theoretical analysis of structural and functional systems. *Nature Reviews Neuroscience*, 10(3), 186–198.
+
 Butlin, P., Long, R., Bayne, T., Bengio, Y., Birch, J., Chalmers, D., Constant, A., Deane, G., Elmoznino, E., Fleming, S. M., Ji, X., Kanai, R., Klein, C., Lindsay, G., Michel, M., Mudrik, L., Peters, M. A. K., Schwitzgebel, E., Simon, J., & VanRullen, R. (2025). Identifying indicators of consciousness in AI systems. *Trends in Cognitive Sciences* (в печати).
+
 Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., Constant, A., Deane, G., Fleming, S. M., Frith, C., Ji, X., Kanai, R., Klein, C., Lindsay, G., Michel, M., Mudrik, L., Peters, M. A. K., Schwitzgebel, E., Simon, J., & VanRullen, R. (2023). Consciousness in Artificial Intelligence: Insights from the Science of Consciousness. *arXiv:2308.08708*.
+
 Butlin, P., Shiller, D., Plunkett, D., & Long, R. (2026). Consciousness and cognitive access in LLMs: A commentary on «Verbalizable representations form a global workspace in language models». *Eleos AI Research*.
+
 Camazine, S., Deneubourg, J.-L., Franks, N. R., Sneyd, J., Theraulaz, G., & Bonabeau, E. (2001). *Self-Organization in Biological Systems*. Princeton University Press.
+
 Carhart-Harris, R. L., & Friston, K. J. (2019). REBUS and the anarchic brain: toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316–344.
+
 Carhart-Harris, R. L., Leech, R., Hellyer, P. J., et al. (2014). The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs. *Frontiers in Human Neuroscience*, 8, 20.
+
 Carhart-Harris, R. L., Muthukumaraswamy, S., Roseman, L., et al. (2016). Neural correlates of the LSD experience revealed by multimodal neuroimaging. *Proceedings of the National Academy of Sciences*, 113(17), 4853–4858.
+
 Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658–680.
+
 Casali, A. G., Gosseries, O., Rosanova, M., et al. (2013). A theoretically based index of consciousness independent of sensory processing and behavior. *Science Translational Medicine*, 5(198), 198ra105.
+
 Casarotto, S., Comanducci, A., Rosanova, M., et al. (2016). Stratification of unresponsive patients by an independently validated index of brain complexity. *Annals of Neurology*, 80(5), 718–729.
+
 Cerullo, M. A. (2015). The problem with Phi: A critique of Integrated Information Theory. *PLOS Computational Biology*, 11(9), e1004286.
+
 Chalmers, D. J. (1995). Facing up to the problem of consciousness. *Journal of Consciousness Studies*, 2(3), 200–219.
+
 Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+
 Chalmers, D. J. (2000). What is a neural correlate of consciousness? In T. Metzinger (Ed.), *Neural Correlates of Consciousness: Empirical and Conceptual Issues* (pp. 17–39). MIT Press.
+
 Chalmers, D. J. (2003). Consciousness and its place in nature. In S. Stich & T. Warfield (Eds.), *The Blackwell Guide to Philosophy of Mind* (pp. 102–142). Blackwell.
+
 Chalmers, D. J. (2006). Strong and weak emergence. In P. Clayton & P. Davies (Eds.), *The Re-Emergence of Emergence: The Emergentist Hypothesis from Science to Religion* (pp. 244–256). Oxford University Press.
+
 Chalmers, D. J. (2017). The combination problem for panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives* (pp. 179–214). Oxford University Press.
+
 Chalmers, D. J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9–10), 6–61.
+
 Chalmers, D. J. (2023). Could a large language model be conscious? *Boston Review* (9 August 2023); *arXiv:2303.07103*. (Первоначально — пленарный доклад на конференции NeurIPS, 28 ноября 2022 г.)
+
 Chau, A., Salazar, A. M., Krueger, F., Cristofori, I., & Grafman, J. (2015). The effect of claustrum lesions on human consciousness and recovery of function. *Consciousness and Cognition*, 36, 256–264.
+
 Chiang, C.-C., Shivacharan, R. S., Wei, X., Gonzalez-Reyes, L. E., & Durand, D. M. (2019). Slow periodic activity in the longitudinal hippocampal slice can self-propagate non-synaptically by a mechanism consistent with ephaptic coupling. *The Journal of Physiology*, 597(1), 249–269.
+
 Churchland, P. S., & Sejnowski, T. J. (1992). *The Computational Brain*. MIT Press.
+
 Claassen, J., Doyle, K., Matory, A., et al. (2019). Detection of brain activation in unresponsive patients with acute brain injury. *New England Journal of Medicine*, 380(26), 2497–2505.
+
 Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181–204.
+
 Clark, A., & Chalmers, D. J. (1998). The extended mind. *Analysis*, 58(1), 7–19.
+
 Cogitate Consortium, Ferrante, O., Gorska-Klimowska, U., Henin, S., Hirschhorn, R., Khalaf, A., Lepauvre, A., Liu, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133–142.
+
 Cohen, M. A., & Dennett, D. C. (2011). Consciousness cannot be separated from function. *Trends in Cognitive Sciences*, 15(8), 358–364.
+
 Colombatto, C., & Fleming, S. M. (2024). Folk psychological attributions of consciousness to large language models. *Neuroscience of Consciousness*, 2024(1), niae013.
+
 Conant, R. C., & Ashby, W. R. (1970). Every good regulator of a system must be a model of that system. *International Journal of Systems Science*, 1(2), 89–97.
+
 Corcoran, A. W., Haun, A. M., Dorman, R., Tononi, G., Friston, K. J., Pennartz, C. M. A., & TWCF: INTREPID Consortium (2026). Integrated information and predictive processing theories of consciousness: An adversarial collaborative review. *Neuroscience & Biobehavioral Reviews*, 187, 106742 (первоначальный препринт — *arXiv:2509.00555*, 2025).
+
 Craig, A. D. (2002). How do you feel? Interoception: the sense of the physiological condition of the body. *Nature Reviews Neuroscience*, 3(8), 655–666.
+
 Craig, A. D. (2009). How do you feel—now? The anterior insula and human awareness. *Nature Reviews Neuroscience*, 10(1), 59–70.
+
 Craver, C. F. (2007). *Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience*. Oxford University Press (Clarendon Press).
+
 Crick, F. C., & Koch, C. (2005). What is the function of the claustrum? *Philosophical Transactions of the Royal Society B*, 360(1458), 1271–1279.
+
 Crick, F., & Koch, C. (1990). Towards a neurobiological theory of consciousness. *Seminars in the Neurosciences*, 2, 263–275.
+
 Crick, F., & Koch, C. (2003). A framework for consciousness. *Nature Neuroscience*, 6(2), 119–126.
+
 Cryan, J. F., & Dinan, T. G. (2012). Mind-altering microorganisms: the impact of the gut microbiota on brain and behaviour. *Nature Reviews Neuroscience*, 13(10), 701–712.
+
 Damasio, A. R. (1994). *Descartes' Error: Emotion, Reason, and the Human Brain*. Putnam.
+
 Damasio, A. R. (1999). *The Feeling of What Happens: Body and Emotion in the Making of Consciousness*. Harcourt Brace.
+
 Davis, Z. W., Muller, L., Martinez-Trujillo, J., Sejnowski, T., & Reynolds, J. H. (2020). Spontaneous travelling cortical waves gate perception in behaving primates. *Nature*, 587(7834), 432–436.
+
 de Graaf, T. A., Hsieh, P.-J., & Sack, A. T. (2012). The 'correlates' in neural correlates of consciousness. *Neuroscience & Biobehavioral Reviews*, 36(1), 191–197.
+
 de Haan, E. H. F., Corballis, P. M., Hillyard, S. A., et al. (2020). Split-brain: what we know now and why this is important for understanding consciousness. *Neuropsychology Review*, 30(2), 224–233.
+
 Dehaene, S. (2014). *Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts*. Viking.
+
 Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200–227.
+
 Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework. *Cognition*, 79(1–2), 1–37.
+
 Dehaene, S., & Naccache, L. (2026). Does Claude possess a conscious global workspace? Commentary on «Verbalizable representations form a global workspace in language models». *Anthropic, Transformer Circuits Thread*.
+
 Dehaene, S., Changeux, J.-P., Naccache, L., Sackur, J., & Sergent, C. (2006). Conscious, preconscious, and subliminal processing: a testable taxonomy. *Trends in Cognitive Sciences*, 10(5), 204–211.
+
 Dehaene, S., Kerszberg, M., & Changeux, J.-P. (1998). A neuronal model of a global workspace in effortful cognitive tasks. *Proceedings of the National Academy of Sciences*, 95(24), 14529–14534.
+
 Dehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could machines have it? *Science*, 358(6362), 486–492.
+
 Dehghani, M., Gouws, S., Vinyals, O., Uszkoreit, J., & Kaiser, Ł. (2019). Universal Transformers. *arXiv:1807.03819*.
+
 Del Cul, A., Baillet, S., & Dehaene, S. (2007). Brain dynamics underlying the nonlinear threshold for access to consciousness. *PLoS Biology*, 5(10), e260.
+
 Dennett, D. C. (2003). Who's on first? Heterophenomenology explained. *Journal of Consciousness Studies*, 10(9–10), 19–30.
+
 Desimone, R., & Duncan, J. (1995). Neural mechanisms of selective visual attention. *Annual Review of Neuroscience*, 18, 193–222.
+
 Diaz Heijtz, R., Wang, S., Anuar, F., Qian, Y., Björkholm, B., Samuelsson, A., Hibberd, M. L., Forssberg, H., & Pettersson, S. (2011). Normal gut microbiota modulates brain development and behavior. *Proceedings of the National Academy of Sciences*, 108(7), 3047–3052.
+
 Doerig, A., Schurger, A., & Herzog, M. H. (2021). Hard criteria for empirical theories of consciousness. *Cognitive Neuroscience*, 12(2), 41–62.
+
 Doerig, A., Schurger, A., Hess, K., & Herzog, M. H. (2019). The unfolding argument: Why IIT and other causal structure theories cannot explain consciousness. *Consciousness and Cognition*, 72, 49–59.
+
 Dung, L., & Mogensen, A. (2025). The no body problem: On the prospects for AI emotion. Unpublished manuscript; *PhilArchive*.
+
 Durand, C. M., Betancur, C., Boeckers, T. M., et al. (2007). Mutations in the gene encoding the synaptic scaffolding protein SHANK3 are associated with autism spectrum disorders. *Nature Genetics*, 39(1), 25–27.
+
 Edelman, G. M., & Tononi, G. (2000). *A Universe of Consciousness: How Matter Becomes Imagination*. Basic Books.
+
 Ehrsson, H. H. (2007). The experimental induction of out-of-body experiences. *Science*, 317(5841), 1048.
+
 Emerson, D. J., Weiser, B. P., Psonis, J., Liao, Z., Taratula, O., Fiamengo, A., Wang, X., Sugasawa, K., Smith, A. B., III, Eckenhoff, R. G., & Dmochowski, I. J. (2013). Direct modulation of microtubule stability contributes to anthracene general anesthesia. *Journal of the American Chemical Society*, 135(14), 5389–5398.
+
 Enard, W., Przeworski, M., Fisher, S. E., Lai, C. S., Wiebe, V., Kitano, T., Monaco, A. P., & Pääbo, S. (2002). Molecular evolution of FOXP2, a gene involved in speech and language. *Nature*, 418(6900), 869–872.
+
 Engemann, D. A., Raimondo, F., King, J.-R., Rohaut, B., Louppe, G., Faugeras, F., Annen, J., Cassol, H., Gosseries, O., Fernandez-Slezak, D., Laureys, S., Naccache, L., Dehaene, S., & Sitt, J. D. (2018). Robust EEG-based cross-site and cross-protocol classification of states of consciousness. *Brain*, 141(11), 3179–3192.
+
 Fahrenfort, J. J., Scholte, H. S., & Lamme, V. A. (2007). Masking disrupts reentrant processing in human visual cortex. *Journal of Cognitive Neuroscience*, 19(9), 1488–1497.
+
 Fang, Z., Xu, C., Zhou, T., Wang, Y., et al. (2025). Human high-order thalamic nuclei gate conscious perception through the thalamofrontal loop. *Science*, 388(6742), eadr3675.
+
 Feinberg, T. E., & Mallatt, J. M. (2016). *The Ancient Origins of Consciousness: How the Brain Created Experience*. MIT Press.
+
 Field, R. J., Körös, E., & Noyes, R. M. (1972). Oscillations in chemical systems. Part 2. Thorough analysis of temporal oscillations in the bromate–cerium–malonic acid system. *Journal of the American Chemical Society*, 94(25), 8649–8664.
+
 Flanagan, O. (1991). *The Science of the Mind* (2nd ed.). MIT Press.
+
 Fleming, S. M. (2021). Theories of consciousness are solutions in need of problems. *Cognitive Neuroscience*, 12(2), 86–88.
+
 Fleming, S. M., & Lau, H. C. (2014). How to measure metacognition. *Frontiers in Human Neuroscience*, 8, 443.
+
 Fleming, S. M., Ryu, J., Golfinos, J. G., & Blackmon, K. E. (2014). Domain-specific impairment in metacognitive accuracy following anterior prefrontal lesions. *Brain*, 137(10), 2811–2822.
+
 Fleming, S., Frith, C., Goodale, M., Lau, H., LeDoux, J. E., Lee, A. L., et al. (2023). The integrated information theory of consciousness as pseudoscience. *PsyArXiv preprint* (15 сентября 2023 г.).
+
 Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
+
 Frankland, S. M., & Greene, J. D. (2020). Concepts and compositionality: in search of the brain's language of thought. *Annual Review of Psychology*, 71, 273–303.
+
 Fried, I., Mukamel, R., & Kreiman, G. (2011). Internally generated preactivation of single neurons in human medial frontal cortex predicts volition. *Neuron*, 69(3), 548–562.
+
 Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127–138.
+
 Friston, K. (2013). Life as we know it. *Journal of the Royal Society Interface*, 10(86), 20130475.
+
 Frith, C. D. (1992). *The Cognitive Neuropsychology of Schizophrenia*. Lawrence Erlbaum Associates.
+
 Frith, C. D., Blakemore, S.-J., & Wolpert, D. M. (2000). Explaining the symptoms of schizophrenia: abnormalities in the awareness of action. *Brain Research Reviews*, 31(2–3), 357–363.
+
 Frässle, S., Sommer, J., Jansen, A., Naber, M., & Einhäuser, W. (2014). Binocular rivalry: frontal activity relates to introspection and action but not to perception. *Journal of Neuroscience*, 34(5), 1738–1747.
+
 Gazzaniga, M. S. (2005). Forty-five years of split-brain research and still going strong. *Nature Reviews Neuroscience*, 6(8), 653–659.
+
 Gershon, M. D. (1998). *The Second Brain*. HarperCollins.
+
 Giacino, J. T., Ashwal, S., Childs, N., et al. (2002). The minimally conscious state: definition and diagnostic criteria. *Neurology*, 58(3), 349–353.
+
 Giacino, J. T., Kalmar, K., & Whyte, J. (2004). The JFK Coma Recovery Scale-Revised: measurement characteristics and diagnostic utility. *Archives of Physical Medicine and Rehabilitation*, 85(12), 2020–2029.
+
 Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
+
 Giusti, C., Ghrist, R., & Bassett, D. S. (2016). Two's company, three (or more) is a simplex: algebraic-topological tools for understanding higher-order structure in neural data. *Journal of Computational Neuroscience*, 41(1), 1–14.
+
 Goff, P. (2019). *Galileo's Error: Foundations for a New Science of Consciousness*. Pantheon Books.
+
 Gofton, T. E., & Young, G. B. (2012). Sepsis-associated encephalopathy. *Nature Reviews Neurology*, 8(10), 557–566.
+
 Goldstein, S., & Kirk-Giannini, C. D. (2024). A case for AI consciousness: Language agents and global workspace theory. *arXiv:2410.11407*.
+
 Graziano, M. S. A. (2013). *Consciousness and the Social Brain*. Oxford University Press.
+
 Graziano, M. S. A., & Kastner, S. (2011). Human consciousness and its relationship to social neuroscience: a novel hypothesis. *Cognitive Neuroscience*, 2(2), 98–113.
+
 Graziano, M. S. A., Guterstam, A., Bio, B. J., & Wilterson, A. I. (2020). Toward a standard model of consciousness: Reconciling the attention schema, global workspace, higher-order thought, and illusionist theories. *Cognitive Neuropsychology*, 37(3–4), 155–172.
+
 Greenberg, J., Pyszczynski, T., & Solomon, S. (1986). The causes and consequences of the need for self-esteem: A terror management theory. In R. F. Baumeister (Ed.), *Public Self and Private Self* (pp. 189–212). Springer-Verlag.
+
 Gurnee, W., Sofroniew, N., Pearce, A., Piotrowski, M., Kauvar, I., Chen, R., Soligo, A., Bogdan, P., Ong, E., Wang, R., Thompson, T. B., Abrahams, D., Kantamneni, S., Ameisen, E., Batson, J., & Lindsey, J. (2026). Verbalizable representations form a global workspace in language models. *Anthropic, Transformer Circuits Thread* (6 июля 2026 г.).
+
 Haggard, P., Clark, S., & Kalogeras, J. (2002). Voluntary action and conscious awareness. *Nature Neuroscience*, 5(4), 382–385.
+
 Hameroff, S., & Penrose, R. (1996). Orchestrated reduction of quantum coherence in brain microtubules: A model for consciousness. *Mathematics and Computers in Simulation*, 40(3–4), 453–480.
+
 Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: a review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39–78.
+
 Han, A. Q., Chalmers, D. J., & Izmailov, P. (2026). How's it going? Reinforcement learning in language models recruits a functional welfare axis. *arXiv:2605.30232*.
+
 Hebart, M. N., Zheng, C. Y., Pereira, F., & Baker, C. I. (2020). Revealing the multidimensional mental representations of natural objects underlying human similarity judgements. *Nature Human Behaviour*, 4(11), 1173–1185.
+
 Hobson, J. A., & McCarley, R. W. (1977). The brain as a dream state generator: an activation-synthesis hypothesis of the dream process. *American Journal of Psychiatry*, 134(12), 1335–1348.
+
 Hodgkin, A. L., & Huxley, A. F. (1952). A quantitative description of membrane current and its application to conduction and excitation in nerve. *Journal of Physiology*, 117(4), 500–544.
+
 Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
+
 Hopfield, J. J. (1982). Neural networks and physical systems with emergent collective computational abilities. *Proceedings of the National Academy of Sciences*, 79(8), 2554–2558.
+
 Hordijk, W., & Steel, M. (2004). Detecting autocatalytic, self-sustaining sets in chemical reaction systems. *Journal of Theoretical Biology*, 227(4), 451–461.
+
 Humphrey, N. K. (1976). The social function of intellect. In P. P. G. Bateson & R. A. Hinde (Eds.), *Growing Points in Ethology* (pp. 303–317). Cambridge University Press.
+
 Hunt, T., & Jones, M. (2023). Fields or firings? Comparing the spike code and the electromagnetic field hypothesis. *Frontiers in Psychology*, 14, 1029715.
+
 Hunt, T., & Schooler, J. W. (2019). The easy part of the hard problem: a resonance theory of consciousness. *Frontiers in Human Neuroscience*, 13, 378.
+
 Hurlburt, R. T., & Heavey, C. L. (2001). Telling what we know: describing inner experience. *Trends in Cognitive Sciences*, 5(9), 400–403.
+
 Iadecola, C. (2017). The neurovascular unit coming of age: a journey through neurovascular coupling in health and disease. *Neuron*, 96(1), 17–42.
+
 Ingiosi, A. M., Hayworth, C. R., Harvey, D. O., Singletary, K. G., Rempe, M. J., Wisor, J. P., & Frank, M. G. (2020). A role for astroglial calcium in mammalian sleep and sleep regulation. *Current Biology*, 30(22), 4373–4383.e7.
+
 Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127–136.
+
 Jackson, F. (1986). What Mary didn't know. *Journal of Philosophy*, 83(5), 291–295.
+
 Jackson, F. (2003). Mind and illusion. In A. O'Hear (Ed.), *Minds and Persons* (Royal Institute of Philosophy Supplement, Vol. 53) (pp. 251–271). Cambridge University Press.
+
 Jacobs, M., Fel, T., Hakim, R., Brondetta, A., Ba, D., & Keller, T. A. (2025). Block-recurrent dynamics in vision transformers. *arXiv:2512.19941*.
+
 James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+
 Jarvis, E. D., Güntürkün, O., Bruce, L., et al. (2005). Avian brains and a new understanding of vertebrate brain evolution. *Nature Reviews Neuroscience*, 6(2), 151–159.
+
 Jones, C. R., & Bergen, B. K. (2025). Large language models pass the Turing test. *arXiv:2503.23674*.
+
 Jones, E. G. (2001). The thalamic matrix and thalamocortical synchrony. *Trends in Neurosciences*, 24(10), 595–601.
+
 Josipovic, Z. (2014). Neural correlates of nondual awareness in meditation. *Annals of the New York Academy of Sciences*, 1307(1), 9–18.
+
 Josselyn, S. A., & Tonegawa, S. (2020). Memory engrams: recalling the past and imagining the future. *Science*, 367(6473), eaaw4325.
+
 Kandel, E. R. (2001). The molecular biology of memory storage: a dialogue between genes and synapses. *Science*, 294(5544), 1030–1038.
+
 Kanerva, P. (2009). Hyperdimensional computing: an introduction to computing in distributed representation with high-dimensional random vectors. *Cognitive Computation*, 1(2), 139–159.
+
 Karnath, H.-O., & Rorden, C. (2012). The anatomy of spatial neglect. *Neuropsychologia*, 50(6), 1010–1017.
+
 Kauffman, S. A. (1986). Autocatalytic sets of proteins. *Journal of Theoretical Biology*, 119(1), 1–24.
+
 Kauffman, S. A. (1993). *The Origins of Order: Self-Organization and Selection in Evolution*. Oxford University Press.
+
 Kawakita, G., Zeleznikow-Johnston, A., Takeda, K., Tsuchiya, N., & Oizumi, M. (2024). Gromov–Wasserstein unsupervised alignment reveals structural correspondences between the color similarity structures of humans and large language models. *Scientific Reports*, 14, 15917.
+
 Kawakita, G., Zeleznikow-Johnston, A., Tsuchiya, N., & Oizumi, M. (2025). Is my "red" your "red"?: Evaluating structural correspondences between color similarity judgments using unsupervised alignment. *iScience*, 28(3), 112029.
+
 Kay, L., Keogh, R., Andrillon, T., & Pearson, J. (2022). The pupillary light response as a physiological index of aphantasia, sensory and phenomenological imagery strength. *eLife*, 11, e72484.
+
 Kelly, Y. T., Webb, T. W., Meier, J. D., Arcaro, M. J., & Graziano, M. S. A. (2014). Attributing awareness to oneself and to others. *Proceedings of the National Academy of Sciences*, 111(13), 5012–5017.
+
 Kerskens, C. M., & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+
 Kerskens, C., & López Pérez, D. (2023). Reply to Comment on: "Experimental indications of non-classical brain function" (2022 Journal of Physics Communications 6 105001). *Journal of Physics Communications*, 7(3), 038002.
+
 Khan, S., Huang, Y., Timuçin, D., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+
 Kihlstrom, J. F. (1987). The cognitive unconscious. *Science*, 237(4821), 1445–1452.
+
 King, J.-R., Sitt, J. D., Faugeras, F., Rohaut, B., El Karoui, I., Cohen, L., Naccache, L., & Dehaene, S. (2013). Information sharing in the brain indexes consciousness in noncommunicative patients. *Current Biology*, 23(19), 1914–1919.
+
 Kirchhoff, M., Parr, T., Palacios, E., Friston, K., & Kiverstein, J. (2018). The Markov blankets of life: autonomy, active inference and the free energy principle. *Journal of the Royal Society Interface*, 15(138), 20170792.
+
 Kirk, R. (1974). Zombies v. materialists. *Proceedings of the Aristotelian Society, Supplementary Volumes*, 48, 135–152.
+
 Kleiner, J., & Hoel, E. (2021). Falsification and consciousness. *Neuroscience of Consciousness*, 2021(1), niab001.
+
 Knill, D. C., & Pouget, A. (2004). The Bayesian brain: the role of uncertainty in neural coding and computation. *Trends in Neurosciences*, 27(12), 712–719.
+
 Koch, C., & Hepp, K. (2006). Quantum mechanics in the brain. *Nature*, 440(7084), 611–612.
+
 Koch, C., & Tsuchiya, N. (2007). Attention and consciousness: two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16–22.
+
 Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17(5), 307–321.
+
 Koshland, D. E., Jr. (1977). A response regulator model in a simple sensory system. *Science*, 196(4294), 1055–1063.
+
 Koubeissi, M. Z., Bartolomei, F., Beltagy, A., & Picard, F. (2014). Electrical stimulation of a small brain area reversibly disrupts consciousness. *Epilepsy & Behavior*, 37, 32–35.
+
 Kouider, S., Stahlhut, C., Gelskov, S. V., Barbosa, L. S., Dutat, M., de Gardelle, V., Christophe, A., Dehaene, S., & Dehaene-Lambertz, G. (2013). A neural marker of perceptual consciousness in infants. *Science*, 340(6130), 376–380.
+
 Kramar, M., & Alim, K. (2021). Encoding memory in tube diameter hierarchy of living flow network. *Proceedings of the National Academy of Sciences*, 118(10), e2007815118.
+
 Kriegel, U. (2003). The new mysterianism and the thesis of cognitive closure. *Acta Analytica*, 18, 177–191.
+
 Kriegeskorte, N., Mur, M., & Bandettini, P. (2008). Representational similarity analysis — connecting the branches of systems neuroscience. *Frontiers in Systems Neuroscience*, 2, 4.
+
 LaBerge, S. P., Nagel, L. E., Dement, W. C., & Zarcone, V. P. (1981). Lucid dreaming verified by volitional communication during REM sleep. *Perceptual and Motor Skills*, 52(3), 727–732.
+
 Lagercrantz, H., & Changeux, J.-P. (2009). The emergence of human consciousness: from fetal to neonatal life. *Pediatric Research*, 65(3), 255–260.
+
 Lai, C. S., Fisher, S. E., Hurst, J. A., Vargha-Khadem, F., & Monaco, A. P. (2001). A forkhead-domain gene is mutated in a severe speech and language disorder. *Nature*, 413(6855), 519–523.
+
 Lamme, V. A. F. (2006). Towards a true neural stance on consciousness. *Trends in Cognitive Sciences*, 10(11), 494–501.
+
 Lamme, V. A. F., & Roelfsema, P. R. (2000). The distinct modes of vision offered by feedforward and recurrent processing. *Trends in Neurosciences*, 23(11), 571–579.
+
 Landman, R., Spekreijse, H., & Lamme, V. A. F. (2003). Large capacity storage of integrated objects before change blindness. *Vision Research*, 43(2), 149–164.
+
 Lane, N., & Martin, W. (2010). The energetics of genome complexity. *Nature*, 467(7318), 929–934.
+
 Larkum, M. (2013). A cellular mechanism for cortical associations: an organizing principle for the cerebral cortex. *Trends in Neurosciences*, 36(3), 141–151.
+
 Lau, H., & Rosenthal, D. (2011). Empirical support for higher-order theories of conscious awareness. *Trends in Cognitive Sciences*, 15(8), 365–373.
+
 Laukkonen, R. E., Sacchet, M. D., Barendregt, H., Devaney, K. J., Chowdhury, A., & Slagter, H. A. (2023). Cessations of consciousness in meditation: advancing a scientific understanding of nirodha samāpatti. *Progress in Brain Research*, 280, 61–87.
+
 Laureys, S. (2005). The neural correlate of (un)awareness: lessons from the vegetative state. *Trends in Cognitive Sciences*, 9(12), 556–559.
+
 Lauterbur, M. E., Munch, K., & Enard, D. (2023). Versatile detection of diverse selective sweeps with Flex-sweep. *Molecular Biology and Evolution*, 40(6), msad139.
+
 Levenson, J. M., & Sweatt, J. D. (2005). Epigenetic mechanisms in memory formation. *Nature Reviews Neuroscience*, 6(2), 108–118.
+
 Levenson, J. M., O'Riordan, K. J., Brown, K. D., Trinh, M. A., Molfese, D. L., & Sweatt, J. D. (2004). Regulation of histone acetylation during memory formation in the hippocampus. *Journal of Biological Chemistry*, 279(39), 40545–40559.
+
 Levin, M. (2019). The computational boundary of a "self": developmental bioelectricity drives multicellularity and scale-free cognition. *Frontiers in Psychology*, 10, 2688.
+
 Levin, M. (2021). Bioelectric signaling: reprogrammable circuits underlying embryogenesis, regeneration, and cancer. *Cell*, 184(8), 1971–1989.
+
 Levine, J. (1983). Materialism and qualia: the explanatory gap. *Pacific Philosophical Quarterly*, 64(4), 354–361.
+
 Lewis, D. (1988). What experience teaches. *Proceedings of the Russellian Society*, 13, 29–57.
+
 Lewis, L. D., Weiner, V. S., Mukamel, E. A., et al. (2012). Rapid fragmentation of neuronal networks at the onset of propofol-induced unconsciousness. *Proceedings of the National Academy of Sciences*, 109(49), E3377–E3386.
+
 Li, D., & Mashour, G. A. (2019). Cortical dynamics during psychedelic and anesthetized states induced by ketamine. *NeuroImage*, 196, 32–40.
+
 Libet, B., Gleason, C. A., Wright, E. W., & Pearl, D. K. (1983). Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential): the unconscious initiation of a freely voluntary act. *Brain*, 106(3), 623–642.
+
 Lincoln, T. A., & Joyce, G. F. (2009). Self-sustained replication of an RNA enzyme. *Science*, 323(5918), 1229–1232.
+
 Lindsey, J. (2025). Emergent introspective awareness in large language models. *Anthropic* (29 октября 2025 г.); препринт — *arXiv:2601.01828*.
+
 Liu, X., Ramirez, S., Pang, P. T., Puryear, C. B., Govindarajan, A., Deisseroth, K., & Tonegawa, S. (2012). Optogenetic stimulation of a hippocampal engram activates fear memory recall. *Nature*, 484(7394), 381–385.
+
 Long, R., Sebo, J., Butlin, P., Finlinson, K., Fish, K., Harding, J., Pfau, J., Sims, T., Birch, J., & Chalmers, D. (2024). Taking AI welfare seriously. *arXiv:2411.00986*.
+
 Low, P. (ed.), et al. (2012). *The Cambridge Declaration on Consciousness*. Francis Crick Memorial Conference, Cambridge, UK, 7 July 2012.
+
 Luppi, A. I., Mediano, P. A. M., Rosas, F. E., Holland, N., Fryer, T. D., O'Brien, J. T., Rowe, J. B., Menon, D. K., Bor, D., & Stamatakis, E. A. (2022). A synergistic core for human brain evolution and cognition. *Nature Neuroscience*, 25(6), 771–782.
+
 Luppi, A. I., Uhrig, L., Tasserie, J., Mediano, P. A. M., Rosas, F. E., Singleton, S. P., Gutierrez-Barragan, D., Gini, S., Castro, P., Signorelli, C. M., Golkowski, D., Ranft, A., Ilg, R., Jordan, D., Muta, K., Hata, J., Okano, H., Liu, Z.-Q., Yee, Y., … Stamatakis, E. A. (2026). Convergent transcriptomic and connectomic controllers of information integration and its anaesthetic breakdown across mammalian brains. *Nature Human Behaviour*.
+
 Lutz, A., & Thompson, E. (2003). Neurophenomenology: integrating subjective experience and brain dynamics in the neuroscience of consciousness. *Journal of Consciousness Studies*, 10(9–10), 31–52.
+
 Lutz, A., Slagter, H. A., Dunne, J. D., & Davidson, R. J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163–169.
+
 Lyon, P. (2015). The cognitive cell: bacterial behavior reconsidered. *Frontiers in Microbiology*, 6, 264.
+
 Mack, A., & Rock, I. (1998). *Inattentional Blindness*. MIT Press.
+
 Manicka, S., & Levin, M. (2019). Modeling somatic computation with non-neural bioelectric networks. *Scientific Reports*, 9.
+
 Marchetti, M. C., Joanny, J. F., Ramaswamy, S., Liverpool, T. B., Prost, J., Rao, M., & Simha, R. A. (2013). Hydrodynamics of soft active matter. *Reviews of Modern Physics*, 85(3), 1143–1189.
+
 Marr, D. (1982). *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information*. W. H. Freeman.
+
 Martinez-Corral, R., Liu, J., Prindle, A., Süel, G. M., & Garcia-Ojalvo, J. (2019). Metabolic basis of brain-like electrical signalling in bacterial communities. *Philosophical Transactions of the Royal Society B*, 374(1774), 20180382.
+
 Maschke, C., Duclos, C., Owen, A. M., Kringelbach, M. L., & Blain-Moraes, S. (2024). Critical dynamics in spontaneous EEG predict anesthetic-induced loss of consciousness and perturbational complexity. *Communications Biology*, 7(1), 946.
+
 Mashour, G. A., Roelfsema, P., Changeux, J.-P., & Dehaene, S. (2020). Conscious Processing and the Global Neuronal Workspace Hypothesis. *Neuron*, 105(5), 776–798.
+
 Massimini, M., Ferrarelli, F., Huber, R., et al. (2005). Breakdown of cortical effective connectivity during sleep. *Science*, 309(5744), 2228–2232.
+
 Maturana, H. R., & Varela, F. J. (1980). *Autopoiesis and Cognition: The Realization of the Living*. D. Reidel.
+
 McCulloch, W. S., & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. *Bulletin of Mathematical Biophysics*, 5(4), 115–133.
+
 McFadden, J. (2020). Integrating information in the brain's EM field: the CEMI field theory of consciousness. *Neuroscience of Consciousness*, 2020(1), niaa016.
+
 McGinn, C. (1989). Can we solve the mind–body problem? *Mind*, 98(391), 349–366.
+
 Melloni, L., Mudrik, L., Pitts, M., & Koch, C. (2021). Making the hard problem of consciousness easier. *Science*, 372(6545), 911–912.
+
 Melloni, L., Mudrik, L., Pitts, M., Bendtz, K., Ferrante, O., Gorska, U., et al. (2023). An adversarial collaboration protocol for testing contrasting predictions of global neuronal workspace and integrated information theory. *PLoS ONE*, 18(2), e0268577.
+
 Merker, B. (2007). Consciousness without a cerebral cortex: a challenge for neuroscience and medicine. *Behavioral and Brain Sciences*, 30(1), 63–81.
+
 Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+
 Metzinger, T. (2020). Minimal phenomenal experience: meditation, tonic alertness, and the phenomenology of «pure» consciousness. *Philosophy and the Mind Sciences*, 1(I), 7.
+
 Metzinger, T. (2021). Artificial suffering: An argument for a global moratorium on synthetic phenomenology. *Journal of Artificial Intelligence and Consciousness*, 8(1), 43–66.
+
 Michal, M., Reuchlein, B., Adler, J., Reiner, I., Beutel, M. E., Vögele, C., et al. (2014). Striking discrepancy of anomalous body experiences with normal interoceptive accuracy in depersonalization-derealization disorder. *PLoS ONE*, 9(2), e89823.
+
 Minsky, M., & Papert, S. (1969). *Perceptrons: An Introduction to Computational Geometry*. MIT Press.
+
 Misawa, K., Chinen, K., Kawabata, A., Kaiju, T., Suzuki, T., & Komura, Y. (2026). Awake cortex stabilizes traveling waves for global and reliable information routing. *iScience*, 116728.
+
 Monti, M. M., Vanhaudenhuyse, A., Coleman, M. R., et al. (2010). Willful modulation of brain activity in disorders of consciousness. *New England Journal of Medicine*, 362(7), 579–589.
+
 Moruzzi, G., & Magoun, H. W. (1949). Brain stem reticular formation and activation of the EEG. *Electroencephalography and Clinical Neurophysiology*, 1(4), 455–473.
+
 Muller, L., Chavane, F., Reynolds, J., & Sejnowski, T. J. (2018). Cortical travelling waves: mechanisms and computational principles. *Nature Reviews Neuroscience*, 19(5), 255–268.
+
 Müller, V. C., & Hoffmann, M. (2017). What is morphological computation? On how the body contributes to cognition and control. *Artificial Life*, 23(1), 1–24.
+
 Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435–450.
+
 Nakagaki, T., Yamada, H., & Tóth, Á. (2000). Maze-solving by an amoeboid organism. *Nature*, 407, 470.
+
 Nanda, N. (2026). Commentary on «Verbalizable representations form a global workspace in language models». *Anthropic, Transformer Circuits Thread*.
+
 Newell, A. (1990). *Unified Theories of Cognition*. Harvard University Press.
+
 Nicolis, G., & Prigogine, I. (1977). *Self-Organization in Nonequilibrium Systems: From Dissipative Structures to Order through Fluctuations*. Wiley.
+
 Odegaard, B., Knight, R. T., & Lau, H. (2017). Should a few null findings falsify prefrontal theories of conscious perception? *Journal of Neuroscience*, 37(40), 9593–9602.
+
 Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0. *PLOS Computational Biology*, 10(5), e1003588.
+
 Owen, A. M., Coleman, M. R., Boly, M., et al. (2006). Detecting awareness in the vegetative state. *Science*, 313(5792), 1402.
+
 Pandit, J. J., Andrade, J., Bogod, D. G., et al. (2014). 5th National Audit Project (NAP5) on accidental awareness during general anaesthesia: summary of main findings and risk factors. *British Journal of Anaesthesia*, 113(4), 549–559.
+
 Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
+
 Parr, T., Pezzulo, G., & Friston, K. J. (2022). *Active Inference: The Free Energy Principle in Mind, Brain, and Behavior*. MIT Press.
+
 Penrose, R. (1989). *The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics*. Oxford University Press.
+
 Perez, E., & Long, R. (2023). Towards evaluating AI systems for moral status using self-reports. *arXiv:2311.08576*.
+
 Petitmengin, C. (2006). Describing one's subjective experience in the second person: an interview method for the science of consciousness. *Phenomenology and the Cognitive Sciences*, 5(3–4), 229–269.
+
 Petitmengin, C., Remillieux, A., & Valenzuela-Moguillansky, C. (2019). Discovering the structures of lived experience: towards a micro-phenomenological analysis method. *Phenomenology and the Cognitive Sciences*, 18(4), 691–730.
+
 Petri, G., Expert, P., Turkheimer, F., Carhart-Harris, R., Nutt, D., Hellyer, P. J., & Vaccarino, F. (2014). Homological scaffolds of brain functional networks. *Journal of the Royal Society Interface*, 11(101), 20140873.
+
 Pezzulo, G., & Levin, M. (2018). Embodying Markov blankets: Comment on "Answering Schrödinger's question: a free-energy formulation" by M. J. D. Ramstead, P. B. Badcock, & K. J. Friston. *Physics of Life Reviews*, 24, 32–36.
+
 Pfeifer, R., & Bongard, J. (2007). *How the Body Shapes the Way We Think: A New View of Intelligence*. MIT Press.
+
 Phillips, I. (2011). Perception and iconic memory: what Sperling doesn't show. *Mind & Language*, 26(4), 381–411.
+
 Pinotsis, D. A., & Miller, E. K. (2023). In vivo ephaptic coupling allows memory network formation. *Cerebral Cortex*, 33(17), 9877–9895.
+
 Pinto, Y., Neville, D. A., Otten, M., et al. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231–1237.
+
 Plate, T. A. (1995). Holographic reduced representations. *IEEE Transactions on Neural Networks*, 6(3), 623–641.
+
 Prindle, A., Liu, J., Asally, M., Ly, S., Garcia-Ojalvo, J., & Süel, G. M. (2015). Ion channels enable electrical communication in bacterial communities. *Nature*, 527(7576), 59–63.
+
 Purdon, P. L., Pierce, E. T., Mukamel, E. A., et al. (2013). Electroencephalogram signatures of loss and recovery of consciousness from propofol. *Proceedings of the National Academy of Sciences*, 110(12), E1142–E1151.
+
 Putnam, H. (1967). Psychological predicates. In W. H. Capitan & D. D. Merrill (Eds.), *Art, Mind, and Religion* (pp. 37–48). University of Pittsburgh Press.
+
 Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). A default mode of brain function. *Proceedings of the National Academy of Sciences*, 98(2), 676–682.
+
 Ramirez, S., Liu, X., Lin, P.-A., Suh, J., Pignatelli, M., Redondo, R. L., Ryan, T. J., & Tonegawa, S. (2013). Creating a false memory in the hippocampus. *Science*, 341(6144), 387–391.
+
 Ramstead, M. J. D., Badcock, P. B., & Friston, K. J. (2018). Answering Schrödinger's question: a free-energy formulation. *Physics of Life Reviews*, 24, 1–16.
+
 Rao, R. P. N., & Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. *Nature Neuroscience*, 2(1), 79–87.
+
 Reid, C. R., Latty, T., Dussutour, A., & Beekman, M. (2012). Slime mold uses an externalized spatial "memory" to navigate in complex environments. *Proceedings of the National Academy of Sciences*, 109(43), 17490–17494.
+
 Revonsuo, A. (1999). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 8(2), 173–185.
+
 Reynolds, J. H., & Heeger, D. J. (2009). The normalization model of attention. *Neuron*, 61(2), 168–185.
+
 Rodriguez, E., George, N., Lachaux, J.-P., Martinerie, J., Renault, B., & Varela, F. J. (1999). Perception's shadow: long-distance synchronization of human brain activity. *Nature*, 397(6718), 430–433.
+
 Rosenblatt, F. (1958). The perceptron: a probabilistic model for information storage and organization in the brain. *Psychological Review*, 65(6), 386–408.
+
 Rosenthal, D. M. (1986). Two concepts of consciousness. *Philosophical Studies*, 49(3), 329–359.
+
 Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
+
 Rounis, E., Maniscalco, B., Rothwell, J. C., Passingham, R. E., & Lau, H. (2010). Theta-burst transcranial magnetic stimulation to the prefrontal cortex impairs metacognitive visual awareness. *Cognitive Neuroscience*, 1(3), 165–175.
+
 Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533–536.
+
 Saalmann, Y. B., Pinsk, M. A., Wang, L., Li, X., & Kastner, S. (2012). The pulvinar regulates information transmission between cortical areas based on attention demands. *Science*, 337(6095), 753–756.
+
 Sagan, L. [Margulis] (1967). On the origin of mitosing cells. *Journal of Theoretical Biology*, 14(3), 225–274.
+
 Saigusa, T., Tero, A., Nakagaki, T., & Kuramoto, Y. (2008). Amoebae anticipate periodic events. *Physical Review Letters*, 100(1), 018101. *(Подтверждено перекрёстным цитированием в нескольких первичных источниках, не прямым запросом — см. преамбулу.)*
+
 Saini, F., Ponzo, S., Silvestrin, F., Fotopoulou, A., & David, A. S. (2022). Depersonalization disorder as a systematic downregulation of interoceptive signals. *Scientific Reports*, 12, 22123.
+
 Sakurai, T., Amemiya, A., Ishii, M., Matsuzaki, I., Chemelli, R. M., Tanaka, H., et al. (1998). Orexins and orexin receptors: a family of hypothalamic neuropeptides and G protein-coupled receptors that regulate feeding behavior. *Cell*, 92(4), 573–585.
+
 Sanders, R. D., Tononi, G., Laureys, S., & Sleigh, J. W. (2012). Unresponsiveness ≠ unconsciousness. *Anesthesiology*, 116(4), 946–959.
+
 Saper, C. B., Fuller, P. M., Pedersen, N. P., Lu, J., & Scammell, T. E. (2010). Sleep state switching. *Neuron*, 68(6), 1023–1042.
+
 Schartner, M. M., Carhart-Harris, R. L., Barrett, A. B., Seth, A. K., & Muthukumaraswamy, S. D. (2017). Increased spontaneous MEG signal diversity for psychoactive doses of ketamine, LSD and psilocybin. *Scientific Reports*, 7, 46421.
+
 Schick, L., Eichenlaub, E., Drexel, F., Mayer, A., Chen, S., Roper, M., & Alim, K. (2025). Decision-making in light-trapped slime molds involves active mechanical processes. arXiv:2506.12803 (принято к печати в *PRX Life*, 2026).
+
 Schiff, N. D. (2010). Recovery of consciousness after brain injury: a mesocircuit hypothesis. *Trends in Neurosciences*, 33(1), 1–9.
+
 Schiff, N. D. (2015). Cognitive motor dissociation following severe brain injuries. *JAMA Neurology*, 72(12), 1413–1415.
+
 Schnakers, C., Vanhaudenhuyse, A., Giacino, J., et al. (2009). Diagnostic accuracy of the vegetative and minimally conscious state: clinical consensus versus standardized neurobehavioral assessment. *BMC Neurology*, 9, 35.
+
 Schrödinger, E. (1944). *What Is Life? The Physical Aspect of the Living Cell*. Cambridge University Press.
+
 Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904–E2913.
+
 Schwitzgebel, E. (2023). AI systems must not confuse users about their sentience or moral status. *Patterns*, 4(8), 100818.
+
 Scott, M., Yeung, H. H., Gick, B., & Werker, J. F. (2013). Inner speech captures the perception of external speech. *The Journal of the Acoustical Society of America*, 133(4), EL286–EL292.
+
 Searle, J. R. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417–457.
+
 Sebo, J., & Long, R. (2023). Moral consideration for AI systems by 2030. *AI and Ethics*, 5, 591–606.
+
 Sergent, C., Corazzol, M., Labouret, G., Stockart, F., Wexler, M., King, J.-R., Meyniel, F., & Pressnitzer, D. (2021). Bifurcation in brain dynamics reveals a signature of conscious processing independent of report. *Nature Communications*, 12(1), 1149.
+
 Seth, A. K. (2013). Interoceptive inference, emotion, and the embodied self. *Trends in Cognitive Sciences*, 17(11), 565–573.
+
 Seth, A. K. (2016). The Real Problem. *Aeon* (15 November 2016).
+
 Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Faber & Faber / Dutton.
+
 Seth, A. K., & Bayne, T. (2022). Theories of consciousness. *Nature Reviews Neuroscience*, 23(7), 439–452.
+
 Seth, A. K., & Friston, K. J. (2016). Active interoceptive inference and the emotional brain. *Philosophical Transactions of the Royal Society B*, 371(1708), 20160007.
+
 Shadlen, M. N., & Movshon, J. A. (1999). Synchrony unbound: a critical evaluation of the temporal binding hypothesis. *Neuron*, 24(1), 67–77.
+
 Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379–423.
+
 Siclari, F., Baird, B., Perogamvros, L., et al. (2017). The neural correlates of dreaming. *Nature Neuroscience*, 20(6), 872–878.
+
 Sierra, M., & David, A. S. (2011). Depersonalization: A selective impairment of self-awareness. *Consciousness and Cognition*, 20(1), 99–108.
+
 Sievers, D., & von Kiedrowski, G. (1994). Self-replication of complementary nucleotide-based oligomers. *Nature*, 369, 221–224.
+
 Simons, D. J., & Chabris, C. F. (1999). Gorillas in our midst: sustained inattentional blindness for dynamic events. *Perception*, 28(9), 1059–1074.
+
 Singer, W. (2001). Consciousness and the binding problem. *Annals of the New York Academy of Sciences*, 929(1), 123–146.
+
 Sitt, J. D., King, J.-R., El Karoui, I., Rohaut, B., Faugeras, F., Gramfort, A., Cohen, L., Sigman, M., Dehaene, S., & Naccache, L. (2014). Large scale screening of neural signatures of consciousness in patients in a vegetative or minimally conscious state. *Brain*, 137(8), 2258–2270.
+
 Smolensky, P. (1990). Tensor product variable binding and the representation of symbolic structures in connectionist systems. *Artificial Intelligence*, 46(1–2), 159–216.
+
 Sofroniew, N., Kauvar, I., Saunders, W., Chen, R., Henighan, T., Hydrie, S., Citro, C., Pearce, A., Tarng, J., Gurnee, W., Batson, J., Zimmerman, S., Rivoire, K., Fish, K., Olah, C., & Lindsey, J. (2026). Emotion concepts and their function in a large language model. *arXiv:2604.07729*.
+
 Solms, M. (2021). *The Hidden Spring: A Journey to the Source of Consciousness*. W. W. Norton.
+
 Solé, R., & Pla-Mauri, J. (2025). Cognition as least action: the Physarum Lagrangian. arXiv:2511.08531.
+
 Soon, C. S., Brass, M., Heinze, H.-J., & Haynes, J.-D. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience*, 11(5), 543–545.
+
 Sourjik, V., & Wingreen, N. S. (2012). Responding to chemical gradients: bacterial chemotaxis. *Current Opinion in Cell Biology*, 24(2), 262–268.
+
 Sperling, G. (1960). The information available in brief visual presentations. *Psychological Monographs: General and Applied*, 74(11), 1–29.
+
 Sperry, R. W. (1950). Neural basis of the spontaneous optokinetic response produced by visual inversion. *Journal of Comparative and Physiological Psychology*, 43(6), 482–489.
+
 Sperry, R. W. (1969). A modified concept of consciousness. *Psychological Review*, 76(6), 532–536.
+
 Sporns, O. (2011). *Networks of the Brain*. MIT Press.
+
 Springer, M. S., Goy, M. F., & Adler, J. (1979). Protein methylation in behavioural control mechanisms and in signal transduction. *Nature*, 280, 279–284.
+
 Storm, J. F., Klink, P. C., Aru, J., Senn, W., Goebel, R., Pigorini, A., Avanzini, P., Vanduffel, W., Roelfsema, P. R., Massimini, M., Larkum, M. E., & Pennartz, C. M. A. (2024). An integrative, multiscale view on neural theories of consciousness. *Neuron*, 112(10), 1531–1552.
+
 Strawson, G. (2006). Consciousness and its place in nature: does physicalism entail panpsychism? *Journal of Consciousness Studies*, 13(10–11), 3–31.
+
 Sudo, N., Chida, Y., Aiba, Y., Sonoda, J., Oyama, N., Yu, X.-N., Kubo, C., & Koga, Y. (2004). Postnatal microbial colonization programs the hypothalamic-pituitary-adrenal system for stress response in mice. *Journal of Physiology*, 558(1), 263–275.
+
 Suzuki, M., & Larkum, M. E. (2020). General anesthesia decouples cortical pyramidal neurons. *Cell*, 180(4), 666–676.
+
 Südhof, T. C. (2008). Neuroligins and neurexins link synaptic function to cognitive disease. *Nature*, 455(7215), 903–911.
+
 Takahashi, K., Pontes Quero, S., Fiorilli, J., Benedetti, D., Yuste, R., Friston, K. J., Tononi, G., Pennartz, C. M. A., & Olcese, U. (2025). Testing the role of spontaneous activity in visuospatial perception with patterned optogenetics. *PLOS ONE*, 20(2), e0318863.
+
 Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206.
+
 Tero, A., Takagi, S., Saigusa, T., Ito, K., Bebber, D. P., Fricker, M. D., Yumiki, K., Kobayashi, R., & Nakagaki, T. (2010). Rules for biologically inspired adaptive network design. *Science*, 327(5964), 439–442.
+
 Thannickal, T. C., Moore, R. Y., Nienhuis, R., Ramanathan, L., Gulyani, S., Aldrich, M., Cornford, M., & Siegel, J. M. (2000). Reduced number of hypocretin neurons in human narcolepsy. *Neuron*, 27(3), 469–474.
+
 Tognoli, E., & Kelso, J. A. S. (2014). The metastable brain. *Neuron*, 81(1), 35–48.
+
 Toker, D., Pappas, I., Lendner, J. D., Frohlich, J., et al. (2022). Consciousness is supported by near-critical slow cortical electrodynamics. *Proceedings of the National Academy of Sciences*, 119(7), e2024455119.
+
 Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5, 42.
+
 Tononi, G. (2014). Why Scott should stare at a blank wall and reconsider (or, the conscious grid). Ответ, опубликованный в блоге С. Ааронсона *Shtetl-Optimized* (30 мая 2014 г.).
+
 Tononi, G., & Koch, C. (2015). Consciousness: here, there and everywhere? *Philosophical Transactions of the Royal Society B*, 370(1668), 20140167.
+
 Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information theory: from consciousness to its physical substrate. *Nature Reviews Neuroscience*, 17(7), 450–461.
+
 Treisman, A., & Gelade, G. (1980). A feature-integration theory of attention. *Cognitive Psychology*, 12(1), 97–136.
+
 Tsuchiya, N., & Saigo, H. (2021). A relational approach to consciousness: categories of level and contents of consciousness. *Neuroscience of Consciousness*, 2021(2), niab034.
+
 Tsuchiya, N., Andrillon, T., & Haun, A. (2019). A reply to «the unfolding argument»: Beyond functionalism/behaviorism and towards a truer science of causal structural theories of consciousness. *PsyArXiv preprint*.
+
 Tsuchiya, N., Wilke, M., Frässle, S., & Lamme, V. A. F. (2015). No-report paradigms: extracting the true neural correlates of consciousness. *Trends in Cognitive Sciences*, 19(12), 757–770.
+
 Turing, A. M. (1950). Computing machinery and intelligence. *Mind*, 59(236), 433–460.
+
 Turing, A. M. (1952). The chemical basis of morphogenesis. *Philosophical Transactions of the Royal Society of London B*, 237(641), 37–72.
+
 Turner, E., & Schneider, S. (2018). Testing for synthetic consciousness: The ACT, the chip test, the unintegrated chip test, and the extended chip test. *CEUR Workshop Proceedings*, 2287.
+
 Udell, D. B., & Schwitzgebel, E. (2021). Susan Schneider's proposed tests for AI consciousness: Promising but flawed. *Journal of Consciousness Studies*, 28(5–6), 121–144.
+
 VanRullen, R., & Kanai, R. (2021). Deep learning and the Global Workspace Theory. *Trends in Neurosciences*, 44(9), 692–704.
+
 Varela, F. J. (1996). Neurophenomenology: a methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330–349.
+
 Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
+
 Vasas, V., Fernando, C., Santos, M., Kauffman, S., & Szathmáry, E. (2012). Evolution before genes. *Biology Direct*, 7, 1.
+
 Vasas, V., Szathmáry, E., & Santos, M. (2010). Lack of evolvability in self-sustaining autocatalytic networks constraints metabolism-first scenarios for the origin of life. *Proceedings of the National Academy of Sciences*, 107(4), 1470–1475.
+
 Vogel, D., & Dussutour, A. (2016). Direct transfer of learned behaviour via cell fusion in non-neural organisms. *Proceedings of the Royal Society B*, 283(1845), 20162382.
+
 von der Malsburg, C. (1999). The what and why of binding: the modeler's perspective. *Neuron*, 24(1), 95–104.
+
 von Holst, E., & Mittelstaedt, H. (1950). Das Reafferenzprinzip. *Naturwissenschaften*, 37, 464–476.
+
 Voss, U., Holzmann, R., Hobson, A., et al. (2014). Induction of self awareness in dreams through frontal low current stimulation of gamma activity. *Nature Neuroscience*, 17(6), 810–812.
+
 Vuilleumier, P. (2004). Anosognosia: the neurology of beliefs and uncertainties. *Cortex*, 40(1), 9–17.
+
 Vygotsky, L. S. (1986). *Thought and Language* (A. Kozulin, Ed. & Trans.). MIT Press. (Оригинальная публикация — 1934.)
+
 Wadhams, G. H., & Armitage, J. P. (2004). Making sense of it all: bacterial chemotaxis. *Nature Reviews Molecular Cell Biology*, 5(12), 1024–1037.
+
 Wager, T. D., Rilling, J. K., Smith, E. E., Sokolik, A., Casey, K. L., Davidson, R. J., Kosslyn, S. M., Rose, R. M., & Cohen, J. D. (2004). Placebo-induced changes in fMRI in the anticipation and experience of pain. *Science*, 303(5661), 1162–1167.
+
 Ward, J. (2013). Synesthesia. *Annual Review of Psychology*, 64, 49–75.
+
 Warren, W. S. (2023). Comment on: "Experimental indications of non-classical brain function" (2022 Journal of Physics Communications 6 105001). *Journal of Physics Communications*, 7(3), 038001.
+
 Waters, C. M., & Bassler, B. L. (2005). Quorum sensing: cell-to-cell communication in bacteria. *Annual Review of Cell and Developmental Biology*, 21, 319–346.
+
 Watson, J. B. (1913). Psychology as the behaviorist views it. *Psychological Review*, 20(2), 158–177.
+
 Webb, T. W., & Graziano, M. S. A. (2015). The attention schema theory: a mechanistic account of subjective awareness. *Frontiers in Psychology*, 6, 500.
+
 Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Clarendon Press.
+
 Weiskrantz, L., Warrington, E. K., Sanders, M. D., & Marshall, J. (1974). Visual capacity in the hemianopic field following a restricted occipital ablation. *Brain*, 97(4), 709–728.
+
 Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
+
 Windt, J. M. (2015). Just in time — dreamless sleep experience as pure subjective temporality. In T. Metzinger & J. M. Windt (Eds.), *Open MIND*. MIND Group.
+
 Xie, L., Kang, H., Xu, Q., Chen, M. J., Liao, Y., Thiyagarajan, M., O'Donnell, J., Christensen, D. J., Nicholson, C., Iliff, J. J., Takano, T., Deane, R., & Nedergaard, M. (2013). Sleep drives metabolite clearance from the adult brain. *Science*, 342(6156), 373–377.
+
 Yamins, D. L. K., & DiCarlo, J. J. (2016). Using goal-driven deep learning models to understand sensory cortex. *Nature Neuroscience*, 19(3), 356–365.
+
 Yaron, I., Melloni, L., Pitts, M., & Mudrik, L. (2022). The ConTraSt database for analysing and comparing empirical studies of consciousness theories. *Nature Human Behaviour*, 6(4), 593–604.
+
 Zeman, A. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*, 28(5), 467–480.
+
 Zeman, A., Dewar, M., & Della Sala, S. (2015). Lives without imagery — congenital aphantasia. *Cortex*, 73, 378–380.
+
 Zhabotinsky, A. M. (1964). Periodical process of oxidation of malonic acid solution (a study of the Belousov reaction kinetics). *Biofizika*, 9, 306–311.
+
 Zubieta, J.-K., Bueller, J. A., Jackson, L. R., Scott, D. J., Xu, Y., Koeppe, R. A., Nichols, T. E., & Stohler, C. S. (2005). Placebo effects mediated by endogenous opioid activity on μ-opioid receptors. *Journal of Neuroscience*, 25(34), 7754–7762.
 
 ---
